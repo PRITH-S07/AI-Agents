@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-readers-file
+transformers
+torch
+accelerate
+optimum[onnxruntime,gptq]
+auto-gptq
+bitsandbytes
+pymupdf

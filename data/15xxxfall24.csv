@@ -1,0 +1,369 @@
+Course,Course Title,Units,Sec,Bldg/Room,Days,Begin,Teaching Location,End,Delivery Mode,Instructor,
+15050,Study Abroad,0,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,Remote only,"Cortina, Thomas",
+15090,Computer Science Practicum,3,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,Remote only,"Stehlik, Mark",
+15104,Introduction to Computing for Creative Practice,10,Lec 1,HH B131,MWF,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Cortina, Thomas",
+,,,A,GHC 5210,T,08:00AM,"Pittsburgh, Pennsylvania",09:20AM,In-person Expectation,"Cortina, Thomas",
+,,,B,GHC 5210,T,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Cortina, Thomas",
+,,,C,GHC 5210,T,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Cortina, Thomas",
+,,,E,GHC 5210,T,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person Expectation,"Cortina, Thomas",
+15110,Principles of Computing,10,Lec 1,HOA 160,MWF,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,A,GHC 5208,R,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,B,GHC 5208,R,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,C,GHC 5208,R,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,D,GHC 5208,R,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,E,GHC 5208,R,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,F,GHC 5208,R,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,G,GHC 5208,R,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,H,GHC 5208,R,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,Lec 2,HOA 160,MWF,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Taylor, Michael","Ware, Ranysha"
+,,,I,GHC 5210,R,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,J,GHC 5210,R,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,K,GHC 5210,R,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,L,GHC 5210,R,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,M,GHC 5210,R,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,N,GHC 5210,R,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,O,GHC 5210,R,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,P,GHC 5210,R,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Ware, Ranysha","Taylor, Michael"
+,,,Lec 3,CMB 2152,MW,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Di Caro, Gianni",
+,,,W,CMB 1185,R,11:30AM,"Doha, Qatar",12:45PM,In-person Expectation,"Di Caro, Gianni",
+15112,Fundamentals of Programming and Computer Science,12,Lec 1,CUC MCCNMY,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kosbie, David",
+,,,A,WEH 4625,W,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Kosbie, David",
+,,,B,PH A18B,W,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kosbie, David",
+,,,C,BH 235A,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Kosbie, David",
+,,,D,WEH 5302,W,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Kosbie, David",
+,,,E,WEH 5302,W,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kosbie, David",
+,,,F,GHC 4211,W,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Kosbie, David",
+,,,G,DH 1112,W,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Kosbie, David",
+,,,H,WEH 5409,W,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kosbie, David",
+,,,I,WEH 4625,W,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Kosbie, David",
+,,,J,WEH 5302,W,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Kosbie, David",
+,,,K,WEH 4625,W,08:00PM,"Pittsburgh, Pennsylvania",08:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,08:00PM,"Pittsburgh, Pennsylvania",08:50PM,In-person Expectation,"Kosbie, David",
+,,,L,WEH 4623,W,08:00PM,"Pittsburgh, Pennsylvania",08:50PM,In-person Expectation,"Kosbie, David",
+,,,,GHC CLSTR,F,08:00PM,"Pittsburgh, Pennsylvania",08:50PM,In-person Expectation,"Kosbie, David",
+,,,Lec 2,DH 2210,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Schick, Austin",
+,,,M,PH A22,W,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Schick, Austin",
+,,,N,WEH 5312,W,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Schick, Austin",
+,,,O,WEH 5320,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Schick, Austin",
+,,,P,WEH 5310,W,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Schick, Austin",
+,,,Q,WEH 5310,W,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Schick, Austin",
+,,,S,WEH 5302,W,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Schick, Austin",
+,,,T,GHC 4211,W,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Schick, Austin",
+,,,U,GHC 4301,W,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Schick, Austin",
+,,,,GHC CLSTR,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Schick, Austin",
+,,,W,CMB 3069,UTR,02:30PM,"Doha, Qatar",03:45PM,In-person Expectation,"Riley, Ryan",
+15121,Introduction to Data Structures,10,Lec 1,BH A36,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Xhakaj, Franceska",
+,,,A,WEH 5310,W,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Xhakaj, Franceska",
+,,,B,WEH 5310,W,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Xhakaj, Franceska",
+,,,C,WEH 5310,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Xhakaj, Franceska",
+,,,Lec 2,CMB 2152,UT,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Riley, Ryan",
+,,,W,CMB 2152,R,08:45AM,"Doha, Qatar",09:35AM,In-person Expectation,"Riley, Ryan",
+15122,Principles of Imperative Computation,12,Lec 1,DH 2210,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Cervesato, Iliano","Kohlbrenner, Anne"
+,,,,DH 2210,T,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person Expectation,"Cervesato, Iliano","Kohlbrenner, Anne"
+,,,A,WEH 4625,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,B,PH A18B,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,C,POS A35,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,D,GHC 4301,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,E,GHC 4301,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,F,PH A18C,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,G,PH A18C,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,H,PH A18A,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,I,PH A18B,F,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Cervesato, Iliano","Kohlbrenner, Anne"
+,,,S,GHC 5222,F,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Cervesato, Iliano","Kohlbrenner, Anne"
+,,,,GHC 4301,F,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Cervesato, Iliano","Kohlbrenner, Anne"
+,,,,PH A18B,F,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,Lec 2,DH 2315,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,,DH 2315,T,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,J,GHC 4301,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,K,BH 235B,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,L,BH 235A,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,M,POS 146,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,N,WEH 4625,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,O,WEH 4625,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,P,PH A18B,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+,,,Q,GHC 4211,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kohlbrenner, Anne","Cervesato, Iliano"
+15150,Principles of Functional Programming,12,Lec 1,PH 100,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,A,GHC 5208,W,08:00AM,"Pittsburgh, Pennsylvania",09:20AM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,B,GHC 5208,W,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,C,GHC 5208,W,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,D,GHC 5208,W,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,E,GHC 5208,W,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,F,GHC 5208,W,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,G,GHC 5210,W,08:00AM,"Pittsburgh, Pennsylvania",09:20AM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,H,GHC 5210,W,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,I,GHC 5210,W,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,J,GHC 5210,W,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,K,GHC 5210,W,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,L,GHC 5210,W,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kaynar, Zeliha Dilsun","Balzer, Stephanie"
+,,,Lec 3,CMB 2147,UT,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Reis, Giselle",
+,,,W,CMB 2147,R,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Reis, Giselle",
+15151,Mathematical Foundations for Computer Science,12,Lec 1,GHC 4401,MWF,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Mackey, John",
+,,,A,WEH 5310,TR,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Mackey, John",
+,,,B,WEH 5320,TR,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Mackey, John",
+,,,C,GHC 4102,TR,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Mackey, John",
+,,,D,WEH 5312,TR,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Mackey, John",
+,,,E,WEH 5310,TR,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Mackey, John",
+,,,F,WEH 5320,TR,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Mackey, John",
+,,,G,PH 225B,TR,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Mackey, John",
+,,,H,PH 226B,TR,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Mackey, John",
+,,,I,WEH 5312,TR,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Mackey, John",
+15195,Competition Programming I,5,A,POS 151,W,07:00PM,"Pittsburgh, Pennsylvania",09:50PM,In-person Expectation,"Sleator, Danny",
+15210,Parallel and Sequential Data Structures and Algorithms,12,Lec 1,GHC 4401,MWF,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,A,WEH 6403,T,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,B,WEH 4708,T,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,C,WEH 6403,T,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,D,PH 225B,T,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,E,PH A18A,T,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,F,PH 225B,T,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,G,DH 1117,T,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,H,WEH 8427,T,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,I,DH 1117,T,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Blelloch, Guy","Garrod, Charles"
+,,,J,WEH 4708,T,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Garrod, Charles","Blelloch, Guy"
+,,,Lec 2,DNM,MWF,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,Remote only,"Garrod, Charles","Blelloch, Guy"
+,,,K,BH 237B,T,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Garrod, Charles","Blelloch, Guy"
+,,,L,WEH 5421,T,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Garrod, Charles","Blelloch, Guy"
+15213,Introduction to Computer Systems,12,Lec 1,GHC 4401,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,A,CFA 102,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,B,POS 147,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Gibbons, Phillip","Railing, Brian"
+,,,C,WEH 5328,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,D,CFA 102,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,E,WEH 5328,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,F,DH 2105,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,G,WEH 5328,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,H,PH 125B,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,I,WEH 5328,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,J,POS 147,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,K,CFA 102,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+,,,Lec 3,CMB 2052,MW,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Harras, Khaled",
+,,,W,CMB 2052,R,04:00PM,"Doha, Qatar",04:50PM,In-person Expectation,"Harras, Khaled",
+15251,Great Ideas in Theoretical Computer Science,12,Lec 1,GHC 4401,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Ada, Anil",
+,,,,TBA,W,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person Expectation,"Ada, Anil",
+,,,A,PH A19C,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Ada, Anil",
+,,,B,NSH 3002,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Ada, Anil",
+,,,C,GHC 4101,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Ada, Anil",
+,,,D,PH 125D,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Ada, Anil",
+,,,E,WEH 4707,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Ada, Anil",
+,,,F,WEH 5304,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Ada, Anil",
+,,,G,PH A20,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Ada, Anil",
+,,,H,PH A19D,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Ada, Anil",
+,,,I,PH A19C,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Ada, Anil",
+,,,J,PH A19D,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Ada, Anil",
+,,,K,DH 2122,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Ada, Anil",
+,,,L,DH 1117,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Ada, Anil",
+,,,M,WEH 5304,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Ada, Anil",
+,,,N,PH A19D,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Ada, Anil",
+,,,O,PH A19D,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Ada, Anil",
+,,,P,PH A19C,F,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Ada, Anil",
+15252,More Great Ideas in Theoretical Computer Science,5,A,GHC 4303,T,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person Expectation,"Sutner, Klaus",
+15259,Probability and Computing,12,Lec 1,TEP 1403,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,A,GHC 5222,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,B,GHC 5222,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,C,GHC 4102,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,D,BH 255A,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,,DNM,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,,DNM,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+15281,Artificial Intelligence: Representation and Problem Solving,12,Lec 1,TEP 1403,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Virtue, Patrick",
+,,,A,DH 1211,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Virtue, Patrick",
+,,,B,WEH 5312,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Virtue, Patrick",
+,,,C,BH 235B,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Virtue, Patrick",
+,,,D,BH 235B,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Virtue, Patrick",
+,,,E,POS 145,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Virtue, Patrick",
+,,,F,GHC 4301,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Virtue, Patrick",
+,,,Lec 2,CMB 1190,UT,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Di Caro, Gianni",
+,,,W,CMB 1031,T,02:30PM,"Doha, Qatar",03:45PM,In-person Expectation,"Di Caro, Gianni",
+15282,Artificial Intelligence for Medicine,10,Lec 1,CMB 3046,MW,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Hammoud, Mohammad",
+,,,W,CMB 3046,R,04:00PM,"Doha, Qatar",04:50PM,In-person Expectation,"Hammoud, Mohammad",
+15294,Special Topic: Rapid Prototyping Technologies,5,A1,HL 106B,MW,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person only,"Touretzky, David",
+15295,Competition Programming II,5,A,POS 151,W,07:00PM,"Pittsburgh, Pennsylvania",09:50PM,In-person Expectation,"Sleator, Danny",
+15312,Foundations of Programming Languages,12,Lec 1,GHC 4307,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harper, Robert",
+,,,A,PH 226C,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Harper, Robert",
+,,,B,WEH 5312,W,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Harper, Robert",
+,,,C,PH A19A,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Harper, Robert",
+15316,Software Foundations of Security and Privacy,9,A,PH 100,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Pfenning, Frank",
+15317,Constructive Logic,9,Lec 1,HH B131,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Crary, Karl",
+,,,A,DH 2122,T,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Crary, Karl",
+,,,B,POS 147,T,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Crary, Karl",
+,,,C,GHC 4211,T,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Crary, Karl",
+,,,D,WEH 4707,T,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Crary, Karl",
+,,,Lec 2,CMB 2147,MW,10:00AM,"Doha, Qatar",11:15AM,In-person Expectation,"Reis, Giselle",
+,,,W,CMB 2147,R,10:00AM,"Doha, Qatar",11:15AM,In-person Expectation,"Reis, Giselle",
+15319,Cloud Computing,12,A,CMU REMOTE,T,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,Remote only,"Sakr, Majd","Goldstein, Seth"
+,,,B,CMU REMOTE,R,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,Remote only,"Sakr, Majd","Goldstein, Seth"
+15326,Computational Microeconomics,9,A,WEH 5312,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Conitzer, Vincent",
+15327,Monte Carlo Methods and Applications,9,A,SH 105,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Crane, Keenan","Iyer, Gautam"
+15330,Introduction to Computer Security,12,A,DH 2210,MWF,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Parno, Bryan","Wahby, Riad"
+15346,Computer Architecture: Design and Simulation,12,Lec 1,DH 2105,TR,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Railing, Brian",
+,,,A,DH 2105,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Railing, Brian",
+15351,Algorithms and Advanced Data Structures,12,Lec 1,POS A35,MWF,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Yu, Yun",
+,,,B,DH 2302,R,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Yu, Yun",
+,,,C,POS 145,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Yu, Yun",
+15354,Computational Discrete Mathematics,12,A,PH A19,TR,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Sutner, Klaus",
+15356,Introduction to Cryptography,12,A,GHC 4303,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Jain, Aayush",
+15359,Probability & Computing: Randomized Algs and Markov Chains,12,Lec 1,HOA 160,TR,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Wang, Weina","Peng, Yang"
+,,,,WEH 5320,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Peng, Yang","Wang, Weina"
+,,,B,PH A18C,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+15362,Computer Graphics,12,Lec 1,DH 1212,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,A,SH 234,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,B,GHC 4102,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,C,PH 226C,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Dadfar, Oscar",
+15387,Computational Perception,9,A,WEH 4708,MW,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Lee, Tai-Sing",
+15394,Intermediate Rapid Prototyping,5,A2,HL 106B,MW,07:00PM,"Pittsburgh, Pennsylvania",08:20PM,In-person only,"Touretzky, David",
+15410,Operating System Design and Implementation,15,A,GHC 4307,MWF,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Eckhardt, David",
+15412,Operating System Practicum,"9,12",A,WEH 5207,MWF,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Eckhardt, David",
+15418,Parallel Computer Architecture and Programming,12,A,SH 105,MWF,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Skarlatos, Dimitrios","Jia, Zhihao"
+15435,Foundations of Blockchains,12,A,TEP 1403,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Shi, Runting",
+15440,Distributed Systems,12,Lec 1,CUC MCCNMY,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Zheng, Wenting","Miller, Heather"
+,,,A,MM A14,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,B,HH B103,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Zheng, Wenting","Miller, Heather"
+,,,C,POS 153,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,D,POS 153,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,E,HH B131,F,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,Lec 3,CMB 1202,UT,10:00AM,"Doha, Qatar",11:15AM,In-person Expectation,"Hammoud, Mohammad","Gedawy, Hend"
+,,,W,CMB 1202,R,08:45AM,"Doha, Qatar",09:35AM,In-person Expectation,"Hammoud, Mohammad","Gedawy, Hend"
+15441,Networking and the Internet,12,Lec 1,SH 105,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Steenkiste, Peter",
+,,,A,HOA 160,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Steenkiste, Peter",
+,,,B,PH A18B,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Steenkiste, Peter",
+,,,C,POS 153,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Steenkiste, Peter",
+15445,Database Systems,12,A,TEP 1403,MW,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Pavlo, Andrew",
+,,,,DNM,MW,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,Remote only,"Pavlo, Andrew",
+,,,,DNM,MW,10:00AM,"Pittsburgh, Pennsylvania",11:20AM,Remote only,"Pavlo, Andrew","Patel, Jignesh"
+15451,Algorithm Design and Analysis,12,Lec 1,PH 100,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,A,BH A53,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,B,PH 226B,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Anderson, Daniel","Li, Jason"
+,,,C,PH 226B,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,D,PH 225B,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,E,DH 1117,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,F,CFA 102,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Anderson, Daniel","Li, Jason"
+,,,G,CFA 102,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Anderson, Daniel","Li, Jason"
+,,,H,DH 1117,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,Lec 2,CMB 1199,MW,02:30PM,"Doha, Qatar",03:45PM,In-person Expectation,"Kapoutsis, Christos",
+,,,W,CMB 1030,UR,02:30PM,"Doha, Qatar",03:20PM,In-person Expectation,"Kapoutsis, Christos",
+15455,Undergraduate Complexity Theory,9,W,CMB 2051,MW,08:30AM,"Doha, Qatar",09:45AM,In-person Expectation,"Kapoutsis, Christos",
+15459,Undergraduate Quantum Computation : Quantum Computation,9,A,BH A36,TR,08:00AM,"Pittsburgh, Pennsylvania",09:20AM,In-person Expectation,"O'Donnell, Ryan",
+15463,Computational Photography,12,A,GHC 4303,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Gkioulekas, Ioannis",
+15466,Computer Game Programming,12,A,PH 125B,TR,03:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"McCann, James",
+15472,Real-Time Graphics,12,A,PH A18C,MWF,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"McCann, James",
+15473,Visual Computing Systems,12,A,PH 226B,TR,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Dadfar, Oscar",
+15482,Autonomous Agents,12,A,WEH 5421,MW,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Simmons, Reid",
+15495,Topics of Algorithmic Problem Solving,12,A,PH 126A,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Peng, Yang",
+15513,Introduction to Computer Systems,12,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Railing, Brian","Gibbons, Phillip"
+15559,Probability and Computing,18-Mar,Lec 1,TEP 1403,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,A,GHC 5222,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Saad, Feras","Harchol-Balter, Mor"
+,,,B,GHC 5222,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Saad, Feras","Harchol-Balter, Mor"
+,,,C,GHC 4102,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+,,,D,BH 255A,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Saad, Feras","Harchol-Balter, Mor"
+,,,,DNM,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Saad, Feras","Harchol-Balter, Mor"
+,,,,MI 355,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Harchol-Balter, Mor","Saad, Feras"
+15591,Independent Study in Computer Science,18-Mar,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Stehlik, Mark",
+,,,W,TBA,TBA,TBA,"Doha, Qatar",DNM,In-person Expectation,"Reis, Giselle","Riley, Ryan"
+15592,Independent Study in Computer Science,18-Mar,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Stehlik, Mark",
+15593,Independent Study in Computer Science,18-Mar,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Stehlik, Mark",
+15604,Immigration Course,3,A,TEP 1403,M,07:00PM,"Pittsburgh, Pennsylvania",07:50PM,In-person Expectation,"Eckhardt, David","Martins, Ruben"
+15605,Operating System Design and Implementation,15,A,GHC 4307,MWF,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Eckhardt, David",
+15612,Operating System Practicum,"9,12",A,WEH 5207,MWF,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Eckhardt, David",
+15618,Parallel Computer Architecture and Programming,12,A,SH 105,MWF,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Skarlatos, Dimitrios","Jia, Zhihao"
+15619,Cloud Computing,15,A,DNM,T,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,Remote only,"Sakr, Majd","Goldstein, Seth"
+,,,B,DNM,R,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,Remote only,"Sakr, Majd","Goldstein, Seth"
+,,,E,TBA,R,01:00PM,"San Jose, California",01:50PM,Remote only,"Sakr, Majd","Goldstein, Seth"
+15627,Monte Carlo Methods and Applications,9,A,SH 105,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Crane, Keenan","Iyer, Gautam"
+15635,Foundations of Blockchains,12,A,TEP 1403,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Shi, Runting",
+15639,Independent Study in Computer Science Pedagogy,18-Mar,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Eckhardt, David","O'Hallaron, David"
+15640,Distributed Systems,12,Lec 1,CUC MCCNMY,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,A,MM A14,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,B,HH B103,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,C,POS 153,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Miller, Heather","Zheng, Wenting"
+,,,D,POS 153,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Zheng, Wenting","Miller, Heather"
+,,,E,HH B131,F,08:00AM,"Pittsburgh, Pennsylvania",08:50AM,In-person Expectation,"Zheng, Wenting","Miller, Heather"
+15641,Networking and the Internet,12,Lec 1,SH 105,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Steenkiste, Peter",
+,,,A,HOA 160,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Steenkiste, Peter",
+,,,B,PH A18B,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Steenkiste, Peter",
+,,,C,POS 153,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Steenkiste, Peter",
+15645,Database Systems,12,A,TEP 1403,MW,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Pavlo, Andrew",
+15650,Algorithms & Advanced Data Structures,12,Lec 1,POS A35,MWF,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Yu, Yun",
+,,,A,GHC 4307,W,05:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Yu, Yun",
+15651,Algorithm Design and Analysis,12,Lec 1,PH 100,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Anderson, Daniel","Li, Jason"
+,,,A,BH A53,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,B,PH 226B,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,C,PH 226B,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,D,PH 225B,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,E,DH 1117,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,F,CFA 102,F,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,G,CFA 102,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Li, Jason","Anderson, Daniel"
+,,,H,DH 1117,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Anderson, Daniel","Li, Jason"
+15652,Foundations of Programming Languages,12,Lec 1,GHC 4307,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Harper, Robert",
+,,,A,PH 226C,W,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Harper, Robert",
+,,,B,WEH 5312,W,04:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Harper, Robert",
+15657,Constructive Logic,9,Lec 1,HH B131,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Crary, Karl",
+,,,A,DH 2122,T,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Crary, Karl",
+,,,B,POS 147,T,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Crary, Karl",
+,,,C,GHC 4211,T,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Crary, Karl",
+,,,D,WEH 4707,T,12:00PM,"Pittsburgh, Pennsylvania",12:50PM,In-person Expectation,"Crary, Karl",
+15659,Probability & Computing: Randomized Algs and Markov Chains,12,Lec 1,HOA 160,TR,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+,,,,WEH 5320,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Wang, Weina","Peng, Yang"
+,,,B,PH A18C,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+,,,,PH 125D,F,01:00PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+,,,,BH 255A,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+,,,,TBD TBD,F,02:00PM,"Pittsburgh, Pennsylvania",02:50PM,In-person Expectation,"Wang, Weina","Peng, Yang"
+,,,,MI 355,F,03:00PM,"Pittsburgh, Pennsylvania",03:50PM,In-person Expectation,"Peng, Yang","Wang, Weina"
+15662,Computer Graphics,12,Lec 1,DH 1212,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,A,SH 234,F,09:00AM,"Pittsburgh, Pennsylvania",09:50AM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,B,GHC 4301,F,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+,,,C,WEH 6403,F,11:00AM,"Pittsburgh, Pennsylvania",11:50AM,In-person Expectation,"Dadfar, Oscar","Li, Minchen"
+15663,Computational Photography,12,A,GHC 4303,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Gkioulekas, Ioannis",
+15666,Computer Game Programming,12,A,PH 125B,TR,03:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"McCann, James",
+15672,Real-Time Graphics,12,A,PH A18C,MWF,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"McCann, James",
+15673,Visual Computing Systems,12,A,PH 226B,TR,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Dadfar, Oscar",
+15689,Independent Study in the Computer Sciences,12-Mar,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Eckhardt, David","O'Hallaron, David"
+15697,Graduate Reading and Research,Jan-48,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,In-person Expectation,"Farbacher, Tracy",
+,,,B,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,In-person Expectation,"Eckhardt, David","O'Hallaron, David"
+15698,MSCS Research Thesis,Jan-36,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,"Eckhardt, David","O'Hallaron, David"
+15712,Advanced Operating Systems and Distributed Systems,12,A,GHC 4303,MWF,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Andersen, David",
+15721,Advanced Database Systems,12,A,GHC 4303,MW,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Patel, Jignesh",
+15735,Foundations of Blockchains,12,A,TEP 1403,TR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Shi, Runting",
+15745,Optimizing Compilers for Modern Architectures,12,A,GHC 4303,TWR,09:30AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"Mowry, Todd",
+15746,Storage Systems,12,A,DH 2315,MW,04:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Amvrosiadis, George","Ganger, Gregory"
+15749,Post-von Neumann Computer Architecture : Computing After CPUs: Recent Research in Non-Von Neumann Computer Architecture,12,A,GHC 4303,R,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Beckmann, Nathan",
+15750,Algorithms in the Real World,12,A,GHC 4303,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Vinayak, Rashmi Korlakai","Sleator, Danny"
+15756,Randomized Algorithms,12,A,GHC 4303,MW,05:00PM,"Pittsburgh, Pennsylvania",06:20PM,In-person Expectation,"Kuszmaul, William",
+15772,Real-Time Computer Graphics,12,A,PH A18C,MWF,10:00AM,"Pittsburgh, Pennsylvania",10:50AM,In-person Expectation,"McCann, James",
+15784,Cooperative AI : Cooperative AI,12,,TBA,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Conitzer, Vincent",
+15789,Theoretical and Empirical Foundations of Modern Machine Learning,12,A,TEP 1403,MW,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Raghunathan, Aditi",
+15795,Topics in Algorithmic Problem Solving,12,QQ,PH 126A,TR,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Peng, Yang",
+15798,Special Topic: Music and Audio Generation,12,,NSH 1305,TR,05:00PM,"Pittsburgh, Pennsylvania",06:20PM,In-person Expectation,"Donahue, Chris",
+15801,CS PhD Alternative Elective,VAR,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,Instructor TBA,
+15802,CSD PhD Elective,VAR,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",DNM,In-person Expectation,Instructor TBA,
+15804,CSD PhD Elective,12,,TBA,TBA,TBA,"Lisbon, Portugal",DNM,In-person Expectation,Instructor TBA,
+15814,Types and Programming Languages,12,A,DH 1117,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Hoffmann, Jan",
+15816,Advanced Topics in Logic: Automated Reasoning and Satisfiability,12,C,WEH 5320,MW,02:00PM,"Pittsburgh, Pennsylvania",03:20PM,In-person Expectation,"Heule, Marijn",
+15821,Mobile and Pervasive Computing,12,A,GHC 4303,T,03:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,"Smailagic, Asim","Satyanarayanan, Mahadev"
+15826,Multimedia and Data Mining,12,A,GHC 4303,F,02:00PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Faloutsos, Christos",
+15856,Introduction to Cryptography,12,A,GHC 4303,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Jain, Aayush",
+15859,Special Topics in Theory:,12,,GHC 4303,MW,05:00PM,"Pittsburgh, Pennsylvania",06:20PM,In-person Expectation,"Kuszmaul, William",
+15860,Monte Carlo Methods and Applications,12,A,SH 105,TR,12:30PM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Crane, Keenan","Iyer, Gautam"
+15862,Computational Photography,12,A,GHC 4303,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Gkioulekas, Ioannis",
+15888,Computational Game Solving,12,A,WEH 4625,MW,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Sandholm, Tuomas",
+15889,Special Topics in AI: Adv. Topics in Reinforcement Learning and Decision Making,12,A,WEH 5320,M,03:30PM,"Pittsburgh, Pennsylvania",04:50PM,In-person Expectation,"Kumar, Aviral",
+15890,Computer Science Pedagogy,12,A,GHC 4211,F,11:00AM,"Pittsburgh, Pennsylvania",01:50PM,In-person Expectation,"Hilton, Michael","Xhakaj, Franceska"
+15898,Quantum Computing Systems,12,A,PH 226A,TR,11:00AM,"Pittsburgh, Pennsylvania",12:20PM,In-person Expectation,"Acar, Umut",
+15990,Computer Science Colloquium,0,A,GHC 4401,TR,03:00PM,"Pittsburgh, Pennsylvania",05:50PM,In-person Expectation,Instructor TBA,
+15996,Introductory Course for CS Doctoral Students (IC),6,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,In-person Expectation,"Crary, Karl",
+15997,Graduate Reading and Research,Jan-60,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,In-person Expectation,"Crary, Karl",
+,,,PP,TBA,TBA,TBA,"Lisbon, Portugal",DNM,In-person Expectation,"Crary, Karl",
+15998,Practicum in Computer Science,Jan-36,A,TBA,TBA,TBA,"Pittsburgh, Pennsylvania",TBA,In-person Expectation,"Crary, Karl",

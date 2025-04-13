@@ -1,0 +1,383 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18447: Introduction to Computer Architecture   
+Spring 2025 
+ 
+ 
+Instructor: Scott Mionis, James Bain, Jian-Gang Zhu 
+ 
+ 
+Office Location: Remote  
+Email Address: smionis@andrew.cmu.edu, jbain@cmu.edu, jzhu@cmu.edu  
+Office Hours: Scheduled as-needed  
+ 
+ 
+Teaching Assistant: Dane Engman, Andrew Liao, Felicia Liu, David Peng, Varun 
+Rajesh, Josh Rong, Ying Meng, Kevin Zhu 
+Email Address: Please post staff questions on Piazza 
+ 
+Office Hours: Scheduled as-needed 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+Computer architecture is the science and art of selecting and interconnecting hardware components 
+to create a computer that meets functional, performance and cost goals. This course introduces the 
+basic hardware structure of a modern programmable computer, including the basic laws underlying 
+performance evaluation. We will learn, for example, how to design the control and data path 
+hardware for a MIPS-like processor, how to make machine instructions execute simultaneously 
+through pipelining and simple superscalar execution, and how to design fast memory and storage 
+systems. The principles presented in the lecture are reinforced in the laboratory through the design 
+and simulation of a register transfer (RT) implementation of a MIPS-like pipelined superscalar in 
+Verilog. Learning to design programmable systems requires that you already have the knowledge 
+of building RT systems, the knowledge of the behavior storage hierarchies (e.g., cache memories) 
+and virtual memory, and the knowledge of assembly language programming. 
+ 
+Number of Units: 12  
+ 
+Pre-requisites: 18240 and 18213 and (18320, 18330, 18340, 18341, 18344 or 18349) 
+ 
+ 
+Graduate Area: Computer Hardware  
+ 
+ 
+Class Lecture: Monday and Wednesday 12:00-1:50pm BH A51/SCV B23 107 
+ 
+ 
+
+ 
+2 
+ 
+Lab Hours: Tuesdays 11:00AM~1:50PM and Thursdays 12:30PM~3:20PM in HH 1305 
+(These hours are optional-attendance “help sessions” hosted by TAs, focused on the lab 
+assignments. Lab check-off must be done in-person during these sessions) 
+ 
+Required Textbook: Computer Organization and Design RISC-V Edition: The 
+Hardware Software Interface, 2nd Edition by Patterson and Hennessy, Morgan 
+Kaufmann/Elsevier. 
+ 
+Suggested Reading: Synthesis Lectures on Computer Architecture, 
+https://www.springer.com/series/16916 
+ 
+Reference Materials: On Canvas 
+ 
+Brief List of Topics Covered: Scalar, in-order, pipelined processors and relevant design 
+methodologies. 
+ 
+Course Canvas: Canvas login page: https://cmu.instructure.com/. You should check the 
+course Canvas daily for announcements and handouts.  
+ 
+Course Website: On Canvas 
+ 
+Homework Projects: On Canvas 
+ 
+Reading Assignments: On Canvas 
+ 
+Grading Algorithm: 15% 
+Homework 
+            35% 
+Labs (Labs 1~3 must be checked off to pass the course) 
+            20% 
+Midterm 
+            30% 
+Final 
+ 
+We keep grades on Canvas. Please review your scores weekly. You have two weeks after 
+a graded item is posted to request a grade correction (and no regrade requests will be 
+accepted after finals week). Grade corrections will typically be done via Gradescope. 
+ 
+Homework assignments are due through Canvas/Gradescope at noon on the date due. No 
+late homework accepted. Discussions about homework in small groups are encouraged. 
+However, homework submissions must be developed individually and independently. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3 
+ 
+Tentative Course Calendar:  
+ 
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+January 
+13 
+ Mon. 
+Short intro & RISC-V 32-bit ISA 
+Lab 1a/b out 
+Week of Feb 3 
+15 
+ Wed. 
+Single-cycle implementation 
+ 
+ 
+20 
+ Mon. 
+MLK Jr. Day – No Classes 
+ 
+ 
+22 
+ Wed. 
+Introduction to the rest of the course 
+HW1 out 
+Week of Feb 3 
+27 
+ Mon. 
+ISA design over the ages 
+ 
+ 
+29 
+ Wed. 
+How to measure performance 
+ 
+ 
+February 
+3 
+ Mon. 
+Multi-cycle implementation 
+ 
+ 
+5 
+Wed. 
+Pipelining basics 
+ 
+ 
+10 
+ Mon. 
+Pipeline data hazarding 
+Lab 2/HW2 out 
+Week of Feb 24/17 
+12 
+Wed. 
+Pipeline control hazarding 
+ 
+ 
+17 
+Mon. 
+Pipeline branch prediction 
+ 
+ 
+19 
+Wed. 
+Pipeline exceptions 
+ 
+ 
+24 
+Mon. 
+Power and energy 
+HW3 out 
+Week of Mar 10 
+26 
+Wed. 
+Buses and IO 
+ 
+ 
+March 
+3 
+Mon. 
+Spring Break – No Classes 
+ 
+ 
+5 
+Wed. 
+Spring Break – No Classes 
+  
+  
+10 
+Mon. 
+Memory technology 
+Lab 3 out 
+Week of Mar 24 
+13 
+Wed. 
+Caches 
+ 
+ 
+17 
+Mon. 
+More caches 
+HW4 out 
+Week of Mar 24 
+19 
+Wed. 
+VM protection and paging 
+ 
+ 
+24 
+Mon. 
+VM page tables and TLBs 
+ 
+ 
+26 
+Wed. 
+VM survey and security 
+ 
+ 
+31 
+Mon. 
+Moving beyond ILP to TLP 
+Lab 4/HW5 out 
+Week of Apr 21 
+April 
+2 
+Wed. 
+Parallel computer architecture 
+ 
+ 
+7 
+ Mon. 
+Multithreaded programming 
+ 
+ 
+9 
+ Wed. 
+Parallel performance 
+ 
+ 
+14 
+ Mon. 
+Cache coherence 
+ 
+ 
+16 
+ Wed. 
+Synchronization 
+ 
+ 
+21 
+ Mon. 
+Special topic (TBD) 
+ 
+ 
+23 
+ Wed. 
+Special topic (TBD) 
+ 
+ 
+28 
+ Mon. 
+Final Exams Week 
+ 
+ 
+ 
+Class Participation: Class participation in-person and on Piazza is strongly encouraged. 
+Discussion questions will be posted on Piazza after every lecture. Responding to every one 
+of these is not required. However, there may be a (very) small bonus applied to relevant 
+exams if you show meaningful engagement with the discussion questions throughout the 
+semester. 
+ 
+Important Notes on Labs: 
+ 
+• Lab assignments must be done in a group of 2 or 3. You do not have to stay with 
+the same group for all lab assignments. A group may not mix undergrad, MS, 
+and PhD students without instructor permission. 
+
+ 
+4 
+ 
+• A complete lab submission comprises 3 parts. All 3 parts must be finalized on time.  
+i) GitHub code commit 
+ii) Passing in-person check-off with a TA during lab session 
+iii) Full submission of all collaterals 
+• Follow the instructions in the lab handout to commit your code and then schedule 
+to get checked off (as soon as you meet the check-off requirement) by a TA during 
+office hours or the optional lab hours.  If there is time, you can continue to work on 
+finishing your final submission after passing check off.  The entire group must be 
+present for lab check-off. (You should anticipate a wait line to get checked off 
+nearing the cut-off time, and you should plan time to re-attempt in case a check-off 
+fails.) 
+• **Except for Lab 4 final submission**, 10% is deducted from the points 
+apportioned if all parts i, ii and iii are not finalized by Thursday 3:20PM on the 
+week due. An additional 10% is deducted after each 24-hour period (excluding the 
+hours between 3:20PM Friday to 3:20PM Monday). Maximum deduction is 50%. 
+For Lab 4 final submission, incomplete work (even if not checked off) should be 
+turned in when due (the semester will be over, so just turn in what you have). 
+• You will receive 5% bonus on the points apportioned if you complete all parts i, ii 
+and iii by Tuesday 1:50PM on the week due. 
+• **Please note: Labs 1~3 must be checked off to pass the course.** 
+ 
+Submit by on Week Due 
+Time-Based Adjustment 
+Tuesday 1:50PM 
++5% bonus 
+Thursday 3:20PM 
+0% 
+Friday 3:20PM 
+‒10% (no late work on Lab 4 final) 
+Tuesday (wk+1) 3:20PM 
+‒20% (no late work on Lab 4 final) 
+Wednesday (wk+1) 3:20PM 
+‒30% (no late work on Lab 4 final) 
+Thursday (wk+1) 3:20PM 
+‒40% (no late work on Lab 4 final) 
+There after 
+‒50% (no late work on Lab 4 final) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

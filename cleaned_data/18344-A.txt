@@ -1,0 +1,141 @@
+Course Syllabus
+18-344: Computer Systems and the Hardware/Software Interface
+Fall 2024
+Instructor:
+Akshitha Sriraman, Brandon Lucia
+Office Location: CIC 4114
+Email Address:
+akshitha@cmu.edu, blucia@andrew.cmu.edu
+Office Hours:
+TBD
+Teaching Assistant: Nathan Serafin, Liam Merino, Yufei Shi, Matt Ngaw
+Email Address: -
+Office Hours:
+TBD
+Course Support: Academic Services Center
+Office Location: HH 1113
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html
+Course Description: This course covers the design and implementation of computer systems from the perspective
+of the hardware software interface. The purpose of this course is for students to understand the relationship between
+the operating system, software, and computer architecture. Students that complete the course will have learned
+operating system fundamentals, computer architecture fundamentals, compilation to hardware abstractions, and how
+software actually executes from the perspective of the hardware software/boundary. The course will focus especially
+on understanding the relationships between software and hardware, and how those relationships influence the design
+of a computer system's software and hardware. The course will convey these topics through a series of practical,
+implementation-oriented lab assignments.
+Number of Units:
+12
+Pre-requisites:
+18-/15-213 (minimum grade: D), 18-240 (minimum grade: D)
+Graduate Area: Hardware
+Class Lecture: MW SH 234
+Required Textbook: None
+Suggested Reading: Computer Organization and Design
+https://www.amazon.com/Computer-Organization-Design-RISC-VArchitecture/dp/0128203315/ref=sr_1_1?crid
+=3DLD00Q3CFEI5&dchild=1&keywo
+rds=computer+organization+and+design+riscv+edition+2nd+edition&qid=1629409744&sprefix=computer+or
+ganization+and+de sign+ris%2Cstripbooks%2C197&sr=8-1
+Reference Materials: NA
+Brief List of Topics Covered: Computer Architecture, Compilers, Operating Systems, Optimization, Computer
+Performance Analysis
+Course Canvas:
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas daily for announcements and
+handouts.
+Course Website: TBD
+Homework Projects: 5 Programming Labs, Weekly Written Assignments
+Reading Assignments:
+Grading Algorithm: 70% labs (evenly distributed), 10% written assignments, 20% exams
+Tentative Course Calendar:
+Date
+Topic
+Aug 26 (M): AS/BL
+Intro to Hardware-Software boundary
+Aug 28 (W): AS
+von Neumann Architectures
+
+Sep 2
+Holiday: Labor Day
+Sep 4: AS
+Computer Architecture Basics
+Sep 9: BL
+ISAs: The RISC-V ISA
+Sep 11: AS
+Pipelines and Hazards
+Sep 16: AS
+Control hazards and Branch Prediction
+Sep 18: AS
+Caches and Memory Hierarchy
+Sep 23: AS
+Cache Replacement Policies and
+Enhancements
+Sep 25: AS
+Introduction to Performance Evaluation
+Sep 30: AS
+Design Space Exploration
+Oct 2: BL
+Advanced uarch, SIMD/Systolic/Dataflow
+Oct 7: BL
+Dataflow advanced
+Oct 9
+Mid-term exam (cancel?)
+Oct 14
+Holiday: Fall break
+Oct 16
+Holiday: Fall break
+Oct 21: BL
+Virtual memory
+Oct 23: BL
+The compiler is here to help
+Oct 28: BL
+Sparse problems introduction
+Oct 30: BL
+Sparse problems optimization
+Nov 4: BL
+Parallelism, coherence, & concurrency basics
+Nov 6: BL
+Synchronization & Transactional Memory
+Nov 11: BL
+Consistency, Coherence, and Understanding
+the Model
+Nov 13: AS
+Intro to Data Center computing
+Nov 18: AS
+Intro to building ethical computer systems
+Nov 20:
+No class
+Nov 25
+No class
+Nov 27
+Holiday: Thanksgiving
+
+Dec 2
+No class
+Dec 4
+No class
+
+Education Objectives (Relationship of Course to Program Outcomes)
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7 Educational
+Objectives that are fulfilled by the sum total of all the courses you take. The following list describes which objectives
+are fulfilled by this course and in what manner they are fulfilled. The objectives are numbered from “1” through “7” in
+the standard ABET parlance. Those objectives not fulfilled by this course have been omitted from the following list:
+●
+an ability to identify, formulate, and solve complex engineering problems by applying principles of
+engineering, science, and mathematics
+●
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of
+public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+●
+an ability to communicate effectively with a range of audiences
+●
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed
+judgments, which must consider the impact of engineering solutions in global, economic, environmental, and
+societal contexts
+●
+an ability to function effectively on a team whose members together provide leadership, create a
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+●
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use
+engineering judgment to draw conclusions
+●
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+ECE

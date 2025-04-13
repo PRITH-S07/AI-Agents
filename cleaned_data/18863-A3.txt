@@ -1,0 +1,173 @@
+1 
+                                                                                                                       
+ 
+Course Syllabus 
+18-883 K3/A3: Special Topics in Energy Systems: Power System Operation 
+ 
+Spring 2025 
+ 
+Instructor: 
+ 
+ 
+ 
+ 
+Barry Rawn 
+Office Location: 
+ 
+ 
+ 
+Kigali: D202 
+Email Address: 
+ 
+ 
+ 
+brawn@africa.cmu.edu 
+Office Hours:  
+ 
+ 
+ 
+To be announced 
+ 
+Teaching Assistants:  
+ 
+ 
+Vincent Nshimiyimana  
+vnshimi2@andrew.cmu.edu 
+ 
+ 
+ 
+ 
+Course Description:  
+ 
+This mini-course examines the human-aided monitoring, planning, and decision making 
+that enable reliable, secure and safe operation of an electric power system, on the time 
+scale of minutes to weeks. We study and apply selected mathematical methods and 
+analysis techniques.  Students will be introduced to the requirements on a grid 
+owner/operator, and the time-frames of activity that structure efforts to meet and maintain 
+performance targets.  After completing this course, students will be prepared to analyze 
+and evaluate the consequences for an electrical grid's physical and operational processes 
+of connecting new equipment or adopting new communications and information systems. 
+They will be familiar with the use of selected power system software tools. 
+ 
+Number of Units:  
+6 
+ 
+Pre-requisites:  
+Undergraduate course in power systems, or permission from 
+instructor. 
+ 
+Class Schedule: 
+Lectures: 
+ 
+Section K3 
+Monday and Wednesday 
+15:00 – 16:50   
+F309 
+ 
+Section A3 
+Monday and Wednesday 
+08:00  – 09:50  
+BH A53 
+
+ 
+2 
+ 
+ 
+Suggested Reading:  
+See Canvas Website for list of textbook chapters. 
+ 
+Course Canvas:  
+If you are registered for the course, you should see it when you log in to canvas.cmu.edu. 
+You should check the course canvas daily for announcements and handouts.  
+ 
+Course Piazza: 
+There is a link to the course Piazza page on the course Canvas page. “Piazza is a free 
+online gathering space where students can ask, answer, and explore 24/7, under the 
+guidance of their instructors,” https://piazza.com/.  
+ 
+Grading Algorithm:  
+ 
+10% 
+5 Quizzes, 2% each 
+60% 
+3 Assignments, 20% each 
+30% 
+Final Examination 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+January 
+13 
+Mon 
+Overview: What is Power System Operation? 
+15 
+Wed 
+Overview: What tools and assessment will be used? 
+20 
+Mon 
+Introduction to Frequency Control: Primary Response 
+22 
+Weds 
+Variability, Reserve and Flexibility  
+27 
+Mon 
+Reserve Methodology 
+29 
+Wed. 
+Forecasting Load and Generation 
+Februrary 
+3 
+Mon. 
+Power Flow Formulation and Solution 
+5 
+Wed. 
+Calculation Example and Observations 
+10 
+Mon. 
+Optimal Power Flow Formulation and Solution 
+12 
+Wed. 
+Network Metrics 
+17 
+Mon. 
+Contingencies and Security Constrained Optimal Power Flow 
+19 
+Wed. 
+Unit Commitment/Economic Dispatch and Scheduling 
+24 
+Mon. 
+Guest Speaker/Review 
+26 
+Wed. 
+Guest Speaker/Review 
+ 
+Take care of yourself.  Do your best to maintain a healthy lifestyle this semester by 
+eating well, exercising, avoiding abuse of drugs and alcohol, getting enough sleep and 
+taking some time to relax. This will help you achieve your goals and cope with stress.  
+ 
+All of us benefit from support during times of struggle. You are not alone. There are 
+many helpful resources available on campus- but you must take the step of accessing 
+them. In fact, an important part of the college experience is learning how to ask for help. 
+Asking for support sooner rather than later is often helpful.  
+ 
+
+ 
+3 
+ 
+If you or anyone you know experiences any academic stress, difficult life events, or 
+feelings like anxiety or depression, we strongly encourage you to seek support. 
+Counseling and Psychological Services (CaPS) is here to help: 
+(http://www.cmu.edu/counseling/  and each campus has its own student services officers 
+who you can meet in person and obtain information.  Consider reaching out to a friend, 
+faculty or family member you trust for help getting connected to the support that can 
+help.   
+ 
+If you have questions about this or your coursework, please let me know.  You can 
+schedule a meeting using the Calendly link on the first page.  
+ 
+The following are some official policies that you should be aware of as a participant in 
+this course. 
+ 
+ECE

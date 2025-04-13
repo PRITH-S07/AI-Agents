@@ -1,0 +1,389 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-095: Getting Started in Electronics: An Experiential Approach 
+Spring 2025
+ 
+Instructor:    
+Tom Zajdel   
+Office Location:   
+HH A210 
+Email Address:   
+tzajdel@andrew.cmu.edu 
+ 
+TAs: 
+Sharia Farhan, Moises Gavarrete, Jieun Lim, Cole MacSwain, Meera 
+Pandya, Shaye Xu 
+ 
+ 
+Course Web Page:   
+We will use the Canvas system for our Web Page this semester. You should attempt to 
+access the page as soon as possible to ensure that you have access to the course materials. 
+http://www.cmu.edu/canvas/  
+ 
+Course Information: 
+Number of Units:  
+9 
+Anti-requisite: 
+18-100 
+ 
+Course Description:  
+Building circuits as a hobby has been a reliable introduction to a career in engineering for 
+many decades, providing essential context and motivation for the mathematics and analysis 
+techniques developed in the canonical ECE curriculum. 
+For those with little prior knowledge of electronics, building circuits provides useful context 
+and practical skills that lead to success in the rigorous engineering core. For those pursuing 
+other career paths, exploring electronics develops technical literacy that will supplement and 
+enhance their pursuits.  
+Nowadays, the growth of maker culture has provided a wealth of tools that make electronics 
+more accessible than ever before. This class uses an experiential learning approach to 
+develop skills in circuit design, prototyping, and debugging. Every lecture is integrated with 
+a hands-on laboratory experiment, punctuating each lesson with physical inquiry. Principles 
+of analog circuits, digital circuits, microcontrollers, and measurement equipment will be 
+explored one experiment at a time, through twice-weekly integrated lecture/circuit builds 
+and once-weekly self-guided builds. Additionally, three projects with a gradual increase in 
+complexity and open-endedness will build student skills in electronic system design. 
+
+ 
+2 
+ 
+The goal of this course is to build self-efficacy for basic prototyping and circuit building 
+skills. By the end of this course, students should be able to: 
+1. Build and prototype electronic circuits  
+a. Build circuits based on a schematic diagram on a solderless breadboard 
+b. Solder components to printed circuit boards 
+2. Use electrical measurement tools to debug circuit operation: 
+a. Measure voltage, current, resistance, and electrical continuity with a digital 
+multimeter 
+b. Detect wiring errors 
+3. Interface a microcontroller with electrical inputs and outputs. 
+a. Use digital and analog inputs to measure and process data from sensors 
+b. Use digital and analog outputs to control actuators 
+4. Design and prototype a useful electronic system, from idea to implementation 
+5. Use periodic self-reflection to understand their personal growth in electronics 
+6. Document electronics designs to communicate them to others  
+ 
+These concepts will be explored one circuit at a time, with an emphasis on experimentation. 
+ 
+For this class, I am conducting research on student attitudes and learning. This research 
+will involve completing some surveys. You will not be asked to do anything above and 
+beyond the normal learning activities and assignments that are part of this course. You are 
+free not to participate in this research, and your participation will have no influence on your 
+grade for this course or your academic career at CMU. If you do not wish to participate or if 
+you are under 18 years of age, please send an email to Chad Hershock 
+(hershock@andrew.cmu.edu), and then your data will not be included. Participants will not 
+receive any compensation. The data collected as part of this research will not include student 
+grades. All analyses of data from participants’ coursework will be conducted after the 
+course is over and final grades are submitted. The Eberly Center may provide support on 
+this research project regarding data analysis and interpretation. The Eberly Center for 
+Teaching Excellence & Educational Innovation is located on the CMU-Pittsburgh Campus 
+and its mission is to support the professional development of all CMU instructors regarding 
+teaching and learning. To minimize the risk of breach of confidentiality, the Eberly Center 
+will never have access to data from this course containing your personal identifiers. All data 
+will be analyzed in de-identified form and presented in the aggregate, without any personal 
+identifiers. If you have questions pertaining to your rights as a research participant, or to 
+report concerns to this study, please contact Chad Hershock (hershock@andrew.cmu.edu). 
+ 
+Reference Textbook: 
+ 
+There is no required textbook. Reference notes and some reference video recordings will be 
+supplied when applicable. The course will be loosely based on the experiential learning 
+classic Getting Started in Electronics by Forrest Mims III, which has launched many 
+engineering careers since its release in 1983. 
+ 
+Lab Materials:  
+Students will receive all materials needed for all the labs. Handouts for Lab will be posted on 
+Mondays. 
+
+ 
+3 
+ 
+ 
+Course Meeting Info: 
+ 
+Sessions:             Mondays and Wednesdays 
+11:00am-12:20pm 
+HHA104 
+      
+ 
+ 
+ 
+ 
+OR 
+2:00pm-3:20pm 
+HHA104 
+Sessions are an essential part of this course because they introduce the topics of the 
+week and feature hands-on experiences. You are expected to bring your lab kits to these 
+sessions. Digital notes will be provided before each session. 
+ 
+Open Lab Hours:  
+      Wed and Thu 
+4:00pm-7:00pm 
+HHA104 
+ 
+ 
+   
+  
+ 
+  
+Fri 
+11:30am-4:00pm 
+HHA104 
+ 
+Most weeks have a laboratory assignment, which will require students to build and 
+demonstrate one to three circuits, each demonstrating fundamental principles of 
+electronics. They are designed to be completed over about three hours during open lab 
+hours, which will be staffed by TAs. Students may attend whichever times work within 
+their schedule, and are encouraged to start on their lab assignments early. Hours are 
+subject to change or expand based on TA availability. Additional hours are available 
+upon request. 
+ 
+Grading Policy:  
+There are a total of 1000 points available in the course (with some extra credit 
+opportunities). Your grade will be calculated using the following method: 
+60%  Labs 
+30% 
+Project 
+  5% 
+Lab Practical 
+  5% 
+Reflections 
+ 
+While lower cutoffs may be used, the following cutoffs are guaranteed: 
+>=90 A 
+>=80 B 
+>=70 C 
+>=60 D 
+ 
+ 
+ 
+
+ 
+4 
+ 
+Assignments: 
+ 
+Reflections (50 points): 
+ 
+An important part of developing technical skills is periodic self-reflection. A survey will 
+be administered at three points throughout the semester as a chance to reflect on the 
+experiences in the course and organize students’ thoughts about what they are learning. 
+1. Reflection 1 (15 points) due January 24 at 11:59 pm. 
+2. Reflection 2 (15 points) due March 14 at 11:59 pm. 
+3. Reflection 3 (20 points) due April 25 at 11:59 pm. 
+ 
+Labs (600 points): 
+ 
+Each lab section will feature 1-3 circuits that must be built and successfully 
+demonstrated during Open Lab Hours before the end of the lab week. Electrical 
+measurements of these circuits are recorded in the lab manual as part of the checkoff. 
+Full lab credit for the week will be assigned if all circuits and measurements have been 
+successfully completed and the lab document is submitted on Gradescope. Lab 
+documents are due on Fridays at 5 pm. 
+Lab 1: Soldering (75 points) 
+Lab 2: Breadboards and Resistive Sensors (75 points) 
+Lab 3: Decision-Making Circuits (75 points) 
+Lab 4: Digital Logic (75 points) 
+Lab 5: Digital I/O (75 points) 
+Lab 6: Analog I/O (75 points) 
+Lab 7: Serial Communication (75 points) 
+Lab 8: 555 Timer (75 points) 
+ 
+Project (300 points): 
+ 
+Students will be prompted to use a microcontroller to design an interactive system that 
+improves (interpreted broadly) the experience of being inside Hamerschlag Hall. The 
+project will be done in pairs assigned by the instructors (or a group of 3 if required). A 
+proposal process will be used to keep projects manageable, and a Consult (meeting with 
+a TA) and Progress Check (follow-up meeting with TA) will help students set and meet 
+project milestones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proposal 
+25 points 
+Wednesday, Feb 26 
+Consult 
+25 points 
+Wednesday, Mar 12 
+Progress Check 
+25 points 
+Wednesday, Apr 2 
+Showcase Day 
+150 points 
+Friday, Apr 11 
+Documentation 
+75 points 
+Wednesday, Apr 23 
+
+ 
+5 
+ 
+ 
+Lab Practical (50 points) 
+ 
+There will be a 30-minute practical laboratory exam on April 21, with a specific time 
+slot during class to be scheduled in advance. This exam will have students use an 
+electrical schematic and digital multimeter to accomplish the following: 
+o to build a circuit based on a schematic 
+o to debug and fix an non-operational circuit on a breadboard 
+ 
+ 
+Lab Makeup Policy:  
+ 
+Each of the lab circuits for the week should be completed by 5pm on Friday for full credit. 
+Any lab checkoffs that could not be completed on time can be completed up to one 
+week late for full credit. Lab check-offs completed beyond this time limit are worth 70%. 
+Written lab questions may also be submitted up to one week late for full credit, but will not 
+be accepted for any credit beyond one week late. 
+ 
+Attendance: 
+Because the hands-on experience is so critical for this course, attendance is expected at all 
+lecture and lab sections. If you need to miss a lab session, please give advance notice so a 
+lecture recording can be arranged. 
+ 
+Any in person meeting associated with the class, whether group or individual, requires 
+compliance with the University’s guidelines, i.e. “Tartan’s Responsibility”: 
+https://www.cmu.edu/coronavirus/students/tartans-responsibility.html 
+ 
+ 
+ 
+
+ 
+6 
+ 
+Date 
+Day 
+Session 
+Lab Assignment 
+Jan 
+13 
+M 
+S1: Quantifying Electricity 
+Lab 1: Soldering 
+Due Friday, Jan 17 at 5pm 
+Jan 
+15 
+W 
+S2: Breadboards and Ohm’s Law 
+Jan 
+20 
+M 
+MLK Jr. DAY 
+Lab 2: Breadboards and Resistive 
+Sensors 
+Due Friday, Jan 24 at 5pm 
+ 
+Reflection 1 
+Due Friday, Jan 24 at 11:59pm 
+Jan 
+22 
+W 
+S3: Voltage Dividers and Resistive Sensors 
+Jan 
+27 
+M 
+S4: Comparators 
+Lab 3: Decision-Making Circuits 
+Due Friday, Jan 31 at 5pm 
+Jan 
+29 
+W 
+S5: Transistors and Motors 
+Feb 
+3 
+M 
+S6: Digital Logic Gates and Arithmetic Circuits 
+Lab 4: Digital Logic 
+Due Friday, Feb 7 at 5pm 
+Feb 
+5 
+W 
+S7: Binary and Shift Registers 
+Feb 
+10 
+M 
+S8: Microcontrollers and Digital I/O  
+Lab 5: Digital I/O 
+Due Friday, Feb 14 at 5pm 
+Feb 
+12 
+W 
+S9: Project Pitches 
+Feb 
+17 
+M 
+S10: NeoPixels  
+Lab 6: Serial Communication 
+Due Friday, Feb 21 at 5pm 
+Feb 
+19 
+W 
+S11: Liquid Crystal Displays and I2C 
+Feb 
+24 
+M 
+S12: Analog to Digital Conversion and PWM 
+Lab 7: Analog I/O and Motors 
+Due Friday, Feb 28 at 5pm  
+Feb 
+26 
+W 
+S13: Servo Motors 
+Project Proposal Due 5pm 
+Spring Break (March 3-7) 
+Mar 
+10 
+M 
+S14: Laser Cutter Training 
+Work on Projects 
+ 
+Reflection 2 
+Due Friday, Mar 14 at 11:59 pm 
+Mar 
+12 
+W 
+S15: Work Time 
+Consult Report Due 5pm 
+Mar 
+17 
+M 
+S16: Work Time 
+Work on Projects 
+Mar 
+19 
+W 
+S17: Work Time 
+Mar 
+24 
+M 
+S18: Work Time 
+Work on Projects 
+Mar 
+26 
+W 
+S19: Work Time 
+Mar 
+31 
+M 
+S20: Work Time/Progress Check 
+NO LAB 
+(SPRING CARNIVAL) 
+Apr 
+2 
+W 
+S21: Work Time/Progress Check 
+Progress Check Due 5pm 
+
+ 
+7

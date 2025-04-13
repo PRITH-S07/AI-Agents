@@ -1,0 +1,348 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-421/623: Analog Integrated Circuit Design   
+Fall 2024 
+ 
+ 
+Instructor: Prof. Marc Dandin 
+ 
+ 
+Office Location: HH 2111 
+Email Address: mdandin@andrew.cmu.edu    
+Office Hours:  TBD 
+ 
+ 
+ 
+Teaching Assistants: TBD 
+Email Address:  
+Office Hours: Friday, 4-5:50PM
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+Some form of analog circuit design is a critical step in the creation of every modern IC. 
+First and foremost, analog circuits act as the interface between digital systems and the real 
+world. They act to amplify and filter analog signals and convert signals from analog to 
+digital and back again. In addition, high-performance digital cell design (either high speed 
+or low power) also invokes significant analog circuit design issues. The goal of this course 
+is to teach students some of the methods used in the design and analysis of analog integrated 
+circuits, to illustrate how one approaches design problems in general, and to expose 
+students to a broad cross-section of important analog circuit topologies. The course will 
+focus on learning design through carrying out design projects. Design and implementation 
+details of wide-band amplifiers, operational amplifiers, filters, and basic data converters 
+will be covered. Example topics to be covered include transistor large- and small-signal 
+device models, small-signal characteristics of transistor-based amplifiers, large-signal 
+amplifier characteristics and non-idealities, operational amplifier design, basic feedback 
+amplifier stability analysis and compensation, and comparator design. The course will 
+focus primarily on analog CMOS, but some aspects of BJT devices will be discussed. 
+ 
+Class Schedule: Mondays, Wednesdays, & Fridays: 4:00 pm – 5:50 pm, HH B131 
+ 
+ 
+
+ 
+2 
+ 
+Number of Units: 12  
+ 
+Pre-requisites:  18-290 and 18-320  
+ 
+Graduate Area: Circuits 
+ 
+ 
+Course Designation: Depth 
+ 
+Lecture Format: In-person Expectation 
+ 
+Recommended Textbooks:  
+• Design of Analog CMOS Integrated Circuits, Behzad Razavi, 2nd edition.  
+• Analysis and Design of Analog Integrated Circuits, by Paul R. Gray, Paul J. Hurst, Stephen 
+H. Lewis, and Robert G. Meyer; 5th Edition, Wiley, 2009.  
+Reference Materials:   
+• Systematic Design of Analog CMOS Circuits: Using Pre-Computed Lookup Tables, P. 
+Jespers and B. Murmann, Cambridge, 2017 
+• Analog Integrated Circuit Design (Second Edition), by Tony Chan Carusone, David A. 
+Johns, and Kenneth W. Martin, Wiley, New York, 2012.   
+• Analog MOS Integrated Circuits for Signal Processing, by Roubik Gregorian and Gabor 
+Temes; Wiley-Interscience, 1986.  
+• CMOS Analog Circuit Design, by Phillip Allen and Douglas Holberg; 3rd Edition, Oxford 
+University Press, 2011.  
+• The Art of Analog Layout, Alan Hastings; 2nd Edition; Prentice Hall, 2005. 
+• Bipolar and MOS Analog Integrated Circuit Design, Alan Grebene, Wiley-Interscience 
+(Wiley Classics Library); Reprint edition, 2002. 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas daily for 
+announcements and handouts.  
+ 
+Grading Algorithm:  
+ 
+Two methods will be used to compute a score for each student in the course. Each method has a 
+maximum possible value of 100:  
+  
+Homework (8)  10%  
+Design Projects (3)  15% 1+ 15%  + 15%= 45%  
+Exams (2)   20% + 20% = 40%  
+Notebook (1)   5%  
+The following maximum grade cutoffs are guaranteed:  
+ > 92 A  
+
+ 
+3 
+ 
+ > 83 B  
+ > 72 C  
+ > 61 D  
+NOTE: Although students in 18-623 will share Lectures with students in 18-421, students in 18-
+623 will receive distinct homework assignments, distinct design problems, and distinct exams from 
+the ones given to students in 18-421 and will be graded separately from students taking 18-421. 
+ 
+Tentative Course Calendar 
+Suggested reading materials, when appropriate, will be indicated on the lecture slides.  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Dates 
+August 
+26 
+Mon. 
+LEC01: Course Intro; Intro. to Analog IC Design 
+ 
+ 
+28 
+Wed. 
+LEC02: Device models, CAD models, PDK 
+Characterization, Systematic Design 
+N1 assigned 
+ 
+30 
+Fri. 
+REC01 
+HW1 assigned, 
+9/6,9/11 
+September 
+2 
+Mon. 
+Labor Day – No Class 
+DP1 released 
+10/2 
+4 
+Wed.  
+LEC03: High-frequency analysis 
+N2 assigned 
+ 
+6 
+Fri.  
+REC02: Design example; DP1 Specification review  
+HW2 assigned,  
+9/13,9/16 
+9 
+Mon. 
+LEC04: Current and voltage references 
+ 
+ 
+11 
+Wed. 
+LEC05: Differential pairs I  
+N3 assigned 
+ 
+13  
+Fri 
+REC03 
+HW3 assigned 
+9/20 
+16 
+Mon.  LEC06: DP1 Design Reviews 
+ 
+ 
+18 
+Wed. 
+LEC07: DP1 Design Reviews 
+N4 assigned 
+ 
+20 
+Fri. 
+REC04: Exam 1 Review – Notebook Check-in 
+(optional) 
+ 
+ 
+23 
+Mon. 
+LEC08: Differential pair design 
+ 
+ 
+25 
+Wed. 
+LEC09: Noise in analog circuits 
+N5 assigned 
+ 
+27 
+Fri. 
+EXAM 1: LECs. 01- 05, HW1-HW3 
+HW4 assigned 
+10/4, 10/7 
+30 
+Mon. 
+LEC10: Sensitivity analysis 
+ 
+ 
+October 
+2 
+Wed. 
+LEC11: Noise in analog circuits II 
+DP1 due, DP2 
+released 
+11/4 
+4 
+Fri. 
+REC05 
+  
+  
+7 
+Mon. 
+LEC12: Op-Amp Design 
+ 
+ 
+9 
+Wed. 
+LEC 13: Feedback and compensation 
+N6 assigned 
+ 
+11 
+ 
+REC06 
+HW5 assigned 
+10/25,10/27 
+14-18 
+Mon.-
+Fri. 
+Fall Break – No Classes 
+ 
+ 
+21 
+Mon. 
+LEC14: Advanced Op-Amp Design 
+ 
+ 
+23 
+Wed. 
+LEC15: DP2 Design Reviews 
+N7 assigned 
+ 
+25  
+Fri. 
+Tartan Community Day ; No Classes 
+HW6 assigned 
+11/1,11/4 
+28 
+Mon. 
+LEC16: Monte Carlo Analysis  
+ 
+ 
+30 
+Wed. 
+LEC17: Analog Layout Techniques 
+N8 assigned 
+ 
+November 
+1 
+Fri. 
+REC07: Exam 2 Review – Notebook check-in 
+(optional) 
+HW7 
+assigned, DP3 
+released 
+11/15,11/18 
+(HW), DP3 
+due 12/6 –
+revision due 
+12/16 
+(optional, no 
+penalty) 
+
+4 
+4 
+Mon. 
+LEC18: Analog Comparators 
+5 
+Tues. 
+Democracy Day – No Classes 
+6 
+Wed. 
+LEC19: Invited Lecture 
+N9 assigned 
+8 
+Fri. 
+EXAM 2: LECs 08-10, 12-17 
+11 
+Mon. 
+LEC20: Common-mode feedback 
+13 
+Wed. 
+LEC21: Matching and distortion 
+N10 assigned 
+15 
+Fri. 
+REC08 
+HW8 
+assigned 
+11/22, 11/25 
+18 
+Mon. 
+LEC22: DP3 Design Review 
+20 
+Wed. 
+LEC23: Guest Lecture 
+22 
+Fri. 
+REC09 
+25 
+Mon. 
+LEC24: Guest Lecture 
+27-29
+Wed-
+Fri 
+Thanksgiving – No Classes 
+December 
+2 
+Mon. 
+LEC25: Floating gates 
+4 
+Wed 
+LEC26: Analog computation 
+6 
+Fri. 
+REC10: DP3 and Notebook due, no penalty extension 
+to  for optional revision 12/16 ; FCEs close on 12/6; 
+18 
+Wed. 
+Final grades posted by 4PM EST 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you take.  The 
+following list describes which objectives are fulfilled by this course and in what manner they are 
+fulfilled. The objectives are numbered from “1” through “7” in the standard ABET parlance. Those 
+objectives not fulfilled by this course have been omitted from the following list: 
+1. an ability to identify, formulate, and solve complex engineering problems by applying
+principles of engineering, science, and mathematics
+2. an ability to apply engineering design to produce solutions that meet specified needs with
+consideration of public health, safety, and welfare, as well as global, cultural, social,
+environmental, and economic factors
+3. an ability to communicate effectively with a range of audiences
+4. an ability to recognize ethical and professional responsibilities in engineering situations
+and make informed judgments, which must consider the impact of engineering solutions in
+global, economic, environmental, and societal contexts
+5. an ability to function effectively on a team whose members together provide leadership,
+create a collaborative and inclusive environment, establish goals, plan tasks, and meet
+objectives
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret data,
+and use engineering judgment to draw conclusions
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning
+strategies.
+ECE

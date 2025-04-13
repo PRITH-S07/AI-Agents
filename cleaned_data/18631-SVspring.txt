@@ -1,0 +1,415 @@
+1 
+ 
+Course Syllabus 
+18631: Introduction to Information Security 
+Spring 2025 
+ 
+Meeting Days, Times, Location:  
+Section A       MW 7:00 pm – 8:20 pm Eastern time 
+HH B131 
+Section SV     MW 4:00 pm – 5:20 pm Pacific time 
+B23 211 
+Recitations Days, Times, Location:   
+Section A       F 3:00 pm – 3:50 pm Eastern time  
+BH A53 
+Section SV     F 12:00 pm – 12:50 pm Pacific time      
+B23 212 
+Units: 12, Section(s): A (Pittsburgh), SV (Silicon Valley) 
+ 
+ 
+Instructors (Section A/B/SV) 
+Name 
+Dr. Limin Jia 
+Contact Info 
+liminjia at cmu.edu 
+Office location 
+CIC 2216 
+Office hours 
+See canvas 
+ 
+Course Support:  
+Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+Course Canvas https://cmu.instructure.com/ 
+Recorded Lectures 
+Within a short time after class concludes, each class is uploaded for you to re-watch online if you forget details of a lecture. This is 
+particularly helpful before exams.  
+Logistics 
+Lectures: The class modality is in-person attendance, where students are expected to come to campus and join the classroom. Lectures 
+are recorded and viewable offline (see Canvas and campuswire).   
+ 
+Recitations: We offer in-person recitation sessions. Attendance of the recitation sessions is voluntary and is not required but highly 
+encouraged. Most recitation sessions are TA office hours addressing questions about homework assignments. A handful of the recitation 
+sessions will include presentations by the TAs on topics relating to homework assignments and review sessions of past exams run by 
+the instructor. These sessions will be recorded and viewable offline (see Canvas and campuswire).   
+Textbooks  
+This course does not have a required textbook. All readings are available on canvas.  
+ 
+
+ 
+2 
+ 
+Course Description 
+ 
+Our growing reliance on information systems for daily activities, ranging from remote communications to financial exchanges, has made 
+information security a central issue of our critical infrastructure. The course introduces the technical foundations of information security. 
+The main objective of the course is to enable students to reason about information systems from a security engineering perspective. 
+Topics covered in the course include elementary cryptography; access control; common software vulnerabilities; common network 
+vulnerabilities; privacy; and special topics in information security.  
+Prerequisites: The course assumes a basic working knowledge of computers, networks, C and UNIX programming, and an basic 
+mathematics background, but does not assume any prior exposure to topics in computer or communications security. Students lacking 
+technical background (e.g., students without any prior exposure to programming) are expected to catch up through self-study. 
+ 
+Graduate Course Area Software Systems and Computer Networking 
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: http://wiki.ece.cmu.edu/index.php  
+Course Objectives  
+This course primarily aims at providing a level of literacy in information security adequate enough to understand the security 
+implications on a number of diverse domains including software engineering; networking; privacy; and policy.  
+A secondary objective is to provide a working knowledge of topics such as cryptography, privacy, network security, and infrastructure 
+management, so that students can acquire the necessary background for more advanced security courses.  
+By the end of this course, students will be able to reason about systems from the perspective of a security engineer. That is, they should 
+be able to deﬁne the system to protect; determine the security properties that are desired for this system; identify the possible threats to 
+these security properties, and their likelihood of occurrence; and consider possible mitigations against these threats. 
+More specifically, the course will fulfill the following education objectives in relationship to the program objectives. 
+1. Technical skills in building secure information systems. 
+Students will be able to apply abstract mathematical and scientific concepts such as cryptography to enforce security 
+properties. Students will be able to use concrete engineering techniques and tools such as state of the art security 
+mechanisms, defenses and tools to build secure systems. 
+ 
+2. Technical skills in analyzing security of information systems. 
+Students will be able to design and conduct experiments, as well as to analyze and interpret data to infer security threats and 
+effectiveness of possible mitigations. 
+ 
+3. Analytical and creative skills in identifying problems within context and find solutions. 
+a) Students will be able to design a system, component, or process to meet desired security requirements within realistic 
+constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and 
+sustainability. 
+b) Students will be able to identify, formulate, and solve simple security issues in modern computer and information 
+systems. 
+c) Students will be able to understand the impact of engineering solutions in a global, economic, environmental, and 
+societal context. Students will be able to see how information security is not only an engineering necessity, but how 
+it affects non-technical fields, such as management and risk analysis. 
+d) Student will gain knowledge of contemporary issues and will be aware of the current pressing information security 
+challenges. 
+ 
+4. Skills in functioning within a larger work environment. 
+a) Students will be able to converse about security issues both with engineering teams and with management to function 
+on multi-disciplinary teams. 
+
+ 
+3 
+ 
+b) Students will be exposed to ethical and legal ramifications of information security to obtain an understanding of 
+professional and ethical responsibility. 
+c) Students will be able to develop principled arguments to justify secure system design so they can communicate 
+effectively to future team members, managements, and clients. 
+ 
+5. Recognition for the need for, and an ability to engage in life-long learning.  
+Students will be equipped with fundamental knowledge that will allow them to further their study of information security and 
+adapt to the frequently changing information security landscape, independent of the specific tools in use. 
+Course schedule (tentative) 
+Please check Canvas: https://cmu.instructure.com/  
+ 
+Unit 1: Introduction 
+Mon, Jan 13 
+Jia 
+Introduction 
+Wed, Jan 15 
+Jia 
+Threat models 
+Fri, Jan 17 
+ 
+No recitation 
+Mon, Jan 20 
+ 
+No class MLK day 
+Wed, Jan 22 
+Jia 
+Basic security properties 
+Fri, Jan 24 
+ 
+No recitation 
+ 
+ 
+ 
+ 
+Unit 2: Cryptography basics 
+Mon, Jan 27 
+Jia 
+Cryptography I: history, symmetric key algorithms 
+Wed, Jan 29 
+Jia 
+Cryptography II: hash-based algorithms 
+Fri, Jan 31 
+ 
+Recitation for HW1 
+Mon, Feb 3 
+Jia 
+Cryptography III: public key algorithms, PKI 
+ 
+ 
+ 
+ 
+Unit 3: Access Control 
+Wed, Feb 5 
+Jia 
+Access control I: Operating Systems 
+Fri, Feb 7 
+ 
+Recitation for HW1 
+Mon, Feb 10 
+Jia 
+Access control II: Password/two factor 
+authentication 
+Wed, Feb 12 
+Jia 
+Access control III: Biba/BLP/information flow 
+security 
+Fri, Feb 14 
+ 
+Recitation for HW2 
+ 
+ 
+ 
+ 
+Unit 4: Software/hardware 
+Security 
+Mon, Feb 17 
+Woo 
+Buffer overflows 
+/basic software vulnerabilities 
+Wed, Feb 19 
+Jia 
+Hardware-based security  
+(TCG, SGX, TEE) 
+Fri, Feb 21 
+ 
+Recitation for HW3 
+Mon, Feb 24 
+Woo 
+Hardware Issues/ 
+Test 1 review 
+
+ 
+4 
+ 
+Wed, Feb 26 
+Woo 
+Test 1 
+Fri, Feb 28 
+ 
+Recitation for HW3 
+ 
+Mon, Mar 3 
+ 
+ 
+Wed, Mar 5 
+ 
+Spring Break 
+Fri, Mar 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mon, Mar 10 
+Woo 
+Web Security 
+Unit 5: Network/Web Security 
+Wed, Mar 12 
+Woo 
+Networks I: Network protocol vulnerabilities 
+Fri, Mar 14 
+ 
+Recitation for HW4 
+Mon, Mar 17 
+Jia 
+Networks II: DDoS attacks 
+ 
+ 
+ 
+ 
+Unit 6: Crypto Applications 
+Wed, Mar 19 
+Jia 
+Security protocols 
+Fri, Mar 21 
+ 
+Recitation for HW5/review of test 2 
+Mon, Mar 24 
+Jia 
+Security protocols (cont'd), SSL 
+Wed, Mar 26 
+ 
+Test 2 
+Fri, Mar 28 
+ 
+Recitation for HW5 
+Mon, Mar 31 
+Jia 
+Anonymity 
+Wed, Apr 2 
+Jia 
+Cryptocurrencies 
+Fri, Apr 4 
+ 
+Rcitation for HW6 
+ 
+ 
+ 
+ 
+Unit 7: Broader view of security 
+Mon, Apr 7 
+Jia 
+Usable security 
+Wed, Apr 9 
+Guest 
+lecture TBD 
+Fri, Apr 11 
+ 
+Carnival No class 
+Mon, Apr 14 
+Jia 
+Test 3 review 
+Wed, Apr 16 
+ 
+Test 3 
+Fri, Apr 18 
+Jia 
+case analysis check up 
+Mon, Apr 21 
+Jia 
+Case analysis 
+Wed, Apr 23 
+Jia 
+Case analysis 
+ 
+Fri, Apr 25 
+ 
+No recitation 
+ 
+ 
+ 
+
+ 
+5 
+ 
+Grading  
+ 
+The final course grade will be calculated using the following categories: 
+ 
+Assessment 
+Percentage of Final Grade 
+Participation 
+10% 
+Homework Assignments  
+50% 
+Tests 
+30% 
+Case analysis 
+10% 
+ 
+Course Resources  
+● 
+Canvas is the primary homepage for most course content. This includes Syllabus, readings, 
+announcements, and course calendar, and assignments.  
+● 
+Gradescope will be used for some assignment’s submissions.  
+● 
+Piazza will be used for discussions and questions.   
+● 
+Recorded Lectures: Within 24hours after class concludes, each class is uploaded for you to re-watch 
+online if you forget details of a lecture. Links to recordings will be posted on Canvas.  
+Course and Grading Policies 
+● 
+Language: This course is entirely taught in English, and all materials submitted by the students, including 
+homework, exams, assignments, and quizzes, must be submitted in English. In-class oral participation must 
+also be in English. Homework, quizzes or exams submitted in a language other than English will not be 
+graded. Please do not worry about making grammatical or vocabulary mistakes. We will never 
+penalize you for using improper grammar or vocabulary, as long as your statements remain clear 
+and unambiguous.  
+● 
+Lectures: We will not check attendance, but it is really in your best interest to attend each lecture. In-class 
+participation is encouraged and expected. In other words, please do ask questions and make constructive 
+comments during lectures. Additionally, you are only eligible to take quizzes if you attend class.  
+● 
+Auditors & Non-degree Students: Auditors are expected to attend lectures, but cannot submit homework, 
+hand in tests, or take exams. Auditors only get a record of the audit at the end of the semester. On the other 
+hand, non-degree students are subject to the same rules and expectations as degree students. 
+● 
+Cell Phone and Wi-Fi: Please remember to turn off or silence your phones (and other alarms) before each 
+class meeting. We will subtract i points from your total grade the i-th time your phone/alarm/pager rings in 
+class during the semester. No exceptions.  
+This semester involves regular use of technology during class. Research has shown that divided attention is 
+detrimental to learning, so we encourage you to close any windows not directly related to what we are doing 
+while you are in class. Please turn off notifications and limit other likely sources of technology disruption, so 
+you can fully engage with the material, each other, and the instructors. This will create a better learning 
+environment for everyone. If you do not have the necessary equipment, please contact your HUB 
+liaison who is available to help you tap into appropriate resources. 
+● 
+Late Homework Submission Policy: For full credit, homework must be turned in by 7:00PM EST 
+(Pittsburgh time) on the due date. You have three “grace days” that you can use at any time during the 
+
+ 
+6 
+ 
+semester for late homework. That is, you can turn in a total of two homework assignments a day late (“a day 
+late” is deﬁned as any delay between 0 and 24 hours after the deadline,) one homework two days late, etc. 
+You do not need to notify anyone prior to using (a) grace day(s). Assignments turned in late after “grace 
+credit” are used up will be penalized by 25% per day. Homework late by more than three days will not be 
+graded. Exceptions require either prior arrangement or doctor-validated medical excuse. 
+● 
+Re-grade policy:  Re-Grade requests will be processed via Gradescope for a limited time window. More 
+details will be posted on Pizza for each assignment about the deadlines when available. 
+● 
+Attendance and Participation: Students are expected to attend and participate in class sessions. Quizzes 
+and in-class activities will be administered to ensure that students are following and learning the material 
+covered in classes (see grading section below). That said, we also recognize that students may need to 
+miss class for a variety of reasons (religious observance, job interview, university-sanctioned event, or 
+illness). For that reason, all students are allowed to miss TWO quizzes that will not impact their participation 
+grade. There are no make-up quizzes. 
+● 
+Accommodations for students with disabilities: If you have a disability and have an accommodations 
+letter from the Disability Resources office, we encourage you to discuss your accommodations and needs 
+with us as early in the semester as possible. We will work with you to ensure that accommodations are 
+provided as appropriate. If you suspect that you may have a disability and would benefit from 
+accommodations but are not yet registered with the Office of Disability Resources, we encourage you to 
+contact them at access@andrew.cmu.edu. 
+● 
+Collaboration Policy. Students are encouraged to talk to each other, to the T.A.(s), to the instructor, or to 
+anyone else about any of the homework assignments. Any assistance, though, must be limited to 
+discussion of the problem and sketching general approaches to a solution. Each student must write 
+out their own solutions to the homework. Consulting another student’s solution is prohibited and 
+submitted solutions may not be copied from any source. These and any other form of collaboration 
+on assignments constitute cheating. Any form of collaboration is strictly prohibited on the quizzes and is 
+considered cheating. If you have any question about whether some activity would constitute cheating, 
+please feel free to ask. Cheating on an assignment/exam will result in failure of the course, and the 
+university administration (department, college) will be notiﬁed per the appropriate procedures. 
+Simply stated, feel free to discuss problems with each other, but do not cheat. It is not worth it, and you will 
+get caught. 
+Since the class allows for high-level discussions among students and to be clear we will provide examples 
+below of what is/isn’t High-level discussion. When in doubt about whether a discussion is allowed or not, 
+please reach out to the instructor and/or the TAs.  
+The following are examples for what is considered high-level discussion:  
+● 
+Mentioning/explaining GENERAL syntax. For example, how to “pipe” between C and a python 
+program.  
+● 
+Explaining Unix/Linux commands 
+● 
+Mentioning/explaining a good tool for debugging  
+● 
+Explaining the content from the book/lecture 
+● 
+Providing websites for tutorials or general information that would enhance everyone understanding  
+● 
+Sharing hints that originally came from TAs (TAs provide hints in recitations, office hours or campus 
+wire.) 
+ 
+The following are examples for what is NOT considered high-level discussion and will result in an

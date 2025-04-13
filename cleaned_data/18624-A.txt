@@ -1,0 +1,205 @@
+18-224/624: Intro to Open-Source FPGA and ASIC Chip Design 
+Spring Semester 2025 
+Course Personnel: 
+Instructor: 
+Bill Nace 
+A206 Hamerschlag Hall 
+wnace@cmu.edu 
+Office Hours: 1-3pm Wednesdays 
+Teaching Assistants: 
+Guarav Savant
+Petros Emmanouilidis 
+gsavant@andrew.cmu.edu 
+pemmanou@andrew.cmu.edu 
+Office Hours: TBA 
+Office Hours: TBA 
+Academic Services: 
+ECE Course Hub (aka Academic Services Center) 
+1113 Hamerschlag Hall 
+The ECE Hub is open Monday-Friday, 9am-5pm 
+Class Schedule: 
+Lecture:  
+Tuesday & Thursday, 2:00 p.m. – 3:20 p.m., PH 126A 
+Pre-requisite: 18-240, grade of C or better. 
+Undergraduate Course Designation: Non-Core, Non-Area 
+Undergraduate Course Area: Computer Hardware 
+Course Description: 
+This course is a low-barrier to entry introduction to chip design.  Using open-source 
+tools, the student will learn how to design, implement, emulate, and verify an ASIC 
+chip.  Along the way, the student will be exposed to many common tools and 
+techniques in the chip-implementation area.   
+For the final project in the course, students will tapeout a non-trivial digital design, to 
+be fabricated using an open-hardware flow.  It may take six to twelve months, but 
+students will eventually end up with an actual chip that contains their design. 
+Textbook: 
+None 
+
+Course Canvas: 
+We will use Canvas to communicate with you (announcements, copies of handouts, 
+lab support files, etc).  Access is through: www.cmu.edu/canvas. 
+Piazza Question Website: 
+The 18-224/624 staff is committed to answering any questions you may have in order 
+to help clarify concepts and concerns.  We use the Piazza website as our primary 
+mechanism to help with such questions.  Students are encouraged to answer, 
+discuss, or comment on any question posted on Piazza.  Our course page is found at 
+https://piazza.com/cmu/spring2025/18224624/home. 
+Mailing list: 
+Any email sent to ece224-staff@lists.andrew.cmu.edu will be delivered to all TAs and 
+the Professors.  We encourage you to use Piazza for questions, but will answer 
+anything sent to this email list as well.  Please use this email address rather than 
+sending email directly to a particular TA or Professor. 
+Exercise Handin 
+Some exercises will be turned in using Gradescope.  You will receive an invitation to 
+the Gradescope course during the first week of the semester. 
+
+Grading Algorithm: 
+Your grade in 18-224/624 will be calculated based on your performance on a number 
+of events.  A weighted average will be computed using the following weights: 
+When calculating mid-term grades, no homework or quiz grades will be dropped.  
+Both midterm and final grades will be assigned based on the following grading 
+contract.  The instructor reserves the right to assign higher grades than guaranteed by 
+the contract.  Such a modification will apply equally to all students in the course (i.e. in 
+no instance will a student with a lower average than another student obtain a higher 
+letter grade) 
+Weight
+Event
+224
+624
+30%
+25%
+Exercises and Homework.  The 2 lowest scoring will be 
+dropped to allow for handin troubles, illness, travel, 
+interviews, weddings, funerals or other personal issues.
+30%
+25%
+Quizzes.  Roughly weekly, there will be a quiz at the 
+beginning of the exercise class.  Quiz material will mostly be 
+drawn from the previous lecture, though about a quarter of 
+each quiz will come from previous weeks.  The 2 lowest 
+scoring quizzes will be dropped to allow for illness, travel, 
+interviews, and etc. A missed quiz cannot be made-up.
+10%
+Paper Review.  Those taking 18-624 will critically review an 
+academic paper about a topic from the class.  The review 
+will be written as an academic literature review.
+10%
+10%
+Participation.  Active participation in lecture and exercise 
+classes. You don't get these points merely for showing up.  
+Instead, you get them for asking questions, making 
+comments, and being actively involved for the time you 
+spend in-class.
+30%
+30%
+Project.  The chip tapeout is pretty much the focus of the 
+entire course.  You will be graded on meeting intermediate 
+and final milestones as well as the complexity and design of 
+your project.
+
+Extra Credit: Only graded events offered to all students in the course will be 
+considered for the final grade.  No individual will be offered “extra-credit” or a “make-
+up project” to improve their grade, as that would not be fair to other students.  If you 
+wish to have a better grade, don’t wait until after the final to ask -- the only way to get 
+a better grade is to do better work (and thus learn more) throughout the semester. 
+Grading Appeals:  If you believe there has been a mistake in the grading of any 
+assignment (Homework, Exercise or Quiz), then please bring it to our notice so we 
+might correct it.  Grade appeals must be submitted in writing within 1 week of the 
+date where material was returned/released.  Appeals may be made on Gradescope 
+(for homework and exams) or on Piazza (in a private post). 
+Accommodations for Students with Disabilities: 
+If you have a disability and are registered with the Office of Disability Resources, 
+please come and talk to me to discuss your needs.  You will also need to use their 
+online system to formally notify me of your accommodations. I will work with you to 
+ensure that accommodations are provided as appropriate.   
+If you suspect that you may have a disability and would benefit from accommodations 
+but are not yet registered with the Office of Disability Resources, I encourage you to 
+contact them at access@andrew.cmu.edu. 
+Your Health and Well-being 
+Things at CMU can get stressful at times. Please remember to take good care of 
+yourself! It is important for you to stay healthy, and to reach out to your support 
+network and to other resources that can help you when things start feeling difficult. 
+Know that you are not alone - all of us can feel overwhelmed at times, and all of us 
+benefit from help and support during those times. There are several resources that we 
+encourage you to make use of if you are going through any sort of struggle. 
+Sometimes, even if you don't think that you need it, or that it's not serious enough to 
+warrant reaching out, you may be surprised at how friends, family, course staff, and 
+professionals can help you - consider reaching out to any of them you trust for help, 
+or to get connected to resources that can provide the help you could use. 
+Weighted Average
+Letter Grade
+>= 90%
+A
+>= 80%
+B
+>= 70%
+C
+>= 60%
+D
+< 60%
+R
+
+An excellent resource at CMU is Counseling and Psychological Services (CaPS) - they 
+are excellent listeners, and can help you through a wide variety of situations (including 
+ones that many of you may not consider when you hear the terms counseling and 
+psychology).  CaPS is available for students on and off campus, and can help you 
+with situations such as academic stress, difficult life events, or feelings such as 
+anxiety or depression. 
+Counseling and Psychological Services (CaPS) 
+https://www.cmu.edu/counseling/ 
+(412) 268-2922 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone 
+immediately, day or night: 
+CaPS: (412) 268-2922 
+Re:solve Crisis Network: (888) 796-8226 
+If the situation is life threatening, call the police 
+On campus: CMU Police: (412) 268-2323 
+Off campus: 911 
+Finally, if you have any questions about this, or would like to talk, please do not 
+hesitate to reach out to one of us. 
+Policies Related to Diversity and Inclusion 
+We believe that every human being is special and precious and deserving of respect.  
+Unfortunately, many have been treated in non-respectful ways, often horrifyingly so, 
+based on their gender, race, age, sexuality, disabilities, or other status.  We will do 
+everything possible to ensure that all students are treated with the respect they 
+deserve while participating in this course.  Such respect requires that every student's 
+diverse learning needs are addressed and that all student's diverse perspectives are 
+treated as a source of strength and a benefit for all in the course. 
+If you feel you have been treated otherwise by professors, course staff or other 
+students, you are encouraged to discuss the situation with the professors.  We will 
+take the situation seriously, provide you with anonymity, and act on the information. 
+You should also know that there are department and university-level resources as well: 
+• ECE Diversity Committee Feedback Form: Submit positive or negative feedback 
+regarding the department in general, a specific course, or an incident they may have 
+experienced to this link: https://forms.gle/zmGo8SaoPH8trkEN8 
+• Campus Climate and Bias Reporting Protocol: cmu.ethicspoint.com. More 
+information is available at the CCBRP website: cmu.edu/title-ix/how-to-report-+-
+options-for-resolution/ccbrp/index.html 
+Further, your suggestions on how we can do a better job in these areas is encouraged 
+and appreciated.  Please let us know of any areas of improvement. 
+
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the 
+courses you take.  The following list describes which objectives are fulfilled by 18-224 
+and in what manner they are fulfilled.  The objectives are numbered from “1” through 
+“7” in the standard ABET parlance.  Those objectives not fulfilled by 18-224 have 
+been omitted from the following list. 
+(1) An ability to identify, formulate, and solve complex engineering 
+problems by applying principles of engineering, science, and 
+mathematics:  The course poses many problems; on homework, in exercises, 
+and, especially, for the tapeout project.  The student will use mathematical and 
+engineering concepts to model and design digital circuits and to solve 
+complex problems in the digital design and computer architecture domain. 
+(2) An ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, 
+as well as global, cultural, social, environmental, and economic factors: 
+The course is an introduction to the field of chip design, so the student will 
+start to gain insight into the process of applying their digital design skills to 
+build systems with specified requirements.  Some economic and 
+manufacturability constraints will be discussed.  At all appropriate points, 
+safety will be emphasized. 
+(6) An ability to develop and conduct appropriate experimentation, 
+analyze and interpret data, and use engineering judgment to draw 
+conclusions: Exercises and the tapeout project provide for the opportunity to 
+conduct experiments.  The student will design experiments and analyze data 
+throughout the debugging process in order to generate a functioning product.

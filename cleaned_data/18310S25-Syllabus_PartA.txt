@@ -1,0 +1,385 @@
+1 
+                                                                                                                       
+Course Syllabus 
+18310: Fundamentals of Semiconductor Devices   
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Jian-Gang (Jimmy) Zhu 
+Office Location:   
+REH 348 
+Email Address:    
+jzhu@cmu.edu 
+Office Hours:  
+Tuesdays:  2:00pm-4:00pm  
+ 
+Instructor: 
+ 
+Xu Zhang 
+Office Location:   
+REH 231 
+Email Address:    
+xuzh@cmu.edu 
+Office Hours:  
+Mondays: 4:00-6:00pm 
+ 
+Teaching Assistant: Serena Shih    
+Email Address: 
+serenas@andrew.cmu.edu 
+Office Hours:  
+Fridays: 3:00-4:00pm (REH 351) 
+ 
+Teaching Assistant: Zhixing  Wang   
+Email Address: 
+zhixing2@andrew.cmu.edu 
+Office Hours:  
+TBD (REH 351) 
+ 
+Teaching Assistant: Gongwei Wang   
+Email Address: 
+gongweiw@andrew.cmu.edu 
+Office Hours:  
+Tuesdays: 2:30pm-3:30pm (REH 351) 
+ 
+Teaching Assistant: Tiancheng   Zheng 
+Email Address: 
+tzheng3@andrew.cmu.edu 
+Office Hours:  
+Mondays: 1:00pm-2:00pm (REH 351)
+Course Description:    While covering fundamentals of semiconductor devices, this 
+course emphasizes the link between basic principles and device design and introduces 
+physical concepts via practical applications. The spectrum of the course spans from the 
+basic semiconductor theory concepts to future transistor designs. 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18100 or 18220 or equivalent 
+
+ 
+2 
+ 
+Class Lecture: 
+MW    2:00pm – 3:20pm 
+DH 1212   
+Recitation: 
+ 
+F    
+2:00pm – 2:50pm 
+DH 1212  
+ 
+Suggested Textbook:            Modern Semiconductor Devices for Integrated Circuits  
+Chenming Calvin Hu  
+ISBN: 978-0136085256 
+ 
+Course Canvas:     Canvas login page: https://cmu.instructure.com/. You should check 
+the course Canvas daily for announcements and handouts.  
+ 
+Grading Algorithm:  
+Homework assignment will be given on Wednesday and is 
+due 11:59pm on Tuesday the week after.   
+  
+Homework submission is through Gradescope 
+  
+Late homework submission policy:  
+2- day late: 10% deduction;  
+  
+2-day late: 25% deduction.  
+  
+No submission will be accepted after 48 hours past due. 
+ 
+  
+There will be an in-class multiple-choice quiz for each 
+lecture.  
+ 
+Lecture Quizzes 
+ 
+ 
+15% 
+Homework  
+ 
+ 
+ 
+25% 
+Exam 1  
+ 
+ 
+ 
+20% 
+Exam 2  
+ 
+ 
+ 
+20% 
+Exam 3  
+ 
+ 
+ 
+20% 
+ 
+ 
+ 
+ 
+ 
+A                     
+ 
+ 
+>= 90 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+>= 80 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+ 
+ 
+>= 70 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ 
+ 
+>= 60 
+ 
+ 
+ 
+ 
+ 
+No curve in grading 
+ 
+ 
+Important Dates: 
+ 
+ 
+Wednesday, February 12 (Lecture Time) 
+ 
+ 
+Exam 1 
+ 
+Wednesday, March 26     (Lecture Time) 
+ 
+ 
+Exam 2 
+ 
+Final Exam Scheduled Date/Time       
+ 
+ 
+Exam 3  
+ 
+ 
+ 
+
+ 
+3 
+ 
+Course Tentative Schedule  
+ 
+Date 
+Day 
+Content 
+HW 
+Term 1 
+ 
+ 
+ 
+1/13 
+M 
+L01   Course Syllabus and Introduction 
+HW 1 
+1/15 
+W 
+L02   Charge Carriers and Current 
+ 
+1/17 
+F 
+                                        R01   Recitation 
+ 
+1/20 
+M 
+MLK Jr. Day (No Classes) 
+ 
+1/22 
+W 
+L03   Fermi Level, Electric Field and Electrical Potential 
+HW 2 
+1/24 
+F 
+                                         R02   Recitation 
+ 
+1/27 
+M 
+L04   Recombination and Generation Processes 
+ 
+1/29 
+W 
+L05   Diffusion 
+HW 3 
+1/31 
+F 
+                                         R03   Recitation 
+ 
+2/03 
+M 
+L06   Carrier Mobility 
+ 
+2/05 
+W 
+L07   Drift and Diffusion 
+HW 4 
+2/07 
+F 
+                                          R04 Recitation 
+ 
+2/10 
+M 
+L08    Exam 1 Review  
+ 
+2/12 
+W 
+Exam 1 
+ 
+2/14 
+F 
+R05:    IC Fabrication 
+ 
+Term 2 
+ 
+ 
+ 
+2/17 
+M 
+L09     P-N Junction 
+ 
+2/19 
+W 
+L10     Junction Diode 
+HW 5 
+2/21 
+F 
+                                         R06 Recitation 
+ 
+2/24 
+M 
+L11     Photodiode  
+ 
+2/26 
+W 
+L12     Solar Cell 
+HW 6 
+2/28 
+F 
+                                         R07 Recitation 
+ 
+3/03-3/07 
+ 
+Spring Break 
+ 
+3/10 
+M 
+L13     MS Contact 
+ 
+3/12 
+W 
+L14     BJT Fundamentals 
+HW 7 
+3/14 
+F 
+                                         R08  Recitation 
+ 
+3/17 
+M 
+L15      BJT Amplifier 
+ 
+3/19 
+W 
+L16      Reverse Break Down 
+HW 8 
+3/21 
+F 
+                                         R09  Recitation 
+ 
+3/24 
+M 
+L17      Exam 2 Review 
+ 
+3/26 
+W 
+Exam 2  
+ 
+3/28 
+F 
+                                         No Recitation 
+ 
+Term 3 
+ 
+ 
+ 
+3/31 
+M 
+L18       MOS-Fundamentals 
+ 
+4/02 
+W 
+L19       MOS Capacitor 
+HW 9 
+4/04 
+F 
+                          No Recitation (Spring Carnival) 
+ 
+4/07 
+M 
+L20       MOSFET Fundamentals 
+ 
+4/09 
+W 
+L21       MOSFET Continue 
+HW 10 
+4/11 
+F 
+                         R10 Recitation 
+ 
+4/14  
+M 
+L22       MOS Applications           
+ 
+4/16 
+W 
+L23       Advanced Semiconductor Technology 
+HW 11 
+4/18 
+F 
+Recitation 
+ 
+4/21 
+M 
+L24        2D Electronics  
+ 
+4/23 
+W 
+L25        Exam 3 Review 
+ 
+TBD 
+ 
+Exam 3  (Final Exam Date/Time) 
+ 
+
+ 
+4

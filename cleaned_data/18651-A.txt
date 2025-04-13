@@ -1,0 +1,358 @@
+Course Syllabus
+Jump to Today
+>> Calendar <<
+(https://docs.google.com/document/d/1sn6534UfT2F_7hnW
+Jkxq2QSMvakkwEghs25OuiXfk/edit?usp=sharing)
+Teaching Team
+Instructor: Prof. Hakan Erdogmus
+Office Location: HH A203
+Email Address:  hakane@andrew.cmu.edu
+Office Hours: Tuesday 2:30-4:30 pm
+Teaching Assistants:   
+Jim Guo
+Email: jhguo@andrew.cmu.edu
+Office Hours: Thursday 4:00-6:00 pm over Zoom (link:
+https://cmu.zoom.us/j/98991770109?
+pwd=wm8lG95Lh7tk5GeG9kZHQmNhfpl4tc.1
+(https://cmu.zoom.us/j/98991770109?
+pwd=wm8lG95Lh7tk5GeG9kZHQmNhfpl4tc.1) )
+Christine Li
+Email: christineli@cmu.edu
+Office Hours: Wednesday 7:30-9:30 pm over Zoom (link:
+https://cmu.zoom.us/my/bingchengli
+(https://cmu.zoom.us/my/bingchengli) )
+Administrative Support
+
+Provided by the ECE Academic Services Center
+Office Location: HH 1113
+Website: https://www.ece.cmu.edu/academics/academic-services-
+center.htm (https://www.ece.cmu.edu/academics/academic-services-center.html)
+Schedule
+Tuesday: Period 1 (110 minutes)  -- DH 2122 @12:00-1:50 pm ET
+Thursday: Period 2 (110 minutes) -- DH 2122 @ 12:00-1:50 pm ET
+Check the Course Calendar for activities and topics for each date. 
+Features
+Description: This course will introduce the principles, concepts, technologies, and
+practices of full-stack software development for creating end-to-end web
+applications using a classical client-server architecture and the model-view-
+controller pattern. Students will acquire basic front-end and back-end skills and
+learn how to apply modern development practices in the context of an individual
+hands-on project using the plain web stack for the front-end using TypeScript for
+client-side code, TypeScript and a NoSQL database layer for the back-end, and
+other common libraries, light-weight frameworks, and tools as adjuncts. They will
+practice how to version-control the codebase, manage a small project, transform
+requirements expressed as user stories into working software in an incremental
+manner, maintain code quality, build their application on an integration server, and
+deploy it on the cloud. To enroll in this course, students must already be proficient
+in coding using multiple programming languages and familiar with the basics of
+algorithms, data structures, databases, and software design principles, including
+object-orientation. Each student will need their own laptop computer to use in
+the course. 
+Relevance: 18351 enhances the everyday software skills of engineering students
+who have a strong programming orientation and experience with multiple
+programming languages from previous courses, and who already possess
+intermediate knowledge of programming concepts, data structures, and algorithms
+
+and basic knowledge of software design. It teaches them the main tools, practices,
+and technology stacks necessary for creating end-to-end web applications.
+Additionally, the course prepares the students for a new course 18352 (Essentials
+of Software Engineering, planned for Spring 2025) by teaching them the requisite
+knowledge and technologies used in that course’s team project component. 
+Level: Undergraduate
+BS in ECE Requirements: counts towards
+The Coverage Requirement
+or
+The Software Systems Area Requirement
+Graduate Level Cross-list: 18651
+Students wishing to take the course at the graduate level and receive MS credits
+should enroll in 18651. Lectures, quizzes, and class activities will be shared with
+18351, but 18651 students will receive additional assignments and project
+deliverables. 
+Number of Units: 12
+Prerequisite Knowledge: Students must have strong programming skills, be
+proficient in coding using multiple programming languages, and familiar with the the
+basics of algorithms, data structures, databases, and software design principles,
+including object-orientation. This knowledge is typically acquired by taking at least
+two semester-long programming-intensive courses at CMU. Prior knowledge of
+web-application development and underlying technologies or TypeScript is not
+required. 
+Pre-requisite Courses: 15-122 (minimum B)
+Co-requisites: None
+Anti-req Prohibits: None
+Structure and Contact Hours: This course has 4 weekly contact hours divided
+into two periods. Contact hours consist of lectures, ungraded exercises, graded lab-
+
+like activities (in-class tasks), and project audits. It consists of 14 teaching weeks,
+excluding the mid-semester break. The course employs an individual project that
+starts on week #2 and ends on the last week of the course. On a weekly basis,
+students apply recently introduced concepts on their class project. During project
+audits, students present their work and project deliverables to the class. Since
+assessments and project work build on each other, students must complete the
+weekly work in a timely manner to be successful in the course. 
+Assessment Requirements: Students’ skills and learning are assessed through
+short quizzes on recently covered materials, live project audits performed in class,
+graded development-related tasks (take-home or performed in class), and project
+deliverables submitted on a weekly basis. There is no midterm or final exam.
+Minimum Project Requirements for a Passing Grade: To achieve a passing
+grade, students must meet the Minimum Project Requirements stated below by the
+last period the course. These requirements are clearly stated in the corresponding
+Canvas component: please make sure to review them. If these Minimum Project
+Requirements are not met, the student's final grade will automatically be an F
+(undergraduate students) or an R (graduate student) regardless of the total points
+received in the course.  Once these requirements are met, the student's final letter
+grade will be determined by the total points achieved according to the Letter Grade
+Schema provided below. Minimum Project Requirements do not guarantee a
+passing grade: based on the total points achieved, the student's final letter grade
+may still be an F or an R even if the Minimum Project Requirements have been
+met. 
+Time Commitment: A student who meets the prerequisites and has reasonably
+strong programming skills is expected to spend about eight hours outside the class
+periods for studying, assessments, miscellaneous tasks, and project work. This
+commitment may be substantially higher for students with less programming
+experience. Project deliverables build on previous work. Therefore, the course
+requires consistent effort from beginning to end to stay on top of the project work to
+achieve passing performance.  Students should not underestimate this expectation
+
+and the weekly effort required on an ongoing basis to pass the course. Consistent
+progress is a must. 
+The Course Calendar specifies when work on an individual component should start
+and and when it is due in order to receive credit without late penalties. 
+List of Topics Covered: Fundamentals of full-stack development, tooling and
+development workflow, tiered applications, the client-server architecture, HTTP and
+JSON, the Model-View-Controller architectural pattern, development approaches
+and methods, expressing requirements with user stories, managing a software
+project using a Kanban-style project board, version control with Git/GitHub
+(including Git workflows, dealing with merge conflicts, pull requests), issue tracking,
+front-end development (the Web Stack, HTML, CSS, client-side and server-side
+rendering, templating engines), multi-paradigm programming for the front- and
+back-end in TypeScript (types, objects, classes, interfaces, functional programming
+style), asynchronous behavior and promises, back-end development (light-weight
+back-end frameworks, back-end application flow, authentication with web tokens),
+types of databases, NoSQL databases, object-document mappers, client-server
+interaction (HTTP, RESTful services, web sockets), continuous integration and
+deployment (building and deploying your application on the cloud), browser-based
+system testing. 
+Tools and Technologies: The course is technology-heavy and tool rich. In addition
+to the languages, libraries, and software stacks used in the project component,
+students will use a modern integrated development environment such as Visual
+Studio Code, Git/GitHub and several of the GitHub suite of tools (including GitHub
+Classroom for their project deliverables, GitHub CodeSpaces as a cloud-based
+integrated development environment, GitHub Issues for logging bugs, GitHub
+Projects for managing their weekly tasks, and GitHub Actions for continuous
+integration and deployment), a code formatter (Prettier) and a static analyzer
+(ESLint) for maintaining code quality, a cloud-based application hosting service for
+deployment, a build and bundling tool for building the application and bundling the
+built application for deployment, a cloud-based NoSQL database system, a web-
+based testing tool, and other tools as necessary. 
+
+Learning Resources and Reference Materials: The course will rely on lecture
+notes, a project repository populated with starter code with a pre-existing
+architecture, code examples and templates, and vetted external readings, short
+tutorials, and videos from public online sources. A textbook is not be required.  
+Course Materials and Forum: The course is hosted on Canvas, where all course
+materials will be available. Quizzes will be deployed and conducted in person
+during classes on Canvas using the Lockdown Browser. Piazza, which will be
+accessible from Canvas, will be used for announcements, discussions, and
+questions related to the subject matter. Students should frequently check the
+course Canvas site and the Course Calendar to monitor important milestones,
+upcoming topics, suggested start dates for work due, deadlines, announcements
+(via Piazza), discussions (via Piazza), and their grades and cumulative
+performance.
+Grading Rubric
+Component Performance
+Criterion
+Weight
+(%)
+Notes
+Quizzes
+Individual
+30%
+Conducted in-class on a weekly basis
+(no late submissions, allowance to miss
+a few quizzes as stated in grading policy)
+Project
+Deliverables
+&
+Preparation
+Tasks
+Individual
+45% + 5%
+= 50%
+Submitted and assessed on a weekly
+basis (late submissions permitted with or
+without penalties as per grading policy)
+
+In-class
+Activities
+Individual
+10%
+Submitted and assessed on a weekly
+basis (attendance required, no late
+submission)
+Project
+Audits
+Individual
+10%
+Audits are short, breakout group
+presentations showcasing a student's
+recent project work, reflecting on
+achievements and challenges, and
+involving code walkthroughs (attendance
+required, no late submission)
+Letter Grade Interpretation
+Undergrad Graduate  Performance Interpretation
+A
+A, A-
+Excellent - Excellent performance and quality of work
+along all dimensions
+B
+B+, B, B-
+Good - Good performance and quality of work in most
+dimensions and excellent performance and quality of work
+in at least one dimension
+C
+C+, C
+Satisfactory - Acceptable performance and quality of
+work in most dimensions and good performance and
+quality of work in at least one dimension 
+D
+C-, D+,
+D, D-
+Passing, but ineligible for graduate degree requirements
+F
+R
+Failing - Unacceptable performance and quality of work in
+one or more dimensions 
+
+Letter Grade Schema
+Graduate Undergrad Range
+A
+A
+100 - 94%
+A-
+93.99 - 90%
+B+
+B
+89.99 - 87%
+B
+86.99 - 84%
+B-
+83.99 - 80%
+C+
+C
+79.99 - 77%
+C
+76.99 - 74%
+C-
+73.99 - 70%
+D+
+D
+69.99 - 67%
+D
+66.99 - 64%
+D-
+63.99 - 61%
+R
+F
+60.99% - 0%
+Course Goals and Learning Objectives
+By the end of this course, you will:
+Acquire the basic skills expected of a full-stack software developer, including
+essential development tools, development environments, technical practices,
+quality practices, and project management practices. 
+Learn and use TypeScript as a unifying programming language for both the front-
+end and back-end of a web application. 
+Build a typical, modern web application that has all the core elements using
+state-of-the-art software stacks and technologies.
+Apply proven architectural patterns, programming paradigms, and design
+principles to structure and implement your web application. 
+Integrate and deploy your web application using cloud services. 
+Develop a foundation for building complex software systems using more
+thorough and advanced software engineering principles and processes.   
+
+Education Objectives (Relationship of Course to Program Outcomes): 
+The ECE department is accredited by ABET to ensure the quality of your
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total
+of all the courses you take.  The following list describes which objectives are
+fulfilled by this course and in what manner they are fulfilled. The objectives are
+numbered from “1” through “7” in the standard ABET parlance. Those objectives not
+fulfilled by this course have been omitted from the following list:
+1. An ability to identify, formulate, and solve complex engineering problems by
+applying principles of engineering, science, and mathematics: Building a typical
+web application requires a complex system of many tools, platforms, and
+software stacks, all put together on a strong computer science foundation and
+using proven software design principles, architectural patterns, and software
+engineering practices. From a systems perspective, students apply their
+learnings to rationalize, use, and assemble the underlying technologies in a
+systematic manner throughout a course project that builds a typical, end-to-end
+web application. Smaller hands-on class exercises allow the students to apply
+the same engineering skills and practices individually in more isolated,
+constrained settings.
+2. An ability to apply engineering design to produce solutions that meet specified
+needs with consideration of public health, safety, and welfare, as well as global,
+cultural, social, environmental, and economic factors: The course project is
+driven by a set of user requirements and schedule, quality, and architectural
+constraints, which the students must meet. Students receive the requirements in
+an incremental manner to learn how to extend an existing partial solution and
+regularly demonstrate that their evolving solutions meet these requirements. At
+project end, they will test their solutions using automated techniques to ensure
+compliance with the requirements.
+3. An ability to communicate effectively with a range of audiences: During regular
+project audits, students must articulate their solutions, reflect on the engineering
+practices used and  challenges faced, showcase their accomplishments, and
+explain their design and implementation choices on their project codebase.
+
+4. An ability to recognize ethical and professional responsibilities in engineering
+situations and make informed judgments, which must consider the impact of
+engineering solutions in global, economic, environmental, and societal contexts:
+The course instills a quality mindset in students to encourage engineering
+professionalism through design principles, quality checks, and testing. Students
+use software code quality tools to preserve the integrity of their codebase,
+enforce sound implementation standards, and prevent errors. They employ
+testing strategies and tools to make sure their implementations work as
+expected.
+5. Not applicable.
+6. Not applicable. 
+7. An ability to acquire and apply new knowledge as needed, using appropriate
+learning strategies: Students need to to consult online sources to check
+reference documentation for the many software technologies needed, find
+example usages, devise coding solutions from these examples, test these
+solutions, and adapt and integrate them to their projects. They are allowed to
+use generative-AI systems and AI-based coding aids (subject to certain
+conditions) to get exposure to the proper and effective use of these tools as such
+tools become increasingly more pervasive in software development in
+professional settings. 
+Applicable Policies
+All of the following university and departmental policies apply, in all respects, to this
+course.
+Course Policy on Borrowing Source Code from Online Sources and Using
+Generative AI Tools and AI-Based Coding Aids: For the project work, the use of
+online searches, StackOverflow and similar coder forums, ChatGPT, GitHub
+Copilot, and similar generative-AI or rule-based-AI tools and systems are permitted
+under the following conditions: (1) the tools must be used for solving small,
+contained coding problems within the project to produce code templates or
+function-level or line-level code fragments (element-level and rule-level for HTML
+and CSS, respectively), generate comments and documentation, receive
+
+explanations of own code fragments or external code fragments, or generate and
+inspect API specifications; (2) the student must fully understand the generated
+solutions and be able to explain and rationalize them in the project's context during
+project audits or during one-on-one interactions with the Teaching Team; (3)
+students should keep a record of the prompts, search terms, and links to online
+sources and must be able to produce the prompts, search terms, or links used for
+the generated or borrowed solutions; (4) the solution must comply with the project
+requirements and not violate its architectural, structural, and design constraints; (5)
+the solution must be properly and fully adapted when it’s incorporated into the
+project codebase (with proper restructuring, renaming of and changes to code
+abstractions, additions, and deletions); and (6) students use generated solutions at
+their own risk since these solutions may simply be wrong (so-called "hallucinations"
+in AI terms), may not work in the project’s context, may be too fragile to be
+effective, violate project constraints, or overly complicated to warrant grade
+deductions ("I borrowed this solution from source X" is not a valid excuse); (7) The
+Teaching Team will not help correct issues arising from borrowed or generated
+code; (8) students are not allowed to use Generative AI or other online sources for
+quizzes and other graded assessments outside the project. Note that GitHub
+Copilot is currently free through GitHub Education benefits for students who join the
+GitHub Student Developer Pack, however this may change at GitHub's discretion
+any time. 
+ECE

@@ -1,0 +1,215 @@
+1  
+  
+  
+ 
+  
+Course Description  
+  
+An introduction to the fundamental principles and methodologies of classical feedback control and 
+its applications. Emphasis is on problem formulation and the analysis and synthesis of 
+servomechanisms using frequency and time domain techniques. Topics include analytical, 
+graphical, and computer-aided (MATLAB) techniques for analyzing and designing automatic 
+control systems; analysis of performance, stability criteria, realizability, and speed of response; 
+compensation methods in the frequency domain; systems with delay and computer control 
+systems; transfer function and state space modeling of linear dynamic physical systems; 
+nonlinearities in control systems; and control engineering software (MATLAB). The full list of 
+topics, timelines, reading materials, and (future) lecture note can be found in this website.  
+https://yorie.notion.site/F24-18370-Fundamentals-of-Control-
+ea8706eebdd841d28850cd65f5721b7a?pvs=4 
+  
+Prerequisite: 18220 or 18290 or 24352 
+ECE Undergraduate Course Area: Signals and Systems  
+ECE Undergraduate Course Designation: Breadth  
+ 
+Learning objectives   
+  
+In this class, you will  
+• Learn the basics of control theory (see semester schedule for the list of topics)  
+• Design and conduct experiments, as well as analyze and interpret data  
+• Design a system, component, or process to meet desired needs within realistic constraints 
+such as safety and robustness   
+• Identify, formulate, and solve engineering problems  
+ 
+Through these experiences, you will improve  
+• Understanding for control systems  
+• The knowledge of mathematics, science, and engineering  
+• Brainstorming, information gathering, and technical writing skills   
+  
+  
+  
+  
+  
+  
+18 - 370   Fundamentals of Control 
+   
+Fall2024    
+ 
+ 
+ 
+Lecture times: MW 1:00 PM-2:50PM 
+  
+  
+Lecture location: GHC 5222 
+  
+Units: 12  
+ 
+
+2  
+  
+• Your ability to plan a project, manage time, and work with people   
+ 
+The ECE department is accredited by ABET to ensure the quality of your education.  In the context 
+of ABET to ensure the quality of your education.  The following list describes which objectives 
+are fulfilled by this course and in what manner they are fulfilled. 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics 
+5. an ability to function effectively on a team whose members together provide leadership, 
+create a collaborative and inclusive environment, establish goals, plan tasks, and meet 
+objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret data, 
+and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning 
+strategies. 
+ 
+ 
+Instructor information  
+  
+Instructor: Yorie Nakahira   
+ 
+Contacts for the class: If you need to contact us, please send us private message via Piazza. The 
+instructor and TAs are taking turns to monitor Piazza 7 days a week. The personal email address 
+of the instructors and TAs aren’t necessarily monitored during travel and weekend.   
+  
+Office hours and location: Please check canvas announcement for the location and zoom link for 
+the office hours.   
+ 
+Learning Resources   
+ 
+Textbooks: This class uses the following two textbooks.   
+Åström, K. J., & Murray, R. M. Feedback Systems: An Introduction for Scientists and Engineers, 
+Second Edition.  
+Doyle, John C., Bruce A. Francis, and Allen R. Tannenbaum. Feedback control theory. Courier 
+Corporation, 2013.  
+ 
+Canvas: Canvas will provide additional materials and homework assignments. Submit your 
+assignments through Canvas. To access the course canvas from an Andrew Machine, go to the 
+login page at: https://canvas.cmu.edu/courses/43395. You should check the course canvas for 
+announcements.  
+ 
+MATLAB/Simulink: We will use MATLAB and Simulink in class and in homework assignments.   
+  
+Piazza: This is the link: https://piazza.com/cmu/fall2024/18370/home 
+Before you can access this link, you should sign up through the following link.  
+
+3  
+  
+https://piazza.com/cmu/fall2024/18370 
+The sign up link requires access code, which is given in the first day of class.  
+ 
+If you have any questions, you can either come to the office hours or ask questions in Piazza.   
+ 
+Assessment Descriptions and Grading Policies  
+ 
+Homeworks: The exact homework due date will be announced on canvas, after the materials of 
+covered by individual homework are covered in the class. Homework sets will comprise problems 
+that reinforce learning and understanding material from the lecture and textbook. You may discuss 
+in groups on homework, but each individual needs to solve the problems by yourself. Homework 
+answers will be posted on canvas 2 days after the due date. We highly encourage you to review 
+past homework assignments in a timely manner. In general, timely reviews will allow you to learn 
+from past mistakes and better understand the materials.   
+  
+Projects: The projects will be graded based on the report and experiment results. You are 
+encouraged to search for materials in textbooks and external resources for the projects. Please cite 
+all external materials and include the chapter number and algorithm names used. Sample project 
+report (solutions) will be posted on canvas 2 days after the due date.   
+ 
+Attendance and participation policy: In the beginning of the class, we will collect attendance 
+sheet. Please indicate full attendance or partial attendance. Partial attendances are defined by late 
+arrival and departure before end of lectures (absence in Q&A times and office hours will not be 
+penalized). Partial attendance receives 50% of credit for full attendance. You have 3 points of 
+allowance for full absence (6 times of partial attendance) without any penalty. Attendance will not 
+be collected on dates when the lectures are delivered via zoom or in the days of mid-term or final 
+exams. While we may not always check the accuracy of your input, false statement is a violation 
+of integrity, and deliberate false statements may be reported. Here, false statement includes 
+reporting the attendance to a class that is not attended or reporting full attendance for partially 
+attended classes.  
+ 
+Attendance and participation are important to get the most from this course. In the past years, 
+students who attend the class and actively answer questions during the class tended to perform 
+better in assignments. We will also expect to receive important information about homework and 
+project assignment.  
+ 
+Mid-term and final exams: The exam questions will be based on all materials taught in the class 
+one week before the exams. We encourage students to review lecture notes and homework 
+questions when preparing for the exam.   
+ 
+If you cannot attend the exam due to urgent medical issues, please contact the instructor before the 
+exam to discuss the options. Missed exams (due to absence) receive 0 points.   
+ 
+Grade compositions: The final course grade will be calculated using the following categories:  
+ 
+
+4  
+  
+  Assessment  
+Percentage of Final Grade  
+Homeworks  
+40%  
+Projects  
+10%  
+Class attendance 
+15% 
+Mid-term exam (Oct 9th)  
+15% 
+Final exam 
+20%  
+ 
+Late homework policy: We understand there can be some unexpected circumstances such as 
+illness, attendance of events, or family emergencies. Accordingly, each student can be late for 
+homework assignments for 4 days throughout the semester, and at most 2 days per homework, 
+without receiving any penalties. These late allowances are designed to accommodate unexpected 
+circumstances, not expected circumstances (such as assignments from other classes). Homework 
+submitted beyond late allowance or after the distribution of solution (2 days after original due date) 
+will receive 0 grades.  Late allowances do not need to be requested. We will automatically account 
+for it in credit assignments. 
+  
+We want to credit students who submit homeworks in a timely manner. Please be reminded that 
+one important learning objective of this class is also to manage time. So, we will not give special 
+extensions beyond the late allowances for students without disabilities to be fair. Homeworks 
+submitted after the distribution of solutions (2 days after the due date) or exceeding the late 
+allowances (within 2 days after the due date per homework, within a total of 4 days throughout the 
+semester) will not be graded and will receive 0 points.   
+  
+Late project policy: Each team has 2 days of late allowances for project reports throughout the 
+semester. These allowances can be used for one project, or distributed between projects, without 
+receiving any penalties. These late allowances are intended for unexpected circumstances such as 
+illness, attendance of events, or family emergencies, not expected circumstances (typical problems 
+when working with the team). Please be reminded that one important learning objective of this 
+class is also to learn how to manage time effectively and work with people. So similarly, we will 
+not give special extensions beyond the late allowances for teams composed of students without 
+disabilities. This will also leave us with the option of scaling up the grades fairly when only a small 
+portion of students receive A or B. Projects submitted after the distribution of solutions (2 days 
+after the due date) will not be graded and will receive 0 points. Late allowances do not need to be 
+requested. We will automatically account for it in credit assignments. 
+  
+Request for homework re-grade: A request to re-grade for all assignments (homeworks and 
+projects) must be submitted via GradeScope within 1 weeks after the grades are posted. A request 
+to re-grade for the final exam must be submitted via GradeScope by the date specified (this date 
+will be determined after the final exam schedule comes out). Please be informed that there is a 
+deadline for final grade submission, so please submit the request as soon as you find out. We 
+encourage students to review assignment and exam questions and revisit missed problems to 
+improve your understanding.      
+
+5  
+  
+  
+Accommodations for students with disabilities: If you have a disability and require 
+accommodations, please contact Catherine Getchell, Director of Disability Resources, 412-268-
+6121, getchell@cmu.edu. If you have an accommodations letter from the Disability Resources 
+office, I encourage you to discuss your accommodations and needs with me as early in the semester 
+as possible. I will work with you to ensure that accommodations are provided as appropriate.  
+Accommodations for students’ travel plans: If you are to miss classes or travel, below are things 
+you can do: watch the lecture recordings; use your late assignments allowance if needed; and come 
+to office hours if you have any questions.  
+ECE

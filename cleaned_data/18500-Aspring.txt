@@ -1,0 +1,79 @@
+1 
+ 
+18-500: ECE Design Experience 
+Spring Semester 2025 
+Course Personnel: 
+Instructors: 
+Section A: 
+Qing Li 
+qingli2@andrew.cmu.edu 
+  
+235 Roberts Engineering Hall 
+Section B: 
+Tamal Mukherjee  
+tamal@ece.cmu.edu 
+ 
+332 Roberts Engineering Hall 
+Section C: 
+Hyong Kim 
+hskim@andrew.cmu.edu 
+  
+A305 Hamerschlag Hall 
+Section D: 
+Tom Sullivan 
+tms@ece.cmu.edu 
+  
+A209 Hamerschlag Hall 
+Section E: 
+Theophilus Benson  
+theophib@andrew.cmu.edu 
+ 
+4106 Robert Mehrabian Collaborative Innovation Center 
+Section F: 
+David Brumley 
+dbrumley@andrew.cmu.edu 
+  
+2202 Robert Mehrabian Collaborative Innovation Center 
+ 
+Teaching Assistants: 
+Fiona Fisher 
+Josh Joung  
+ 
+Ankit Khandelwal 
+Varun Kumar 
+Ella Lee 
+ 
+ 
+Peiyu Li 
+Arnav Menon  
+Alexander Nguyen  
+Tjun Jet Ong 
+Hayden Simon  
+Bhavik Thati  
+ 
+Gordon Xu  
+ 
+ 
+Instructor Mailing List: 
+ 
+ece500-staff@lists.andrew.cmu.edu 
+Academic Services: 
+ECE Academic Services Center: 1113 Hamerschlag Hall 
+https://www.ece.cmu.edu/academics/academic-services-center.html  
+Parts Orders: 
+ECE Lab Services: 1301 Hamerschlag Hall 
+ 
+ 
+ 
+ 
+
+2 
+ 
+Syllabus Contents: 
+Course Description, Class Schedule, Attendance Policy, Instructor Mailing List …. 2 
+Canvas, Piazza (none), Slack Discussion Website ………….…………………………. 3 
+Choosing a Project, Choosing a Team …………………..……………………………. 3 
+Roles of TAs and Faculty, Assignments and Project Milestones …………………… 4 
+Website for Course Projects and Weekly Project Updates …………………………… 5 
+Grading Algorithm ………………………………………………………………………… 5 
+Accommodations for Students with Disabilities,

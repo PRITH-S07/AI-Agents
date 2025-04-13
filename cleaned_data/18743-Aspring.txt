@@ -1,0 +1,257 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Syllabus - Spring 2025 
+18-743: “Neuromorphic Computer Architecture & Processor Design” 
+Instructor/Organizer:  Prof. John Paul Shen 
+ 
+Office Location: CMU-SV, B23  
+Email Address: jpshen@cmu.edu 
+   Office Hours: Wed PM on Zoom (by request) 
+    
+ 
+Co-Instructor/Lecturer: Prof. Quinn Jacobson 
+Teaching Assistant: Prabhu Vellaisamy 
+    Email: qjacobson@cmu.edu  
+    Email: pvellais@andrew.cmu.edu  
+    Office Hours: TBA 
+    Office Hours: TBA 
+Teaching Assistant: Shanmuga Venkatachalam  
+ Ex-Teaching Assistant: Harideep Nair 
+    Email: shanmugv@andrew.cmu.edu  
+    Email: harideep.nair@sv.cmu.edu 
+    Office Hours: TBA 
+    Office Hours: TBA 
+ 
+Class Schedule:  
+         Section A (12):    TR  03:30PM - 04:50PM ET,  POS 147,  Pittsburgh, Pennsylvania  
+           Direct Zoom link:  https://cmu.zoom.us/j/95307625598?pwd=HoWb868wv5rAzI4ttpfpi9n8UGJSeK.1 
+ 
+ 
+ 
+Course Description:                                   Canvas Page: https://canvas.cmu.edu/courses/45810  
+♦ This course focuses on the investigation of biologically inspired neural networks that mimic both the 
+functional behavior as well as organizational structure of the mammalian brain, with the objective of 
+engineering silicon-based implementations possessing brain-like capabilities.  ♦ This course introduces a 
+taxonomy of Neural Networks (NN) based on: 1) Neuron Model, 2) Neural Coding, and 3) Learning Paradigm. 
+We adopt a theory of the neocortex (“A Thousand Brains”) that proposes Cortical Columns (CC) as the building 
+blocks for intelligence. This course explores the potential of designing Cortical Columns Computing Systems 
+(C3S) that exhibit both brain-like processing capability and brain-like energy efficiency.  ♦ Students will work 
+in small teams to pursue semester long projects exploring and prototyping C3S designs, targeting sensory 
+processing applications. These team projects can potentially span Applications, Architectures, Hardware 
+Designs, CMOS implementations, and Design Tools.  Each team gets to define and carry out a specific project 
+with support and guidance from the teaching staff.  Each team is expected to make multiple project presentations 
+and produce a final project report at the end of the semester. Some of these project reports could potentially be 
+turned into submittable papers with additional follow-up work (not required). These team projects can help 
+prepare students for joining innovation teams developing AI/ML/DL accelerators in industry or research teams 
+pursuing neuromorphic computing research that can potentially impact the industry in 3-5 years.  
+ 
+Important References (Required Readings): 
+•  James E. Smith, “Space-Time Computing with Temporal Neural Networks,” (Chapters 1 and 3) Synthesis Lectures, 
+Morgan Claypool, May 2017. https://www.morganclaypool.com/doi/10.2200/S00771ED1V01Y201704CAC0 
+•  Jeff Hawkins, “A Thousand Brains: A New Theory of Intelligence.” (2021), (Chapters 1-7). 
+https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/B08VWV2WDK  
+•  James E. Smith, “A Macrocolumn Architecture Implemented with Spiking Neurons” arXiv:2207.05081 (2023) 
+•  Khaled S. Ahmed and Fayroz F. Shereif, "Neuromorphic Computing between Reality and Future Needs,” 
+Neuromorphic Computing, Chapter 5, IntechOpen, 15 Nov. 2023.  https://www.intechopen.com/chapters/86207  
+•  John Paul Shen and Harideep Nair,"Cortical Columns Computing Systems: Microarchitecture Model, Functional 
+Building Blocks, and Design Tools," Neuromorphic Computing, Chapter 8, IntechOpen, 15 Nov. 2023. 
+https://www.intechopen.com/chapters/86375  
+
+2 
+ 
+ Updated Course Calendar (18-743 Spring 2025): (01/07/2025) 
+Week 
+Date 
+Day 
+Class Activity 
+ 
+Week 1 
+14-Jan 
+Tues 
+Lecture 1:  Course Overview: Motivation, Background, & Project Plan 
+JPS   
+16-Jan 
+Thurs 
+Lecture 2:  Neuromorphic Microarchitecture I – Biological Background 
+QJ 
+Week 2 
+21-Jan 
+Tues 
+Lecture 3:  Neuromorphic Microarchitecture II – Temporal Neural Nets 
+QJ 
+23-Jan 
+Thurs 
+Lecture 4:  Neuromorphic Microarchitecture III – Macro-Columns & RF 
+QJ 
+Week 3 
+28-Jan 
+Tues 
+Lecture 5:  Tutorial on C3S-Sim & C3S-Syn (Lab 1 & Lab 2 out) 
+TAs 
+30-Jan 
+Thurs 
+Lecture 6:  Overall Research Strategy & Project Ideas (finalize teams)  
+JPS 
+Week 4 
+ 
+4-Feb 
+Tues 
+Lecture 7:  Some Examples of Past Projects and Publications 
+JPS 
+6-Feb 
+Thurs 
+Project Teams Breakout Discussion & Working Session #1 
+TAs  
+Week 5 
+11-Feb 
+Tues 
+Project Proposals #1 (25-30 min per team) 
+ 
+13-Feb 
+Thurs 
+Project Proposals #2 (25-30 min per team) 
+ 
+ Week 6 
+ 
+18-Feb 
+Tues 
+Lecture 8: “The Thousand Brain Theory & Project” [Viviane & Niels] 
+ 
+20-Feb 
+Thurs 
+Lecture 9: “BrainChip Akida Platform & Applications” [Kris Carlson]? 
+ 
+Week 7 
+25-Feb 
+Tues 
+Lecture 10:  Neuromorphic Industry Landscape & Directions 
+JPS 
+27-Feb 
+Thurs 
+Lecture 11:  Survey of Neuromorphic Circuits & Approaches   
+ QJ 
+ 
+3-Mar – 7-Mar 
+SPRING BREAK; NO CLASSES 
+ 
+Week 8 
+11-Mar 
+Tues 
+Project Teams Breakout Discussion & Working Session #2 
+TAs 
+13-Mar 
+Thurs 
+Lecture 12:  BCI Spike Sorting with Neuromorphic Edge Processing 
+JES 
+Week 9 
+18-Mar 
+Tues 
+Project Update #1 (25-30 min per team) 
+  
+20-Mar 
+Thurs 
+Project Update #2 (25-30 min per team)   
+ 
+Week 10 
+25-Mar 
+Tues 
+Lecture 13: “Bottom-Up and Top-Down Approaches for the Design of 
+Neuromorphic Processing Systems” [Charlotte Frenkel, Delft University]? 
+ 
+27-Mar 
+Thurs 
+Lecture 14: “Brain-Inspired Computing in Conventional AI/ML 
+Systems” [Di Wu, UCF] 
+ 
+Week 11 
+1-Apr 
+Tues 
+Project Teams Breakout Discussion & Working Session #3 
+TAs 
+3-Apr 
+Thurs 
+(No Class) – Spring Carnival 
+  
+Week 12 
+8-Apr 
+Tues 
+Lecture 15: “Silicon and Memristive Neuromorphic Systems for 
+Engineered Natural Intelligence”  [Gert Cauwenberghs, UCSD] 
+ 
+10-Apr 
+Thurs 
+Project Teams Breakout Discussions & Working Session #4 
+TAs 
+Week 13 
+15-Apr 
+Tues 
+Lecture 16:  Course Wrap Up 
+ 
+17-Apr 
+Thurs 
+Final Project Presentations #1 (30-40 min per team) 
+ 
+Week 14 
+22-Apr 
+Tues 
+Final Project Presentations #2 (30-40 min per team) 
+ 
+24-Apr 
+Thurs 
+Final Project Presentations #3 (30-40 min per team) 
+ 
+Week 15 
+5-May 
+Mon 
+Research Project Reports Due 
+ 
+
+3 
+ 
+Course Grade will be based on: 
+10% 
+ (10) Paper Reviews (Individual)  
+10% 
+ (2) Lab Assignments (Individual)  
+15% 
+ Project Proposal (25-30 min. per team) 
+15% 
+ Project Update (25-30 min. per team) 
+20% 
+ Project Presentation (30-40 min. per team) 
+30% 
+ Project Report (15-20 pages final report per team) 
+100% 
+ TOTAL (Attendance required for all class sessions) 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 11 
+Educational Objectives that are fulfilled by the sum total of all the courses you take. The following list 
+describes which objectives are fulfilled by 18-743 and in what manner they are fulfilled. The objectives are 
+lettered from “a” through “i” in the standard ABET parlance. Those objectives not fulfilled by 18-743 
+have been omitted from the following list. 
+a) an ability to apply knowledge of mathematics, science, and engineering: Labs and projects. 
+b) an ability to design and conduct experiments, as well as to analyze and interpret data: Labs and 
+projects. 
+c) an ability to design a system, component, or process to meet desired needs within realistic constraints 
+such as economic, environmental, social, political, ethical, health and safety, manufacturability, and 
+sustainability: Labs and projects, and special guest lectures by practicing computer architects from 
+industry. 
+d) an ability to function on multidisciplinary teams: Work in small teams on labs and projects. 
+e) an ability to identify, formulate, and solve engineering problems: Extensive coverage of design 
+tradeoffs. 
+f) an ability to communicate effectively: Written reports and in-class presentations. 
+g) a recognition of the need for, and an ability to engage in lifelong learning: Historical insights 
+provided during lectures. 
+h) a knowledge of contemporary issues: Industry guest lecturers will provide a good sense of these issues. 
+i) an ability to use the techniques, skills, and modern engineering tools necessary for engineering 
+practice: Labs and project works, and industry guest lecturers. 
+ 
+ECE

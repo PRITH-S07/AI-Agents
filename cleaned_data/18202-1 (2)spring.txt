@@ -1,0 +1,536 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18202: Mathematical Foundations of Electrical Engineering 
+   
+Spring 2025 
+ 
+Instructors 
+ 
+ 
+ 
+José M. F. Moura 
+moura@andrew.cmu.edu   
+Office Hours:  
+     Anytime by request 
+     2pm-3pm on Thursdays (student confirm) 
+Office: PH B28 
+Soummya Kar 
+soummyak@andrew.cmu.edu 
+Office Hours: TBD 
+Office:  PH B30 
+ 
+ 
+Teaching Assistants (office hours to be determined)  
+ 
+1. Hossein Baktash 
+hbaktash@andrew.cmu.edu 
+ 
+2. Mayur Srinivas Gowda 
+mayursri@andrew.cmu 
+ 
+3. Shivi Gupta 
+shivig@andrew.cmu.edu 
+ 
+4. Grace Li 
+gyl2@andrew.cmu.edu 
+ 
+5. Apollo Lu 
+kaichung@andrew.cmu 
+ 
+6. Omolola  Okesanjo 
+lokesanj@andrew.cmu 
+ 
+7. Nikhil Sobanbabu 
+nsobanba@andrew.cmu 
+ 
+8. David Zhang 
+dzhang2@andrew.cmu.edu 
+ 
+ 
+
+ 
+2 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Class Schedule:  
+The teaching of this course uses lectures, recitations, piazza, and office hours: 
+ 
+Lecture: 
+ 
+Tuesday and Thursday 
+12:30pm-1:50pm  
+POS 153 
+ 
+Recitations: 
+Section A: Friday, 9:00 -9:50am,  
+DH 1117 
+ 
+Section B: Friday, 10:00am-10:50am, BH 255A 
+Section C: Friday, 11:00am-11:50am, POS 147 
+Section D: Friday, 12:00pm-12:50pm, BH 235A 
+ 
+The assignment of students to recitations is initially done by the Registrar. We may 
+reassign students for better balance of the recitations. 
+ 
+Lectures focus on the high level with few problems solved. Emphasis on concepts, 
+theorems, and sketches of proofs. Students should attend the lectures since they are 
+integral part of the learning process. Students are encouraged to interrupt with questions 
+at any point of the lecture, even if only to slow down the lecture. 
+ 
+Recitations emphasize working examples that illustrate the concepts presented in the 
+lecture. Recitations are not lectures, they should be interactive. The students are asked 
+to attempt or help working the solutions to problems presented. Like for lectures, 
+students should attend the recitations since they are integral part of the learning process. 
+ 
+Office hours are designed for students to raise any issues and questions they have with 
+homework problems and any other course topic and then work through these issues with 
+the help of the teaching staff. Besides the office hours listed above, students can send an 
+email or approach a member of the staff and request a meeting at a mutually convenient 
+time. 
+ 
+Piazza (integrated into the Canvas ) Prior experience shows that Piazza is a very effective 
+way to address timely and effectively students’ questions. Students are encouraged to 
+check frequently Piazza. 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.instructure.com/.  
+ 
+Course Description:  
+
+ 
+3 
+ 
+Number of Units: 12 
+Undergraduate Course Area: ECE Mathematics 
+ 
+Textbook and Readings:  
+• Lecture notes are available on Canvas 
+ 
+The following are published textbooks that cover or complement relevant course 
+material: 
+• Linear Algebra and Its Applications, 4th Edition, Gilbert Strang 
+• Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares 
+Stephen Boyd and Lieven Vandenberghe 
+ 
+Brief Contents: 
+The course covers topics from engineering mathematics that serve as foundations for 
+description, analysis, and synthesis of engineered systems and signals. This is an applied 
+mathematics course. We will mix rigor with motivation and intuition. After a brief review 
+of complex numbers and differential equations, the course focus on Linear Algebra and 
+Its Applications. 
+ 
+See the course calendar (at the end of this document) for a tentative schedule.  
+ 
+Grading Algorithm:  
+Homework  
+ 
+25% 
+(around 10 or 11 homeworks, worst one will be dropped) 
+Exams           
+ 
+70% 
+(3 exams (2 midterms + final): 20%+20%+30%) 
+Lecture attendance 
+10% 
+(Lecture contributes an additional 5% bonus) 
+ 
+The final grade is a letter grade A, B, C, D or Fail (R). The numerical scores are converted 
+into a letter grade according to the following: 
+ 
+Grade = A if numerical score greater than or equal to 90 % 
+Grade = B if numerical score greater than or equal to 80 % 
+Grade = C if numerical score greater than or equal to 70 % 
+Grade = D if numerical score greater than or equal to 50 % 
+Grade = R if numerical score smaller than 50 % 
+ 
+In exceptional cases, students whose numerical score falls at slightly below one of the 
+above thresholds may end-up with a higher letter grade if the staff strongly advocates 
+that the student’s understanding of the course material should correspond to a higher 
+letter grade. Additionally, based on relative class performance, the above thresholds may 
+be slightly adjusted. 
+ 
+Students can submit regrading requests for homeworks within one week of grades being 
+released. For exams, regrade request must be made within three days after the grades 
+
+ 
+4 
+ 
+are released. If materials are submitted for re-grading, the entire piece of work is subject 
+to re-grade (not just the part requested by the student). 
+ 
+Lectures: 
+Lecture attendance will be noted – students will enter an arbitrary code provided during 
+lecture into a web link. Attendance of a lecture contributes roughly .45 points. Students 
+can miss up to 3 Lectures with no penalty. There are 27 lecture days, two of which are 
+used for midterms. If students attend 22 of the remaining 25 Lectures they get 10 
+additional points. These with the 25 points of the homeworks and 70 points of the three 
+exams add to 105 points, corresponding to 5 extra points added to the numerical score 
+of a student. 
+Recitations: 
+Recitations will include in-class discussion. Specifically, homework questions and exam 
+preparation are effectively addressed as a group during recitations. 
+ 
+Homeworks:  
+Expect about 10 or 11 homeworks, roughly, one per week. Homework assignments will 
+be posted and submitted via gradescope. Completed homeworks are due at the 11:59pm 
+of the due date indicated on the Homework. Late homeworks will absolutely not be 
+accepted once the solutions are made available. 
+ 
+Students are encouraged to study together. However, problem sets should correspond to 
+the individual work of each student. It is okay to discuss problems with colleagues and 
+teaching staff. It is NOT okay to hand in a homework that does not reflect your 
+understanding of the problems, or a homework that copies someone else’ solution.  
+ 
+Late days: Students have up to five late days for homeworks over the course. No more 
+than two late days can be used per homework. No late day can be used for the last 
+homework (possibly, homework 10 or 11). Late days are applied automatically based on 
+Gradescope upload time stamps, interpreted in Eastern Time (EST or EDT). Students are 
+responsible for tracking their late days, as instructors will not send reminders. Late days 
+are used up in increments of full days, i.e., one hour late means a late day was used up. 
+No extensions will be given beyond these late days. However, should you experience a 
+true emergency, please reach out to us and we will address the impact on a case-by-case 
+basis with your academic advisor. Please also reach out to us if you have a special 
+accommodation from Disability Resources. 
+ 
+
+ 
+5 
+ 
+Exams:  
+There are two exams given throughout the semester, scheduled during lecture time slots 
+and a final exam scheduled by the registrar: 
+ 
+Exam 1: February 11, Tuesday 12:30pm-1:50pm 
+ 
+Exam 2: March 25, Tuesday 12:30pm-1:50pm 
+ 
+Exam 3: To be scheduled by the Registrar, during the finals week 
+Exams are cumulative and closed book. Students are allowed (also cumulatively) one new 
+sheet (double sided) of notes per exam. For example, one sheet for Exam 1, two sheets 
+for Exam 2, and three sheets for Exam 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tentative Course Calendar:  
+ 
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+January 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+T 
+Lec 01: Complex numbers 
+ 
+ 
+16 
+R 
+Lec 02: Complex arithmetic, Homework 1 released 
+ 
+ 
+17 
+F 
+Recitation 01 
+ 
+ 
+21 
+T 
+Lec 03: Complex Functions 
+ 
+ 
+23 
+R 
+Lec 04: 1st Order Differential Equations: Homework 
+1 due, Homework 2 released 
+ 
+ 
+24 
+F 
+Recitation 02 
+ 
+ 
+28 
+T 
+Lec 05: 2nd Order Differential Equations 
+ 
+ 
+30 
+R 
+Lec 06: 2nd Order Differential Equations, Homework 
+2 due, Homework 3 released 
+ 
+ 
+31 
+F 
+Recitation 03 
+ 
+ 
+February 
+4 
+    T  
+Lec 07: Vector and matrix calculus 
+ 
+ 
+6 
+R 
+Lec 08: Vector and matrix calculus, Homework 3 
+due 
+ 
+ 
+7 
+F 
+Recitation 04 
+ 
+ 
+11 
+T 
+Exam 1 
+ 
+ 
+13 
+R 
+Lec 09: Functions of matrices, Homework 4 released 
+ 
+ 
+14 
+F 
+Recitation 05 
+ 
+ 
+18 
+T 
+Lec 10: Linear systems: Gauss elimination 
+ 
+ 
+
+ 
+6 
+ 
+20 
+R 
+Lec 11: Linear systems: Gauss elimination, 
+Homework 4 due, Homework 5 released 
+ 
+ 
+21 
+F 
+Recitation 06 
+ 
+ 
+25 
+T 
+Lec 12: Vector spaces 
+ 
+ 
+27 
+R 
+Lec 13: Vector spaces, Homework 5 due, 
+Homework 6 released  
+ 
+ 
+28 
+F 
+Recitation 07 
+ 
+ 
+March 
+3-7 
+Mon-
+Fri 
+Spring Break – No Classes 
+ 
+ 
+11 
+T 
+Lec 14: Geometry: inner product, norm, distance 
+ 
+ 
+13 
+R 
+Lec 15: Geometry: inner product, norm, distance, 
+Homework 6 due, Homework 7 released 
+ 
+ 
+14 
+F 
+Recitation 08 
+ 
+ 
+18 
+T 
+Lec 16: Linear systems and vector spaces 
+ 
+ 
+20 
+R 
+Lec 17: Linear systems and vector spaces, 
+Homework 7 due 
+ 
+ 
+21 
+F 
+Recitation 09 
+ 
+ 
+25 
+T 
+Exam 2 
+ 
+ 
+27 
+R 
+Lec 18: Spectral analysis: eigenvalues and 
+eigenvectors, Homework 8 released 
+ 
+ 
+28 
+F 
+Recitation 10 
+ 
+ 
+April 
+1 
+T 
+Lec 19: Spectral analysis: eigenvalues and 
+eigenvectors 
+ 
+ 
+4 
+    R 
+Spring Carnival – No Classes  
+ 
+ 
+5 
+    F 
+Spring Carnival – No Classes  
+ 
+ 
+8 
+T 
+Lec 20: Spectral analysis: eigenvalues and 
+eigenvectors 
+ 
+ 
+10 
+    R 
+Lec 21: Matrix factorizations: Singular value 
+decomposition*, Homework 8, due Homework 9 
+released 
+ 
+ 
+11 
+F 
+Recitation 11 
+ 
+ 
+15 
+    T 
+Lec 22: Matrix factorizations: Singular value 
+decomposition* 
+ 
+ 
+17 
+    R 
+Lec 23: Systems of ordinary differential equations, 
+Homework 9, due Homework 10 released 
+ 
+ 
+18 
+    F 
+Recitation 12 
+ 
+ 
+22 
+    T 
+Lec 24: Systems of ordinary differential equations 
+ 
+ 
+24 
+    R 
+Lec 25: Other topics**, Homework 10 due 
+ 
+ 
+25 
+    F 
+Recitation 13 
+ 
+ 
+May 
+ 
+ 
+ 
+ 
+ 
+29-8 
+Mon-
+Fri 
+Exam 3: Registrar Scheduled 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*    Notes to be provided 
+** Time permitting, other topics will be covered. 
+
+ 
+7 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

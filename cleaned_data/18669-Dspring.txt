@@ -1,0 +1,729 @@
+18-469D/18-669D - Hacker Fab ​
+Spring 2025 
+Course Syllabus 
+ 
+Description 
+ 
+This course introduces students to fabrication of microelectronics by working on a 
+hands-on, collaborative, open source project: the Hacker Fab. Topics include layer 
+deposition, patterning, oxidation, etching, doping, inspection, metrology, 
+dynamics/motion control, vacuum, optics, material selection, and plasmas. Students 
+spend the majority of the class working together to design new fab tools, processes, 
+and microelectronic devices all the way from idea to implementation in order to expand 
+the capabilities of the Hacker Fab. Five labs in the first half of the semester familiarize 
+students with equipment and culminate in all students making transistors. Lectures 
+serve to bridge the gap between the theoretical understanding gained from textbook 
+readings and the practical understanding from lab assignments. Lecture times are also 
+for sharing progress and coordinating efforts. 
+ 
+Units: 12 
+Pre-requisites: None ​
+ 
+Lectures: 7:00-8:50 PM, Tuesday/Thursday, SH 234 
+ 
+Brief List of Topics Covered 
+Layer deposition, patterning, oxidation, etching, doping, inspection, metrology, 
+dynamics/motion control, vacuum, optics, material selection, robotics, RF, plasma 
+ 
+Required Textbooks 
+●​ Microchip Fabrication, Peter Van Zant, 6th edition 
+●​ Integrated Circuit Fabrication, Plummer and Griffin 
+ 
+Suggested Reading 
+●​ Building Scientific Apparatus, John H Moore 
+●​ For fun illustrations: The Way Things Work Now, David Macaulay 
+ 
+Reference Materials 
+●​ Sam Zeloof’s YouTube Channel 
+●​ Open Source Software vs. Hardware 
+●​ Essays about Linux and Open Source 
+●​ https://pseudodudo.com/research
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Staff 
+ 
+Head TA 
+●​ Jay Kunselman (jskunsel), Deposition + CMOS + Sputtering Process 
+ 
+TAs (Project + Lab Leads) 
+●​ Anirud Vineet Durani (adurani), Lab Automation + Metrology 
+●​ Rahim Malik (rahimm), Sputtering Controls + Plasma Etcher 
+●​ Cesely Smith (ceselys), CMOS + Novel Devices 
+●​ Viswesh Prakash (visweshp), ALD 
+●​ Joe Luo (jiangtia), Litho Tools 
+●​ Daniel Yin (djyin), Electroless Plating 
+ 
+RAs (Project Leads) 
+●​ Jessica Wu (jwu5), Lab Automation 
+●​ Callum Bagnall (cbagnall), Lab Automation 
+●​ David Hershenson (dhershen), Lab Automation (Spin Coater) 
+●​ Marina Wang (marinaw), Sputtering Build + Plasma Etcher 
+●​ Carson Swoveland (cswovela), Litho Tools 
+●​ Akshunna Vaishnav (avaishna), Database 
+ 
+Lab Staff 
+●​ Joel Gonzalez (bgonzale), Lithography + Deposition + Metrology + Novel Devices 
+●​ Yanbing Icey Chen (yanbing2), CMOS + PDK + Novel Devices 
+●​ J. Kent Wirant (jwirant), Litho Tools 
+ 
+All Staff: hackerfab-tas@andrew.cmu.edu​
+ 
+ 
+Faculty Instructors 
+●​ Dr. Matt Moneck (mmoneck), SCOT 4S407 
+●​ Prof. Tathagata Srimani (tsrimani), HH 2124 
+ 
+Office Location 
+●​ Hacker Fab Lab (REH 202/204) 
+●​ REH 203 
+ 
+Office Hours 
+●​ TAs:  5:00-7:00 PM, Monday/Tuesday/Wednesday/Thursday 
+●​ Dr. Moneck:  5:00-6:00 PM Monday/Wednesday 
+●​ Prof. Srimani:  TBA 
+●​ Or reach out to specific TA/RA to schedule an appointment 
+●​ Or post in Discord server #general-cmu for course-related questions 
+ 
+Course Support 
+●​ Academic Services Center, HH 1113 
+●​ https://www.ece.cmu.edu/academics/academic-services-center.htm 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Time Commitment 
+ 
+The following durations pertain to synchronous class time only, which includes: 
+ 
+1.​ 2 lectures per week, 1 hour 50 minutes each. Total 4 hours. 
+2.​ 1 lab session per week, about 3 hours. First half of semester only. 
+3.​ 1 scheduled project work session with your team, about 1 hour, but does not 
+include individual project work outside of this meeting. Increases in the 
+second half of the semester once labs are completed. 
+ 
+Lectures 
+ 
+The lectures in this class are multipurpose. The primary uses of this time together 
+are listed below. The semester will start with more instruction, but as students delve 
+into their projects, progress presentations and work sessions will start to take up 
+more lecture time. 
+ 
+Instruction 
+ 
+For the first seven weeks, lectures start with one hour of instruction connecting 
+textbook content to the labs, covering each fabrication process in detail. This 
+includes explanation of the physical phenomena occurring and the parameters that 
+determine the outcomes, discussion of the design and operation of the instruments 
+for that process, and comparing variations of equipment in terms of precision, 
+throughput, safety, and cost. 
+ 
+Faculty Check Ins 
+ 
+Approximately once a week, The Professors will spend ~5 minutes checking in with 
+each project, and giving advice or administrative assistance. These are intended to 
+occur during or after lecture. 
+ 
+Work Sessions 
+ 
+If project teams would benefit from additional time working together, the lecture 
+hall can be split into groups working separately. Since everyone is in the same room, 
+it becomes easier to deal with interdependencies between teams. 
+ 
+Guest Lectures 
+ 
+From CMU faculty or industry experts on relevant topics, including the current 
+semiconductor industry, advanced devices, novel fabrication techniques, and data 
+management. 
+ 
+Project Presentations/Demos 
+ 
+See section: Projects > Demos 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Readings 
+ 
+Semiconductor fabrication has been in existence for half a century, which means 
+people have had time to write good textbooks about it. The readings are selected to 
+teach the impact of each knob in our process, avoiding extraneous topics. Lectures 
+will bridge the textbook theory to the practical labs. See the calendar below for the 
+readings. 
+ 
+Projects 
+ 
+Building and operating a semiconductor fab is an incredibly rich educational 
+experience for students in many disciplines. Students will work solo or in teams to 
+accomplish goals like building a new tool from scratch or developing a new process. 
+Instructors will help by breaking down technical goals into manageable chunks and 
+assigning them to students in accordance with their interests and abilities. Projects 
+are decided before each semester begins.  
+ 
+Project teams will need to schedule times to build equipment or run experiments. 
+The people, places, and times may change throughout the semester as projects 
+start and finish, but there will always be a weekly core meeting for each project 
+listed above to plan work. Students are expected to come to the lab outside of 
+scheduled times to complete tasks as needed. 
+ 
+Platforms 
+ 
+Canvas  
+ 
+All assignment submissions, grading, and feedback will be conducted through the 
+18469/18669 Canvas course you are enrolled in via SIO registration. 
+ 
+Google Drive 
+ 
+Resources pertaining to course material such as rubrics, lecture slides, lab reports 
+will be available in the Hacker Fab Students Shared Drive. This drive is shared with 
+you through the Hacker Fab student email group upon registration. 
+ 
+The student drive is distinct from the global Hacker Fab shared drive used by all 
+fabs for project work and supplemental resources. You are expected to keep all 
+project work in the appropriate folder within that drive and not the student folder. 
+This ensures other fabs across the world have constant access to your research, and 
+so that you can benefit from theirs. 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Github 
+ 
+You will be expected to use your project’s Github project tracker within the Hacker 
+Fab organization for managing tasks and keeping up with tasks your TA might 
+update based on the content of your weekly update. You will be added to the Github 
+organization during your first project team meeting. 
+ 
+Code repositories, source control, and pull requests will also be conducted through 
+Github for software projects. 
+ 
+Gitbook 
+ 
+Gitbook is another shared Hacker Fab platform used for published documentation 
+and weekly updates. You can find past work, often more polished than working 
+documents present in the Hacker Fab shared drive. You will be added to the Github 
+organization during your first project team meeting. 
+ 
+Fabublox 
+ 
+For labs and process development projects, nanofabrication workflows will be 
+visually curated in Fabublox for your convenience. Process workflows will also be 
+documented in Gitbook, a lab report, or a shared drive working document. You can 
+create your own login or use Google authentication on the website. 
+ 
+Hacker Fab Database 
+ 
+As part of an ongoing project, Hacker Fab has deployed a simple database for 
+logging and retrieving process related parameters for its chips. You can create your 
+own login on the website. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Laboratory Safety 
+ 
+The nature of the work that takes place in the Hacker Fab necessitates a culture of 
+safety.  Labs and some project work will include the use of hazardous chemicals and 
+gases, high temperature, and vacuum.  Individual projects may also include work 
+with soldering, 3D printing, high voltages, and mechanical processes, all of which 
+present their own unique safety concerns.   
+ 
+In order to promote a culture of safety, everyone working in Hacker Fab labs will be 
+required to wear PPE at all times (includes at minimum a lab coat and safety 
+glasses).  Everyone will also be required to take the following in-person 
+Environmental Health and Safety (EHS) courses as part of the course curriculum:: 
+ 
+●​ Laboratory Safety 
+●​ Hazardous Waste 
+●​ Hydrofluoric Acid Training 
+ 
+Students are required to complete all safety training within the first month of the 
+class.  Training will be managed through the EHS SciShield software platform .  
+Sign-ups can be found through SciShield at the links for each bulleted course topic 
+above (please note that if a training time you desire is listed as full it is worth 
+showing up anyway, as there are often no-shows and extra seats despite what the 
+online scheduler indicates).   
+ 
+Please see our Safety Guidelines document for a thorough list of trainings to 
+complete. 
+ 
+Everyone is also required to read and understand the Safety Data Sheets (SDS) for 
+each chemical or gas you are working with for your project or lab.  Those sheets can 
+be accessed through Velocity EHS on the EHS website.  It is also recommended that 
+everyone review the University’s Chemical Hygiene Plan for additional information.  
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Grading Scheme 
+ 
+Final 
+35% ​Documentation 
+5% ​ Proposal 
+10%​ Mid-Semester Documentation 
+20% ​Final Documentation 
+25%​ Gitbook Updates (14 total) 
+20%​ Presentations (3 total) 
+15%​ Labs (2 reports total) 
+5%​ Participation 
+ 
+Mid-Semester 
+35% ​Documentation 
+5% ​ Proposal 
+30%​ Mid-Semester Documentation 
+25%​ Gitbook Updates (5 total) 
+20%​ Presentations (1 total) 
+15%​ Labs (1 report total) 
+5%​ Participation 
+ 
+Documentation (35%) 
+ 
+The Hacker Fab is an open source project - others must be able to replicate 
+students’ work, and every student is expected to create high-quality documentation. 
+Students will be graded on their contributions to this documentation, and given 
+feedback. The goal of this is to directly link the performance of the students in 
+18469/18669 with the acceleration of the Hacker Fab. 
+ 
+There will be three documentation assignments throughout the semester. The first 
+will be a project proposal you will assemble and later modify with your project TA to 
+establish a concrete plan for the semester. The second will be a mid-semester 
+documentation focused on consolidating the research and design decisions you 
+have made to make the final documentation much easier. The final documentation 
+will be a culmination of your project work and intended for Gitbook publication. 
+Depending on the project, these will either be done individually or as a group, but 
+you will be graded on your individual work regardless. 
+ 
+Instructions and Rubrics 
+●​ Machine Build Rubric 
+●​ Software Dev Rubric 
+●​ Process Dev Rubric 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Gitbook Updates (25%) 
+ 
+To facilitate documentation to allow students in other universities to follow our 
+progress, students will post short weekly summaries of their progress on Gitbook. 
+These submissions will be graded from 0-5 on Canvas with written feedback. 
+Updates are due every Sunday at 11:59 PM. 
+ 
+Instructions and Rubric 
+●​ Weekly Update Rubric 
+ 
+Presentations (20%) 
+ 
+Three times during the semester, each student will present to the rest of the class 
+and potential outside guests. The demo takes two forms: a working demonstration 
+of your project milestone, and a slide deck detailing your work. The presentation 
+should demonstrate the relevance of the work to larger Hacker Fab goals. 
+ 
+These may be group assignments, so if students worked together on a project, then 
+they should present together, with each student only presenting their own work. 
+These will be graded individually based on the progress made and how well it is 
+presented. Students should reach out to course staff if they have any questions 
+about the content, format, scheduling, or anything else about the presentations. 
+ 
+The schedule for demos can be found on the Tentative Course Calendar in this 
+syllabus. Demos will take place during regular lecture time, and they may be split 
+over two days to accommodate the number of students presenting that week. 
+ 
+Instructions and Rubric 
+●​ Demo Rubric 
+ 
+Bonus: Video Demonstration 
+ 
+If you create a video that clearly showcases your working demo, you will receive up 
+to 5 bonus points. This does not have to be extremely high production value, but 
+should include at minimum: 
+ 
+●​ Multiple clips edited together. 
+●​ Show details that are not immediately apparent in the short demo you made 
+to the class. 
+●​ For process development demos: you can make a video detailing the timeline 
+of discovering and testing your new technique. This should provide more 
+information so that viewers know what you already debugged, and it puts 
+the process in context against alternatives. 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Labs (15%) 
+ 
+The labs are designed to familiarize students with the equipment in the Hacker Fab 
+and impart a physical understanding of fabrication processes. These labs are not a 
+large portion of the class, and serve to aid students’ understanding for their 
+individual projects. Later labs will build off of previous ones so that students end up 
+with functioning devices by the end. 
+ 
+Process control is extremely important to fabricate good devices, but doing so in 
+practice is difficult. Students will experience defects and failures throughout 
+fabrication, and the lab reports encourage the analysis of these outcomes rather 
+than being entirely based on results. 
+ 
+Labs are conducted in a group setting. At the beginning of the semester, students 
+will be assigned a three-hour lab session based on their availability. Students will 
+use this weekly lab session to complete the labs under the guidance of the TAs. 
+Students should communicate with the course staff if they need to miss their 
+scheduled lab session, so that they may join another session to make up the work. 
+ 
+The deliverables for each lab include: 
+1.​ The data and analysis sections, to be graded for completion.  
+2.​ Report questions. 
+ 
+Instructions and Rubric 
+●​ Lab Report Rubric 
+ 
+Participation (5%) 
+ 
+Attendance is mandatory at all lectures, labs, and project meetings. Notify your 
+project TA ahead of time if you are unable to attend something in order to make it 
+up. More than attendance, we expect students to ask questions in lectures, give 
+feedback for other student’s presentations, show enthusiasm in your own 
+presentations, help teammates out in labs, question the process in labs, take 
+initiative in project meetings, brainstorm creative strategies for solving issues in 
+your project and other student’s projects, and generally be engaged with other 
+students and staff. 
+ 
+ 
+ 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Tentative Course Calendar 
+ 
+Week 
+Date 
+Reading 
+Lecture 
+Lab 
+January 
+1 
+Tue 14 
+PVZ ch 4 (fab overview) 
++ Filling in the Gaps Doc 
+Course + Project 
+overview. Introduce 
+Hacker Fab process 
+and project goals. 
+No Lab - sign up for 
+EHS sessions. 
+Thu 16 
+PVZ ch 8 (patterning), 
+ch 9 up to etch (develop 
++ bake) 
+Patterning and 
+Fabrication 
+Processes 
+2 
+Tue 21 
+PVZ ch 5 (Contam 
+Control, skip cleanroom 
+design) 
+Plummer 11.3.2 
+Semiconductors, 
+Doping and 
+Diffusion 
+ 
+Thu 23 
+Plummer 9.1 to 9.5.3 
+(plasma etch) 
+PVZ ch 9 Overertch and 
+Undercutting 
+Etching Processes 
+3 
+Tue 28 
+PVZ Ch 7 up to p 167 
+PVZ ch 11 up to 338 
+Overview of 
+Deposition Methods 
+Resistor Lab Part 1 
+(Spin on Dopant + 
+Diffusion + Wet Etch) 
+Thu 30 
+PVZ ch 13 Deposition 
+Methods 
+Sputter Deposition 
+February 
+4 
+Tue 4 
+PVZ ch 13 Deposition 
+Methods 
+Atomic Layer 
+Deposition 
+Resistor Lab Part 2 
+(Thermal Evaporation) 
+ 
+Thu 6 
+ 
+Metrology & 
+Characterization 
+5 
+Tue 11 
+ 
+Electrical Testing 1 
+Resistor Lab Part 3 
+(Patterning + Wet 
+Etch) 
+Thu 13 
+ 
+Electrical Testing 2 
+6 
+Tue 18 
+ 
+Presentation 1 
+Resistor Lab Part 4 
+(Probe Station) 
+Thu 20 
+ 
+Presentation 1 
+7 
+Tue 25 
+ 
+TBD 
+MOSCap Lab Part 1 
+(Oxide Growth) 
+ 
+Resistor Lab Due 
+Thursday night 
+Thu 27 
+ 
+TBD 
+Fri 28 
+ 
+Mid-Semester 
+Documentation Due 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+March 
+NA 
+Tue 4 
+ 
+Spring Break 
+(No Classes!) 
+  
+Thu 6 
+ 
+Spring Break 
+(No Classes!) 
+8 
+Tue 10 
+ 
+TBD 
+MOSCap Lab Part 2 
+(Thermal Evaporation) 
+Thu 13 
+ 
+TBD 
+9 
+Tue 15 
+ 
+TBD 
+MOSCap Lab Part 3 
+(Patterning + Wet 
+Etch) 
+Thu 20 
+ 
+TBD 
+10 
+Tue 25 
+ 
+Presentation 2 
+MOSCap Lab Part 4 
+(Probe Station) 
+Tue 27 
+ 
+Presentation 2 
+April 
+11 
+Tue 1 
+ 
+TBD 
+MOSCap Lab due 
+Tuesday night 
+Thu 3 
+ 
+Carnival 
+(No Classes!) 
+ 
+12 
+Tue 8 
+ 
+TBD 
+ 
+Thu 10 
+ 
+TBD 
+13 
+Tue 15 
+ 
+TBD 
+ 
+Thu 17 
+ 
+TBD 
+14 
+Tue 22 
+ 
+TBD 
+ 
+Thu 24 
+ 
+TBD 
+May 
+ 
+TBD 
+(Finals Week) 
+ 
+Final Presentations 
++ Final 
+Documentation Due 
+ 
+ 
+ 
+ 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+Education Objectives  
+​
+The ECE department is accredited by ABET to ensure the quality of your education.  
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the 
+courses you take. The following list describes which objectives are fulfilled by this 
+course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this 
+course have been omitted from the following list: 
+ 
+1.​ an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+a.​ This course asks students to implement an extremely broad range of 
+engineering topics included in the semiconductor fabrication industry: 
+mechanical, electrical, material, and software engineering. 
+2.​ an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, as 
+well as global, cultural, social, environmental, and economic factors 
+a.​ There are specific technical requirements for each project in this 
+course that students must not only adhere to, but also document their 
+findings in order to share with the public. This practice of open 
+documentation directly supports the need for semiconductor 
+workforce education by lowering the barrier to entry for others outside 
+of the course to understand these complex concepts. 
+3.​ an ability to communicate effectively with a range of audiences 
+a.​ Beyond working amongst other students in the class to complete 
+collaborative projects, the entire class focuses on pushing the 
+open-source Hacker Fab project forward. Documentation created by 
+students is for audiences ranging from other high end academic 
+institutions, the semiconductor fabrication industry, community 
+colleges, and the general public. 
+4.​ an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal 
+contexts 
+a.​ From day one till the end of the class, students think of solutions to 
+lower the barrier to entry of semiconductor fabrication.  
+5.​ an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, 
+plan tasks, and meet objectives 
+a.​ Students work in groups of 2-4 people in order to tackle projects all 
+the way from ideation to implementation.  
+6.​ an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions  
+a.​ Laboratory exercises provide for the opportunity to conduct 
+experiments. Students will design experiments and analyze data with 
+a wide range of metrology tools. 
+ 
+Carnegie Mellon University​
+Department of Electrical and Computer Engineering 
+
+18-469D/18-669D Hacker Fab ​
+Spring 2025 
+ 
+7.​ an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+a.​ During intermittent design reviews and demos, students will do 
+extensive literature review to determine what is worth working on, and 
+what to change going forward. The course and project structure is 
+conducive to fast moving and iteration of projects that require new 
+knowledge. 
+ 
+Hacker Fab Generative AI Policy* 
+ 
+Generative AI tools, such as ChatGPT, are encouraged as supplemental resources to 
+support your learning and creativity in this course. These tools can assist with 
+brainstorming, generating ideas, clarifying concepts, and solving problems. 
+However, their use requires critical thinking and responsibility. While AI can provide 
+helpful suggestions, it may also produce inaccurate, incomplete, or misleading 
+information. It is your responsibility to verify all outputs against reliable sources 
+such as textbooks, academic papers, official documentation, or empirical evidence. 
+ 
+When using generative AI tools in your work, you must justify your decisions based 
+on solid evidence rather than the perceived credibility of the tool. Any outputs 
+integrated into your assignments, projects, or designs must be accompanied by 
+appropriate reasoning, research, or supporting data. Generative AI is a valuable 
+resource to enhance creativity and efficiency, but it should complement—not 
+replace—your understanding, analysis, and intellectual effort. Your final submissions 
+should reflect a thoughtful combination of AI-assisted insights and independent 
+critical thinking. 
+ 
+*This policy was made with ChatGPT. 
+ 
+ECE

@@ -1,0 +1,196 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-866 Off-Grid Electricity Systems 
+ 
+Spring 2025 
+ 
+Instructor: 
+ 
+ 
+ 
+ 
+Barry Rawn 
+Office Location: 
+ 
+ 
+ 
+Kigali: D202 
+Email Address: 
+ 
+ 
+ 
+brawn@africa.cmu.edu 
+Office Hours:  
+ 
+ 
+ 
+To be Announced 
+ 
+Teaching Assistants: 
+ 
+Fabrice Sindambiwe fsindamb@andrew.cmu.edu 
+ 
+ 
+Course Description: 
+Over one billion people in the world still lack access to electricity, many of them out of 
+reach of the electricity grid in the near term. This course will explore the technologies 
+and architectures used to provide electricity services in off-grid regions of the developing 
+world including mini/microgrids and solar home systems. Basic system design principles 
+will be discussed and applied. Students will use HOMER modeling software to 
+characterize the performance and economic viability of off-grid electricity systems. In 
+addition to studying off-grid technologies, the course will also explore the context in 
+which these systems are deployed, their role in enabling development, and policy 
+challenges to implementation. 
+ 
+Number of Units: 6 
+ 
+Pre-requisites: None 
+ 
+Class Schedule: M/W: KIG18.00 - 19.20 CAT, F309; PGH 11:00-12:20PM, POS 147; 
+ 
+ 
+Suggested Reading: 
+Off-Grid Electricity Systems in Developing Countries, Henry Louie, Springer, 2018. 
+ 
+ 
+Other Supplemental Materials: 
+HOMER Pro 3.11 User Manual. 
+https://www.homerenergy.com/products/pro/docs/3.11/index.html 
+
+ 
+2 
+ 
+ 
+This course will make use of HOMER Pro software for the optimization of hybrid energy 
+systems. CMU has a license for this software that is accessible via Virtual Andrew. For 
+instructions on how to use Virtual Andrew, please visit the following website. 
+https://www.cmu.edu/computing/services/endpoint/software/managed-desktops/how-
+to/virtual-andrew.html 
+ 
+Brief List of Topics Covered: 
+Energy poverty and energy for development 
+Off-grid system architecture, design and control 
+Off-grid generation and storage technologies 
+Load and energy resource assessment 
+System optimization with HOMER Pro 
+ 
+Canvas: To access the course blackboard from an Andrew Machine, go to the login page 
+at: http://www.cmu.edu/canvas. You should check the course Canvas page daily for 
+announcements and handouts.  
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Grading Algorithm: 
+ 
+60% 
+4 Homework Assignments 
+30% 
+HOMER Take-Home Exam 
+10% 
+Highest of HW/Project/Final 
+ 
+Letter grades will be assigned based on mastery of course concepts and performance 
+relative to your peers. The following standard grading scale can be used as a guide, 
+however percent score thresholds for letter grades may be shifted down at the discretion 
+of the instructor. The scale will not be shifted up. 
+ 
+Grade Percent 
+ 
+A 
+> 93 
+Excellent 
+A- 
+90 – 93 
+B+ 
+87 – 90 
+Good 
+B 
+83 – 87 
+B- 
+80 – 83 
+C+ 
+77 – 80 
+Satisfactory 
+C 
+73 – 77 
+C- 
+70 – 73 
+D+ 
+67 – 70 
+Passing 
+D 
+60 – 67 
+R 
+< 60 
+Failure 
+ 
+Homework 
+
+ 
+3 
+ 
+Five homework assignments will be assigned weekly, primarily from the course textbook 
+but may also include short essays related to class discussions. There will be no homework 
+assigned during the final two weeks of class to allow time to work on projects. 
+ 
+HOMER Project 
+A mini final project will involve the design of a hybrid off-grid electricity system using 
+HOMER Pro software. Students will submit a project report and HOMER files. 
+ 
+Final Exam 
+There will be a comprehensive final exam. 
+ 
+Tentative Course Calendar 
+ 
+Date 
+Day 
+Class Activity 
+January 
+13 
+Mon 
+Energy and Development 
+15 
+Wed 
+Energy Poverty 
+20 
+Mon 
+Grid Extension 
+22 
+Weds 
+Off-Grid System Architecture 
+27 
+Mon 
+Off-Grid Generators and Biomass Systems 
+29 
+Weds 
+Off-Grid Generators and Biomass Systems 
+Februrary 
+3 
+Mon. 
+Off-Grid Wind and Hydro 
+5 
+Weds 
+Photovoltaic Arrays and Energy Storage  
+10 
+Mon. 
+Off-Grid System Converters and Controllers 
+12 
+Weds 
+Operation and Control of Off-Grid Systems 
+17 
+Mon. 
+Load and Resource Assessment 
+19 
+Weds 
+Design and Implementation of Off-Grid Systems 
+24 
+Mon. 
+HOMER Tutorial I 
+26 
+Weds 
+HOMER Tutorial II

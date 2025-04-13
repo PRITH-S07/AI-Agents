@@ -1,0 +1,218 @@
+Course Syllabus
+18-746/15-746: Storage Systems
+Fall 2024
+Course Instructors:
+Instructor:
+Greg Ganger
+Office Location:
+CIC 2208
+Email Address:
+ganger@andrew.ece.cmu.edu
+Instructor:
+George Amvrosiadis
+Office Location:
+CIC 2311
+Email Address:
+gamvrosi@cmu.edu
+Communicating With Course Staff: Access to the course Piazza page is available on
+Canvas. You must be invited into this Piazza site by course staff after you have been
+accepted into the class. You should check the course Piazza daily for announcements and
+handouts, and you should strongly consider enabling notifications of updates from the
+teaching staff.
+Course Description: Storage systems are among the most fascinating and the most
+important parts of computer systems. They often dominate the performance of a system,
+and failures of other components are frequently addressed by restarting from the data
+stored on them. Indeed, storage systems hold the crown jewels of most organizations:
+their information (from source code to Microsoft's software to the sales databases of
+every e-commerce site to the logs and indices driving the Big Data and ML revolution).
+There continues to be great demand for bright people and better solutions in this critical
+field of computer systems.
+This course covers the design, implementation, and use of storage systems, from the
+characteristics and operation of individual storage devices through the OS, database, and
+distributed systems approaches involved in tying them together and making them useful
+to key applications' demands and technology trends. Topics to be covered include:
+network-attached storage and distributed file systems, multi-device arrays, storage
+management, advanced file systems, SSD and disk performance enhancement, cloud and
+Big Data storage, data protection and integrity maintenance. 3 hours of lecture per week.
+Number of Units: 12
+1
+
+Pre-requisites: This course will require solid understanding of computer organization,
+basic operating systems, and basic communication. Therefore, the minimum prerequisite
+is a ‘B’ or better in 15-213 (or 18-213, 15-513, 14-513, or 18-613 which are the same
+class). Exceptions are rare and only by permission of the instructor. Our experience
+indicates that students without the substantial hands-on systems experience provided by
+this prerequisite (or some equivalently extensive experience) struggle significantly.
+Graduate Course Designation: Depth
+Graduate Course Area: Software Systems and Computer Networking
+Books and Readings: There will be no assigned book. Instead, the instructors will rely
+on readings from books and the research literature to complement the lectures. Readings
+will be listed on the class webpages.
+Components:
+●
+Regular lectures by the instructor(s) on core topics of storage systems
+●
+Guest lectures by experts in the field
+●
+Midterm and final exams
+●
+A number of quizzes over the course of the semester
+●
+Several project assignments (not nearly so much as 15-410, though)
+Brief List of Topics Covered: 746 will cover a wide spectrum of system-level topics in
+the design, implementation, and use of storage systems. Topics covered will include:
+●
+components and organization of storage systems
+●
+distributed file systems and network-attached storage (NAS)
+●
+cloud and Big Data storage
+●
+data protection and disaster recovery
+●
+high-performance parallel file systems
+●
+virtualization, decentralized storage, and server coordination
+●
+multi-device arrays, mirroring and RAID
+●
+SSD/disk hardware and firmware
+●
+SSD and disk performance enhancement
+●
+file system and database structures
+●
+crash recovery and integrity maintenance
+Mobile Devices and Other Distractions (for In-Person Class Meetings): Research on
+learning shows that unexpected noises and movement automatically divert and capture
+people's attention, which means you are affecting everyone's learning experience if your
+cell phone, pager, laptop, etc. makes noise or is visually distracting during class. For this
+reason, we allow you to take notes on your laptop, but insist that you turn the sound off
+so that you do not disrupt other students' learning. If you are doing anything other than
+taking notes on your laptop, please sit in the back row so that other students are not
+distracted by your screen.
+2
+
+No Recording of Class Meetings (In-Class or Remote): No student may record or tape
+any classroom activity without the express written consent of all instructor(s). If a student
+believes that he/she is disabled and needs to record or tape classroom activities, he/she
+should contact the Office of Equal Opportunity Services, Disability Resources to request
+an appropriate accommodation. Recordings of some material or lectures may be made
+available for streaming (only) by students enrolled in the class, but capturing or
+downloading audio, video or other recordings is strictly prohibited.
+Tips for productive office hours
+●
+Prepare for office hours and have screenshots, your screen with code ready to
+share, your student VM up and running.
+●
+Expect to have ~5 mins with the TA if other students are waiting.
+●
+Do not expect TAs to debug your code or be able to interpret poorly-structured
+code. This is a graduate-level class, and it is our expectation that you will write
+your own tests, experiment with approaches, and debug your code.
+Grading Algorithm: There will be no final exam, but there will be two in-class exams.
+In addition, we will have weekly, online quizzes (with the exception of some weeks, as
+will be announced via Piazza). Grades will be calculated using approximately the
+following formula: 50% project work, 15% quizzes, 35% examination results.
+Re-Grading Policy for Exams and Assignments: We will make the utmost effort to be
+fair and consistent in our grading. But, we are human. If you believe that we made an
+error in grading an exam or assignment, you may request a re-grade as follows:
+●
+Submit your request in writing within seven calendar days of when the exam or
+assignment is returned, explaining in detail why you think that there was a
+mistake in the grading. Please note that verbal requests will not be processed;
+requests must be in writing.
+●
+Before submitting a regrade request, you must read the information about regrade
+requests on the FAQ page of the class website.
+●
+Regrade requests for exams should be submitted via Gradescope, after careful
+consideration and only within the regrade period that the instructors specify for
+any given assignment.
+●
+Regrade requests for project work should be submitted via private Piazza post.
+●
+When you submit a request for a re-grade, the entire assignment or exam may be
+re-graded (not just the parts that you specify). Your grade may go up or down (or
+stay the same) as a result of the re-grade request. Your request will be processed
+off-line, and we will respond to your request thereafter (may occur at the end of
+the semester, but will be done before final letter grades are assigned). This
+re-grade policy is designed to correct legitimate mistakes in grading, while
+discouraging frivolous re-grade requests (for the sake of being fair and consistent
+across the entire class); excessive poorly-founded requests may be penalized.
+3
+
+Late Policy: No late assignment will be accepted, beyond explicitly announced deadline
+extensions announced to the entire class. If extreme extenuating circumstances make it
+impossible for you to submit your assignment on time, e-mail the course instructors.
+Cheating: Each exam, quiz, and lab assignment must be the sole work of the student
+turning it in. Like the University as a whole and the ECE and CSD departments, we take
+cheating very seriously. See CMU's policies on academic integrity and other policies
+below for more information on the University's policies, which apply fully to this course. 
+The usual penalty for cheating in this class is to be removed from the course with a
+failing grade. The University also places a record of the incident in the student's
+permanent CMU-internal record. 
+No collaboration on exams or quizzes is allowed. Unless otherwise noted, the following
+guidelines dictate what non-exam/quiz collaboration is authorized and what is not.
+What is Cheating?
+●
+Sharing code or other electronic files: either by copying, retyping, looking at, or
+supplying a copy of a file from this or a previous semester. Also not allowed is verbal
+or other description of one person's code to another. Be sure to store your work in
+protected directories, and log off when you leave an open cluster, to prevent others
+from copying your work without your explicit assistance. Also, do NOT use any code
+repository without ensuring that it cannot be accessed by others... for example, using
+github in a public access mode invites others to copy your code and is not allowed.
+●
+Sharing written assignments or exams: Looking at, copying, or supplying an
+assignment or exam. 
+●
+Using other's code. Using code from this or previous offerings of 746, from other
+courses at CMU or other institutions, or from any other non-746 source (e.g.,
+software found on the Internet). 
+●
+Looking at other's code. Although mentioned above, it bears repeating. Looking at
+other students' code or allowing others to look at yours is cheating. Also, searching
+the web for other solutions to the projects (or code similar to a project) is cheating, as
+is looking at code found and looked at to understand how to complete the project.
+There is no notion of looking "too much," since no looking is allowed at all.
+●
+Using generative AI programs for assignments. Generating content that you cut and
+paste into an assignment, or translate into an assignment solution. Otherwise using or
+presenting generative AI content that you pass off as your own work, when it is not.
+What is NOT Cheating?
+4
+
+●
+Clarifying ambiguities or vague points in class handouts or readings. 
+●
+Helping others use the computer systems, networks, compilers, debuggers, profilers,
+or other system facilities. 
+●
+Helping others with high-level design issues only. Algorithm implementations,
+pseudo-code, flow charts, step-by-step design of key functions, and other such details
+are not "high-level design issues".
+●
+Suggesting to others high-level (not code-based) debugging approaches or test cases
+to try.
+●
+Using generative AI programs to research and better understand topics discussed in
+class.
+Be sure to store your work in protected directories, and log off when you leave an open
+cluster, to prevent others from copying your work without your explicit assistance. Do
+not use publicly accessible code repositories or revision control systems; make sure that
+only you can access your code. If you are going to host your code on Github, make sure
+you use a private repository, and be warned that two years after your student status
+expires, Github may convert your private repositories to public, so be sure to remove
+your code after the semester. Academic integrity policies extend beyond the duration of
+your studies.
+We understand that the web is a popular tool for everyone (including students) seeking to
+better understand and solve problems. Because the line between cheating and such
+explorations has been breached by some in the past, we ask all students to explicitly list
+(as comments in their code) all websites on which they relied on while developing their
+solutions. Such comments should be added at the time of looking at those websites; do
+not wait or “try to remember” later. Every student must provide a list of websites in every
+code submission or include a comment saying “I looked at no resources beyond those
+provided by the course staff this semester.” And, we reiterate for emphasis: looking at or
+relying on implementations found on the web is cheating.
+ECE

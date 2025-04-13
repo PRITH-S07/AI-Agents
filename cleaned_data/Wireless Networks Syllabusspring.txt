@@ -1,0 +1,172 @@
+1 
+ 
+Carnegie Mellon University Africa 
+18-759 RW: Wireless Communications and Mobile Networks 
+Course Syllabus 
+(Spring 2025 | January 13, 2025) 
+INSTRUCTOR 
+Edwin Mugume 
+ 
+emugume@andrew.cmu.edu 
+Phone:   
+ 
+ 
++250 (0)783 834436 / +256 (0)784 031622 [WhatsApp] 
+Class Time:  
+ 
+TT 08:00-09:50 CAT 
+Office Hours:   
+ 
+MW 12:00-14:00 CAT (Or on appointment) 
+Recitation Class: 
+ 
+F 12:00-12:50 CAT (Led by TA and Students) 
+ 
+Classroom:  
+ 
+Room F305 DLR 
+ 
+TEACHING ASSISTANT: 
+Ayisha Nuhu:  
+ 
+anuhu@andrew.cmu.edu   
+Office Hours:                
+By Appointment 
+ 
+COURSE WEB PAGE: 
+We will mainly use Canvas and Piazza. You are encouraged to be active on Piazza. 
+ 
+TEXTBOOKS: 
+Cory Beard and William Stallings, Wireless Communication Networks and Systems, First 
+Edition, Pearson, 2016.  
+Theodore S. Rappaport, Wireless Communications – Principles and Practice, Second Edition, 
+Prentice Hall, 2012. 
+Roger L. Freeman, Radio System Design for Telecommunications, Third Edition, Wiley, 2007.  
+ 
+Additional references and materials will be uploaded to Canvas if and when necessary. 
+ 
+COURSE DESCRIPTION: 
+This course introduces fundamental concepts of wireless networks and systems. These 
+fundamentals aim to help a student understand any type of wireless network application or 
+technology. It covers the theory of wireless propagation and the associated path loss 
+phenomena. The course focuses on understanding the effects of the channel on signal 
+propagation for broadcast and line-of-sight wireless systems. It covers mobile cellular networks 
+and satellite systems in detail. The course explains recent advances in wireless technologies in 
+the context of recent trends, for instance the technologies that are applied in 5G networks. 
+Students will appreciate recent directions such as mmWave propagation, UAV-based cellular 
+networks, distributed antenna systems, etc. Students will be assessed through labs, 
+homeworks, quizzes, a mid-term exam, and a final group project. 
+ 
+COURSE OBJECTIVES: 
+The objectives of this course are as follows: 
+• Appreciate the principles of wireless communication technologies and mobile cellular 
+networks. 
+• Understand the wireless channel and its effects on any wireless network technology.  
+• Understand wireless link and network planning and optimization techniques and the 
+factors that affect them. 
+
+2 
+ 
+• Apply industry-grade tools to (a) plan a mobile cellular network over a given service 
+area; (b) plan a line-of-sight link between two points; and (c) plan a point-to-multipoint 
+microwave-based network. 
+• Understand the wireless operational principles of satellite communications.  
+• Understand recent advances in wireless and mobile networks such as 5G technology, 
+UAV-based cellular technology, distributed antenna systems, etc. 
+• Understand industry and research trends in wireless communications, with particular 
+emphasis on mobile network technologies. 
+ 
+LEARNING OUTCOMES: 
+By the end of this course, you should be able to: 
+• Explain how the wireless channel and associated multipath fading affects signal 
+propagation in a wireless network. 
+• Explain the difference between large-scale and small-scale propagation models. 
+• Design long-distance terrestrial line-of-sight links, considering rain fading and 
+atmospheric absorption as well as the effect of the earth’s curvature. 
+• Explain the different techniques that are used to mitigate wireless channel effects.  
+• Understand the design process of cellular networks and appreciate the factors that 
+influence their deployment strategies.   
+• Understand how satellites work and the factors that influence their deployment, 
+including the global positioning system (GPS). 
+• Appreciate recent advances in wireless and mobile networks such as UAV-based 
+systems, 5G technology, etc. 
+ 
+GRADING: 
+Homeworks:  
+ 
+ 
+ 
+ 
+10% 
+Quizzes: 
+ 
+ 
+ 
+ 
+ 
+5% 
+Paper Summary: 
+ 
+ 
+ 
+ 
+5% 
+  
+Class Labs:  
+ 
+ 
+ 
+ 
+25% 
+Final Project:  
+ 
+ 
+ 
+ 
+30% 
+Mid-term Exam: 
+ 
+ 
+ 
+ 
+25% 
+ 
+There will be several labs, some of which may be group-based. The final project is group-based 
+and involves designing some communication networks. It will integrate what you have learned 
+in labs, assignments, and lectures.  
+ 
+COURSE OUTLINE: 
+The course will mainly cover the following areas: 
+• Overview of wireless systems and mobile networks. 
+• Radio wave propagation: Line-of-sight and non-line-of-sight propagation, path loss 
+modeling, fading and multipath effects, rain effects and atmospheric absorption. 
+• Mitigation techniques of wireless channel effects.  
+• Mobile cellular network: System design and deployment strategies. 
+• Multiple access and multi-user communications.  
+• Satellite systems, including the GPS system. 
+• Current advances in wireless networking  
+• Technologies for 5G and Beyond-5G networks. 
+ 
+
+3 
+ 
+CLASS POLICIES: 
+A. Missing Classes 
+You are expected to attend every class. Each missed class without a valid reason will be 
+penalized by deducting 2% from your final mark. If you are unable to attend a class, write to the 
+instructor (with the TA in copy), preferably before the class. I will provide a Zoom option if you 
+have a valid reason and can attend online. All communication must be in English. When in class, 
+pay attention and avoid any distractions. Switch off your phones and avoid using your laptop 
+unless it is necessary to do so.  
+ 
+B. Class Labs and Assignments 
+Labs will be done individually unless otherwise stated. Students are encouraged to talk to each 
+other, to the TA, or to the instructor about any of the assignments, including labs. Any 
+assistance, though, must be limited to discussion of the problem and sketching general 
+approaches to a solution. Each student must write out his or her own solutions (including codes 
+where applicable) and prepare an individual report. Consulting another student’s solution is 
+prohibited and submitted solutions may not be copied from any source. For hardware-based 
+labs, be flexible to share the available hardware. Submit lab reports and other assignments on 
+time or seek permission if you cannot meet the deadline. Long delays will be penalized. 
+ 
+C.

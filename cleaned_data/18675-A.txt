@@ -1,0 +1,145 @@
+S25: 18475/675 Autonomous Control
+Systems
+Class Schedule
+Default view
+Week 1
+Introduction, basics of dynamical systems
+(review of prerequisite) 
+CS, 
+Week 2
+Signal and system norms
+HW1 release
+Week 3
+Robust control
+LNM
+Week 4
+State feedback control, LQR
+HW1 due, HW2 release
+Week 5
+State estimation, Kalman Filter
+CO
+Week 6
+Dynamic programming, separation
+principles between control and
+estimation, LQG
+HW2 due, HW3 release
+Week 7
+Mid-term exam
+Spring Break
+Week 8
+Safe control
+LQG
+Week 9
+Safe control
+HW3 due, HW4 release, SC
+Week 10
+Adaptive control
+Week 11
+Adaptive control
+HW4 due, HW5 release
+Week 12
+Reinforcement learning
+Week 13
+Reinforcement learning, final project
+presentation
+HW5 due
+Week 14
+Review, final exam 
+Final exam week
+COUNT 16
+Week
+Topic
+Assignment and suggested reading
+
+• Because each year students come with different levels of background knowledge, the pace of
+the course will be adjusted to best serve their needs. Consequently, the timeline outlined above
+may shift by a couple of weeks to ensure the most effective learning experience.
+Resources
+Default view
+Syllabus
+S25 Syllabus.pdf
+Syllabus
+Lecture 1 slides 
+Lecture1.pptx
+Handout
+CS
+Controllability, observability 
+https://en.wikipedi…
+https://en.wikipedi…
+Supplementary readings
+CO
+Kalman filter
+# [https://en.wikip…
+https://www.math…
+Supplementary readings
+KF
+Linearization of nonlinear models
+https://www.math…
+https://eng.librete…
+Supplementary readings
+LNM
+LQR/LQG control
+https://fr.mathwor…
+https://fr.mathwor…
+https://en.wikipedi…
+https://en.wikipedi…
+USEFUL MATLAB F…
+Supplementary readings
+LQG
+Car Cruise Control
+Car_Cruise_Contr…
+Car_Cruise_Contr…
+Handout
+Probabilistic invariance
+https://arxiv.org/p…
+Supplementary readings
+SC
+Barrier certificate 
+https://epubs.sia…
+Supplementary readings
+SC
+Additional information 
+• Piazza (
+, 
+)
+main page student enrollment link
+• Canvas
+• Lecture note (onenote : 
+OneDrive Sharepoint File
+)
+• Offical class contact: Please send private message via piazza. Piazza is monitored 7 days a week,
+and we will get back to you within 24 hours. Individual emails of the instructor and TAs may not
+be monitored regularly, and reply is not guaranteed. So, if you want a guaranteed reply, please
+use Piazza.    
+Name
+Files
+Source type
+Abbreviati
+COUNT 9
+
+• TAs
+Hanjiang Hu, hanjianh@andrew.cmu.edu
+Juan Alvarez Padilla, jralvare@andrew.cmu.edu
+Kaustabh Paul, kaustabp@andrew.cmu.edu
+Gopalakrishnan Thirunellai Venkitachalam, gopalakt@andrew.cmu.edu
+• Office hours
+◦TBD
+Helper for project matching
+Lecture summary and progress
+Introduction (week 1)  
+self introduction for the instructor and TAs
+introductory slides 
+syllabus
+Review of prerequisite materials (weeks 1 and 2)
+What are systems? 
+Properties of dynamical systems 
+Representations for CLTI systems
+• Transfer functions 
+• Impulse response 
+• State space models 
+• Time sequences
+Block diagram and feedback control  
+System stability 
+• Practice
+self-introduction of students (week 2)
+introduction to class project (week 2)

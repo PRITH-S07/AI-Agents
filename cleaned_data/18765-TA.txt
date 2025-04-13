@@ -1,0 +1,402 @@
+Carnegie Mellon University 
+Course Syllabus 
+ 
+18-765: Digital Systems Testing & Testable Design 
+Fall 2023 
+ 
+Instructor: 
+ 
+ 
+ 
+Shawn Blanton 
+Office Location: 
+ 
+ 
+CIC 4121 
+Email Address: 
+ 
+ 
+rblanton@andrew.cmu.edu 
+Office Hours:  
+ 
+ 
+Basically anytime (just email me) 
+ 
+Teaching Assistant:  
+ 
+Neway Li 
+Location: 
+ 
+ 
+ 
+C1 CIC, 4th Floor 
+Email Address: 
+ 
+ 
+weili3@andrew.cmu.edu 
+Office Hours:  
+ 
+ 
+Thursday 1pm – 3pm 
+ 
+Teaching Assistant:  
+ 
+Chris Nigh 
+Location: 
+ 
+ 
+ 
+HH 1300 Coves 
+Email Address: 
+ 
+ 
+christon@andrew.cmu.edu 
+Office Hours:  
+ 
+ 
+Tuesday 9:00am – 11:00am 
+ 
+Course Management Assistant:  
+Cassandra Pfannenstiel 
+Office Location:  
+ 
+ 
+1113 Hamerschlag Hall 
+Email Address: 
+ 
+ 
+cpfannen@andrew.cmu.edu 
+Office Hours:  
+ 
+ 
+M-F, 8:30am – 5pm 
+ 
+Course Academic Services:   
+ece-asc@andrew.cmu.edu, 1113 Hamerschlag Hall. 
+________________________________________________________________________ 
+Class Schedule: Friday, 12:30pm – 1:50pm, Hamerschlag Hall (HH), Room 1107 
+ 
+ 
+ 
+ 
+Pre-Requisites: 18-240, 15-211, (18-340 or 18-341) and senior/graduate standing. 
+Students are also expected to be familiar with basic computer organization and be able 
+to program efficiently. 
+Co-Requisites: None.  
+ 
+Undergraduate Course Designation:  Depth 
+ 
+Undergraduate Course Area: Computer Hardware 
+ 
+Graduate Area:  Computer Hardware Engineering 
+ 
+Course Description:  
+We will examine in depth the theory and practice of fault analysis, test generation, and 
+
+design for testability for digital circuits. Topics to be covered include: defect types and 
+their sources; fault models that include the single stuck-line (SSL), bridging, and delay 
+fault models; fault simulation methods; automatic test pattern generation (ATPG) 
+algorithms for combinational and sequential circuits, including the D-algorithm, PODEM, 
+FAN, and genetic-based algorithms; testability measures; design-for-testability; scan 
+design; test compaction methods; logic-level diagnosis; built-in self-testing (BIST); 
+memory testing; microprocessor testing (i.e,. testing of the Pentium Pro); and IDDQ 
+current testing. If time permits, we will also consider other topics such as mixed-
+signal/analog test, micro-electromechanical systems (MEMS) test, and nano-electronics 
+test. As a motivating factor, we also consider the economics of testing.  
+Course Assignments: Final letter grades will be based on the following: 
+a.  Three in-class “quizzes” - 15%  (lowest quiz score will be dropped) 
+b.  Homework assignments - 25% 
+c.  Five mini projects - 50% 
+d.  Lecture mini quizzes – 5%  
+e.  Faculty course evaluaiton completion – 2% 
+f.  Attendance – 3% 
+ 
+Note: All homework assignments (unless otherwise noted) are to be handed in using 
+Gradescope. 
+The mini projects will cover the following topic areas: 
+a.  Dominance and equivalence fault collapsing and fault ordering 
+b.  Automatic test pattern generation via the D-algorithm 
+c.  Concurrent fault simulation 
+d.  Failure diagnosis 
+e.  Design for testability 
+ 
+Textbook:  Essentials of Electronic Testing for Digital, Memory and Mixed-Signal VLSI 
+Circuits, by M. Bushnell and V. D. Agrawal, Kluwer Academic Publishers, 2nd Printing, 
+2001. Several “classic” testing papers and papers from the current literature may also be 
+distributed during the semester. Additional material may be placed on reserve in the 
+library as well. 
+Tentative Course Calendar:  
+Week 
+Topics 
+Date 
+HW Assigned? 
+HW Due? 
+Project 
+Assigned? 
+Project Due? 
+1 
+Overview, VLSI 
+Testing Process 
+1-Sep 
+HW1: Faults, 
+Tests, and Theory 
+Project 1: Fault 
+Collapsing 
+2 
+Testing Logical 
+Faults/Test 
+Generation 
+8-Sep 
+HW2: ATPG 
+HW1: 
+Faults, 
+Tests, and 
+Theory 
+3 
+D-Algorithm PODEM 
+15-Sep 
+Project 1: 
+Fault 
+
+Collapsing 
+4 
+Fan/Decision 
+Making/Critical Path 
+Tracing 
+22-Sep 
+HW2: ATPG 
+Project 2: ATPG 
+Imply & Check 
+5 
+Fault 
+Simulation/Random 
+Test Generation 
+29-Sep 
+HW3: RTG, Fault 
+Sim, Seq ATPG 
+6 
+Sequential 
+Circuits/ATPG 
+6-Oct 
+Project 2: 
+ATPG Imply 
+& Check 
+7 
+Bridge/IP/Delay Fault 
+Models 
+13-Oct 
+HW4: Fault 
+Models and Test 
+Tool Usage 
+HW3: RTG, 
+Fault Sim, 
+Seq ATPG 
+Project 3: SSL + 
+Bridge Fault 
+Simulator 
+8 
+FALL BREAK 
+20-Oct 
+9 
+Fault 
+Tuples/Diagnosis 
+27-Oct 
+Project 4: 
+Diagnosis 
+Project 3: 
+SSL + Bridge 
+Fault 
+Simulator 
+10 
+IDDQ 
+Testing/Memory 
+Testing 
+3-Nov 
+HW4: Fault 
+Models and 
+Test Tool 
+Usage 
+11 
+Regular Circuit Test 
+and DFT 
+10-Nov 
+HW5: Current 
+Testing and 
+Regular Circuit 
+Testing 
+Project 5: DFT 
+Project 4: 
+Diagnosis 
+12 
+JTAG/BIST 
+17-Nov 
+13 
+Test Economics 
+Thanksgiving 
+24-Nov 
+HW6: DFT, BS, 
+BIST, Test 
+Economics 
+HW5: 
+Current 
+Testing and 
+Regular 
+Circuit 
+Testing 
+14 
+Real World Test 
+Debug 
+1-Dec 
+15 
+8-Dec 
+HW6: DFT, 
+BS, BIST, 
+Test 
+Economics 
+Project 5: 
+DFT 
+ 
+Gradescope: In this course, we will be using Gradescope (a tool accessed through our 
+Canvas course) to grade and provide feedback on assignments and exams. This will 
+allow your graders to provide more timely and effective feedback. It also promotes 
+fairer grading practices by facilitating anonymous grading and question-by-question 
+(rather than student-by-student) grading. In addition, Gradescope makes it easy for you 
+
+to access and review all your (graded) work. Our link to Gradescope is here. 
+During the semester, students will use Gradescope to (a) submit work online, (b) view 
+feedback and scores on graded work, and (c) make a re-grade request within prescribed 
+guidelines. To access Gradescope, simply log on to our course’s Canvas site and click on 
+the Gradescope assignment(s) link. 
+This website (www.cmu.edu/teaching/gradescope/) provides students with more 
+information on using Gradescope, including how to scan assignments via your mobile 
+device, where to find copier/scanners around campus, and how to submit assignments 
+online to Gradescope.  
+Note: A key step in submitting your work to Gradescope is getting a high-quality scan 
+(i.e., digitized version) of your work. Be sure to take the following important policies and 
+procedures into account whenever you are submitting work to Gradescope:  
+• If you are writing your assignment by hand (on paper), be sure to use a dark 
+pencil or pen, and write clearly! 
+• When you upload your work to Gradescope, be sure to (a) indicate where each 
+question is located within your submission via the click-and-select Gradescope 
+interface and (b) after you submit, review each page of your uploaded 
+submission to make sure everything is clear and legible. 
+• Give yourself some extra time to prepare and submit your assignment online to 
+Gradescope, especially for the first few assignments when you are still getting 
+familiar with it. (See “Assignment 0”: it is designed to give you a chance to 
+practice a successful Gradescope submission workflow you can use throughout 
+the semester.)  
+• Keep a soft copy of each scanned assignment for your records. 
+• Technical issues related to Gradescope, email: canvas-help@andrew.cmu.edu. 
+• Important grading policy: If the grader cannot read your submission, there is no 
+way to award points, so the default grade will be 0. 
+ 
+Grace Days: Each student is issued 5 grace days. A grace day is a 24-hour period that provides 
+grace on late homework assignments or projects. In other words, if you employ a grace day, 
+there will be no late penalty applied. You can use the 5 days any way you like. For example, you 
+can apply all 5 days to one assignment, or one day each to 5 different assignments. Grace days 
+cannot be split however and thus must be used in whole-day increments. This means even if you 
+an hour late, and you decide to use a grace day, then you must use an entire day. Finally, to use 
+a grace day, you must inform us within 24 hours of turning in your late assignment. So using 
+grace days later in the semester for already turned-in assignments is not allowed. 
+ 
+Cheating: Don’t do it. Any and all students involved with copying homework, design projects, or 
+exams will (in the least) receive no credit for that assignment. Harsher penalties are possible and 
+left to the discretion of the instructor and may include course failure. All infractions are 
+reported to the department, college and university, and dropping the course prior to or after an 
+
+infraction is discovered is NOT allowed without the explicit permission from the instructor. Code 
+comparison software will be used to compare designs for similarities. Bottom-line: Please do 
+you own work and do not collaborate. 
+ 
+• 
+Extensions: Don’t ask. None will be given, especially in light of the grace days provided. 
+Exceptions only for legitimate circumstances. For e.g., a job interview is not a legitimate 
+reason for an extension. 
+• 
+Late Assignments: 10 points deduction per day (weekend days count). 
+• 
+Grading Appeals: If you believe there is a mistake in grading of any assignment, then 
+bring it to our attention so that we correct. Grade appeal requests must be submitted in 
+writing within one week of receiving back the graded assignment. Appeals may be made 
+using Gradescope or Piazza (in a private post). 
+• 
+Re-scheduling: Don’t ask. No requests to take exams early or late will be granted to 
+accommodate personal schedules, interviews, etc. 
+ 
+Accommodations for Students with Disabilities: If you have a disability and are registered 
+with the Oﬃce of Disability Resources, please come and talk to me to discuss your 
+needs.  You will also need to use the online system to formally notify me of your 
+accommodations. I will work with you to ensure that accommodations are provided as 
+appropriate. 
+ 
+If you suspect that you may have a disability and would benefit from accommodations 
+but are not yet registered with the Oﬃce of Disability Resources, contact them at 
+access@andrew.cmu.edu. 
+ 
+Your Health and Well Being: Things at CMU can get stressful at times. Please remember to 
+take good care of yourself! Now more than ever, with the additional sources of stress 
+this semester, it is important for you to stay healthy, and to reach out to your support 
+network and to other resources that can help you when things start feeling difficult. 
+Know that you are not alone - all of us can feel overwhelmed at times (especially at a 
+time like this), and all of us benefit from help and support during those times. Even 
+though some of you are away from campus, there are still several resources that we 
+encourage you to make use of if you are going through any sort of struggle. Sometimes, 
+even if you don't think that you need it, or that it’s not serious enough to warrant 
+reaching out, you may be surprised at how friends, family, course staff, and 
+professionals can help you - consider reaching out to any of them you trust for help, or 
+to get connected to resources that can provide the help you could use. An excellent 
+resource at CMU is Counseling and Psychological Services (CaPS) - they are excellent 
+listeners, and can help you through a wide variety of situations (including ones that 
+many of you may not consider when you hear the terms counseling and psychology). 
+CaPS is available for students on and off campus, and can help you with situations such 
+as academic stress, difficult life events, or feelings such as anxiety or depression.  
+ 
+Counseling and Psychological Services (CaPS)  
+https://www.cmu.edu/counseling/ 
+(412) 268-2922 
+
+ 
+If you or someone you know is feeling suicidal or in danger of self-harm, call 
+someone immediately, day or night: 
+ 
+CaPS: (412) 268-2922,  
+Re:solve Crisis Network: (888) 796-8226 
+ 
+If the situation is life threatening, call the police: 
+On campus: CMU Police: (412) 268-2323 
+Off campus: 911  
+ 
+Finally, if you have any questions about this, or would like to talk, please do not 
+hesitate to reach out to one of us. 
+ 
+Diversity and Inclusion: The ways we are diverse are many and are critical to excellence and an 
+inclusive community. They include but are not limited to: race, color, national origin, sex, 
+disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran 
+status, or genetic information. We at CMU, will work to promote diversity, equity and inclusion 
+because it is just and necessary for innovation.  Therefore, while we are imperfect, we will work 
+inside and outside of our classrooms, to increase our commitment to build and sustain a 
+community that embraces these values. 
+ 
+It is the responsibility of each of us to create a safer and more inclusive environment. Bias 
+incidents, whether intentional or unintentional in their occurrence, contribute to creating an 
+unwelcoming environment for individuals and groups at the university. If you experience or 
+observe unfair or hostile treatment on the basis of identity, we encourage you to speak out for 
+justice and support in the moment and and/or share your experience anonymously using the 
+following resources: 
+ 
+Center for Student Diversity and Inclusion: 
+csdi@andrew.cmu.edu 
+(412) 268-2150 
+www.cmu.edu/student-diversity  
+ 
+Report-It online anonymous reporting platform: 
+www.reportit.net 
+username: tartans 
+password: plaid 
+ 
+All reports will be acknowledged, documented and a determination will be made regarding a 
+course of action.” All experiences shared will be used to transform the campus climate.  As 
+someone who served as Associate Dean and Vice Provost of Diversity, Equity and Inclusion, feel 
+welcome to speak with me as well. 
+ 
+ECE

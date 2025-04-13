@@ -1,0 +1,102 @@
+1 
+ 
+ 
+Course Syllabus 
+18-752: Estimation, Detection and Learning 
+Spring 2025 
+ 
+Course Personnel:  
+Instructor: Rohit Negi  
+Office: Porter Hall B29 
+Phone: 8x6264 
+Email: Use Piazza to contact me for course-related questions. Otherwise use 
+negi@andrew.cmu.edu 
+Office Hours: Tuesdays and Thursdays, 11:00 a.m. – 12:00 p.m. Remote only, except by 
+appointment. 
+Zoom link: https://cmu.zoom.us/j/99426329039?pwd=cVU0dW9lcEN5bXBLN3JiZCtnVFlTUT09 
+ 
+Teaching team students: Maximilian Manzhosov, Prithviraj Vijayaraj, Sanjeev Sridhar 
+Email: Use Piazza to contact the Teaching team for quick questions 
+Office Hours:  Mondays 10-11am and Wednesdays 11am-12pm. Remote only, except by appointment.  
+Zoom link:      Same as the Instructor office hour link 
+https://cmu.zoom.us/j/99426329039?pwd=cVU0dW9lcEN5bXBLN3JiZCtnVFlTUT09 
+ 
+Course Support: ECE Academic Services Center 
+Office: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Class Schedule: 
+Lectures:  Tuesdays & Thursdays, 2:00 p.m. – 3:20 p.m., Room WeH 7500. 
+ 
+Number of Units: 12 
+ 
+Pre-requisites: Probability theory (36-217 or equivalent) is required. A good understanding of 
+undergraduate linear algebra (18-202 or equivalent) is required. Exposure to Matlab or Python is 
+required. Since this is a graduate course, you can decide yourself whether you meet these 
+requirements. 
+ 
+Graduate Area:  Signals and Systems. 
+ 
+Course Description: This course discusses estimation, detection and learning, covering a variety of 
+methods, from classical to modern. The topics will be covered at a graduate-appropriate level of 
+understanding. These topics include Bayes decision theory, Parameter estimation, Regression and 
+Generalized linear models, Classification using generative and discriminative models, Popular 
+classifiers, Regression in random process, Linear filtering, Kalman and related filters, Bayesian 
+learning, EM algorithm, variational Bayes, MCMC sampling, Unsupervised learning, Automatic 
+feature extraction, Manual feature extraction, Neural networks, RKHS theory, Non-parametric 
+inference using RKHS, SVR, SVM, LASSO, Compressed sensing, Deep learning, Probabilistic 
+graphical models. 
+ 
+
+2 
+ 
+ 
+Textbook: Not required, but recommended 
+Machine Learning: A Bayesian and Optimization Perspective, Sergios Theodoridis, 2nd Edition, 
+ISBN-10: 0128188030, ISBN-13: 978-0128188033, Publisher: Academic Press. 
+Online material will be recommended for certain topics. 
+ 
+Course Canvas:  
+Go to the login page at: https://cmu.instructure.com/. You should check the course canvas daily for 
+announcements and handouts. 
+ 
+Schedule of Topics: 
+Introduction 
+1. Estimation, Detection and Learning problems 
+2. Math tools review – Linear algebra 
+3. Deterministic learning 
+4. Math tools review – Probability theory 
+Basic Estimation, Detection and Learning 
+5. Bayes decision theory and Basic statistics 
+6. Statistical learning for Regression 
+7. Iterative and Stochastic algorithms 
+8. Statistical learning for Classification  
+9. MSELE and Filtering in random processes 
+10. Bayesian learning 
+11. Ensemble learning 
+Popular Machine Learning methods 
+12. Manual feature extraction 
+13. Unsupervised learning for Automatic feature extraction 
+14. Neural networks 
+15. Deep learning  
+16. Reproducing Kernel Hilbert Space 
+17. Non-parametric and Robust inference (SVC, SVR) 
+18. Sparsity-aware learning (LASSO and Compressed sensing) 
+19. Probabilistic Graphical models (time permitting) 
+ 
+ 
+ 
+ 
+
+3 
+ 
+ 
+Homeworks: 
+Homeworks will be handed out roughly once per week, and due the next week (approximately 6 
+homeworks). Homework grading will be coarse (assigning 0/1/2 for each problem). 
+Homeworks are due by 11:59 pm on the due date uploaded to Canvas. Scan your homework and 
+upload it to Canvas (under ‘Assignments’), preferably a single file in pdf format. If you upload 
+single images, label their filenames with the page number, as h1.jpg, h2.jpg, etc. Discussions about 
+homework in small groups are encouraged. However, homeworks must be written up individually 
+and independently. Please see the

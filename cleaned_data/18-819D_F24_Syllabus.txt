@@ -1,0 +1,328 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-819D: Special Topics in Applied Physics: Memory Devices and 
+Technology 
+ 
+Fall 2024 
+ 
+Instructor: 
+ 
+Xu Zhang 
+Office Location: 
+REH 231 
+Email Address: 
+xuzh@cmu.edu 
+Office Hour:   
+Tuesday, 4-5 pm 
+ 
+Course Management Assistant at the Academic Service Center 
+Email Address: ece-asc@andrew.cmu.edu 
+Office Location: HH 1112 
+ 
+ 
+Course Description:  
+This course examines the fundamental principles of semiconductor memory devices, 
+including volatile and non-volatile solid state random access memory (RAM) systems. 
+Both commercially deployed memory technology (Dynamic RAM, Static RAM, Flash, 
+etc) will be examined along with emerging technologies (like Magnetic RAM, Resistive 
+RAM). Cell physics will be examined using physical models of device switching, including 
+heat flow, magnetic field induced switching, capacitance and tunneling. The advanced 
+applications of memory or memory-like devices in the emerging field of neuromorphic 
+computing will also be introduced. Through the course, the students will become familiar 
+with major memory device structures and integration technology. By completing the 
+course, the students will establish a good understanding about a variety of memory devices 
+and analysis techniques, as well as developing a strong knowledge base about emerging 
+memory technologies and how they are applied in neuromorphic computing and AI.  
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+Basic semiconductor device physics will be useful, but not required. 
+ 
+Co-requisite:  
+None 
+ 
+Graduate Course Area: Device Science and Nanofabrication 
+
+ 
+2 
+ 
+ 
+Class Schedule: 
+• Lecture:  
+Monday and Wednesday 
+12:00pm – 1:20pm 
+ 
+ 
+GHC 4211 
+ 
+Required Textbook: None 
+ 
+Recommended Reading:  
+- 
+Integrated Microelectronic Devices: Physics and Modeling, 1st Edition, by Jesus del 
+Alamo, 2017, Pearson 
+- 
+Physics of Semiconductor Devices, 3rd Edition, by Simon M. Sze, Kwok K. Ng 
+- 
+Devices, Circuits, and Systems: Nanoscale Semiconductor Memories: Technology and 
+Applications. by Kurinec, Santosh K, 2013  
+- 
+NAND Flash Memory Technologies, by Seiichi Aritome, 2015, John Wiley & Sons  
+- 
+Nonvolatile Memory Technologies with Emphasis on Flash: A Comprehensive Guide 
+to Understanding and Using Flash Memory Devices, Joe Brewer (Editor), Manzur Gill 
+(Editor) ISBN: 978-1-118-21162-5, 2011, Wiley-IEEE Press 
+ 
+ 
+Learning Objectives: 
+ 
+This graduate course introduces students to the fundamental device physics, advanced 
+integration technology and cutting-edge innovations in memory device and technology 
+innovations. Upon completion of this course, students will be able to do the following: 
+ 
+1. Understand the basic device physics of semiconductor memory devices and 
+technology including flash memory, SRAM, DRAM, phase change memory, STT-
+MRAM, resistance random access memory, ferroelectric memory. 
+2. Demonstrate a familiarity with major memory device structures and integration 
+technology. 
+3. Demonstrate a familiarity with basic memory system architecture and peripheral 
+circuits. 
+4. Apply device models to analyze various types of memory devices and circuits. 
+5. Establish knowledge base about the emerging advance memory technologies and 
+applications in new computing architectures. 
+ 
+Course Canvas:  
+To access the course Canvas, go to the login page at: https://cmu.instructure.com/. You 
+should check the course Canvas daily for announcements and handouts.  
+ 
+Grading Algorithm:  
+ 
+5% 
+Participation 
+25 % 
+Homework 
+20% 
+MidTerm 
+10 % 
+Project Presentation 
+
+ 
+3 
+ 
+40 % 
+Final 
+ 
+Assignment Submission Policy 
+ 
+Homework 
+The students are expected to complete the assignments independently. Minimum amount 
+of discussion is allowed among students provided that the discussion partner is disclosed 
+in the submission. The discussion and collaboration should be limited to only the current 
+18-819D students and the TA. Discussion and consultation with people outside the class 
+or finding answers on the web or elsewhere etc. are not permitted. 
+ 
+Class Project and Presentations 
+Class project will consist of the case study of an existing or emerging memory device 
+technology in terms of its design principles, fabrication and integration technology, and 
+unique applications in memory and computing. The study will include both qualitative and 
+quantitative analysis of the device technology and performance advantages. The study will 
+be presented in the class. The presentation will be 15 minutes plus 5 min Q&A. Project 
+grading will be based on the oral presentations. 
+ 
+Additional Policies 
+Late assignment submission will not be accepted with the exception of only emergency 
+reasons established and approved by the university. Late submissions or submissions that 
+violate the rules above will have deductions at the discretion of the instructor and the 
+TA/Grader. 
+ 
+Tentative Course Calendar: 
+ 
+Date 
+Day 
+Class Activity 
+August  
+26 
+M 
+Introduction and memory technology trend 
+28 
+W 
+Semiconductors and carrier statistics 
+September 
+2 
+M 
+NO CLASS  
+4 
+W 
+MOSFET operation I   
+9 
+M 
+MOSFET operation II   
+11 
+W 
+Floating gate memory  
+16 
+M 
+Microprocessor and memory system basics 
+18 
+W 
+NAND Flash memory technology 
+23 
+M 
+NAND Flash memory technology  
+25 
+W 
+3D Flash memory 
+
+ 
+4 
+ 
+30 
+M 
+SRAM cells and operation 
+October 
+2 
+W 
+SRAM operation and design considerations 
+7 
+M 
+Midterm Exam  
+9 
+W 
+DRAM cells and operation 
+14 
+M 
+NO CLASS 
+16 
+W 
+NO CLASS 
+21 
+M 
+RRAM devices and operation principles 
+23 
+W 
+RRAM crossbar architectures and selection devices 
+28 
+M 
+Phase change memory device and technology 
+30 
+W 
+STT-MRAM technology 
+November 
+4 
+M 
+Ferroelectric RAM 
+6 
+W 
+3D chip integration: logic, memory and functional circuits 
+11 
+M 
+Neuromorphic computing and In-memory computing I  
+13 
+W 
+Neuromorphic computing and In-memory computing II 
+18 
+M 
+Quantum memory 
+20 
+W 
+Student presentations 
+25 
+M 
+Student presentations 
+27 
+W 
+NO CLASS 
+December 
+2 
+M 
+Final Exam  
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+ 
+(1) an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: Computation of 
+MOSFET models; Computation of memory cell physics involving capacitance, quantum 
+mechanical tunneling current, heat flow, magnetic fields; Computation of circuit level 
+memory access events. 
+ 
+(2)  an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors: Lecture material and homework 
+assignments covers assessment of cost of memory based on cost of capital investment. 
+
+ 
+5 
+ 
+The development of next generation data storage system and techniques for future 
+electronic systems will be discussed.  
+  
+(3)  an ability to communicate effectively with a range of audiences: Students will do 
+project presentations as part of this course requirements.   
+  
+(4)  an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts: The 
+impact of data processing and storage etc. on the global community is discussed 
+throughout the semester. 
+ 
+(5)  an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives: Students will be engaged in interactive discussion during 
+lectures and project presentations. Students can form a group to do the project 
+presentation.  
+ 
+(6)  an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions: Homework 
+assignments are cast at a level sufficiently abstract that some degree of problem 
+formulation must be undertaken before a solution may be pursued. Final numerical 
+answers are sought in the assignments and exams. In some cases, a rigorous format of 
+homework presentation must be followed, according to best practice presentation of 
+quantitative analysis. 
+ 
+(7)  an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: Emphasis on estimation exercises teaches a skill that initial insights 
+into new domains can be drawn from existing knowledge. This lowers the barrier to 
+further exploration and instills a culture of curiosity. 
+ 
+Resources for Stress Management 
+ 
+Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating 
+well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time 
+to relax. This will help you achieve your goals and cope with stress. 
+ 
+All of us benefit from support during times of struggle. You are not alone. There are 
+many helpful resources available on campus and an important part of the college 
+experience is learning how to ask for help. Asking for support sooner rather than later is 
+often helpful. 
+ 
+If you or anyone you know experiences any academic stress, difficult life events, or 
+feelings like anxiety or depression, we strongly encourage you to seek support. 
+Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and 
+visit their website at http://www.cmu.edu/counseling/. Consider reaching out to a friend, 
+
+ 
+6 
+ 
+faculty or family member you trust for help getting connected to the support that can 
+help. 
+ 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone 
+immediately, day or night: 
+ 
+CaPS: 412-268-2922 
+ 
+Re:solve Crisis Network: 888-796-8226 
+ 
+If the situation is life threatening, call the police: 
+On campus: CMU Police: 412-268-2323 
+Off campus: 911 
+ 
+If you have questions about this or your coursework, please let me know. 
+ 
+ECE

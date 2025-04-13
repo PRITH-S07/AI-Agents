@@ -1,0 +1,681 @@
+Overview
+This course introduces students to the fundamentals of computer security, and is structured into
+four broad sections: Software Security, Cryptography, System/Network Security, and Human Factors.
+Recurring themes will be crisply defining security goals, assessing possible vulnerabilities that might
+undermine those goals, and learning and how to identify, fix, and prevent such vulnerabilities.
+Ultimately students will master the distinguishing feature of the security field, which is the
+ubiquitous need to consider an adversary, and the resulting interplay between attack and defense
+that routinely advances both theory and practice.
+After completing the course, students will be able to:
+Develop (formal and informal) threat models for modern systems.
+Justify fundamental security principles and apply them to the analysis of novel situations.
+Identify common security vulnerabilities, develop exploits against them, and assess the
+tradeoffs of possible defenses.
+Explain common techniques used to construct secure systems and evaluate their effectiveness
+against a range of attacks.
+Select the appropriate cryptographic primitive to achieve a desired security property, perform
+basic cryptographic proofs, and evaluate the security of cryptographic protocols.
+Argue for and against laws and public policy that intersect with computer security.
+Incorporate human factors into the evaluation of the security of a system.
+See the class schedule for a more detailed list of topics covered.
+This course is the first step in both the SCS Security & Privacy concentration and the ECE Security &
+Privacy concentration. These concentrations are designed to expose students to the key facets of
+and concerns about computer security and privacy that drive practice, research, and legislation. On
+completing the curriculum, students will be prepared to continue developing their interests in
+security or privacy through graduate study; to be informed participants in public and other
+processes that shape how organizations and society develop to meet new challenges related to
+computer security or privacy; and to take jobs in security or privacy that will provide further training
+in applicable areas.
+Concretely, today there are approximately 500,000 cybersecurity-related job openings in the United
+States [1] with a projected need for 1.8 million additional cybersecurity professionals by 2022 [2]. As
+a specific example, U.S. News recently ranked information security analyst the fourth best
+technology job with a median salary of $95,510.
+15/18-330 Introduction to Computer Security, Fall 2024
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+8/24/24, 3:57 PM
+Overview
+https://www.andrew.cmu.edu/course/18-330/2024f/
+1/2
+
+15/18-330 Introduction to
+Computer Security, Fall 2024
+Office Hours and Locations
+See the Google Calendar for the latest info.
+When: MWF 2:00PM-03:20PM, EDT
+Where: DH 2210
+Course Discussions on Ed
+Course Canvas
+Office Hours Queue
+Who:
+Professor Bryan Parno
+Professor Riad Wahby
+Head TA: Claire Chen
+Teaching Assistants
+1. Cheng Zhang
+2. Cody Berger
+3. Eleanor Li
+4. Eric Wang
+5. Owen Wu
+6. Senam Anaglate
+7. Zhengyao Lin
+8/24/24, 3:57 PM
+Overview
+https://www.andrew.cmu.edu/course/18-330/2024f/
+2/2
+
+Policies
+Communication
+We will be using Ed Discussions for discussions outside of class. Rather than emailing general
+questions to a professor or TA, we encourage you to post your questions on Ed Discussions, so
+everyone can benefit from the answer and any discussions around it.
+Grading
+For each exam (and only for the exams), we will curve the scores (upward only) to a normal
+distribution.
+We translate your final class percentage into a letter grade as follows:
+89.5 – 100: A
+79.5 – 89.4: B
+69.5 – 79.4: C
+59.5 – 69.4: D
+< 59.5: F
+The total points possible are allocated as follows:
+40% Homework
+20% Best exam score
+20% Second best exam score
+10% Third best exam score
+5% Class Participation
+5% Recitation Participation
+Electronics
+Studies show that multitasking with electronics in the classroom can have a significant negative
+impact not just on your understanding, but also on the learning of students around you. Hence,
+aside from the in-class polls discussed below, students may not use any electronic devices in lecture
+(no cell phones, laptops, tables, etc.) without explicit permission in writing from the instructor.
+Students are expected to take notes, but to do so manually (e.g., with pencil and paper). Exceptions
+will be granted in accordance with university guidelines for accessibility concerns.
+15/18-330 Introduction to Computer Security, Fall 2024
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+1/7
+
+Participation
+Attendance is required (if not always strictly recorded)
+You will be responsible for all materials presented in lectures and recitations. You should not expect
+that all lecture or recitation materials will be given to you in written form. We strongly encourage
+you to be active in class discussions, in recitation, and Ed Discussions, but your actual participation
+grades will be based on the quantitative measures described below. Note that these measures
+include a grace policy designed to accomodate the inevitable conflicts that tend to arise each
+semester. If you have to miss lecture or recitation, please do not ask to be excused; the missed
+participation points will be automatically deducted from your grace budget.
+Recording (audio or video)
+Students may not independently record lectures or recitations without explicit permission in writing
+from the instructor. Violations will result in your failing the course. Exceptions will be granted in
+accordance with university guidelines for accessibility concerns, but even then such recordings may
+not be shared publicly or privately and must be deleted at the end of the semester.
+To facilitate additional learning that might come from revisiting a previous lecture, we aim to make
+videos of the lectures privately available online via Canvas (look for the “Zoom” tab). The time taken
+to transcode the videos can vary, so they may not be available immediately after the lecture slot.
+These videos are only for students in the class and should not be shared. Finally, there are
+sometimes glitches with the recording system so we do not guarantee that lecture videos will
+always be posted.
+Class Participation Score
+Your class participation score will be based on the use of in-class polls. Most classes will begin with
+1-2 questions about the previous lecture. These will be answered on your own. There will also be
+questions during the lectures. For these, you will typically be allowed to confer with a partner before
+answering. Overall, there will typically be 4-5 questions each class. To lower the pressure and to
+account for inevitable conflicts or technical glitches that cause you to miss class, we will drop the
+lowest 30% of your answers. In other words, if during the entire course, we have 100 questions,
+then if you get credit for 70 of the questions, you will receive the full 5% participation score.
+Recitation Participation Score
+Most recitations will involve a group activity that you should be able to complete during recitation
+(the goal is not to give you more homework!). If you complete the activity by the end of recitation,
+you will receive 5 points. If by the end of recitation, you can show us that you made substantial
+progress on the activity, then you will receive 4 points. Otherwise, you will receive 0 points. We will
+drop the lowest 25% of your recitation activity scores.
+Participation Ethics
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+2/7
+
+Note that class and recitation participation points are meant to provide both you and me with
+important feedback on how well you are learning the material. In this regard, they serve the same
+purpose as homeworks or exams, just at a more frequent, lower-stakes level. Hence, just like on
+homeworks and exams, conferring with others is not permitted (unless otherwise announced) nor
+should you enter answers on others’ behalf. Violations will be handled in accordance with the
+Cheating Policy below.
+Optional Bonus Participation
+One of the fun/scary parts of computer security is that security problems are constantly in the news!
+One time during the semester, if you choose, you can add a post to Ed Discussions about such a
+news item. The news must be recent (within the last 3 months), and it cannot be about news that
+someone else has already posted about. In your post, succinctly and in your own words explain
+how the news relates to the class, what the underlying security flaw was (i.e., don’t just say “TwitBook
+got hacked”, say “An attacker exploited an XSS vulnerability in a library that TwitBook’s site relies on”),
+and how it could have been prevented, ideally using techniques we have covered in class. Include
+any relevant links to the news coverage, and ideally any underlying technical details (e.g., the
+revelant entry in a CVE database). Plagiarizing in your post (e.g., by copying text from online news
+sources without attribution) or using an AI assistant to write the summary for you will be treated as
+an academic integrity issue. We reserve the right to ask you about the content of your post to
+confirm that you have read and understood the material. Be sure to tag you post with the “News”
+folder. A good news post will be worth 10 homework points, which will be added to your overall
+homework score.
+To spread these out during the semester, bonus credit will only be given for the first 10 news posts
+in any given calendar week (i.e., Monday-Sunday), and only during the regular lecture portion of the
+semester (i.e., not during finals period). Hence, we encourage you to post early on, so that you are
+not shut out at the end of the semester.
+Readings
+Most lectures will be accompanied by optional and required readings. Optional readings provide
+further depth and/or explanation which can be quite helpful for improving your understanding or
+approaching certain homework questions, but the material in optional readings will not be required
+for exams. Each class with a required reading will be accompanied by a “quiz” on Canvas. The “quiz”
+will ask you to summarize the key points of the reading and report on any aspects you found
+confusing. To ensure we can respond to such confusion during lecture, the “quiz” will be due a few
+hours before the corresponding lecture. Late answers will not be accepted nor can late days be
+used. Providing reasonable answers to both questions on the quiz will be worth 2 points. Scores
+from quiz responses will be considered as part of your homework score. To account for the
+vicissitudes of life, we will drop your two lowest reading scores.
+Resources
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+3/7
+
+Many of the lecture slides rely on PowerPoint animation to better convey the concepts. Hence,
+when reviewing the slides at a later point, they work best if you actually click through the
+presentation, instead of just looking at the slides statically. CMU provides you with a free,
+downloadable copy of PowerPoint. If you run into trouble with that, you can also use PowerPoint in
+a virtual machine, or via Virtual Andrew. You can also view them via a free online viewer or mobile
+app.
+Before each lecture, we provide you with a lecture guide (see the lecture schedule for links). These
+include a variety of questions you should be able to answer by the end of the lecture. The notes are
+not a substitute for attending lecture; they are merely intended to help you focus on important
+topics that the lecture will cover. Note that material that does not appear in the lecture notes is still
+fair game for homeworks and exams.
+Late Days
+Late days interfere with the ability of course staff to quickly turn around assignment grades and
+solutions, since we cannot give out solutions or graded assignments until everyone has turned in
+their work. However, we understand that unforseen circumstances may arise. Thus, each student
+has a budget of three late days for the semester, of which at most one can be used on any
+single assignment. Once your budget of late days has been used up, no further days will be
+granted, and late homework will be marked as a zero.
+The only exceptions will be for family emergencies and exceptional circumstances, such as
+hospitalization and longer-term illness. To prevent misuse, requests for such exceptions will need to
+be documented by emailing the professor and cc’ing your academic advisor. We do not offer
+exceptions for personal scheduling issues such as interviews, class load, etc.
+Ethics, and Cheating
+The course staff will treat all students ethically and fairly. We, in turn, expect the same from all
+students.
+Any lapse in ethical behavior will immediately result in −1,000,000 points, as well as be immediately
+reported to the appropriate university disciplinary unit. Really. No matter what. The course staff
+looks at students who cheat or plagiarize as far beneath someone who fails the course.
+This course will follow CMU’s policy on cheating and plagiarism. Note that the policy gives several
+examples of what constitutes cheating and plagiarism. If you have any questions, you should contact
+the instructors.
+Students should behave ethically. This means obeying the law, but that is not enough. Behaving
+ethically means you avoid activities that do harm or may do harm to people, the environment, or
+other computers. In short, don’t be a nuisance.
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+4/7
+
+Note just because you can do something (or you read about others doing it) does not make it ok.
+For example, scanning a network may not be illegal (I am not a lawyer, so I shy away from definitive
+statements). However, scanning can crash computers. For example, we know of several very popular
+commodity-grade IP cameras that crash when you scan them. Sure, the camera software is buggy.
+But is there any reason for you, not being a professional, to crash a camera monitoring a baby?
+Launching exploits, “testing” the security of a system without explicit permission from all necessary
+parties, and so on are all unethical for the purpose of this course.
+Collaboration
+Students are encouraged to talk to each other about class concepts. For assignments, assistance
+should be limited to discussion of the problem and at most sketching general approaches. Each
+student must turn in his or her own solution, derived from his or her own thoughts. Course staff
+may verify a student did the prescribed work by asking for a verbal explanation, and failure to
+correctly re-explain a submitted solution is considered a strong indication of cheating.
+Student Outcomes
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7
+Educational Objectives that are fulfilled by the sum total of all the courses you take. The following list
+describes which objectives are fulfilled by 18-330 and in what manner they are fulfilled. ABET
+numbers objectives from 1 to 7. Those objectives not fulfilled by this course have been omitted
+from the following list.
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of
+engineering, science, and mathematics. The course poses many problems (on homework, during
+exams, and for in-class exercises) for students to formulate and solve using good engineering
+practice. Students will use mathematical and engineering concepts to identify flaws in software
+and solve the complex problems necessary to secure it.
+2. An ability to apply engineering design to produce solutions that meet specified needs with
+consideration of public health, safety, and welfare, as well as global, cultural, social, environmental,
+and economic factors. Poor computer design and engineering are the root causes of most
+security vulnerabilities in deployed systems today. As society increasingly relies on software in
+critical situations, these vulnerabilities translate into threats to safety and economic well being.
+This course will examine approaches, mechanisms, and tools used to make computer systems
+more secure.
+3. An ability to communicate effectively with a range of audiences. Students practice their
+communication skills during team-based exercises in class and recitation, as well as the basic
+written communication of problem solutions on homework and exams.
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make
+informed judgments, which must consider the impact of engineering solutions in global, economic,
+environmental, and societal contexts. As in many engineering domains, designing secure systems
+involves extensive tradeoffs. Students will learn to assess and weigh these tradeoffs, including
+the impact they have on end users.
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+5/7
+
+5. An ability to function effectively on a team whose members together provide leadership, create a
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. Students
+will work in teams during exercises in lectures and recitations.
+6. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. In
+multiple homework assignments, students must analyze new systems, identify vulnerabilities,
+and develop custom exploits. This requires developing new knowledge, including use of the
+tools to perform the analysis.
+Work Life Balance
+Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well,
+exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will
+help you achieve your goals and cope with stress.
+All of us benefit from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to
+ask for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like
+anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological
+Services (CaPS) is here to help: call 412-268-2922 and visit their website. Consider reaching out to a
+friend, faculty or family member you trust for help getting connected to the support that can help.
+If you have questions about this or your coursework, please let us know.
+Commitment to Diversity
+Every individual must be treated with respect. The ways we are diverse are many and are critical to
+excellence and an inclusive community. They include but are not limited to: race, color, national
+origin, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran
+status, or genetic information. We at CMU, will work to promote diversity, equity and inclusion
+because it is just and necessary for innovation. Therefore, while we are imperfect, we will work
+inside and outside of our classrooms, to increase our commitment to build and sustain a
+community that embraces these values.
+It is the responsibility of each of us to create a safer and more inclusive environment. Bias incidents,
+whether intentional or unintentional in their occurrence, contribute to creating an unwelcoming
+environment for individuals and groups at the university. If you experience or observe unfair or
+hostile treatment on the basis of identity, we encourage you to speak out for justice and support in
+the moment and and/or share your experience anonymously using the following resources:
+Center for Student Diversity and Inclusion: Email: csdi@andrew.cmu.edu, Phone: (412) 268-
+2150
+Report-It online anonymous reporting platform: Username: tartans, Password: plaid
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+6/7
+
+15/18-330 Introduction to
+Computer Security, Fall 2024
+Office Hours and Locations
+See the Google Calendar for the latest info.
+All reports will be acknowledged, documented and a determination will be made regarding a course
+of action. All experiences shared will be used to transform the campus climate.
+8/24/24, 3:57 PM
+Policy
+https://www.andrew.cmu.edu/course/18-330/2024f/policy/
+7/7
+
+Assignments
+The assignments will give you hands-on experience in implementing the concepts we learn in the
+class. Have fun!
+Unless otherwise specified in Canvas, assignments are due by 11:59 PM EDT. However, staff
+assistance (e.g., on Ed or via email) is only provided up to 10:00 PM EDT, so we encourage you to
+complete your assignments early!
+The dates below are estimates and subject to change. Canvas has definitive due dates.
+Assignment 1: Security Principles and the Basics of Execution
+Due: Sep 3, 2024
+Estimated Duration: Short
+Assignment 2: Exploits and Mitigations
+Due: Sep 10, 2024
+Estimated Duration: Short
+Assignment 3: Exploits, ROP, and CFI
+Due: Sep 17, 2024
+Estimated Duration: Long
+Assignment 4: Exploits, Verification, and Analysis
+Due: Sep 26, 2024
+Estimated Duration: Long
+Assignment 5: Crypto Basics and PRFs
+Due: Oct 10, 2024
+Estimated Duration: Long
+15/18-330 Introduction to Computer Security, Fall 2024
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+8/24/24, 3:58 PM
+Assignments
+https://www.andrew.cmu.edu/course/18-330/2024f/assignments/
+1/2
+
+15/18-330 Introduction to
+Computer Security, Fall 2024
+Office Hours and Locations
+See the Google Calendar for the latest info.
+Assignment 6: Ciphers, MACs, Authenticated Encryption, and PKI
+Due: Oct 24, 2024
+Estimated Duration: Long
+Assignment 7: Public Key and Blockchains
+Due: Oct 31, 2024
+Estimated Duration: Long
+Assignment 8: Trusted Computing and Network Security
+Due: Nov 12, 2024
+Estimated Duration: Short
+Assignment 9: PKI and the Web
+Due: Nov 19, 2024
+Estimated Duration: Medium
+Assignment 10: Web, Privacy, Usability
+Due: Nov 26, 2024
+Estimated Duration: Long
+8/24/24, 3:58 PM
+Assignments
+https://www.andrew.cmu.edu/course/18-330/2024f/assignments/
+2/2
+
+Schedule
+(Note this is a rough schedule and things are subject to change.)
+Aug 26, 2024 Security Principles: 1. Introduction, Ethics, and Course Overview (Instructor: Parno &
+Wahby)  |  [Guide]
+This lecture will give a high-level overview of the course, including topics covered, learning goals, and
+course mechanics. We will also discuss ethical challenges associated with computer security.
+Optional Reading:
+On Trusting Trust
+Aug 28, 2024 Security Principles: 2. Threat Models, Trusted Computing Bases, and Design
+Principles (Instructor: Parno)  |  [Guide]
+This lecture will present techniques to reason systematically about an attacker's capabilities and a
+system's security dependencies. We will also introduce some fundamental principles of secure
+system design that will be recurring themes throughout the course.
+Reading:
+Computer Security and the Internet, Ch. 1 (up to and including 1.8)
+Optional Reading:
+Threat Modeling, Chapter 1
+Protection of Information (Section I.A, pages 4-6, starting at "3) Design Principles")
+Aug 30, 2024 Software Security: 3. Execution Semantics (Instructor: Wahby)  |  [Guide]
+Attackers often exploit the conventions of normal program execution. To understand such exploits,
+we first must understand the normal conventions. This recitaiton will review the material up through
+Chapter 3 of CS:APP from 15-213. Consider reviewing the course notes linked below as well. We will
+cover the parts of the compilation tool chain and operations at the assembly level, including control
+flow, the memory model, and stack frames.
+Optional Reading:
+Chapter 3 of Computer Systems A Programmers Perspective Volume 2
+15-213 Course Schedule (review the "Machine Prog" lectures )
+Sep 2, 2024 : No Class
+University holiday: Labor day. Enjoy the day off!
+15/18-330 Introduction to Computer Security, Fall 2024
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+1/8
+
+Sep 4, 2024 Software Security: 4. Control-Flow Attacks (Instructor: Wahby)  |  [Guide]  |  [Notes]
+In this lecture, we explore control-flow-hijacking attacks that gain control of the instruction pointer.
+We will review buffer overflows that you should have seen in previous classes, as well as introducing
+new attacks, such as format-string exploits.
+Optional Reading:
+Smashing the Stack for Fun and Profit
+Smashing the Stack in 2011
+Exploiting Format String Vulnerabilities
+Sep 6, 2024 Software Security: Recitation: Thinking Up Exploits - Part 1 (Instructor: Parno & Wahby)
+We will practice the skills needed to analyze an unknown binary, identify vulnerabilities, and exploit
+them.
+Sep 9, 2024 Software Security: 5. Deployed Mitigations and Return Oriented Programming
+Attacks (Instructor: Wahby)  |  [Guide]  |  [Notes]
+We will introduce control-flow hijack defenses found in practice today, including canaries, DEP, and
+randomization (ASLR). We will also discuss methods for bypassing these defenses. Finally, we review
+Return Oriented Programming attacks.
+Reading:
+Sections 1 and 3.1-3.2.4 of The Geometry of Innocent Flesh on the Bone Return-into-libc
+without Calls (on the x86)
+Optional Reading:
+Return-Oriented Programming Systems, Languages, and Applications
+Q Exploit Hardening Made Easy
+ropasaurusrex a primer on return-oriented
+Design of ASLR in PAX
+ASLR Smack and Laugh Reference
+Effectiveness of ASLR
+Sep 11, 2024 Software Security: 6. Defenses: CFI and Type Safety (Instructor: Wahby)  |  [Guide]
+This lecture will cover techniques to retrofit memory safety on legacy C code, with a focus on
+Control Flow Integrity (CFI). CFI is a security property that specifies real executions should follow the
+static CFG. We will explore CFI, focusing on what "the" CFG is. We will also introduce programming
+language techniques based on type safety that can eliminate entire classes of bugs.
+Reading:
+Sections 1-3 of Control Flow Integrity Principles, Implementations, and Applications
+Optional Reading:
+CCured: Type-Safe Retrofitting of Legacy Software (Sections 4-6 are optional)
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+2/8
+
+Sep 13, 2024 Software Security: Recitation: Thinking Up Exploits - Part 2 (Instructor: Parno &
+Wahby)
+We will continue to practice the skills needed to analyze an unknown binary, identify vulnerabilities,
+and exploit them.
+Sep 16, 2024 Software Security: 7. Type Systems and Verification (Instructor: Wahby)  |  [Guide]
+We will cover programming language techniques that provably eliminate entire classes of
+vulnerabilities and even prove strong properties about software.
+Reading:
+Program Proofs (Ch 2 -- we will focus on weakest preconditions, so you can ignore the definition
+and computation of strong postconditions, Ch 13)
+Sep 18, 2024 Software Security: 8. Verification and Dafny (Instructor: Parno)  |  [Guide]
+We will continue to cover principles of verifying software, and we will introduce Dafny, a program
+verification language (https://github.com/dafny-lang/dafny).
+Reading:
+Getting Started with Dafny - A Guide (Skip 6,10,11)
+Sep 20, 2024 Software Security: Recitation: Provably Correct Software (Instructor: Parno & Wahby)
+We will practice using the Dafny program verification language (https://github.com/dafny-
+lang/dafny).
+Sep 23, 2024 Software Security: 9. Code Analysis and Isolation Techniques (Instructor: Wahby)  | 
+[Guide]
+This lecture will cover techniques to analyze code for memory vulnerabilities. To mitigate
+vulnerabilities we cannot or do not find, we will cover various system mechanisms for achieving
+isolation: sandboxing, Software Fault Isolation (SFI), program partitioning, and airgaps.
+Reading:
+Computer Security and the Internet, Ch. 5 (section 5.1)
+Optional Reading:
+A Few Billion Lines Of Code Later: Using Static Analysis To Find Bugs In The Real World
+Software Fault Isolation
+Native Client
+Sep 25, 2024 Crypto: 10. Introduction to Cryptography (Instructor: Parno)  |  [Guide]  |  [Notes]
+In this lecture we will provide a high-level introduction to cryptography, including an overview of
+primitives and security models. We will touch on the rich power offered by modern cryptographic
+tools. Finally, we will discuss (in)secure sources of randomness.
+Reading:
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+3/8
+
+A Graduate Course in Applied Cryptography (Ch. 2.1, 2.2, and 3.10)
+Optional Reading:
+Coursera Course on Cryptography
+Handbook of Applied Cryptography Chapter 1
+Sep 27, 2024 Review: Software & Systems Security (Instructor: Parno & Wahby)
+This slot will be a review period. We will provide approximately a 30 minute review, and then will
+open up the floor for questions. Please think ahead of time what would be good questions; we are
+happy to answer anything. If there are no questions, it will be a short meeting.
+Sep 30, 2024 Crypto: 11. (Pseudo)Randomness (Instructor: Parno)  |  [Guide]  |  [Notes]
+We will cover the principles of pseudorandom functions, permutations, and introduce the notion of
+adversarial games to prove security properties of cryptographic constructions.
+Reading:
+A Graduate Course in Applied Cryptography (Ch. 4.4.1)
+Oct 2, 2024 Exam: Security Principles and Software Security (Instructor: Parno & Wahby)
+We will have the first exam of the course. It will cover all information covered to date up to but not
+including cryptography. This will be a closed book, closed notes, closed neighbor exam.
+Oct 4, 2024 Crypto: Recitation: Proofs by Reduction (Instructor: Parno)
+We will discuss strategies for deciding if something is secure/insecure and for how to write a proof
+of security. Students will work in teams on practice problems.
+Oct 7, 2024 Crypto: 12. Secrecy and Symmetric Key Ciphers (Instructor: Parno)  |  [Guide]  | 
+[Notes]
+We will cover definitions of computations secrecy and block ciphers.
+Reading:
+A Graduate Course in Applied Cryptography (Ch. 2.3.1, 2.3.5 (skipping Theorem 2.10 and
+2.3.5.1), Definitions and examples of negligible functions in 2.4.1)
+Oct 9, 2024 Crypto: 13. Cipher Modes and Hashes (Instructor: Parno)  |  [Guide]
+We will cover block cipher modes and cryptographic hash functions.
+Reading:
+A Graduate Course in Applied Cryptography (Ch. 4.4.4.1, 5.1, 5.3, 5.5 up to but not including
+Attack Game 5.3 on page 199, 8.1 (except 8.1.1), 8.3)
+Oct 11, 2024 Crypto: 14. Integrity and MACs (Instructor: Parno)  |  [Guide]  |  [Notes]
+This lecture will look at the property of integrity and how to achieve it using a Message
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+4/8
+
+Authentication Code (MAC). We will also cover basics of authenticated encryption, which is a
+commonly used operation.
+Reading:
+A Graduate Course in Applied Cryptography (Ch. 6.1 (except 6.1.1),6.3, Intro to Ch.9 and
+9.1(skipping 9.1.1.), 9.4.3)
+Optional Reading:
+Message Authentication using Hash Functions: The HMAC Construction
+The Order of Encryption and Authentication for Protecting Communications (Or: How Secure is
+SSL?)
+Oct 14, 2024 : No Class
+Fall break!
+Oct 16, 2024 : No Class
+Fall break!
+Oct 18, 2024 : No Recitation
+Fall break!
+Oct 21, 2024 Crypto: 15. Public Key Cryptography (Instructor: Parno)  |  [Guide]  |  [Notes]
+In this lecture we will cover the fundamentals of public key cryptography, focusing on RSA and Diffie-
+Hellman as examples.
+Reading:
+A Graduate Course in Applied Cryptography (Ch. 10.1-10.5 (skip subsections on "Mathematical
+details" and 10.5.1), 11.1, 11.2 (skip 11.2.1), 13 intro and 13.1 (except 13.1.2))
+Optional Reading:
+Remote Timing Attacks are Practical
+Oct 23, 2024 Crypto: 16. Blockchains and Cryptocurrencies (Instructor: Wahby)  |  [Guide]
+We will cover the basics of blockchains (what they are, what they are and are not good for),
+cryptocurrencies and, time permitting, smart contracts
+Reading:
+Bitcoin and Cryptocurrency Technologies (Pages 3-21)
+Optional Reading:
+Bitcoin and Cryptocurrency Technologies (Chapters 1-2)
+Oct 25, 2024 Crypto: Recitation: Cryptocurrencies (Instructor: Parno & Wahby)
+We will spend some virtual cash and write some smart contracts
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+5/8
+
+Oct 28, 2024 Systems Security: 17. Trusted Computing (Instructor: Parno)  |  [Guide]
+This lecture will cover techniques for bootstrapping trust in systems.
+Reading:
+Sections 2,3,and 4.2.2 of Bootstrapping Trust in Commodity Computers
+Oct 30, 2024 Network Security: 18. Introduction to Network Security (Instructor: Wahby)  |  [Guide]
+This lecture will give a broad overview of network security, including general principles, denial-of-
+service attacks, and intrusion detection (and prevention) systems. The latter will cover some basic
+detection theory, focusing on the base rate fallacy.
+Reading:
+Computer Security and the Internet, Ch. 10 (section 10.1) (10.6 is optional but possibly useful)
+Computer Security and the Internet, Ch. 11 (sections 11.1-11.2, 11.4)
+Optional Reading:
+The Base Rate Fallacy and its implications for the difficulty of intrusion detection
+Security Problems in the TCP/IP Suite
+A Look Back Security Problems in the TCP/IP Suite
+Nov 1, 2024 Review: Crypto (Instructor: Parno & Wahby)
+This will be a review session for all lectures on cryptography. Please think ahead of time what
+questions you may have.
+Nov 4, 2024 Systems Security: 19. AI and Security (Instructor: Wahby)
+This lecture will talk about some of the applications of AI in security. We will also cover attacks
+against AI (and in particular machine learning) in security.
+Reading:
+Sections 1 and 3 of Security and Privacy in Machine Learning
+Nov 6, 2024 Exam: Crypto (Instructor: Parno & Wahby)
+We will have the second exam of the course. It will cover all information covered to date, but it will
+focus on Crypto. This will be a closed book, closed note, closed neighbor exam.
+Nov 8, 2024 System Security: Recitation: AI Hacking (Instructor: Parno & Wahby)
+In this recitation you will experiment hands-on with attacks against ML classifiers.
+Nov 11, 2024 Systems Security: 20. Authorization and Access Control (Instructor: Wahby)  |  [Guide]
+This lecture will introduce the three "AU"’s; authentication, authorization, and audit. We will cover
+topics including classic and modern approaches to access control.
+Reading:
+Computer Security and the Internet, Ch. 5 (sections 5.2,5.7)
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+6/8
+
+A Graduate Course in Applied Cryptography (Ch. 13.8)
+Optional Reading:
+Protection of Information (Sections I.B and II)
+Computer Security in the Real World
+Nov 13, 2024 Web Security: 21. Attacks (Instructor: Wahby)  |  [Guide]
+This lecture will cover web security, including vulnerabilities such as injection attacks, XSS, and CSRF.
+Reading:
+Computer Security and the Internet, Ch. 9 (Portions on HTTP proxies, as well as 9.8 onwards,
+are optional)
+Optional Reading:
+Mozilla tutorials on web technology
+Cross Site Scripting Explained
+Robust Defenses for Cross-Site Request Forgery
+Nov 15, 2024 Web Security: Recitation: Web Hacking (Instructor: Parno & Wahby)
+Nov 18, 2024 Web Security: 22. Defenses (Instructor: Wahby)  |  [Guide]
+This lecture will cover web security with a focus on principles, such as authentication vs.
+authorization, and best practices for establishing security on the web.
+Optional Reading:
+Native Client: A Sandbox for Portable, Untrusted x86 Native Code
+Beware of Finer-Grained Origins
+Nov 20, 2024 Human Factors: 23. Privacy (Instructor: Parno)  |  [Guide]
+This lecture will cover general concepts and various mathematical definitions of privacy as well as
+how to achive them.
+Reading:
+Pages 1-7 of A Firm Foundation for Private Data Analysis
+Optional Reading:
+Engineering Privacy
+Nov 22, 2024 Research: Recitation: State-of-the-Art Security Research (Instructor: Wahby)
+Nov 25, 2024 Human Factors: 24. Making Security Usable (Instructor: Parno)  |  [Guide]
+The most secure system in the world can be subverted if users can't employ it correctly (or if they
+themselves are subverted!). This lecture will cover usable design, with case studies drawn from
+security warnings, authentication, and phishing. We will also cover attacks and defenses based on
+social engineering.
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+7/8
+
+15/18-330 Introduction to
+Computer Security, Fall 2024
+Office Hours and Locations
+See the Google Calendar for the latest info.
+Reading:
+Pages 1-14 of "Why Johnny Can’t Encrypt A Usability Evaluation of PGP 5.0"
+Optional Reading:
+A Framework for Reasoning About the Human in the Loop
+Crying Wolf: An Empirical Study of SSL Warning Effectiveness
+The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web
+Authentication Schemes
+Nov 27, 2024 : No Class
+Thanksgiving! Enjoy the break!
+Nov 29, 2024 : No Recitation
+Thanksgiving! Enjoy the break!
+Dec 2, 2024 Human Factors: 25. Law and Public Policy (Instructor: Parno)  |  [Guide]
+This lecture will cover legal frameworks and policies that govern security and privacy in practice.
+Reading:
+Executive Summary and Section 1 of Keys Under Doormats: Mandating Insecurity by Requiring
+Government Access to All Data and Communications
+Dec 4, 2024 Review: Systems (OS, Web, Network), and Human Factors (Instructor: Parno & Wahby)
+We will have about a 30 minute review of all material in the third part of this class. The rest of the
+time will be devoted to questions and answers, so make sure you bring good questions.
+Dec 6, 2024 Exam: Network, Web, and Human Factors (Instructor: Parno & Wahby)
+This will be our third and final exam. Like previous exams it will be closed book, closed notes, closed
+neighbor. The exam will focus on the last third of the course, but any material over the entire
+semester is game.
+8/24/24, 3:58 PM
+Schedule
+https://www.andrew.cmu.edu/course/18-330/2024f/schedule/
+8/8

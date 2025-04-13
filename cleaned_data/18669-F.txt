@@ -1,0 +1,241 @@
+1 
+                                                                                                                       
+Course Syllabus 
+18469/18669/42693 
+Special Topics in Integrated Systems Technology: Micro/Nano Biomedical Devices 
+Fall 2024 
+ 
+ 
+Instructor: 
+ 
+ 
+Siyang Zheng 
+Office Location: 
+ 
+Scott Hall 4N211 
+Email Address: 
+ 
+siyangzheng@cmu.edu    
+Office/recitation Hours: 
+TBD 
+Zoom:   
+ 
+ 
+TBD 
+ 
+Teaching Assistants:  
+Abbas Jalili 
+ 
+ 
+ 
+Email Address: 
+ 
+ajalili@andrew.cmu.edu  
+ 
+  
+Office/recitation Hours: 
+TBD  
+Zoom:  
+ 
+ 
+TBD 
+ 
+ 
+ 
+ 
+Course Description: Biomedical devices constantly call for innovations. Micro/nano fabrication 
+not only miniaturizes devices and instruments, but also can enable new biomedical devices and 
+significantly boost device performance. This course introduces design principles of various 
+biomedical devices, fundamental micro/nano fabrication technologies and related materials of 
+biomedical devices, and prominent examples of such devices. Both diagnostic and therapeutic 
+devices will be discussed, including bioelectrodes, neural probes/stimulators, prothetic devices, 
+medical implants, point-of-care diagnostic devices, biosensors, DNA sequencers, prosthetic 
+devices, drug delivery devices/systems, medical robots, etc. The lectures are complemented with 
+simulation labs using COMSOL Multiphysics, a finite element method (FEM) software. 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+Senior or graduate standing. 
+ 
+Undergraduate Course Area: Device Sciences and Nanofabrication 
+ 
+Graduate Course Area: Device Sciences and Nanofabrication 
+
+ 
+2 
+ 
+ 
+Class Schedule: 
+● Lecture:  
+Tuesdays and Thursdays 
+12:30 - 1:50 pm 
+ 
+SH 234 
+ 
+Required Textbook:  
+No required textbook. Learning materials are provided as lecture notes, book chapters and 
+reference papers. 
+ 
+Reference books:  
+1. 
+Baura, Gail. Medical Device Technologies: A Systems Based Overview Using 
+Engineering Standards, 2nd Edition. Academic Press, September 15, 2020. 
+2. 
+Webster, John G. (Ed), and Nimunkar, Amit J. (Ed). Medical Instrumentation: 
+Application and Design, 5th Edition. Wiley, 2020. 
+3. 
+Bhunia, S., Majerus, S. & Sawan, M. Implantable Biomedical Microsystems Design 
+Principles and Applications,  Elsevier, 2015. 
+4. 
+Henrik Bruus, Theoretical Microfluidics, 1st edition, Oxford University Press, 2007. 
+5. 
+Marc J. Madou, Fundamentals of Microfabrication and Nanotechnology, Third 
+Edition, Volume I, II, III, 3rd edition, CRC press, 2011. 
+6. 
+Roger Pryor, Multiphysics Modeling using COMSOL 5 and MATLAB, 2nd edition, 
+Mercury Learning & Information, 2022. 
+ 
+Brief List of Topics Covered:  
+● Introduction to micro/nano biomedical devices 
+● Example of micro/nano biomedical technology:  
+○ Sanger sequencing 
+○ Illumina sequencing 
+○ 3rd generation (long reads) sequencing 
+○ DNA sequencing devices  
+○ New technologies: methylation, chromatin access 
+● COMSOL multiphysics FEM simulation  
+● Bioelectrical micro/nano devices 
+○ Bioeletrocity 
+○ Electrodes 
+○ Electrohydrodynamics 
+○ Neural probes 
+○ Stimulators 
+○ Pacemaker 
+○ Retina prothesis 
+○ Cochlear implants 
+● Micro/nanofluidics 
+○ Flow at micro/nano scale 
+○ Electrokinetic flows 
+● Micro/nano fabrication 
+○ Lithography 
+○ Etching 
+○ Deposition 
+○ Polymer fabrication, soft lithography 
+
+ 
+3 
+ 
+ 
+Course Canvas:  
+Canvas login page: https://canvas.cmu.edu. You should check the course Canvas daily for 
+announcements and handouts.  
+ 
+Online Q&A: 
+Piazza Class Signup link: https://piazza.com/cmu/fall2024/186691846942693 
+ 
+Attendance and Course Recording: 
+This course is determined to be IPE (in-person) by the ECE department. “Students are expected 
+to be in the classroom during the course's scheduled meeting time”. There will be ~26 lectures 
+including simulation labs, midterm exam, and 3 final project presentation slots. You are allowed 
+to miss a maximal of 5 times without affecting your attendance. If you miss a class, please email 
+the instructor ahead of the lecture time. 
+ 
+Grading Algorithm:  
+The final grade for students registered for this course will be computed by various components in 
+the following manner: 
+Homework 
+24% 
+Simulation lab 
+18% 
+Mid-term exam 
+30% 
+Final project 
+25% 
+Class attendance and participation  
+3% 
+ 
+Extension and Makeup Policy: 
+Submit all assignments through Canvas. Due dates are indicated on Canvas. We realize that life 
+happens, so if an extension for an assignment or a make-up is needed for legitimate reasons, it 
+must be arranged beforehand. Late assignments will be penalized at 10% per day and no late 
+assignments will be accepted 96 hours after the due date. 
+Grades: 
+- The following scale will be used to assign final letter grade to all undergraduate students: 
+90 to 100%  
+ 
+A 
+80 to 89.9%   
+B 
+70 to 79.9% 
+ 
+C 
+60 to 69.9% 
+ 
+D 
+0 to 59.9% 
+ 
+R 
+- The following scale will be used to assign a final letter grade to all graduate students: 
+93 to 100% 
+ 
+A 
+90 to 92.9% 
+ 
+A- 
+87 to 89.9% 
+ 
+B+ 
+83 to 86.9% 
+ 
+B 
+80 to 82.9% 
+ 
+B- 
+77 to 79.9% 
+ 
+C+ 
+73 to 76.9% 
+ 
+C 
+70 to 72.9% 
+ 
+C- 
+
+ 
+4 
+ 
+60 to 69.9% 
+ 
+D 
+0 to 59.9% 
+ 
+R 
+- The grades will be calculated by curving. At the end of the semester, the highest 
+cumulative grade will be set as 100% and the rest calculated proportionally. 
+Challenges to grades:  
+- The challenges to grades will be accepted within 7 days of grade release. 
+- For homework and simulation labs, please contact the instructor. 
+- For mid-term exam and final exam, please contact the instructor. 
+- The entire exam/assignment will be re-graded upon challenge, not just the challenged 
+part. 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you 
+take.  The following list describes which objectives are fulfilled by this course and in what 
+manner they are fulfilled. The objectives are numbered from “1” through “7” in the standard 
+ABET parlance. Those objectives not fulfilled by this course have been omitted from the 
+following list: 
+1. an ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified needs with 
+consideration of public health, safety, and welfare, as well as global, cultural, social, 
+environmental, and economic factors 
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret data, 
+and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning 
+strategies. 
+ 
+CMU

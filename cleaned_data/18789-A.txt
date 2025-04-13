@@ -1,0 +1,254 @@
+Deep Generative Modeling
+CMU 18-789 - Spring 2025
+Course Description
+This course will explore the basics of deep generative modeling. It will cover common model paradigms including
+variational autoencoders, generative adversarial networks, normalizing flow models, diffusion models, and autoregressive
+models. Students will learn the relative advantages and disadvantages of different model choices, as well as the
+fundamental design choices that went into each idea. Students will get a chance to explore and present cutting-edge
+research, and will also implement and experiment with generative models through a course project.
+Prerequisite: Knowledge about basic machine learning from 18-661 or equivalent. Proficiency in at least one programming
+language - preferably Python.
+Time & Location
+Mondays and Wednesdays, 2:00-3:20 pm ET in SH-236
+Links
+Piazza (https://piazza.com/cmu/spring2025/18789a/home) for discussions
+Canvas (https://canvas.cmu.edu/courses/45079) and Gradescope (https://www.gradescope.com/courses/946853) for
+homework submission
+Instructors
+Beidi Chen (https://keroro824.github.io/lab-page/) (beidic at andrew.cmu.edu)
+Office hours: Monday 4-5 PM at CIC 4118
+Xun Huang (https://xunhuang.me/) (xuhuang1995 at gmail.com)
+Office hours: Wednesday 4-5 PM, Location CIC 4120
+Teaching Assistants
+Yuwei An (https://oasis-git.github.io/) (yuweia at andrew.cmu.edu)
+Office hours: Tuesday 4-5 PM, Location CIC 4th Floor
+
+Kai Hu (kaihu at andrew.cmu.edu)
+Office hours: Wednesday 4-5 PM, CIC 2206
+Tong Yang (https://pptmiao.github.io/) (tongyang at andrew.cmu.edu)
+Office hours: Friday 3:30 - 4:30 PM, Location Porter Hall B
+Chuqi Zhang (chuqiz at andrew.cmu.edu)
+Office hours: Friday, 1-2 PM, Location CIC 4th Floor
+
+Grading Policy
+15% - Participation (including attendance)
+10% Class presentations
+5% Quizzes - if you complete >=80% of quizzes, you will receive full 5% points
+20% - Midterm test
+30% - Homeworks (3 homeworks, 10% each)
+35% - Project
+10% - Proposal presentation
+10% - Final presentation
+15% - Final report
+Late Days
+You have 5 late days, no questions asked. To use them, just write at the top of your assignment, “I am using x of my late
+days for this assignment.”
+Student Presentations
+There will be 3 student presentation sessions, each one will have 3 papers presented by students.
+There will be 2 presentations for each paper:
+1 summarizing the significance of the paper (~15 mins, no more than 3 speakers)
+1 summarizing areas of improvement for the paper(~10 mins, no more than 2 speakers)
+Please sign up for a presentation here
+(https://docs.google.com/spreadsheets/d/19xaY691Zf4ThYPunh9y9DPBKGHBtaHpy/edit?
+usp=sharing&ouid=103741030008966705821&rtpof=true&sd=true). Your presentations will be evaluated based on this
+rubric (https://docs.google.com/document/d/1UkJHFqeOrGqQ0yb7AxOCkecieWMWDNmNmUuWMNcBDT4/edit?
+usp=sharing).
+Usage of GenAI Tools
+You may not use AI tools for any homework, quizzes, or during the midterm, as this cannot be considered a substitute
+for developing the fundamental skills and expertise represented by the learning objectives of this course.
+It is allowed to use generative AI tools in your project development and presentation preparation. However, their use must
+be appropriately acknowledged and cited. For instance, if you generated a particular paragraph or slide through
+ChatGPT and edited it for accuracy, your submitted work would need to include a note such as “I generated this part
+through ChatGPT and edited the content for accuracy.” Paraphrasing or quoting smaller samples of AI generated content
+must be appropriately acknowledged and cited, following the guidelines established by the APA Style Guide
+(https://apastyle.apa.org/blog/how-to-cite-chatgpt). It is each student’s responsibility to assess the validity and applicability
+of any AI output that is submitted. You may not earn full credit if inaccurate on invalid information is found in your work.
+Deviations from the guidelines above will be considered violations of CMU’s academic integrity policy
+(https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+
+The schedule is tentative and subject to change.
+18-789 Lecture Schedule - Spring 2025 : Lectures
+Date
+Weekday
+No.
+Topic
+Lecture Notes Wk #
+Reading Lists
+Homework
+1/13/2025
+Monday
+1
+Introduction, Logistics, and Outlines
+Lecture 1
+1
+1/15/2025
+Wednesday
+2
+Autoregressive Models, RNNs
+Lecture 2
+1
+1/20/2025
+Monday
+Martin Luther King Jr. Day - No class
+1/22/2025
+Wednesday
+3
+Introduction to LSTM, Masking-based AR
+Lecture 3
+2
+1/27/2025
+Monday
+4
+Transformer, Linear Attention, Encoder/Decoder Models
+Lecture 4
+3
+HW1 release
+1/29/2025
+Wednesday
+5
+Student Presentation I: Architecture for Sequence Modeling
+3
+2/3/2025
+Monday
+6
+Varitional Autoencoders (VAEs)
+Lecture 5
+4
+[Joseph]
+2/5/2025
+Wednesday
+7
+Generative Adversarial Networks (GANs)
+Lecture 6
+4
+[Lilian I]
+HW1 due
+2/10/2025
+Monday
+8
+Student Presentaiton II: Improving the Stability of Training GANs
+5
+2/12/2025
+Wednesday
+9
+Normalizing Flows/Invertible Models
+Lecture 7
+5
+[Lilian II]
+HW2 release
+2/17/2025
+Monday
+10
+Introduction to Diffusion Models
+Lecture 8
+6
+[Angus] [Calvin]
+2/19/2025
+Wednesday
+11
+Guest Lecture: Recent Advances in GANs (Jun-Yan Zhu)
+6
+2/24/2025
+Monday
+12
+Continuous-time Diffusion Models
+Lecture 9
+7
+[Yang] [Sander I]
+2/26/2025
+Wednesday
+13
+Project proposal presentation
+7
+HW2 due
+3/3/2025
+Monday
+Spring Break - No class
+8
+3/5/2025
+Wednesday
+Spring Break - No class
+8
+3/10/2025
+Monday
+14
+Diffusion Models and Flow Matching
+Lecture 10
+9
+[Ruiqi]
+3/12/2025
+Wednesday
+15
+Student Presentation III: Hybrid Deep Generative Models
+9
+3/17/2025
+Monday
+16
+Guest Lecture: Distillation of Diffusion Models (Tianwei Yin)
+10
+[Sander II]
+3/19/2025
+Wednesday
+17
+LLM Inference, RAG
+Lecture 11
+10
+HW3 release
+3/24/2025
+Monday
+18
+LLM Reasoning, COT, O1
+Lecture 12
+11
+3/26/2025
+Wednesday
+19
+Midterm
+11
+3/31/2025
+Monday
+20
+LLM In-Context Learning, PEFT, RLHF
+Lecture 13
+12
+4/2/2025
+Wednesday
+21
+Guest Lecture: SGLang (Ying Sheng)
+12
+[Yen-Chen]
+HW3 due
+4/7/2025
+Monday
+22
+Text-to-Image/Video Generation
+Lecture 14
+13
+4/9/2025
+Wednesday
+23
+Evaluation of Generative Models
+Lecture 15
+13
+4/14/2025
+Monday
+24
+Guest Lecture: TBD
+14
+4/16/2025
+Wednesday
+25
+Multimodal Models
+Lecture 16
+14
+4/21/2025
+Monday
+Final Presentation
+15
+4/23/2025
+Wednesday
+Final Presentation
+15
+Lectures
+>
+<

@@ -1,0 +1,229 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18645: How to write fast code 1   
+Fall 2024 
+ 
+ 
+Instructor: 
+ 
+Tze Meng Low 
+Office Location:   
+HH A303 
+Email Address:    
+lowt@cmu.edu 
+Office Hours:  
+TBD 
+ 
+Teaching Assistant: Zhen Guang Low, Cundao Yu, Alison Jin, Jason Cheung 
+Office Hours:  
+TBD
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description: The fast evolution and increasing complexity of computing 
+platforms pose a major challenge for developers of high performance software for 
+engineering, science, and consumer applications: it becomes increasingly harder to 
+harness the available computing power. Straightforward implementations may lose as 
+much as one or two orders of magnitude in performance. On the other hand, creating 
+optimal implementations requires the developer to have an understanding of algorithms, 
+capabilities and limitations of compilers, and the target platform's architecture and 
+microarchitecture. This interdisciplinary course introduces the student to the foundations 
+and state-of-the-art techniques in high performance software development using 
+important functionality such as linear algebra kernels, transforms, filters and other 
+kernels that are utilized by many scientific, engineering and machine learning 
+applications. The course will explain how to optimize for the memory hierarchy, take 
+advantage of special instruction sets, and how to write parallel code for multicore, 
+manycore, and cluster platforms, based on state-of-the-art research. Further, general 
+strategies for performance analysis and optimization are introduced. Students will apply 
+the lessons in group projects that accompany the course. Prerequisite: Senior ECE or CS 
+undergraduate student or higher, solid C programming skills  
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+Senior ECE or CS undergraduate student or higher, solid C 
+programming skills.  
+
+ 
+2 
+ 
+Graduate Area:  
+Computer Hardware Engineering  
+Class Lecture: 
+Monday and Wednesday.      4:00pm – 5:50pm ET        BH A53    
+ 
+ 
+ 
+    
+ 
+ 
+           1:00pm – 2:55pm PT        B23 212 
+Brief List of Topics Covered: 
+Principles of High Performance  
+High Performance Software Design  
+Parallelism 
+Message Passing Interface (MPI)  
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas for 
+the latest announcements and handouts.  
+ 
+Grading Algorithm:  
+25% 
+Homework  
+(~4 HWs) 
+25% 
+Exam    
+(Mid November before Thanksgiving) 
+40% 
+Projects 
+(Due at the end of the semester) 
+10% 
+Participation 
+All assignments are due at 11:59pm AoE. Late assignments may not be graded if 1) there 
+are no excused absences, or 2) approval for late submission was not sought at least 48 
+hours before the deadline. If something unexpected happens, let us know immediately.  
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+August 
+26 
+Mon. 
+Classes begin 
+28 
+Wed. 
+Architecture Impact on Performance 
+September 
+2 
+Mon. 
+Labor Day – No Class 
+4 
+Wed. 
+Benchmarking  
+9 
+Mon. 
+SIMD programming 
+11 
+Wed. 
+Designing fast kernels for a modern processor 
+16 
+Mon. 
+Designing fast kernels for a modern processor 
+18 
+Wed. 
+Relationship to compiler optimization 
+23 
+Mon. 
+Memory Hierarchy 
+25 
+Wed. 
+Designing for the Memory Hierarchy 
+30 
+Mon. 
+Wrapping up Sequential Design 
+October 
+2 
+Wed. 
+Project Week  
+7 
+Mon. 
+Introduction to Explicit Parallelism 
+9 
+Wed. 
+Collective Communication 
+14-18 
+Mon-Fri 
+Fall Break – No Classes or Office Hours 
+21 
+Mon. 
+Collective Communication 
+23 
+Wed. 
+Cost of Collective Communication 
+28 
+Mon. 
+Cost of Collective Communication 
+30 
+Wed. 
+Load Balancing  
+November 
+
+ 
+3 
+ 
+4 
+Mon. 
+Project Week 
+5 
+Tues. 
+Democracy Day – No Classes or Office Hours 
+6 
+Wed. 
+Shared Memory Parallelism  
+11 
+Mon. 
+OpenMP Parallelism 
+13 
+Wed. 
+Review  
+18 
+Mon. 
+Heterogeneous Architectures 
+20 
+Wed. 
+Exam 
+27 
+Mon. 
+Project Week 
+27-29 
+Wed-Fri 
+Thanksgiving – No Classes or Office Hours 
+December 
+2 
+Mon. 
+Project Week/ Going through exam. 
+4 
+Wed. 
+Last Day of Classes 
+9-13 
+Mon-Fri 
+Final Exams Week - No Final Exam 
+In-Person Expectation 
+This class is designed as an in-person class for both Pittsburgh and SV campuses. The 
+class is designed around in-class discussions where students are expected to work 
+together during class. As such, there will NO video recording of the lecture. Should you 
+miss a class, please reach out to the course staff and we will help you get up to speed with 
+the class material. 
+Technology Requirements  
+This is an in-class course mainly taught at the CMU Pittsburgh campus, and is also 
+broadcast to the CMU SV Campus. SV students are expected to be in-class in the CMU 
+SV Campus to participate in the class discussions.  
+Canvas will be the primary means by which class materials are distributed and 
+announcements are made. It is also where assignments and projects details are made 
+available, and are handed in. Links to online tools and means to collaborate (e.g. Piazza, 
+Google Slides, Zoom link) will also be made available via Canvas. 
+Office hours will be help both in-person and over Zoom via the link on canvas.  
+Programming assignments will need to run on the ECE number clusters, and in some 
+instances specific machines on the ECE number clusters. You are allowed to develop on 
+your own personal machines. However, it is your responsibility to make sure that the 
+assignment runs as expected on specific machines on the ECE number clusters.  
+Should you have problems accessing these tools and devices, let us know as soon as 
+possible. For accounts related matters, you should contact ITS at help@ece.cmu.edu  
+Collaboration Guidelines  
+Students are encouraged to collaborate if the purpose is to learn. You are allowed to 
+discuss with fellow course-mates in the class but each student is expected to turn in their 
+own separate write-ups, and write their code independently. Please use the discussion 
+boards as the primary means of collaboration with your fellow course-mates. If in doubt, 
+check with us on what is considered acceptable.  
+
+ 
+4 
+ 
+ 
+ECE

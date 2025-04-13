@@ -1,0 +1,338 @@
+DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+ DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+DSP
+Digital Signal Processing (18-491/18-691)
+pring Semester, 20
+S  
+25
+COURSE SYLLABUS FOR SPRING 2025
+Instructor: Professor Richard Stern, PH B26, (412) 916-7386 (cell phone), rms@ece.cmu.edu
+Course Management Assistant: Course management responsibilities are handled by the ECE
+Academic Services Center, HH 1113.
+Teaching assistants:
+• Vikram Bhagavatula, vbhagava@andrew.cmu.edu, (510) 491-8351
+• Amit Thomas, amitthom@andrew.cmu.edu, (425) 561-2064
+• Hao Wu, haowu4@andrew.cmu.edu, (724) 759-1966.
+Overview of the course: This course addresses the mathematics, implementation, design and
+application of the digital signal processing algorithms widely used in areas such as multimedia
+telecommunications and speech and image processing.
+Topics include discrete-time signals and
+systems, discrete-time Fourier transforms and Z-transforms, discrete Fourier transforms and fast
+Fourier transforms, digital ﬁlter design and implementation, and multi-rate signal processing. The
+course will include introductory discussions of 2-dimensional signal processing, linear prediction,
+adaptive ﬁltering, and selected application areas. Classroom lectures are supplemented with im-
+plementation exercises using MATLAB .
+This year we are oﬀering the course in two forms. The course in its traditional form continues to be
+oﬀered under the number 18-491. In addition, we are oﬀering a second version of the course with
+the number 18-691, which carries graduate credit. 18-491 and 18-691 will share the same lectures
+and recitations. Students enrolled in 18-691 will be required to complete some additional work that
+will be speciﬁed shortly.
+Grading: Grades for 18-491 will be based in part on performance in three examinations (nominally
+67% of the ﬁnal grade, with the ﬁnal exam having the weight of 1.5 times the ﬁrst two exams),
+and on homework assignments (nominally 33%, with the lowest homework grade dropped from the
+ﬁnal grade computation). The weighting of the assignments for 18-691 will be similar, with an
+additional weight paid to the additional assignments for 18-691.
+Prerequisites: 18-290
+
+18-491/18-691 Syllabus
+Page 2
+Spring, 2025
+Undergraduate course designation: area and coverage
+Undergraduate course area: Signals & Systems
+Class hours: Lectures are Mondays and Wednesdays, 2:00 to 3:50 (Pittsburgh time), in WeH
+5403. Recitations will meet Fridays from 10:00 to 11:50 in WeH 5312 and from 12:00 to 1:50 in DH
+1117. The major focus of the recitations will be to discuss practical problems, and especially to
+review useful techniques for completing the following weeks homework. Unoﬃcially, students may
+attend either recitation session, regardless of which one they are formally enrolled in.
+Course textbook: We will again use the Third Edition of the text Discrete-Time Signal Pro-
+cessing by A. V. Oppenheim and R. W. Schafer, with M. T. Yoder and W. T. Padgett (Prentice-
+Hall/Pearson, 2009, ISBN: 978-0131988422, to be referred to as OSYP) as the primary text for
+the course. This book is the second revision of the original 1989 text by the same name, which
+in turn is a greatly expanded version of the classic text Digital Signal Processing published in
+1975 by the same primary authors. The ﬁrst two editions of Discrete-Time Signal Processing are
+more verbose and tutorial than Digital Signal Processing, and they also include some new mate-
+rial that represents developments in signal processing that have taken place since the earlier text
+was published more than twenty years ago. The Third Edition is a more comprehensive rewrite
+than before and also includes a companion website with demos. If you wish, you can use one of
+the earlier editions of Discrete-Time Signal Processing (or one of the various International Stu-
+dent Editions), but you will be responsible for mapping the sections of the text that are cited
+in the problem sets into the corresponding sections in your edition. Students are STRONGLY
+encouraged to obtain a hard copy of the book, either new or used, rather than work from a .pdf ﬁle.
+Other texts: There is a huge number of good textbooks on the subject of digital signal processing
+now on the market. Digital Signal Processing: Principles, Algorithms and Applications by J. G.
+Proakis and D. G. Manolakis (Fourth edition, Prentice-Hall/Pearson, 2006) is a text that includes
+a number of additional topics but that is written in a style that is similar to that of OSYP. There
+are also several new texts that are integrating MATLAB into the presentation more than OSYP
+does. One such example is the text Digital Signal Processing, A Computer-Based Approach by
+S. K. Mitra (Third edition, McGraw-Hill, 2005), which has a bit more of an applied ﬂavor than
+Oppenheim and Schafer.
+Homework:
+Problem sets will usually be released by Thursday evening of each week. They will
+be discussed extensively (along with useful hints on how to solve the problems) on the Friday the
+morning after, and are generally due to be turned in via Gradescope by Friday at 1:00 am of the
+following week. The lowest homework grade will not be included in the ﬁnal grade computation, as
+was noted above. In addition, to provide additional ﬂexibility in dealing with surges in competing
+demands on your time, we will accept up to ﬁve additional late submission days over the course of
+the semester, with a maximum of two such late days available per assignment.
+MATLAB assignments:
+A component of the homework will be computer assignments using the
+MATLAB analysis package. You will be given accounts on the educational computers of the ECE
+department if you need them. We have found that students beneﬁt highly from having individual
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 3
+Spring, 2025
+access to MATLAB . A site-licensed version of MATLAB can be downloaded from the CMU Andrew
+software site.
+Examinations: The ﬁrst two exams will be held during the normal class meeting times on Febru-
+ary 26 (the Wednesday before spring break) and April 9 (the Wednesday after Spring Carnival).
+The ﬁnal examination will be scheduled by the Registrar during the ﬁnal exam period. Please
+arrange your other commitments so as not to conﬂict with the announced exam dates. Make-up
+exams will not be given without extremely compelling reasons.
+18-491/18-691 home page and course management platforms: We are maintaining a home
+page for 18-491/18-691 which may be accessed through the URL
+http://www.ece.cmu.edu/~ece491/
+We will be putting all course handouts, reference documents, and other information on the 18-
+491/18-691 home page. The pages will also include the MATLAB scripts used for classroom demos
+and other material presented in the lectures.
+We will also make limited use of the Canvas course management platform, primarily for processing
+and distributing grades, discussing the course material (using Piazza), and turning in homework
+(using Gradescope).
+Oﬃce hours: TBA
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 4
+Spring, 2025
+TOPIC OUTLINE FOR 18-491/18-691
+Characterization of DT signals and systems
+• Signal representation and convolution
+• Discrete-time Fourier transforms and Z-transforms
+• Conversion between continuous and discrete time and change of sampling rate
+The DFT and the FFT
+• Discrete Fourier series, discrete Fourier transforms, and circular convolution
+• Fast Fourier transform (FFT) algorithms
+Digital ﬁlter design and implementation
+• FIR and IIR ﬁlter structures
+• IIR designs from prototype analog ﬁlters
+• FIR designs using windowing and frequency sampling
+• Computer-aided optimal ﬁlter design
+• Computer-aided optimal ﬁlter design
+Signal processing in noise
+• Introduction to stochastic processes
+• Stochastic processes, spectral analysis and LSI systems
+• Optimal ﬁltering in noise
+Additional topics (not all will be covered)
+• Linear prediction
+• Lattice ﬁlters and their implementation
+• Adaptive ﬁlters
+• Applications to speech and image processing
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 5
+Spring, 2025
+TENTATIVE COURSE OUTLINE
+Note: This information is provided only to give you a rough idea of how the course mate-
+rial will be presented, and most likely presents an overly optimistic timetable. In addition,
+the curriculum is changing somewhat during this year, which will impose some additional
+variations. Hence, all speciﬁc details are subject to change. Sections are speciﬁed in terms
+of sections of Oppenheim, Schafer, Yoder, and Padgett.
+Date
+Lecture topic (Section numbers in OYSP)
+1/13
+Intro to course, review of continuous-time signal and system concepts (1)
+1/15
+Review of discrete-time signals and systems; convolution (2.0 - 2.4)
+1/22
+Convolution examples; DT processing in the frequency domain: the DTFT (2.6 - 2.7)
+1/27
+Examples and properties of DTFTs (2.6 - 2.9)
+1/29
+Introduction to the Z-transform (ZT) (3.0 - 3.2)
+2/3
+ZT properties, LSI systems, diﬀerence equations, ZT inverses (3.0 - 3.5, notes)
+2/5
+Z-transform inverses (3.3, 3.5)
+2/10
+Relating pole/zero locations to frequency response of LSI systems (5.0 - 5.3, 5.5 - 5.7)
+2/12
+Sampling continuous-time signals (4.0 - 4.5)
+2/17
+Change of sampling rate: interpolation & decimation (4.6 - 4.7, notes)
+2/19
+The DTFS & the DTFT; DTFTs of periodic time functions (8.0-8.6)
+2/24
+Introduction to the discrete Fourier transform (DFT) (8.4 - 8.7)
+2/26
+QUIZ 1
+3/1-9
+SPRING BREAK (no classes)
+3/10
+Linear versus circular convolution (8.6 - 8.7)
+3/12
+Introduction to the FFT (9.0 - 9.2)
+3/17
+FFT alternate structures (9.2 - 9.5)
+3/19
+Discrete-time ﬁlter implementation; IIR ﬁlter structures (6.0 - 6.5)
+3/24
+FIR ﬁlter structures (6.4 - 6.5, notes)
+3/26
+Introduction to digital ﬁlter design (7.0 - 7.3)
+3/31
+IIR design examples (7.2 - 7.4)
+4/2
+FIR ﬁlter design using window functions (7.5 - 7.6)
+4/3-5
+SPRING CARNIVAL (no class)
+4/7
+Optimum equiripple ﬁlters: the Parks-McClellan algorithm (7.7 - 7.9)
+4/9
+QUIZ 2
+4/14
+Kaiser windows, frequency-sampling design, frequency transformations,
+comparisons of ﬁlter types (7.6, 7.4, notes)
+4/16
+Introduction to short-time Fourier transforms (Lim & Oppenheim chapter, notes)
+4/21
+Introduction to two-dimensional signal processing (Lim & Oppenheim chapter)
+4/23
+Introduction to adaptive ﬁlters (Lim & Oppenheim chapter, notes)
+4/28-5/6
+Final exam period
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 6
+Spring, 2025
+Relationship of educational objectives of 18-491/18-691
+to ABET student outcomes
+1. An ability to identify, formulate, and solve complex engineering problems by
+applying principles of engineering, science, and mathematics: students learn how to
+extend the fundamental mathematics of linear systems analysis to the application of digital
+ﬁlter design and implementation, high-speed convolution, multi-rate signal processing, linear
+prediction, and assorted applications.
+2.
+An ability to apply engineering design to produce solutions that meet spec-
+iﬁed needs with consideration of public health, safety, and welfare, as well as
+global, cultural, social, environmental, and economic factors: design and implemen-
+tation alternatives from practical speciﬁcations for digital signal processing are discussed in
+terms of tradeoﬀs between computational cost, memory requirements, and system perfor-
+mance.
+4. An ability to recognize ethical and professional responsibilities in engineering
+situations and make informed judgments, which must consider the impact of
+engineering solutions in global, economic, environmental, and societal contexts:
+while not a major component of the course, DSP discusses the economic and societal impacts
+of technologies that are developed.
+6. An ability to develop and conduct appropriate experimentation, analyze and
+interpret data, and use engineering judgment to draw conclusions: Most DSP
+assignments, especially in the second half of the course include a signiﬁcant experimental
+component using MATLAB .
+7. An ability to acquire and apply new knowledge as needed, using appropriate learn-
+ing strategies: Throughout DSP, the historical basis of each relevant technology is presented,
+along with a discussion of how the approaches were discovered, developed, and perfected.
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 7
+Spring, 2025
+A word or two about diversity and inclusion
+The engineering profession has historically been one of the primary means by which people from
+humble origins, as well as members of minority groups, have been able to advance their social
+and economic status circumstances. Lamentably, in this country and around the world, people
+over the years have suﬀered from discrimination on the basis of their race, religion, ethnic origin,
+sexual preference, gender identity, and disability, along with a ton of other circumstances that I
+am probably not thinking of as I write this. The multiple killings of people of color by various
+police oﬃcers and others over the years has highlighted the extent to which endemic bias and
+discrimination can and do have lethal consequences.
+And this has been reﬂected by violence
+directed toward individuals of Asian descent in more recent years as well as ongoing antipathy
+toward some worshippers of Islam. Nevertheless, it is the implicit bias that shades many of our
+day-to-day interactions that is more likely to aﬀect many of us on a more ongoing basis.
+It is our challenge and responsibility as engineers to support everyone with whom we work and live,
+regardless of race, ethnicity, or other circumstance, and to treat everyone the same, based on merit
+alone. The murder of George Floyd in the Spring 2020, and other similar tragedies which continue
+to this day, have sparked a useful conversation, although fundamental change remains quite diﬃcult
+and elusive. It is also clear that the invasion of Ukraine by Russia and especially the current conﬂict
+between Hamas and Israel have provoked new tensions between many of us. Let us all strive to
+work toward constructive change both at the societal level and in our day-to-interactions with each
+other and always be respectful of each other’s perspectives and point of view. While governmental
+and institutional support for programs that support and promote diversity, equity, and inclusion
+are currently being challenged by the incoming Presidential administration, and scaled back or even
+curtailed by some academic and industrial organizations, the ethical principles that motivate these
+programs remain valid and should be considered in your daily lives.
+For several years the ECE Diversity, Inclusion, and Outreach Committee has worked to support
+all of our communities and to identify issues that come up in our own classes and research programs.
+https://www.ece.cmu.edu/student-resources/dio.html
+Please contact us at any time with suggestions on how the DIO committee can better serve our
+Department.
+******
+Academic stress and sources of help
+This course, along with many others at CMU, can be extremely demanding. Because of these
+pressures, the Provost’s oﬃce has issued the following statement, which I fully endorse:
+Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well,
+exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This
+will help you achieve your goals and cope with stress.
+Copyright 2025, Richard M. Stern
+
+18-491/18-691 Syllabus
+Page 8
+Spring, 2025
+All of us beneﬁt from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to
+ask for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, diﬃcult life events, or feelings like anxi-
+ety or depression, we strongly encourage you to seek support. Counseling and Psychological Services
+(CaPS) is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling.
+Consider reaching out to a friend, faculty or family member you trust for help getting connected
+to the support that can help.
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately,
+day or night:
+• CaPS: 412-268-2922
+• resolve Crisis Network: 888-796-8226
+If the situation is life threatening, call the police:
+• On campus: CMU Police: 412-268-2323
+• Oﬀcampus: 911
+If you have questions about this or about your coursework, please let me know.
+******
+Academic integrity
+Although it is unfortunate in a university like Carnegie Mellon, I ﬁnd it necessary to call your
+attention to the various university policies on academic integrity.
+Please understand that we take any form of cheating or plagiarism very seriously. As a scientist or
+engineer your reputation is of supreme importance. It is simply not worth sacriﬁcing the integrity
+with which you are known for something as trivial and transitory as a homework or exam grade
+on a course. And in the end, your throrough mastery of the course material, which you can only
+attain by doing your own work, will be far more valuable to you than the grade you receive for this
+course.
+In this course it is considered acceptable (and even desirable) for students to discuss the general
+approach to be taken for homework problems and lab projects with each other. Nevertheless, work
+handed in for grading must be a product of your own individual eﬀort, so solutions which are nearly
+exact copies of one another are evidence of an unacceptable collaboration. Looking up solutions to
+problems on the Web is not permitted under any circumstances, nor is using any information from
+exams and homework sets from previous years in this course. Finally, all work turned in on exams
+must represent your eﬀorts alone.
+The ECE

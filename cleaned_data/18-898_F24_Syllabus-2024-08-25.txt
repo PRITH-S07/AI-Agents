@@ -1,0 +1,162 @@
+1 
+                                                                                                                       
+Course Syllabus 
+18-898: Special Topics in Signal Processing: Graph Signal Processing and 
+Geometric Learning 
+Fall 2024 
+August 25, 2024 
+ 
+ 
+Course Instructor:  
+Prof. José M. F. Moura  
+PH B15  
+moura@ece.cmu.edu  
+            Office Hours: anytime, by appointment 
+ 
+Teaching Assistants: 
+Siddarth Ambekar 
+sambekar@andrew.cmu.edu  
+Office Hours: Fridays 3-4pm, for additional times send an email. 
+ 
+Soham Deshmukh 
+sdeshmuk@andrew.cmu.edu  
+Office Hours: Tuesdays (time to be determined), for additional times send an 
+email. 
+ 
+ 
+ 
+Class Schedule:  
+Lectures: Mondays, 2:00pm-4:50pm, MI 355 
+ 
+Course Description:  
+Number of Units: 12 
+Pre-requisites: Prior exposure to Linear Algebra and or Linear Signal Processing 
+is advisable 
+Graduate Breadth Area: Signal Processing and Communications 
+ 
+Required Textbook:  
+None. Course notes available from instructor. 
+ 
+Brief Contents: 
+This course will present Graph Signal Processing (GSP), a novel data analytics perspective 
+to deal with data supported by graphs. Such data occurs in many application domains from 
+traditional physics-based signals like time series, images, or video to data traveling on 
+
+ 
+2 
+ 
+telecom networks, to gene networks, chemical networks, or arising in social networks, 
+marketing, corporate, financial, health care domains.  
+ 
+It introduces graphs, graph representations, and basic concepts of Network Science, 
+including graph representations through adjacency and graph Laplacian matrices, graph 
+random models, graph spectral analysis, and degree distributions. Then, it covers Graph 
+Signal Processing (GSP) that extends traditional Digital Signal Processing methods to data 
+supported by graphs, introducing graph shift, graph shift invariance, graph signals, graph 
+filtering, graph Fourier transform, graph convolution, graph frequency and graph spectral 
+analysis of graph signals, sampling of graph signals, interpolation, graph modulation and 
+multiplexing, among other concepts. The course then covers the consensus algorithm and 
+basics of distributed signal processing, and it studies diffusion in networks, taking as basic 
+example the spread of epidemics in populations. Finally, the course considers Geometric 
+Learning combining GSP and Deep Learning (DL), in particular, graph neural networks 
+(GNN).  
+ 
+We review in more detail the course by summarizing the contents of the course notes. 
+ 
+Chapter 1 introduces signals as data of different types indexed by generic structures, 
+namely, by the nodes of arbitrary graphs. Chapter 2 focus on basic notation and concepts 
+that are useful in describing and characterizing graphs and their properties, illustrating 
+these with concrete examples of well-known graphs. The chapter introduces basics of 
+enumerations on graphs and finally considers matrix graph representations like the 
+adjacency matrix and the graph Laplacian.  
+ 
+Chapters 3 and 4 are a brief introduction to Network Science concepts. Chapter 3 considers 
+metrics and quantities that can succinctly summarize expected behaviors of a network like 
+how easy it is to diffuse a meme or news (including fake news) through the network, or to 
+spread epidemics. Chapter 4 studies standard deterministic and random network models.  
+ 
+Chapters 5 through 9 cover Graph Signal Processing (GSP). Chapter 5 briefly reviews 
+Digital Signal Processing (DSP), but by capturing DSP in a matrix-vector format. Chapter 
+6 considers the generic GSP model where the graph signal is given by its vertex samples, 
+i.e., by the signal values  at each node of the graph. Chapter 7 considers GSP but when the 
+graph signal is given by the coefficients of its graph Fourier representation rather than by 
+its vertex samples. Chapter 8 extends chapters 6 and 7 to various graph signal 
+representations, serving as background to chapter 9 that studies sampling of graph signals. 
+ 
+Chapter 10 presents the consensus algorithm, the basic ingredient for distributed signal 
+processing, and Chapter 11 considers diffusion in networks by studying a simple epidemics 
+model describing virus spread in a population. 
+ 
+Appendix A summarizes background on Matrices, by reviewing basic concepts of matrix 
+spectral analysis (eigenvalues and eigenvectors) and geometry of vector spaces (inner 
+products), and Appendix B reviews concepts on combinatorial sums and enumeration. 
+ 
+
+ 
+3 
+ 
+Since the notes do not as yet include a chapter on Learning, like CNNs, nor on Geometric 
+Learning, like graph neural networks (GNN), we will refer the students to standard 
+references.  
+ 
+Time permitting, we will consider several additional topics.  
+ 
+Students will apply in a project methods presented in class to synthetic datasets and/ or 
+real-world datasets of their choosing.  
+ 
+Course Canvas:  
+To access the course canvas go to the canvas login page at: https://canvas.cmu.edu.  
+ 
+Piazza:  
+https://canvas.cmu.edu/courses/35830/external_tools/11046  
+ 
+Homework:  
+Homeworks will be handed out weekly or biweekly, depending on the topic. Homeworks 
+are to be uploaded to Gradescope by 11:59am Pittsburgh time by the day the homework is 
+due. The Gradescope student guide is in https://www.cmu.edu/teaching/gradescope/ . 
+ 
+Homework late policy:  
+Every student is given 4 late days for the semester. You can use one late day to extend the 
+deadline of the HW by 24 hours. You can only use maximum 2 late days/homework 
+(extending any HW deadline by maximum of 48 hours). You can distribute them however 
+you like (i.e., 1 late day each for 4 hws, 2 late days each for 2 hws). Any late HW without 
+late days or submitted after 48 hours will not receive credit.  
+ 
+Course Project:  
+There will be a class project. Students are encouraged to work their project in a small group 
+(two students). Student groups should be formed by October 7 – please let the TIs know 
+who your group is. A one-page project abstract is to be submitted by October 28. The 
+project should apply what is learned in the course to an application of interest and explore 
+the concepts covered in broader contexts. The project report should be equivalent to a 4-
+page conference paper (double column written in latex) and should be submitted no later 
+than Thursday December 5. There will be an oral presentation (15 to 20 min per group, 
+including Q&A) to the class on Friday December 6 (last day of classes). Students are 
+expected to attend the presentations of all groups and interact with the speaker. 
+ 
+Exam:  
+There is a midterm exam at a date and time to be determined (sometime in November). 
+There is no final exam.  
+ 
+Lecture attendance class participation:  
+We encourage student participation and engagement in Lectures. We take attendance of 
+lectures. At the end of the semester, we will arbitrarily choose 10 of the lectures. A student 
+will get a point for each of these lectures attended to a maximum of eight points. 
+ 
+
+ 
+4 
+ 
+How do we take attendance? A form will be given, along with a unique number each 
+lecture. Students will have 10 minutes (from when we give the number) to submit the form 
+to get credit for attendance.  
+ 
+Grading:  
+The midterm counts for 20% of the grade. Class attendance counts for 8%. The project 
+counts for 36%. The homework counts for the remaining 36%.  
+ 
+Letter grades will be derived from the numerical score that results. Initial thresholds are: 
+A for score greater than or equal to 88; B for grade greater than or equal to 75 and less than 
+88. Grade C for score greater than or equal to 60 and less than 75. Grade D for score greater 
+than or equal to 50 and less than 60. Failing grade F for score less than 50. 
+ 
+ECE

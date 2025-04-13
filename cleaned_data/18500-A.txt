@@ -1,0 +1,42 @@
+1 
+ 
+18-500: ECE Design Experience 
+Fall Semester 2024 
+Course Personnel: 
+Instructors: 
+Section A: 
+Tamal Mukherjee 
+tamal@ece.cmu.edu 
+  
+332 Roberts Engineering Hall 
+Section B: 
+Byron Yu  
+byronyu@cmu.edu 
+ 
+B206 Hamerschlag Hall 
+Section C: 
+James Bain 
+jbain@andrew.cmu.edu 
+  
+342 Roberts Engineering Hall 
+Teaching Assistants: 
+Joshna Iyengar 
+Ella Lee 
+ 
+ 
+Arnav Menon 
+Tjun Jet Ong 
+Nathan Zhu  
+Academic Services: 
+ECE Academic Services Center: 1113 Hamerschlag Hall 
+https://www.ece.cmu.edu/academics/academic-services-center.html  
+Parts Orders: 
+ECE Lab Services: 1301 Hamerschlag Hall 
+Syllabus Contents: 
+Course Description, Class Schedule, Attendance Policy, Instructor Mailing List …. 2 
+Canvas, Piazza (none), Slack Discussion Website ………….…………………………. 3 
+Choosing a Project, Choosing a Team …………………..……………………………. 3 
+Roles of TAs and Faculty, Assignments and Project Milestones …………………… 4 
+Website for Course Projects and Weekly Project Updates …………………………… 5 
+Grading Algorithm ………………………………………………………………………… 5 
+Accommodations for Students with Disabilities,

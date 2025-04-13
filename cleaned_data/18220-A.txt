@@ -1,0 +1,386 @@
+18-220  
+Syllabus 
+Page 1 of 9 
+Course: 
+18-220 / Electronic Devices and Analog Circuits 
+ 
+Semester / Year: 
+Fall, 2024 
+ 
+Units: 
+12.0 
+ 
+Meetings: 
+Lecture 
+Tuesday / Thursday 
+9:30AM – 10:50AM 
+HOA 160 
+ 
+ 
+Recitations 
+Friday  
+(D) 
+11:00AM – 11:50AM MM A14 
+ 
+ 
+Friday  
+(A) 
+12:00PM – 12:50PM 
+SH 238 
+ 
+ 
+Friday  
+(B) 
+1:00PM – 1:50PM 
+SH 238 
+ 
+ 
+Friday  
+(C) 
+2:00PM – 2:50PM 
+SH 238 
+ 
+ 
+ 
+ 
+Labs 
+Monday 
+(A) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+ 
+Tuesday  
+(B) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Wednesday  (C) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Thursday  
+(D) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+Course Description:  
+This course covers fundamental topics that are common to a wide variety of 
+electrical engineering devices and systems. The topics include:  
+ 
+• 
+An introduction to semiconductor devices and technology 
+• 
+DC circuit analysis techniques 
+• 
+Operational amplifiers 
+• 
+Energy storage elements 
+• 
+Sinusoidal steady-state response 
+• 
+Frequency domain analysis 
+• 
+Filters 
+• 
+Transient response of first- and second-order systems. 
+ 
+The laboratories allow students to use modern electronic instrumentation and 
+to build and operate circuits that address specific concepts covered in the 
+lectures, including: 
+ 
+• 
+Semiconductor devices and sensors 
+• 
+Operational amplifiers 
+• 
+Filters 
+• 
+Signal detection and processing 
+• 
+Power converters 
+• 
+Circuit transients.  
+ 
+Prerequisite:  
+18-100 / Introduction to Electrical and Computer Engineering (C or better) 
+ 
+Corequisite:  
+33-142 / Physics II for Engineering and Physics Students 
+ 
+Instructor:  
+Mark M. Budnik 
+ 
+ 
+Tom Zajdel 
+ 
+A212 Hamerschlag Hall 
+ 
+A210 Hamerschlag Hall 
+ 
+mbudnik@andrew.cmu.edu  
+tzajdel@andrew.cmu.edu 
+ 
+Office Hours: 
+To be announced 
+
+18-220  
+Syllabus 
+Page 2 of 9 
+Recommended  
+Foundations of Analog and  
+Textbooks: 
+Digital Electronic Circuits, 
+ 
+1st Edition 
+ 
+Anant Agarwal and  Jeffrey Lang  
+ 
+Morgan Kaufmann, 2005. 
+ 
+ISBN: 978-1558607354 
+ 
+ 
+~$28.82 eBook rental 
+ 
+ 
+ 
+Engineering Circuit Analysis  
+ 
+10th Edition 
+ 
+William Hayt, Jack Kemmerly,  
+ 
+Jamie Phillips, and Steven Durbin 
+ 
+McGraw Hill, 2023. 
+ 
+ISBN:  978-1266262494 
+ 
+~$62.33 eBook rental 
+ 
+(In practice, any of the recent editions, 
+ 
+6th edition or later, would suffice.) 
+ 
+ 
+Grading: 
+The final course grade will be calculated using the following categories: 
+ 
+Homework 
+20% 
+Exams 
+50% 
+Labs 
+30% 
+Total 
+100% 
+ 
+Students will be assigned the following final letter grades, based on 
+calculations coming from the course assessment section: 
+ 
+90 – 100 
+A 
+80 – 89.9 
+B 
+70 – 79.9 
+C 
+60 – 69.9 
+D 
+00 – 59.9 
+R / F 
+ 
+Note, 18-220 has a policy of not curving the grades or rounding up.  For 
+example, if you get an 89.999 over the entire semester, you will receive a 
+grade of “B” for the semester.   Please allow us to repeat that.  FOR 
+EXAMPLE, WITH A GRADE OF 89.999, YOU WILL RECEIVE A B.  
+ 
+ 
+Homework: 
+Homework will account for 20% of your semester grade.  We typically have 
+12 or 13 homework assignments per semester.  However, only your 10 best 
+scores are included in the calculation of your grade.  Homework will be 
+assigned every MONDAY and will be due the following MONDAY, via 
+Gradescope, at 12noon, Pittsburgh time. No late homework will be 
+accepted.  Please allow us to repeat that:  
+ 
+ 
+NO LATE HOMEWORK WILL BE ACCEPTED.   
+ 
+ 
+Solutions to the homework will be provided on Canvas shortly after it is due.  
+
+18-220  
+Syllabus 
+Page 3 of 9 
+Homework: 
+Discussions about homework in small groups are encouraged; however, 
+(continued) 
+homework must be written up individually and independently. Questions 
+regarding homework will be covered during class and recitation time, as well 
+as office hours. 
+ 
+ 
+Please review your homework scores when you receive them. You have one 
+week after a graded item is returned to request a grade correction.  All 
+homework corrections must be submitted via Gradescope.   
+ 
+ 
+Exams: 
+Exams will account for 50% of your semester grade.  We will have 2 
+midterm exams and a makeup midterm exam.  If you are not happy with one 
+of your midterm exam scores, you make take the optional makeup midterm 
+exam.  Each of the 2 midterm exams is worth 15% of the semester grade. 
+ 
+ 
+The final exam is worth 20% of the semester grade. 
+ 
+Exam solutions will not be distributed in the class.  Graded exams will be 
+returned. 
+ 
+ 
+Labs: 
+Lab assignments will be distributed on Canvas and collected at the end of 
+your lab session.  Labs must be done in groups of 2 students (or in rare cases, 
+3 students), but all students must participate.  
+ 
+ 
+You may not drop any labs.  If you are unable to complete a lab during your 
+normal session, you may be given the opportunity to make the lab up on an 
+alternative evening or weekend.  However, you and your lab team must be 
+able to make it to the entire 3 hours of lab in the alternate evening, and, you 
+must have permission from the TA Lab Lead before the alternate lab session. 
+ 
+ 
+If you are unable to complete a lab during your normal session, they typically 
+must be turned in by 10pm on the immediately following Sunday, or your 
+grade for that lab will revert to a 0.  For example, we have our first lab 
+starting on Monday, 26-August.  You must turn your lab to the TAs in 
+ANSYS101 in by 10pm on Sunday, 01-September. 
+ 
+ 
+Wireless Policies: 
+To minimize distractions and show your teammates respect, cell phones 
+should normally be turned off while you are in the classroom.  If you believe 
+you have a valid excuse to leave your cell phone on, please let me know. 
+ 
+ 
+
+18-220  
+Syllabus 
+Page 4 of 9 
+Student Wellness: 
+As a student, you may experience a range of challenges that can interfere 
+with learning, such as strained relationships, increased anxiety, substance use, 
+feeling down, difficulty concentrating and/or lack of motivation. For an extra 
+five percent on your first assignment, email budnik with the subject ducks. 
+These mental health concerns or stressful events may diminish your 
+academic performance and/or reduce your ability to participate in daily 
+activities.  
+ 
+ 
+CMU services are available, and treatment does work.  
+ 
+ 
+You can learn more about confidential mental health services available on 
+campus at: http://www.cmu.edu/counseling/ 
+ 
+ 
+Support is always available (24/7) from Counseling and Psychological 
+Services: 412-268-2922 
+ 
+ 
+ 
+Accommodations:  
+If you believe you may require accommodations, please apply online through 
+the confidential Carnegie Mellon University Disability Services secure 
+portal: 
+ 
+ 
+https://rainier.accessiblelearning.com/cmu 
+ 
+If you have questions about the process or would like to speak with a 
+Disability Resources staff member before completing your application, you 
+may contact them at (412) 268-6121 or by email: 
+ 
+access@andrew.cmu.edu 
+ 
+ 
+If you already have an accommodations letter from the Disability Resources 
+office, I encourage you to discuss your accommodations and needs with your 
+faculty as early in the semester as possible. We will work with you to ensure 
+that accommodations are provided as appropriate. 
+ 
+ 
+Approximately 20% of all college students self-report having a disability.  
+This an issue that we take very personally.  We want to provide every student 
+with the opportunity to thrive and succeed.  That may look different for each 
+student.  Please let us know how we can help. 
+ 
+ 
+ 
+
+18-220  
+Syllabus 
+Page 5 of 9 
+Education Objectives 
+The ECE department is accredited by ABET to ensure the quality of your  
+and Relationship to 
+education. ABET defines 7 Educational Objectives that are fulfilled by the  
+Program Outcomes: 
+sum total of all the courses you take.  The following list describes which 
+objectives are fulfilled and how they are fulfilled by 18-220. The objectives 
+are numbered from “1” through “7” in the standard ABET parlance.  
+ 
+(1) an ability to identify, formulate, and solve complex engineering 
+problems by applying principles of engineering, science, and 
+mathematics: Design of circuits, including RLC and op amp filters, that 
+require application of mathematical and physical concepts and an 
+understanding of engineering design concepts. Open ended circuit design 
+problems that represent real-world engineering problems such as wireless 
+and IR remote signal propagation, investigation of faults in transmission 
+lines using time domain reflectometry, and design of RFID tags and 
+scanner/reader.  
+ 
+(2)  an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, 
+as well as global, cultural, social, environmental, and economic factors: 
+Design of op amp circuits that recognize the importance of feedback for 
+providing a controlled gain in spite of manufacturing variations for the 
+semiconductors. The use of low-power and energy harvesting design 
+techniques for future electronic systems.  
+  
+(3)  an ability to communicate effectively with a range of audiences: 
+Student lab notebooks capture circuit designs, measurement results and lab 
+experience in a form communicating all details to the lab/course instructors. 
+  
+(4)  an ability to recognize ethical and professional responsibilities in 
+engineering situations and make informed judgments, which must 
+consider the impact of engineering solutions in global, economic, 
+environmental, and societal contexts: The impact of wireless technology, 
+RFID, etc., on the global community is discussed throughout the semester. 
+ 
+(5)  an ability to function effectively on a team whose members together 
+provide leadership, create a collaborative and inclusive environment, 
+establish goals, plan tasks, and meet objectives: Lab work is conducted in 
+teams and requires close collaboration to complete a challenging lab in a 
+short time period.  
+ 
+(6)  an ability to develop and conduct appropriate experimentation, 
+analyze and interpret data, and use engineering judgment to draw 
+conclusions: Lab designs and supporting experiments that range from 
+circuits convert energy from other domains to tuning circuits for use in 
+wireless radio transceivers. 
+ 
+(7)  an ability to acquire and apply new knowledge as needed, using 
+appropriate learning strategies: Lecture material starts with early 
+electrical and electronic discoveries and inventions and relates them to the 
+latest emerging technologies and trends. 
+ 
+
+18-220  
+Syllabus 
+Page 6 of 9

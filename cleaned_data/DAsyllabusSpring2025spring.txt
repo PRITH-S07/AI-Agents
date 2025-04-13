@@ -1,0 +1,411 @@
+Course Syllabus
+18-787: Data Analytics
+Spring 2025
+Instructor: Prof. Patrick McSharry
+Email Address: mcsharry@cmu.edu
+Course Management Assistant: Cassandra Pfannenstiel
+Email Address: cpfannen@andrew.cmu.edu
+Office Location: HH 1113
+Waitlist Manager: Megan Oliver
+Email Address: mvoliver@andrew.cmu.edu
+Office Location: HH 1113B
+Course Website: https://www.africa.engineering.cmu.edu/academics/courses/18-787-K3
+Teaching Assistants:
+Name:
+Email:
+Zoom Meeting Id:
+Gabriel Ntwari
+ntwarig@andrew.cmu.edu
+https://cmu.zoom.us/j/Gabriel
+Simon Pierre Ndizihiwe
+sndizihi@andrew.cmu.edu
+https://cmu.zoom.us/my/sndizihi
+Jeannine Mukashema
+mjeannin@andrew.cmu.edu
+https://cmu.zoom.us/my/mjeannin
+Clarisse Isingizwe
+cisingiz@andrew.cmu.edu
+https://cmu.zoom.us/j/Clarisse
+Sally Musanga
+smusanga@andrew.cmu.edu
+https://cmu.zoom.us/my/smusanga
+Maureen Gatimu
+mgatimu@andrew.cmu.edu
+https://cmu.zoom.us/j/2937376566
+Course Discipline: Electrical and Computer Engineering
+Course Level: Graduate
+Type of Course: Onsite - Remote
+Course Streamed to Pittsburgh: Yes
+Course Concentration: Applied Machine Learning
+Core/Elective: Core
+Units: 6
+Lecture/Lab/Rep Hours/Week: 3 Lecture Hours Per Week; 1 Lab/Rep Hours Per Week
+Semester/Year Offered: Spring, All Years
+Pre-Requisites: 18-785
+Recitation Zoom details:
+Meeting ID: 933 0106 8629
+Passcode: 542789
+1
+
+Direct url:https://cmu.zoom.us/j/93301068629?pwd=PPtBPW7qukyGGvHWIGtiRetRXTb6bB.1
+Class Schedule:
+Pittsburgh: TEP 3500
+Kigali: F205 - Remote
+Lectures: 1 hour and 20 minutes
+Week
+A
+Pittsburgh
+Kigali
+B
+Pittsburgh
+Kigali
+1
+Tues, Jan 14
+08:00 ET
+15:00 CAT
+Thurs, Jan 16
+08:00 ET
+15:00 CAT
+2
+Tues, Jan 21
+08:00 ET
+15:00 CAT
+Thurs, Jan 23
+08:00 ET
+15:00 CAT
+3
+Tues, Jan 28
+08:00 ET
+15:00 CAT
+Thurs, Jan 30
+08:00 ET
+15:00 CAT
+4
+Tues, Feb 04
+08:00 ET
+15:00 CAT
+Thurs, Feb 06
+08:00 ET
+15:00 CAT
+5
+Tues, Feb 11
+08:00 ET
+15:00 CAT
+Thurs, Feb 13
+08:00 ET
+15:00 CAT
+6
+Tues, Feb 18
+08:00 ET
+15:00 CAT
+Thurs, Feb 20
+08:00 ET
+15:00 CAT
+Course Description:
+Data analytics is the process of analyzing datasets in order to draw conclusions, generate insights,
+make predictions and support decision-making. This course will take a practical approach to
+solving challenges in the public and private sectors using data analytics. A number of different
+themes will be explored as case studies in order to demonstrate how data-driven decision-making
+has widespread applications.
+The course will examine how the question being posed, the
+available data and the selected modelling approach all come together to arrive at a feasible
+solution. A range of quantitative techniques, involving both linear and nonlinear methods will be
+presented for dealing with numerical structured datasets. Substantial emphasis will be placed on
+the process of delivering data analytics via a dashboard to facilitate decision-making and
+policy-making. The course content will be structured to provide a roadmap for carrying out the
+necessary procedures and will be illustrated using case studies, reading material and previously
+published models. Participants will obtain hands-on experience by working on specific challenges
+with real-world data through a carefully structured set of assignments.
+Learning Objectives:
+The objective of this course is to provide students with practical experience of undertaking a data
+analytics project to address a challenge of their choice. This process involves: (1) proposing a
+feasible research plan based on a challenge that can be addressed with available data; (2)
+exploratory analysis of the data; (3) construction and evaluation of a quantitative model; and (4)
+communication of the model output to decision-makers. This will involve identifying a relevant
+key performance indicator and collecting appropriate explanatory variables. The ability to write a
+report that documents the challenge, data, analysis, model, evaluation and feasibility of deploying
+the analytics in a real-world setting will be assessed. Applications will include forecasting,
+classification, novelty detection and risk monitoring.
+Outcomes
+After completing this course, students should be able to:
+●
+Design a data analytics project in response to a specific challenge
+●
+Download and organize data for addressing the challenge
+●
+Explore the dataset using visualization techniques
+●
+Apply a range of quantitative techniques
+2
+
+●
+Discuss the advantages and disadvantages of different models
+●
+Select an approach that is optimal for meeting the objective
+●
+Present conclusions and recommendations
+●
+Communicate model output to decision-makers
+Grading
+The grades for this course will be based on students’ performance on three homework
+assignments, Canvas quizzes, a final exam and class participation. Homework assignments will
+be done individually and turned in via Canvas by the designated due date. Late work will be
+acceptable until 24 hours past the deadline, but it will lose 10%. The assignments will be graded
+based on both a writing report and code used to achieve results presented in the report. Class
+participation will be evaluated based on the student's contribution to discussions both in-class and
+on the Piazza Discussion Board. When posting or reacting to online discussion threads, students
+are expected to use their own words and the post should be relevant to the topic under discussion.
+Make sure to introduce, summarize and explain the article in your own words to enlighten the
+audience on the point the article is making.
+The following is the weight distribution of the grades:
+Class participation
+5%
+Canvas quizzes
+2.5%
+Piazza participation
+2.5%
+Assignment 1
+20%
+Assignment 2
+25%
+Assignment 3
+30%
+Final Exam (Multiple Choice)
+15%
+Important Dates:
+Description
+Release Date
+Due Date
+Days
+Grade Date
+Assignment 1
+Tue, Jan 14
+Mon, Jan 27
+14
+Fri, Jan 31
+Assignment 2
+Tue, Jan 28
+Mon, Feb 10
+14
+Fri, Feb 14
+Assignment 3
+Tue, Feb 11
+Mon, Feb 24
+14
+Fri, Feb 28
+Final Grades
+Tues, Mar 10
+* The final exam date is to be announced but likely to be the first week of March.
+Deadlines:
+It is expected that deadlines are respected and met on time. Missing a deadline by between 0 and
+24 hours will result in the deduction of 10% of the marks assigned. A submission made later than
+24 hours after the deadline, will be regarded as unclassified and result in zero marks. In the case
+of a situation preventing a student from meeting the deadline (such as a medical condition), a
+student is required to write to the professor and TAs of the course in advance, copy his/her
+advisor and submit supporting evidence.
+MATLAB:
+One option is to use MATLAB software. Download MATLAB software for your computer
+operating system from the CMU download website. After unzipping the file, read the
+3
+
+Matlab-Licence_Instructions.pdf file for instructions for connecting to MATLAB server and
+running MATLAB.
+Python
+Another option is to use Python. Google Colaboratory (Colab) is an excellent platform for
+building notebooks which allow you to combine executable code and rich text in a single
+document, along with images, HTML, LaTeX.
+When using Google Colab, it's important to deactivate AI assistance to avoid potential
+issues related to high similarity with other students' work. Turn off any AI tools or
+auto-suggest features in Colab to ensure your work remains original and is not flagged for
+high similarity. This will help maintain the integrity of your work.
+Canvas and Piazza:
+Canvas will be used for posting supplementary course materials and turning in assignments.
+Please familiarize yourself with navigating, uploading and downloading. Piazza will be used for
+questions and discussion among students, TAs and the instructor.
+Topic Outline (Weeks 1-6)
+4
+Data Analytics 18-787
+Week
+Activity
+Lecture A
+Lecture B
+1
+Theme
+Data Analytics
+Weather forecasting
+Challenge
+Human versus machine
+Weather forecasting
+Discussion
+Course objectives and
+timeliness
+History of weather forecasting
+Case Study
+Data scientist
+Michael Fish’s hurricane
+Analysis
+Statistician versus data scientist
+Communicating forecasts
+Demo
+Roadmap
+Evaluating forecasts
+2
+Theme
+Renewable energy
+Wind energy
+Challenge
+Supply variability
+Wind energy integration
+Discussion
+Forecasting supply
+Wind energy growth
+Case Study
+Ensemble forecasts
+Wind farm forecasting
+Analysis
+Electricity prices
+Probabilistic forecasting
+Demo
+Renewable policy
+Variability indices
+3
+Theme
+Solar energy
+Demand forecasting
+Challenge
+Storage and price
+Seasonality
+Discussion
+PV and thermal
+Demand and weather
+Case Study
+Actual solar efficiency
+Peak scenarios
+Analysis
+Efficiency versus irradiance
+Short-term forecasts
+Demo
+Smoothing techniques
+Electricity consumption
+4
+Theme
+Risk
+Extreme events
+Challenge
+Risk management
+Floods
+Discussion
+Global risks
+Extreme values
+Case Study
+Natural disasters
+Climate change and flood risk
+Analysis
+Disaster trends
+Wind farm risk metric
+Demo
+Risk communication
+Estimating V50
+
+Grading Scale:
+A : > 93%
+A - : ]93% , 90% ]
+C + : ]80%, 77% ]
+C : ]77%, 73 % ]
+C - : ]73%, 70% ]
+B + : ]90% , 87% ]
+B : ]87% , 83 % ]
+B - : ]83% , 80% ]
+D + : ]70%, 67%]
+D : ] 67%, 60% ]
+F : < 60 %
+Education Objectives (Relationship of Course to Program Outcomes)
+The ECE department is accredited by ABET to ensure the quality of your education. 
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the
+courses you take.  The following list describes which objectives are fulfilled by this
+course and in what manner they are fulfilled. The objectives are numbered from “1”
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course
+have been omitted from the following list:
+1) an ability to identify, formulate, and solve complex engineering problems by
+applying principles of engineering, science, and mathematics: The course
+poses many problems in homework assignments involving data from complex
+real-world systems that will require students to think critically, analyse, model
+and solve using good engineering practice.
+2) an ability to apply engineering design to produce solutions that meet
+specified needs with consideration of public health, safety, and welfare, as
+well as global, cultural, social, environmental, and economic factors: The
+course introduces the use of analytics and machine learning to address specific
+challenges
+and
+facilitate
+improved
+decision-making
+for
+practitioners
+and
+managers in public and private sectors.
+3) an ability to communicate effectively with a range of audiences: Students can
+practice communication skills remotely (Piazza Q&A), during class (quizzes,
+polls, questions and answers) and especially during recitations where challenges
+are discussed and volunteers with solutions are welcome to present.
+4) an ability to recognize ethical and professional responsibilities in engineering
+situations and make informed judgments, which must consider the impact of
+5
+5
+Theme
+Health
+Biomedicine
+Challenge
+Data-driven medicine
+Detecting disorders
+Discussion
+History of healthcare
+Epilepsy
+Case Study
+Growth charts
+ECG analysis
+Analysis
+Electronic records
+Parkinson’s disease
+Demo
+Rwandan growth chart
+Voice disorders
+6
+Theme
+Early warning systems
+Economic forecasting
+Challenge
+Preventing disaster
+Economic activity
+Discussion
+Components of EWS
+Expansion and recession
+Case Study
+Parkinson’s disease
+US GNP forecasting
+Analysis
+Nuclear reactor clogging
+Regime switching
+Demo
+UK Met Office
+Parsimonious models
+
+engineering solutions in global, economic, environmental, and societal
+contexts: The ethical aspects of analytics and machine learning are discussed in
+relation to data sampling biases, model error, risk and uncertainty. Case studies
+are used to demonstrate the potential adverse consequences of AI.
+5) an ability to function effectively on a team whose members together provide
+leadership, create a collaborative and inclusive environment, establish goals,
+plan tasks, and meet objectives: Quizzes and polls are used as a mechanism to
+encourage group discussion and motivate debate about the process of interpreting
+data and arriving at implementable solutions.
+6) an ability to develop and conduct appropriate experimentation, analyze and
+interpret data, and use engineering judgment to draw conclusions: The
+course focuses extensively on the interpretation and analysis of data to predict
+outcomes and generate actionable insights based on transparent processes that can
+be documented and explained.
+7) an ability to acquire and apply new knowledge as needed, using appropriate
+learning strategies: Students will tackle problems using real-world datasets and
+will select from amongst a range of techniques and models to undertake statistical
+learning and arrive at a robust and predictive solution.
+ECE

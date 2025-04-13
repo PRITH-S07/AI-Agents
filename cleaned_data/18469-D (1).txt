@@ -1,0 +1,620 @@
+Course Syllabus
+18-469/669: Hacker Fab
+Fall 2024
+Instructor:
+Tathagata Srimani
+Office Location: HH2124
+Email Address: tsrimani@andrew.cmu.edu
+Office Hours: MW - 6-7 PM
+Instructor:
+Matt Moneck
+Office Location: SCOT 4S407
+Email Address: mmoneck@andrew.cmu.edu
+Office Hours: TR - 5-6 PM
+TAs/RAs (AndrewIDs):
+●
+Joel Gonzalez (bgonzale)
+●
+Jay Kunselman (jskunsel)
+●
+David Hershenson (dhershen)
+●
+Kent Wirant (jwirant)
+●
+Yanbing Icey Chen (yanbing2)
+●
+Kaiyuan Liu (kaiyuan2)
+●
+Shashank Obla (sobla)
+●
+Jessica Wu (jwu5)
+●
+Joshna Iyengar (jiyengar)
+●
+Anirud Vineet Durani (adurani)
+●
+Akshunna Vaishnav (avaishna)
+●
+Erika Ramirez (erikaram)
+Office Location: REH 202/204 (Hacker Fab Lab)
+Office Hours: 5-7PM, Monday/Tuesday/Wednesday/Thursday or by appointment
+(reach out to specific TA/RA)
+Course Support: Academic Services Center
+Office Location: HH 1113
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html
+
+Course Description:
+This course introduces students to fabrication of microelectronics by working on a
+hands-on, collaborative, open source project: the Hacker Fab. Topics include layer
+deposition, patterning, oxidation, etching, doping, inspection, metrology,
+dynamics/motion control, vacuum, optics, material selection, and plasmas. Students
+spend the majority of the class working together to design new fab tools, processes, and
+microelectronic devices all the way from idea to implementation in order to expand the
+capabilities of the Hacker Fab. Seven labs in the first half of the semester familiarize
+students with equipment and culminate in all students making transistors. Lectures serve
+to bridge the gap between the theoretical understanding gained from textbook readings
+and the practical understanding from lab assignments. Lecture times are also for sharing
+progress and coordinating efforts.
+Number of Units:
+12
+Pre-requisites: None
+Class Lecture:
+7:00 - 8:50 PM, Monday and Wednesday, SH 238
+Required Textbooks:
+Microchip Fabrication, Peter Van Zant, 6th edition
+Integrated Circuit Fabrication, Plummer and Griffin
+Suggested Reading:
+Building Scientific Apparatus, John H Moore
+For fun illustrations: The Way Things Work Now, David Macaulay
+Reference Materials:
+Sam Zeloof’s YouTube Channel
+Open Source Software vs. Hardware
+Essays about Linux and Open Source
+https://pseudodudo.com/research
+Brief List of Topics Covered:
+Layer deposition, patterning, oxidation, etching, doping, inspection, metrology,
+dynamics/motion control, vacuum, optics, material selection, and plasma.
+Course Canvas:
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas
+daily for announcements, grades, and feedback.
+
+Time Commitments
+1. 2 lectures per week, 1 hour 50 minutes each. Total 4 hours.
+2. 1 asynchronous lab per week, about 3 hours. First half of semester only.
+3. 1 scheduled project work session, about 2 hours, does not include individual work
+outside of scheduled time. Increases in the second half of the semester.
+Reading Assignments:
+These readings are required. Semiconductor fabrication has been in existence for half a
+century, which means people have had time to write good textbooks about it. They did a
+better job of presenting this information than we can. The readings are selected to teach
+the impact of each knob in our process, avoiding extraneous topics. Lectures will bridge
+the textbook theory to the practical labs. See the calendar below for the readings.
+Grading Scheme:
+7 Labs - 25%
+14 Written Updates - 50%
+3 Group Presentations - 25%
+
+Projects
+Building and operating a semiconductor fab is an incredibly rich educational experience
+for students in many disciplines. Students will work solo or in teams to accomplish goals
+like building a new tool from scratch or developing a new process. Instructors will help
+by breaking down technical goals into manageable chunks and assigning them to students
+in accordance with their interests and abilities. Projects are decided before each semester
+begins. For Fall 2024, there are many projects running in parallel:
+●
+Create deposition tools that go beyond the current capabilities of our DIY thermal
+evaporator
+○
+Design and build a DIY atomic layer deposition tool
+○
+Design and build a DIY sputtering tool
+●
+Continue development of our DIY photolithography stepper
+○
+Develop computer vision alignment of photolithography patterning
+○
+Test and integrate a DIY piezoelectric nanopositioner for precise movement
+○
+Test and integrate a DIY laser interferometer for feedback control
+●
+Create automated tools for the lab to make our processes more consistent
+○
+Lab robot to automate the lab’s wet chemical handling
+■
+Gantry system to move chips between machines
+■
+Liquid handling
+■
+Gripping mechanism
+■
+Photoresist baking
+○
+DIY Spin Coater V2
+○
+DIY novel furnace design for thermal diffusion in a small form factor
+●
+Develop new processes for fabricating transistors - NMOS, CMOS, and beyond
+●
+Lower the barrier to entry by creating a new process
+○
+Design fabrication processes that remove all harmful chemical use
+■
+Remove the use of hydrofluoric acid
+■
+Find an alternative to photoresist
+■
+Find an alternative to spin on glass
+○
+Create our own gate stack to remove dependency on the semiconductor industry
+■
+Grow our own oxides
+■
+Deposit a non-poly gate
+○
+Develop an electroplating process + apparatus to remove the need for a thermal
+evaporator
+●
+Further develop metrology tools for the lab
+○
+Create a DIY electrical testing setup via DIY probe station and
+source-measurement unit (SMU)
+○
+Develop a database for automated sensor data collection and analysis
+Project teams will need to schedule times to build equipment or run experiments. The
+people, places, and times may change throughout the semester as projects start and finish,
+but there will always be a weekly core meeting for each project listed above to plan work.
+Students are expected to come to the lab outside of scheduled times to complete tasks as
+needed.
+
+Weekly Progress Updates
+The Hacker Fab is an open source project - others must be able to replicate students’
+work, and every student is expected to create high quality documentation. Students will
+be graded on their contributions to this documentation, and given feedback. The goal of
+this is to directly link the performance of the students in 18-469/669 with the acceleration
+of the Hacker Fab.
+To facilitate grading, students will post short weekly summaries of their progress on
+Canvas by Thursday night at midnight. These submissions will be graded from 0-5 on
+Friday with written feedback.
+One paragraph response to each:
+1. What did you accomplish this week? This does not just mean group progress, but
+specific contributions you made and how it links to the group’s work. “I helped X
+with Y” will receive a bad grade. Links or screenshots to documentation, CAD,
+schematics, process data, or working documents are also valued much more than
+just a written summary.
+2. What are you stuck on, if anything? Do you need help from anyone inside or
+outside the class?
+3. What are your plans for next week? If you don’t have a clear path, give options.
+Use the project management page (github) for reference on tasks that need to be
+completed.
+The rubric is as follows:
+5 points: Your work for the week directly contributed to the Hacker Fab goals, and the
+documentation is detailed enough for someone else to easily recreate your work.
+4 points: You worked towards a contribution to the Hacker Fab goals, though the
+documentation for your work is not relevant enough to be included in the final Hacker
+Fab documentation.
+3 points: Your work for the week was related to the Hacker Fab goals, but isn't working
+towards a direct contribution.
+2 points: You wrote something.
+0 points: You didn’t write anything.
+
+Demos
+Three times during the semester, each student will present to the rest of the class
+and potential outside guests. The demo takes two forms: a demonstration of a working
+machine or part of a machine, and a slide deck to be pasted in the lecture slides. The
+presentation should demonstrate the relevance of the work to larger Hacker Fab goals.
+These are group assignments, so if students worked together on a project, then
+they should present together, with each student only presenting their own work. However,
+students may also present alone if they desire, as long as their individual work includes a
+functional physical demo (see rubric below). These will be graded individually based on
+the progress made and how well it is presented. Students should reach out to course staff
+if they have any questions about the content, format, scheduling, or anything else about
+the presentations.
+The schedule for demos can be found on the Tentative Course Calendar in this
+syllabus. Demos will take place during regular lecture time, and they may be split over
+two days to accommodate the number of students presenting that week. If you can bring
+the demo over to our classroom in Scaife Hall, that is ideal; otherwise, we will bring the
+class to REH 202/204.
+The rubric is as follows (20 points total):
+Working Demo - 10 Points
+Half of your demo credit is related to if you have a physically working demo.
+Points are not given for a pile of separate components, not literature
+review, not CAD, not plans for next week’s work.
+For process development demos: a clean sample of a new process on a
+chip is a great demonstration. Put it under the microscope for other
+students to play with.
+Presentation - 10 Points
+10 points: Your work directly contributed to the Hacker Fab goals, and you
+presented your work clearly enough that anyone listening would have a complete
+understanding of what you did. And your presentation gave people energy!
+9 points: You worked towards a contribution to the Hacker Fab goals. You
+presented your work clearly enough that most people listening would have a
+complete understanding of what you did.
+8 points: Your work was related to the Hacker Fab goals, but isn't working
+towards a direct contribution. You presented your work clearly enough that some
+people listening would have a complete understanding of what you did.
+
+Video Demonstration - 5 Bonus Points
+If you create a video that clearly showcases your working demo, you will receive
+5 bonus points. This does not have to be extremely high production value, but
+should include at minimum:
+●
+Multiple clips edited together
+●
+Show details that are not immediately apparent in the short demo you
+made to the class
+●
+For process development demos: you can make a video detailing the
+timeline of discovering and testing your new technique. This should
+provide more information so that viewers know what you already
+debugged, and it puts the process in context against alternatives.
+Labs
+The labs are designed to familiarize students with the equipment in the Hacker
+Fab and impart a physical understanding of fabrication processes. These labs are not a
+large portion of the class, and serve to aid students’ understanding for their individual
+projects. Later labs will build off of previous ones so that students end up with
+functioning NMOS transistors.
+Process control is extremely important to fabricate good devices, but doing so in
+practice is difficult. Students will experience defects and failures throughout fabrication,
+and the lab reports encourage the analysis of these outcomes rather than being entirely
+based on results.
+Labs are conducted in a group setting. At the beginning of the semester, students
+will be assigned a three-hour lab session based on their availability. Students will use this
+weekly lab session to complete the labs under the guidance of the TAs. Students should
+communicate with the course staff if they need to miss their scheduled lab session, so that
+they may join another session to make up the work.
+The deliverables for each lab include:
+1. The data and analysis sections, to be graded for completion.
+2. Report questions.
+The following is a list of all the labs and some important goals for each. It is subject to
+slight modifications in order to fit class requirements.
+
+1. Patterning
+Patterning is the core of all microelectronic fabrication process flows. This is the
+first lab because Stepper V2 is one of the projects for the semester and we want to give
+context for that work by using V1. It will also provide practice for future patterning steps.
+Students will cleave, spin coat, bake, pattern, develop and inspect their chips in
+series. Individual lab report questions will test the understanding of photolithography
+performance and the resolution limits on the stepper.
+2. Spin on Glass + Dope
+This lab marks the beginning of the transistor fabrication sequence. Spin on glass
+is the first step in our MOSFET fabrication sequence in order to dope the polysilicon gate
+and achieve the electrical characteristics we desire. Students will spin on a doped glass
+layer, anneal it, analyze the success of that procedure, then diffuse the dopant into the top
+layer of polysilicon and analyze again. Proper spin coating technique will be critical to
+avoid glass defects.
+Thickness can be estimated from color (maybe with a spectrometer) and defects
+include striations, cracks, and pinholes. Students will have to judge whether a defect is
+bad enough to require restarting the process.
+The single chip that students start in this lab will be used in every future lab until
+every process step is complete and what is left on the chip are transistors.
+Wet etch will be done in batches due to time constraints and student HF safety
+training bottlenecks.
+
+3. Plasma Etch + SOG
+Taking turns, students will pattern their own gates on new chips, then use the
+plasma etcher to etch polysilicon. Report questions will focus on finding defects in the
+gate photoresist pattern and seeing how they transfer to the etched layer. Additional
+metrology options include profilometry.
+After the polysilicon is etched, the students will spin on undoped glass in
+preparation for the next lab. Proper spin coating technique will be critical to avoid glass
+defects. Report questions will focus on success of the reactive ion etch and
+characterization of defects during glass application.
+4. Wet Etch + Spin on Dopant + Dopant Diffusion
+Students will pattern the active (doped) region on the glass they spun on the
+previous lab, oxide etch, then spin on doped glass and diffuse.
+This is the first lab that students will have to practice vertical alignment during
+patterning (aligning the new active region pattern with the previous polysilicon gate
+pattern). This is more complex than the open-loop patterning process done in previous
+steps.
+Thickness can be estimated from color (maybe with a spectrometer) and defects
+include striations, cracks, and pinholes.
+Students will pattern and etch the active areas with hydrofluoric acid.
+Undercutting is a common unsolved problem to be aware of during this step.
+Students will also spin on the next layer of doped glass and anneal it in
+preparation for the next lab. Diffusion itself is relatively straightforward, but it has a large
+impact on the operation of the final device. The ideal diffusion leads to ohmic contacts at
+the source and drain while not leaking through the gate or diffusion barrier.
+
+5. Wet Etch, Thermal Evaporation
+After diffusion, students will pattern contact holes, wet etch oxide, properly strip
+resist, clean, dehydrate, and load their chips into the evaporator. Evaporation will be done
+in batches due to time constraints, so instructors will complete this step.
+Proper cleaning to achieve ohmic contact between aluminum and doped silicon is
+a sensitive and necessary step. The lab and report will focus on this heavily.
+6. Aluminum Etch, Electrical Characterization
+During lab 5 students will pattern and etch the aluminum layer that was just
+deposited during evaporation, creating the top layer of wiring and contact pads. If
+delamination occurs, students will need to re-evaporate.
+After the last layer of aluminum is evaporated onto the chip, it is deposited
+everywhere and must be etched in order to isolate wires and contacts.
+This is also the final lab where students probe and measure the electrical
+properties of their devices. The measurements include IV curves of the diffusion region
+(to determine if ohmic contacts were created), CV curves of the gate, and IV curves with
+stepped gate voltage for classic MOSFET operation. The lab report will emphasize
+analysis connecting process data to resulting electrical characteristics.
+This is the most substantial report of all the labs, and requires a review and
+analysis of the processes that occurred leading up to the testing of these final transistors.
+7. Makeup
+Students have the opportunity to make up any process steps that went wrong
+along the way, and continue their electrical characterization report.
+
+Lectures
+The lectures in this class are multipurpose. The primary uses of this time together are
+listed below, in order of frequency. The semester will start with more instruction, but as
+students delve into their projects, progress presentations will start to take up more lecture
+time. The agenda for each lecture will be the second slide. Students are welcome to add
+slides at any time if they want to share anything with the class.
+●
+Instruction
+For the first seven weeks, lectures start with one hour of instruction connecting textbook
+content to the labs, covering each fabrication process in detail. This includes explanation
+of the physical phenomena occurring and the parameters that determine the outcomes,
+discussion of the design and operation of the instruments for that process, and comparing
+variations of equipment in terms of precision, throughput, safety, and cost. These lectures
+may be given by guest lecturers from ECE faculty.
+●
+Lab Debrief
+After the instructors and TAs have had a chance to review the students’ lab results, the
+data will be aggregated and analyzed together as a class. The goal for these sessions is to
+narrow down process control and yield.
+●
+Project Presentations / Demos
+See section: Projects > Demos
+●
+Breakout Sessions
+If project teams would benefit from additional time working together, the lecture hall can
+be split into groups working separately. Since everyone is in the same room it becomes
+easier to deal with interdependencies between teams, and if anyone is working in multiple
+teams they can easily switch as needed.
+●
+Guest Lectures
+From CMU faculty or industry experts on relevant topics, including the current
+semiconductor industry, advanced devices, novel fabrication techniques, and data
+management.
+●
+Lab Brief
+If needed, next week’s lab can be reviewed in order to prepare students.
+
+Tentative Course Calendar
+Date
+Day
+Reading Due
+Lecture Topic
+Lab Topic
+August
+26
+M
+PVZ ch 4 (fab
+overview)
++ Filling in the
+Gaps Doc
+Course + Project overview, semiconductor devices
+(end goal). Introduce Hacker Fab process. EHS
+lecture on lab safety.
+28
+W
+PVZ ch 8
+(patterning),
+ch 9 up to etch
+(develop +
+bake)
+Patterning overview, mask/maskless. Introduce the
+patterning lab. Mechanical and optical resolution,
+optical tricks.
+September
+2
+M
+Labor Day - No Classes
+Patterning
+4
+W
+PVZ ch 5
+(Contam
+Control, skip
+cleanroom
+design)
+Plummer
+11.3.2
+Steppers, scanners, EUV machine case studies.
+Electron beam writers. Stiffness and weight in
+machine design. Optical design: refractive limits,
+numerical aperture, reflective optics. Alignment
+tolerances, critical dimensions.
+9
+M
+Plummer 9.1
+to 9.5.3
+(plasma etch)
+PVZ ch 9
+Overertch and
+Undercutting
+Etching. Dry vs wet. How to make a plasma. Etch
+rate factors. Selectivity. Isotropy. N2 purge safety.
+How MOSFETs work and how to draw them.
+Spin on glass parameters: speed, annealing temp
+and time. Show pictures of previous tests, analyze
+common defects and hypothesize failure modes.
+Layout ideas for lab 2.
+Spin on
+Glass +
+Doping
+11
+W
+PVZ Ch 7 up
+to p 167
+PVZ ch 11 up
+to 338
+Doping - diffusion, ion implantation. Thermal
+budget. Dopant profiles and effect on junction
+properties. Dopant sources for diffusion - solid,
+liquid, gas.
+16
+M
+PVZ ch 13
+Deposition
+Methods
+Overview of layer deposition techniques: oxidation,
+physical vapor deposition, chemical vapor
+deposition, unorthodox. Electroplating
+Plasma
+Etch +
+SOG
+18
+W
+A Sense of Scale Lecture (+ Vacuum systems.
+Molecular flow regime. Material outgassing.
+Vacuum gauges, flow meters/control)
+23
+M
+Metrology: Microscopes, SEM, AFM, ellipsometry,
+profilometers, spectroscopy. Connect use cases of
+each with our fab, and break down tool into its
+components to discuss DIY designs. Discuss in-situ
+sensor design for automation + data collection.
+Wet Etch
++ Spin on
+Dopant +
+Dopant
+Diffusion
+25
+W
+Work Day
+15
+M
+Work Day
+Wet Etch
++ Thermal
+Evaporatio
+n
+October
+2
+W
+IV and CV curve tracing. Four point probe,
+resistivity measurements. Metal - semiconductor
+contact properties. Connecting electrical
+
+characteristics to process steps
+7
+M
+Checkpoint 1 Demos
+Aluminum
+Etch +
+Electrical
+Characteri
+zation
+9
+W
+Checkpoint 1 Demos
+14
+M
+Fall Break – No Classes
+16
+W
+Fall Break – No Classes
+21
+M
+Work Days or Guest/Topical Lectures as needed
+Make Ups
+23
+W
+Work Days or Guest/Topical Lectures as needed
+28
+M
+Work Days or Guest/Topical Lectures as needed
+30
+W
+Work Days or Guest/Topical Lectures as needed
+Work Days or Guest/Topical Lectures as needed
+4
+M
+Work Days or Guest/Topical Lectures as needed
+6
+W
+Work Days or Guest/Topical Lectures as needed
+11
+M
+Checkpoint 2 Demos
+13
+W
+Checkpoint 2 Demos
+18
+M
+Work Days or Guest/Topical Lectures as needed
+20
+W
+Work Days or Guest/Topical Lectures as needed
+25
+M
+Work Days or Guest/Topical Lectures as needed
+27
+W
+Thanksgiving – No Classes
+December
+2
+M
+Work Days or Guest/Topical Lectures as needed
+4
+W
+Work Days or Guest/Topical Lectures as needed
+9
+M
+Finals Week - Public Demo Day
+
+Education Objectives (Relationship of Course to Program Outcomes)
+The ECE department is accredited by ABET to ensure the quality of your education. 
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the
+courses you take.  The following list describes which objectives are fulfilled by this
+course and in what manner they are fulfilled. The objectives are numbered from “1”
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course
+have been omitted from the following list:
+1. an ability to identify, formulate, and solve complex engineering problems by
+applying principles of engineering, science, and mathematics
+a.
+This course asks students to implement an extremely broad range of
+engineering topics included in the semiconductor fabrication industry:
+mechanical, electrical, material, and software engineering.
+2. an ability to apply engineering design to produce solutions that meet specified
+needs with consideration of public health, safety, and welfare, as well as global,
+cultural, social, environmental, and economic factors
+a.
+There are specific technical requirements for each project in this course
+that students must not only adhere to, but also document their findings in
+order to share with the public. This practice of open documentation
+directly supports the need for semiconductor workforce education by
+lowering the barrier to entry for others outside of the course to understand
+these complex concepts.
+3. an ability to communicate effectively with a range of audiences
+a.
+Beyond working amongst other students in the class to complete
+collaborative projects, the entire class focuses on pushing the open-source
+Hacker Fab project forward. Documentation created by students is for
+audiences ranging from other high end academic institutions, the
+semiconductor fabrication industry, community colleges, and the general
+public.
+4. an ability to recognize ethical and professional responsibilities in engineering
+situations and make informed judgments, which must consider the impact of
+engineering solutions in global, economic, environmental, and societal contexts
+a.
+From day one till the end of the class, students think of solutions to lower
+the barrier to entry of semiconductor fabrication.
+5. an ability to function effectively on a team whose members together provide
+leadership, create a collaborative and inclusive environment, establish goals, plan
+tasks, and meet objectives
+a.
+Students work in groups of 2-4 people in order to tackle projects all the
+way from ideation to implementation.
+6. an ability to develop and conduct appropriate experimentation, analyze and
+interpret data, and use engineering judgment to draw conclusions
+a.
+Laboratory exercises provide for the opportunity to conduct experiments.
+Students will design experiments and analyze data with a wide range of
+metrology tools.
+7. an ability to acquire and apply new knowledge as needed, using appropriate
+learning strategies.
+a.
+During intermittent design reviews and demos, students will do extensive
+literature review to determine what is worth working on, and what to
+change going forward. The course and project structure is conducive to
+fast moving and iteration of projects that require new knowledge.
+
+ECE

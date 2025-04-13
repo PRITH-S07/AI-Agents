@@ -1,0 +1,290 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-756: Packet Switching and Computer Networks 
+Fall 2024
+ 
+Course Personnel:  
+Instructor:
+Hyong Kim 
+Email: kim@ece.cmu.edu 
+Office: HH A305 
+ 
+Office Hours: Monday 6:00pm-7:00pm 
+ 
+Teaching Assistants: 
+ 
+Oguzhan Karaahmetoglu 
+Email: okaraahm@andrew.cmu.edu 
+Office: HH A Wing 
+Office Hours: Monday 7:00pm-9:00pm 
+ 
+ 
+ 
+Course Description:  
+This first level graduate course in networking provides an understanding of the key 
+concepts in networks through lectures, seminars, and projects. The topics include Transport 
+networks, MPLS, GMPLS, Optical transport networks, packet switch architectures, QoS, 
+Routing, network virtualization (SDN), and other advanced topics in networks including 
+Cloud Computing and Blockchain.  
+This course is particularly useful for those students who would like to gain a fundamental 
+understanding of the principles of operation of communication and data networks and to 
+have careers in networks as well as those who would like to do their M.Sc. or Ph.D. 
+thesis in this area. The course will assume that the students have a basic understanding of 
+probability Theory and an elementary understanding of computer networks. 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+Introductory network course and senior or graduate standing.  
+ 
+Pre-requisite for:  
+18-757, 18-842, 18-842G, 18-842PP, 18-859C 
+ 
+
+ 
+2 
+ 
+Course Areas:   
+Signals and Systems,  
+  
+ 
+Software Systems and Computer Networking 
+ 
+Class Schedule: 
+• Lecture: 
+Monday and Wednesday 
+4:00pm – 5:50pm 
+ 
+WEH 5316 
+  
+• Recitation: 
+Friday  
+ 
+ 
+7:00pm – 8:50pm 
+ 
+PH 125C 
+ 
+ 
+Required Textbook:  
+No Textbook Required.  
+ 
+Other Supplemental Materials: 
+1. Computer Networks, L. Peterson and B. Davie, Morgan Kaufmann,  
+(ISBN 155860-514-2)  
+2. Communication Networks, by A. Leon-Garcia and I. Widjaja, McGraw-Hill, 
+(ISBN 0-07-242349-8)  
+3. IEEE Journal on Selected Areas in Communications  
+4. IEEE/ACM Transactions on Networking  
+5. IEEE Transactions on Communications  
+6. IEEE Communications Magazine  
+7. IEEE Network Magazine  
+8. Proceedings of IEEE INFOCOM  
+9. Proceedings of ACM SIGCOM 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.instructure.com/. You should check the course canvas daily for 
+announcements and handouts.  
+ 
+Grading:  
+ 
+Paper Reviews 
+You are expected to read papers and submit review reports throughout the course. The 
+paper review reports are worth 10 % of the final grade.   
+ 
+Course Problem Sets and Projects 
+The problem sets will be assigned throughout the course. The problem sets will be based 
+on course materials including papers. The problem sets are due in the class one week 
+after they are assigned (unless you are told otherwise). There are also network software 
+projects. The objective of the project is to explore concepts covered during the lectures 
+through implementation and experiments. The problem sets and the projects are worth 
+20% of the final grade. Details on the projects will be announced later.   
+ 
+All assignments are due 12:00am (EST), midnight, on due dates.   
+All work submitted late will be counted as zero. 
+
+ 
+3 
+ 
+ 
+Exams and Tests  
+There will be 2 exams and 2 tests in the course. 
+• Test 1 and 2 are 60 minutes long and worth 5% each. 
+• Exam 1 and 2 are 110 minutes long and worth 30% each.   
+ 
+Test 1: September 23 (5%)  
+Test 2: November 11 (5%)   
+ 
+Exam 1: October 21 (30%)  
+Exam 2: December 4 (30%)   
+ 
+Tentative Course Calendar:  
+ 
+Date 
+Day 
+Class Activity 
+Deadline 
+August 
+ 
+26 
+Mon. 
+ 
+ 
+28 
+Wed. 
+ 
+ 
+30 
+Fri. 
+Lecture in PH 125B (7pm-8:50pm) 
+ 
+September 
+ 
+ 
+2 
+Mon. 
+Labor day, no class 
+ 
+4 
+Wed. 
+ 
+ 
+6 
+Fri. 
+ 
+ 
+9 
+Mon. 
+ 
+ 
+11 
+Wed. 
+ 
+ 
+13 
+Fri. 
+Lecture in PH 125B (7pm-8:50pm) 
+ 
+16 
+Mon. 
+ 
+ 
+18 
+Wed. 
+ 
+ 
+23 
+Mon. 
+Test 1 
+ 
+25 
+Wed. 
+ 
+ 
+30 
+Mon. 
+ 
+ 
+October 
+ 
+2 
+Wed. 
+ 
+ 
+7 
+Mon. 
+ 
+ 
+9 
+Wed. 
+ 
+ 
+14 
+Mon.  
+Fall Break 
+ 
+16 
+Wed. 
+Fall Break 
+ 
+21 
+Mon. 
+Exam 1 
+ 
+23 
+Wed.  
+ 
+ 
+25 
+Fri. 
+Lecture in PH 125B (7pm-8:50pm) 
+ 
+28 
+Mon. 
+ 
+ 
+30 
+Wed. 
+ 
+ 
+November 
+ 
+4 
+Mon. 
+ 
+ 
+6 
+Wed. 
+ 
+ 
+11 
+Mon. 
+Test 2 
+ 
+13 
+Wed. 
+ 
+ 
+15 
+Fri. 
+Lecture in PH 125B (7pm-8:50pm) 
+ 
+18 
+Mon. 
+ 
+ 
+20 
+Wed. 
+ 
+ 
+25 
+Mon. 
+ 
+ 
+28-29 
+W-F 
+Thanksgiving Break; No Classes 
+ 
+
+ 
+4 
+ 
+December 
+ 
+2 
+Mon. 
+ 
+ 
+4 
+Wed. 
+Exam 2   
+ 
+ 
+ 
+ 
+ 
+ECE

@@ -1,0 +1,48 @@
+Overview
+15/18-330 Introduction to Computer Security, Spring 2025
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+
+
+Policies
+15/18-330 Introduction to Computer Security, Spring 2025
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+
+
+
+
+
+
+Assignments
+Assignment 1: Security Principles and the Basics of Execution
+Assignment 2: Exploits and Mitigations
+Assignment 3: Exploits, ROP, and CFI
+Assignment 4: Exploits, Verification, and Analysis
+Assignment 5: Crypto Basics and PRFs
+15/18-330 Introduction to Computer Security, Spring 2025
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY
+
+Assignment 6: Ciphers, MACs, Authenticated Encryption, and PKI
+Assignment 7: Public Key and Blockchains
+Assignment 8: Trusted Computing and Network Security
+Assignment 9: PKI and the Web
+Assignment 10: Web, Privacy, Usability
+
+Schedule
+15/18-330 Introduction to Computer Security, Spring 2025
+ 
+ 
+SCHEDULE
+ASSIGNMENTS
+POLICY

@@ -1,0 +1,125 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-842/18-442: Autonomous Robotics 1  
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Ziad Youssfi  
+Office Location:   
+HH A202 
+Email Address:    
+zyoussfi@andrew.cmu.edu 
+Office Hours:  
+TTh 1–2 pm, and F 10-11 am  
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description: This course combines machine learning and robotics in a hands-on 
+approach that encourages discovery. The course will have three portions. First, students learn 
+deep learning fundamentals, convolutional neural networks, and object detection. In the second 
+portion, students learn the fundamentals of Robot Operating System 2 (ROS2). In the last portion, 
+they learn how to implement ROS2 computational graphs and machine learning models on a 
+hardware and software acceleration platform to achieve real-time robotic perception, cognition, 
+and action. Students develop a miniature self-driving robot based on the Jetson Orin Nano 
+platform and the RealSense camera for vision. Students are encouraged to discover their robotic 
+application tasks. Prior machine learning or robotics knowledge is not required. However, strong 
+C/Python programming skills, computer systems knowledge, and a sense of wonder are strongly 
+preferred. 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18213 or 15213 
+ 
+Graduate Area:  
+Software systems, signals & systems 
+ 
+ 
+Brief List of Topics Covered: 
+• Deep Learning Networks 
+o Basic principles: regression, shallow networks, deep neural networks 
+o Training and optimization techniques 
+o Convolutional neural networks: image classification, object detection 
+o Efficient neural networks:YOLO, etc. 
+• Robot Operating System (ROS2) 
+o 
+Basic Concepts of ROS2: Packages, launch files, nodes, and client libraries 
+
+ 
+2 
+ 
+o 
+Publishers and subscribers 
+o 
+Node composition and components in ROS2. 
+o 
+Services, clients, and servers 
+o 
+Executors, multithreading, and callbacks. 
+o 
+Debugging tools such as RVIZ2 
+• 
+AI vision and inferencing using the Intel RealSense camera. 
+Labs & Projects:  
+Since this pilot course is offered for the first time, students are expected to participate 
+in creating fun and hands-on labs and projects.   
+• Build and deploy ROS2 systems using Nvidia’s IsaacROS on the GPU-
+accelerated Jetson Orin Nano platform. 
+• Implement robot motion task with object localization and AprilTags. 
+• Implementation of road following and object avoidance. 
+• Open-ended and student-defined projects 
+Grading Algorithm:  
+Midterm Exam 1: 
+15% 
+Midterm Exam 2:  
+15% 
+Weekly Labs  
+35% 
+Project  
+ 
+30% 
+Contribution to class   5% 
+Course Calendar:  
+ 
+Find it online here 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+(1)  an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: 
+Course assignments and projects ask students to apply mathematical and 
+engineering concepts to build small robots. These robots employ machine 
+learning models, the Robot Operating System 2 (ROS), and software 
+acceleration techniques to carry out specific tasks or solve specific problems. 
+(5) an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, 
+plan tasks, and meet objectives 
+Students work together in teams of two or three members to implement 
+different projects throughout the second half of the semester. Students' 
+collaboration involves selecting a project idea, selecting different roles for the 
+team members (leader, writer, communicator, etc.), and fairly dividing up the 
+workload into modules that the different team members will carry out. 
+(6) an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+
+ 
+3 
+ 
+Student projects provide many opportunities to experiment with new robotic 
+ideas and machine learning models and analyze the results from these 
+experiments.  
+(7) an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+To carry out projects, students will have to develop and acquire new 
+knowledge of different robotic perception, cognition, and action techniques.   
+ 
+ 
+ECE

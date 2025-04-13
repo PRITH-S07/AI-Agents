@@ -1,0 +1,205 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-883 L4: Integrated Energy Systems   
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Jesse Thornburg 
+ 
+Office Location:   
+D204 
+Email Address:    
+jthornbu@andrew.cmu.edu  
+Office Hours:  
+Thursdays 3-4pm SAST 
+ 
+Teaching Assistant: Mariam Sulleiman 
+Email Address: 
+msulleim@andrew.cmu.edu
+Course Support: Academic Services Center 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+Our energy systems – from electricity to thermal to transportation fuels – are at the core 
+of our economies, powering commerce and industry. They are critical to achieving 
+development goals like food security and access to quality healthcare. Energy systems are 
+multidimensional and complex, so understanding today’s various energy sources and 
+their interactions is key to designing sustainable, low-carbon futures. This 
+interdisciplinary course sets the foundation for future energy professionals by exploring a 
+range of renewable and traditional energy sources, how they are integrated into and shape 
+our society, and what this means for technology design, decision-making, and distribution 
+to energy consumers. 
+ 
+Number of Units:  
+6 
+ 
+Pre-requisites:  
+None 
+ 
+Graduate Area:  
+Energy 
+ 
+Class Lecture: 
+Tuesdays/Thursdays 18:00-19:50 SAST (in person) 
+Textbook:  
+ 
+Renewable Energy: Power for a Sustainable Future, 4th Edition 
+Stephen Peake (editor) 
+ 
+Suggested Readings: Articles and book chapters posted on Course Canvas 
+ 
+
+ 
+2 
+ 
+ 
+Brief List of Topics Covered: Electrical power generation, thermal energy capture, 
+renewable energy integration, storage (batteries, thermal, and pumped hydro), overviews 
+of distribution and transmission 
+ 
+Course Canvas : https://canvas.cmu.edu/courses/46693 
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Grading Cutoffs:  
+Grading will be based on a mixture of written homework assignments and a final project 
+that includes a presentation. Course grading is based on the following performance 
+standard: 
+A: Impressive work that is above and beyond; mastery of all 
+concepts; nearly error-free work 
+ 
+B: Complete and respectable work; mastery of most concepts; 
+limited errors 
+ 
+C: Perfunctory; superficial; substantial gaps in knowledge; 
+frequent errors 
+ 
+The numerical cutoffs for each letter grades are as follows: 
+ 
+ 
+ 
+    A: 92.5 to 100 
+    A-: 90 to 92.5 
+    B+: 87.5 to 90 
+    B: 82.5 to 87.5 
+    B-: 80 to 82.5 
+  
+ 
+ 
+    C+: 77.5 to 80 
+    C: 72.5 to 77.5 
+    C-: 70 to 72.5 
+    D+: 67.5 to 70 
+    D: 62.5 to 67.5 
+    D-: 60 to 62.5 
+    F: Less than 60 
+Late Grade Policy 
+Based on recommendations from CMU's Eberly Center, assignments may be submitted 
+late but will earn a late penalty depending on how long after the deadline the submission 
+is made on Canvas (or by email if absolutely necessary - see above).  An assignment 
+submitted within the 24 hours after the deadline will only be eligible for 80% of the 
+maximum number of point allotted. A submission in the following 24 hours (up to 48 
+hours after the deadline) will only be eligible for 60%  of the maximum number of point 
+allotted, and so on for each additional 24 hour period after the deadline until the grade 
+drops to zero from the late penalty alone. The above-described late penalty does not 
+apply to projects or in-class presentations (e.g., the final group project presentation), 
+where failure to show up on time to present and/or failure to participate with your group 
+in person on such a presentation by default yields an automatic 0 for that student's grade 
+
+ 
+3 
+ 
+on that presentation. This final case is more serious because certain group member(s) are 
+letting down the rest of the group in a highly-weighted and potentially high-pressure 
+scenario. If you experience extenuating circumstances (e.g., you are hospitalized) 
+prohibiting you individually from completing your responsibilities in such a case, please 
+let me know and bring documentation (e.g., hospitalization papers and a doctor's note). I 
+will evaluate these instances on a case-by-case basis. 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Topic 
+4 
+Tues 
+Introduction and Motivation (Renewables and Energy Needs) 
+6 
+Thurs 
+Solar Thermal  
+11 
+Tues 
+Solar Photovoltaics (PV) 
+13 
+Thurs 
+Geothermal 
+18 
+Tues 
+Wave and Tidal Energy 
+20 
+Thurs 
+Wind Energy 
+25 
+Tues 
+Midterm Presentations (no lecture) 
+27 
+Thurs 
+Hydropower 
+April 
+1 
+Tues 
+Overview of Storage (batteries and pumped hydro) 
+3 
+Thurs 
+Overview of Distribution 
+7-11 
+Mon-Fri 
+Rwanda Memorial Week – No Classes 
+15 
+Tues 
+Overview of Transmission 
+    17 
+Thurs 
+Vehicle-to-Grid and EV integration 
+22 
+Tues 
+Electricity Trading 
+24 
+Thurs 
+Final Project Presentations (no lecture) 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. Ability to identify data, methods, and tools for evaluating the impact of an energy 
+installation 
+2. Ability to investigate the energy mix in different countries and the reasons behind 
+this 
+3. Ability to plan a field visit to a power generation plant (e.g., solar or hydro) and 
+collect data on its outputs 
+4. Ability to recognize the critical social and cultural dimensions of Africa’s energy 
+transition 
+5. Ability to identify data, methods, and tools for evaluating project impact 
+6. Ability to investigate the energy mix in different countries and the reasons behind 
+this 
+7. An ability to collect data on the outputs of an electric power generation plant 
+8. An ability to recognize the critical social and cultural dimensions of Africa’s 
+energy transition 
+
+ 
+4 
+ 
+9. An ability to acquire and apply new knowledge around electric power generation, 
+transmission, and distribution, especially concerning new power technologies. 
+ 
+ECE

@@ -1,0 +1,409 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18751: Applied Stochastic Processes   
+Fall 2024  
+Instructor: 
+Moise Busogi  
+Office Location:  D110 
+Email Address:   busogi@cmu.edu 
+Office Hours: TBD  
+ 
+Teaching Assistant:  Emmanuel Adjei 
+Email Address: 
+eaadjei@andrew.cmu.edu 
+Office Hours:  TBD 
+ 
+Teaching Assistant:  Melinda Mudzurandende 
+Email Address: 
+mmudzura@andrew.cmu.edu 
+Office Hours:  TBD 
+ 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+Course Description: This course provides a fundamental understanding of probability 
+theory and its applications to stochastic systems. The course covers the basic concepts of 
+random variables, random vectors, stochastic processes, and random fields. In addition, 
+common random processes such as Markov chains, Wiener and Gaussian processes are 
+introduced. The course touches on elements of estimation theory and optimal filtering 
+including Wiener and Kalman filtering. Advanced topics in modern statistical signal 
+processing such as linear prediction, linear models and spectrum estimation are also 
+discussed.  Throughout the course, students will gain hands-on experience in applying the 
+concepts to solve a wide range of complex and relevant problems. 
+ 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+ 
+Graduate Area:  
+ 
+ 
+
+ 
+2 
+ 
+Class Lecture: Tue/Thu 8:00-9: 50AM at F205 
+ 
+ 
+Required Textbook: Probability and Stochastic Processes 2nd Edition. Roy D. Yates. David 
+J. Goodman, 2014 (ISBN-13: 978-1118324561)  
+ 
+ 
+Suggested Reading:  
+● Probability in Electrical Engineering and Computer Science: An Application 
+Driven Course, Jean Walrand. Quoi (2014), ISBN 9780615899367 
+● Probability, Random Variables and Stochastic Processes—4th Edition, A. Papoulis, 
+McGraw-Hill Book Co., New York, NY 
+● Probability and Random Processes for Electrical Engineering, A. Leon-Garcia, 
+2nd ed., Prentice Hall, 1993.  
+● Probability and Stochastic Processes for Engineers, C.W. Helstrom, 2nd ed., 
+Prentice Hall, 1990. 
+Brief List of Topics Covered: 
+Probability and Random Variables, Statistical 
+Inference, Stochastic Processes, Signal Processing and Filtering 
+ 
+Course Canvas:  
+Canvas login page: https://canvas.cmu.edu/courses/41538 . You should check the course 
+Canvas daily for announcements and handouts.  
+ 
+Assignment Policy: Homework not turned before the due will lose 20%. Each additional 
+day loses another 20%. The lowest homework and quiz grade will be dropped. While 
+students in class are encouraged to discuss the assigned problems, each student should 
+write and submit their own solution and should not copy the solutions of other students. 
+This policy will be strictly enforced in this class. If you have any question about whether 
+some activity would constitute cheating, please feel free to ask.  
+ 
+Attendance: Every student is expected to attend every class for the whole class duration. 
+Attendance will be checked randomly using different means, including a pop quiz that also 
+assesses the reading assignment. Unexplained absence will result in deduction of point in 
+the attendance score. The attendance score will also include various ways, such as 
+answering your colleague's questions on Piazza, or being active during class.  If you need 
+to miss a lecture because of a medical emergency or something equally significant, please 
+inform the instructor before the start of the class.  
+ 
+Grading Algorithm:  
+ 
+35%  
+Homework 
+20%  
+Quizzes  
+5% 
+Reading &Attendance 
+20% 
+Mid-term Exam 
+20% 
+Final Exam 
+ 
+
+ 
+3 
+ 
+Letter Grading Algorithm:  
+ 
+94 - 100 
+A 
+90 - 93.99 
+A-  
+87 - 89.99 
+B+ 
+84 - 86.99 
+B 
+80 - 83.99 
+B- 
+77 - 79.99 
+C+ 
+74 - 76.99 
+C 
+70 - 73.99 
+C- 
+67 - 69.99 
+D+ 
+64 - 67.99 
+D 
+61 - 63.99 
+D- 
+0-60.99 
+F 
+ 
+ 
+Tentative Course Calendar:  
+ 
+
+ 
+4 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+Date 
+Day 
+Class Activity 
+Quizzes 
+Assignment 
+Due Date 
+August 
+ 
+ 
+ 
+ 
+ 
+26 
+Mon. 
+Classes begin 
+ 
+ 
+ 
+27 
+Tue. 
+Introduction, course logistics 
+Quiz 0 
+Assignment 1 
+8 September 2024 
+29 
+Thu. 
+Probability Basics 
+No Quiz 
+ 
+ 
+September 
+ 
+ 
+ 
+ 
+ 
+3 
+Tue. 
+Discrete Random Variables 
+ 
+ 
+ 
+5 
+Thu. 
+Continuous Random Variables 
+Quiz 1 
+ 
+ 
+10 
+   Tue. 
+Two Random Variables 
+ 
+Assignment 2 
+22 September 2024 
+12 
+Thu. 
+Random Vectors 
+Quiz 2 
+ 
+ 
+17 
+Tue. 
+Multi-Variate Gaussian Distribution  
+ 
+ 
+ 
+19 
+Thu. 
+Sum of RV 
+Quiz 3 
+ 
+ 
+24 
+Tue. 
+Estimation 
+ 
+Assignment 3 
+6 October 2024 
+26 
+Thu. 
+Estimation II 
+Quiz 4 
+ 
+ 
+October 
+ 
+ 
+ 
+ 
+ 
+1 
+Tue. 
+Hypothesis Testing 
+ 
+ 
+ 
+3 
+Thu. 
+Mixture Model 
+Quiz 5 
+ 
+ 
+8 
+Tue. 
+Intro to stochastic Processes  
+ 
+ 
+ 
+10 
+Thu. 
+Midterm Exam  
+No Quiz 
+ 
+ 
+14-18 
+Mon-
+Fri 
+Fall break 
+ 
+  
+  
+21 
+Tue. 
+Gaussian Process 
+ 
+Assignment 4 
+04 November 2024 
+23 
+Thu. 
+Random Walks 
+Quiz 6 
+ 
+ 
+29 
+Tue. 
+Markov Processes 
+ 
+ 
+ 
+31 
+Thu. 
+Hidden Markov Model 
+Quiz 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Tue. 
+Random Fields 
+ 
+Assignment 5 
+18 November 2024 
+7 
+Thu. 
+Introduction to random signal processing 
+and linear filtering 
+Quiz 8 
+ 
+ 
+12 
+Tue. 
+Power Spectrum Density 
+ 
+ 
+ 
+14 
+Thu. 
+Power Spectrum Density 
+Quiz 9 
+ 
+ 
+19 
+Tue. 
+Kalman Filter 
+ 
+Assignment 6 
+2 December 2024 
+21 
+Thu. 
+Kalman Filter 
+ 
+ 
+ 
+26 
+Tue. 
+TBA 
+ 
+ 
+ 
+27-
+30 
+ 
+Thanksgiving break 
+ 
+ 
+ 
+December 
+3 
+Tue. 
+Review 
+ 
+ 
+ 
+5 
+Thu. 
+Review 
+ 
+ 
+ 
+9-15 
+Mon-Fri 
+Final Exams Week 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

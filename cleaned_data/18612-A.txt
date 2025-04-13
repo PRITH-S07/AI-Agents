@@ -1,0 +1,366 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+42-433 / 42-733 / 18-412 / 18-612:  
+Neural Technology: Sensing and Stimulation   
+Spring 2025 
+ 
+ 
+Instructor: 
+Shawn K. Kelly 
+ 
+Email Address:   skkelly@cmu.edu 
+Office Hours:        
+Thursday 12:00-1:00, Scott Hall 4th Floor Large Conference Room 
+Friday 11:00-12:00, Baker Hall 232M* 
+*Schedule may shift some weeks 
+ 
+Teaching Assistant: Joshua Kosnoff 
+Email Address: 
+jkosnoff@andrew.cmu.edu 
+Office Hours:  
+TBD
+ECE Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description: This course gives engineering insight into the operation of 
+excitable cells, as well as circuitry for sensing and stimulation nerves. Initial background 
+topics include diffusion, osmosis, drift, and mediated transport, culminating in the Nernst 
+equation of cell potential. We will then explore models of the nerve, including electrical 
+circuit models and the Hodgkin-Huxley mathematical model. Finally, we will explore 
+aspects of inducing a nerve to fire artificially, and cover circuit topologies for sensing 
+action potentials and for stimulating nerves. We will also discuss other aspects of medical 
+device design. Students will complete a neural stimulator or sensor or Hodgkin-Huxley 
+simulation project. 
+ 
+Differentiation between 42-433/18-412 and 42-733/18-612: Although students in 42-
+433/18-412 and 42-733/18-612 will share lectures and recitations, students in the 
+undergraduate and graduate versions may receive different homework assignments, 
+design problems, and exams. The homework assignments, design problems, and exams 
+that are given to the students registered for the graduate version will be more challenging 
+than those given to students registered for the undergraduate version, and students 
+registered for 42-733/18-612 will be graded on a different curve from students registered 
+for 42-433/18-412. 
+ 
+Number of Units: 12  
+
+ 
+2 
+ 
+Pre-requisites: Some understanding of basic circuits, differential equations, and 
+electricity and magnetism. 
+Co-requisites: 42-660 or 18-220 or equivalent, or an understanding of circuits. Some 
+review of MOSFET and op amp circuits will be provided for those who need it. 
+ 
+ECE Graduate Area:  Applied Physics, Applied Physics (Solid State/Magnetics/Fields) 
+ 
+Class Lecture: 
+ Lecture: 
+Tuesday and Thursday 
+9:30am – 10:50am 
+GHC4301 
+ Recitation: 
+Friday  
+ 
+ 
+12:00pm – 12:50pm BH 237B 
+ 
+ 
+Required Textbook:  
+Thomas F. Weiss, Cellular Biophysics, Vol 1 and Vol 2, MIT Press, 1996,  
+ISBN:  9780262231886 
+These books can generally be found in new and used versions on Amazon. Also, these 
+books are in the Engineering and Science Library and the Mellon Institute Library.  
+ 
+Various scientific papers, to be handed out during the semester via Canvas. 
+ 
+Brief List of Topics Covered: 
+By the end of this course, students should be able to: 
+ Understand and solve problems relating to: 
+o Transport of materials into and out of cells 
+o Nerve potentials 
+o Models of electrical conduction in nerves 
+o Models of mediated transport of ions across nerve membranes 
+o The activating function for neural stimulation 
+o Stimulating and recording electrode materials, models, and function 
+o Stimulating circuit architectures, Recording circuit architectures 
+o Aspects of the design of an implantable medical device 
+ Perform analytical tests on an electrode to assess its material properties 
+ Design and build a circuit to either stimulate or record from neural tissue 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Grading Algorithm:  
+ 
+10% 
+Homework 
+25% 
+Labs/Projects 
+15% 
+Quizzes 
+20% 
+Midterm 
+30% 
+Final 
+ 
+
+ 
+3 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+January 
+13 
+Mon. 
+Classes begin 
+ 
+14 
+Tue. 
+Course Introduction; Cell structure and transport
+HW1 
+1/21/2025
+16 
+Thurs. 
+Diffusion I – Mathematical Introduction
+ 
+17 
+Fri. 
+REC – Cells and Diffusion
+ 
+20 
+Mon. 
+MLK Jr. Day – No Classes
+ 
+21 
+Tue. 
+Diffusion II – Diffusion through Membranes, HW1 due
+HW2 
+1/28/2025
+23 
+Thurs. 
+Osmosis 
+ 
+24 
+Fri. 
+REC – Diffusion and Osmosis QUIZ 1
+ 
+28 
+Tue. 
+Concurrent Diffusion/Osmosis, HW2 due
+HW3 
+2/4/2025
+30 
+Thurs. 
+Mediated Transport
+ 
+31 
+Fri. 
+REC – Concurrent Diffusion/Osmosis QUIZ 2
+ 
+February 
+4 
+Tue. 
+Cellular Resting Potential – Nernst Equation, HW3 due
+HW4 
+2/11/2025
+6 
+Thurs. 
+Resting Potential, Membrane Conduction, Homeostasis
+ 
+7 
+Fri. 
+REC – Nernst Equation, Membrane Conduction QUIZ 3
+ 
+11 
+Tue. 
+Electrical Properties of Cells, Small Cells, HW4 due
+HW5 
+2/18/2025
+13 
+Thurs. 
+Core Conductor Model, Cable Model
+ 
+14 
+Fri. 
+REC – Cable Model QUIZ 4
+ 
+18 
+Tue. 
+REVIEW FOR MIDTERM, HW 5 due
+HW6 
+3/11/2025
+20 
+Thurs. 
+MIDTERM EXAM
+ 
+21 
+Fri. 
+REC – Cable Model, Midterm Questions
+ElecLab 
+3/14/2025
+25 
+Tue. 
+Electrode Materials and Models
+ 
+27 
+Thurs. 
+Hodgkin-Huxley Model I
+ 
+28 
+Fri. 
+Pre-Mid-Semester Break; No Class
+ 
+March 
+3-7 
+Mon-
+Fri 
+Mid-Semester Break; No Classes 
+ 
+ 
+11 
+Tue. 
+Hodgkin-Huxley Model II, Myelinated Neurons, HW6 due
+HW7 
+3/18/2025 
+13 
+Thurs. 
+Ion Channels and Stimulation of Neural Tissue I 
+ 
+14 
+Fri. 
+REC – HH Model, ElecLab due
+ 
+18 
+Tue. 
+Stimulation of Neural Tissue II, HW 7 due
+HW8 
+3/25/2025
+20 
+Thurs. 
+Electrode-Tissue Interface, Stimulation Parameters
+ 
+21 
+Fri. 
+REC – Stimulation of Neural Tissue QUIZ 5
+ 
+25 
+Tue. 
+Simulation Project Overview, Op Amp and MOSFET 
+review, HW 8 due 
+HW9 
+4/1/2025 
+27 
+Thurs. 
+Stimulation Circuits I
+Sim Project 
+4/22/2025
+28 
+Fri. 
+REC – Stimulation Circuits QUIZ 6
+ 
+April 
+1 
+Tue. 
+Stimulation Circuits II, HW 9 due 
+HW10 
+4/15/2025 
+3-5 
+Thurs-
+Sat 
+Spring Carnival – No Classes 
+ 
+ 
+8 
+Tue. 
+Adiabatic Stimulation 
+ 
+ 
+10 
+Thurs. 
+Stimulation Safety Including Data Safety  
+ 
+ 
+11 
+Fri. 
+REC – Stimulation Circuits and Safety QUIZ 7 
+ 
+ 
+15 
+Tue. 
+Recording Circuits, HW 10 due 
+ 
+ 
+17 
+Thurs. 
+Wireless Power and Data Telemetry 
+ 
+ 
+18 
+Fri. 
+REC – Sim Project Help 
+ 
+ 
+22 
+Tue. 
+Implantable Device Issues, Hermeticity, and 
+Biocompatibility, Sim Project due
+ 
+ 
+24 
+Thurs. 
+Medical Device Entrepreneurship 
+ 
+ 
+
+ 
+4 
+ 
+25 
+Fri. 
+REC – Review for Final 
+ 
+ 
+May 
+28-6 
+Mon-
+Tue 
+Final Exams Week 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

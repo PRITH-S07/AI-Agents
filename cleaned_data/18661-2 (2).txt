@@ -1,0 +1,322 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-461/18-661: Introduction to Machine Learning for Engineers   
+Spring 2025
+Instructor: 
+ 
+Carlee Joe-Wong 
+Office Location: 
+Porter B21 (Pitt) 
+Email Address: 
+cjoewong@andrew.cmu.edu  
+Office Hours:  
+Wed 1:50 pm -3:00 pm ET, Zoom or in Person 
+ 
+Instructor: 
+ 
+Gauri Joshi 
+Office Location: 
+CIC 4119 (Pitt) 
+Email Address: 
+gaurij@andrew.cmu.edu 
+Office Hours:  
+Mon 1:50 pm -3:00 pm ET, Zoom or in Person 
+ 
+Teaching Assistants:  
+Please refer to the course Piazza for information on TA office hours. 
+ 
+Landelin Gihozo 
+lgihozo@andrew.cmu.edu  
+Neharika Jali 
+njali@andrew.cmu.edu  
+Jong-Ik Park 
+jongikp@andrew.cmu.edu  
+Arian Raje 
+araje@andrew.cmu.edu  
+Siddharth Shah 
+sgshah@andrew.cmu.edu  
+John Waithaka 
+jwaithak@andrew.cmu.edu  
+Steven Zeng 
+sczeng@andrew.cmu.edu  
+Course Management Assistant: Stephanie Bolla 
+Email Address: ece-asc@andrew.cmu.edu 
+Office Location: HH 1113 
+Course Description:  
+This course provides an introduction to machine learning with a special focus on 
+engineering applications. The course starts with a mathematical background required for 
+machine learning and covers approaches for supervised learning (linear models, kernel 
+methods, decision trees, neural networks) and unsupervised learning (clustering, 
+dimensionality reduction), as well as theoretical foundations of machine learning (learning 
+theory, optimization). Evaluation will consist of mathematical problem sets and 
+programming projects targeting real-world engineering applications. 
+ 
+
+ 
+ 
+2 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18202 and 21127 and 15122 and one of {21-325, 36-225, 36-218, 
+36217} or equivalent 
+ 
+Undergraduate Course Designation: Coverage 
+ 
+Undergraduate Course Area: Signals and Systems 
+ 
+Class Schedule: 
+● Lecture  
+Pittsburgh: Monday and Wednesday, 12:00pm-1:50pm, ET, TEP3500 
+Silicon Valley: Monday and Wednesday, 9:00am-10:50am, PT,  B23 118 
+Rwanda: Monday and Wednesday, 7:00pm-8:50pm, CAT, CMR F205 
+  
+● Recitation 
+Pittsburgh/Rwanda: Friday, 11:00am-12:20pm ET/6:00pm–7:20pm CAT, 
+TEP3500/CMR F205 
+Pittsburgh/Silicon Valley: Friday, 3:30pm-4:50pm ET/12:30pm-1:50pm PT, BH 
+235B/B23 227 
+ 
+Recitation attendance is not required but strongly encouraged. 
+ 
+ 
+Required Textbook: None 
+ 
+Suggested Reading:  
+Machine Learning: A Probabilistic Perspective, Kevin Murphy. 1st edition. 
+ISBN-13: 978-0262018029 
+ 
+Other Supplemental Materials: See the course website for lecture notes and suggested 
+readings (https://www.andrew.cmu.edu/course/18-661/). We will maintain a Piazza for the 
+course that can be accessed through Canvas (see instructions below). 
+ 
+Collaboration Policy: The homeworks are structured to give you experience in both 
+written mathematical exercises and programming exercises. While it is completely 
+acceptable for you to collaborate with other students in order to solve the problems, your 
+solution writeups should reflect your own understanding of the material. Thus, you should 
+write up your own solutions and implement your own code. You must indicate on each 
+homework the students with whom you collaborated.  
+ 
+Please note that the collaboration policy also applies to using generative AI tools, such 
+as ChatGPT, to complete your homework assignments. While it is acceptable to use such 
+tools to access background information about your homework assignments (though we 
+urge you to remember that the outputs of these tools may not be accurate), your solution 
+writeups should reflect your own understanding of the material. Thus, you are not permitted 
+to copy the output of these tools in your homework solutions. 
+ 
+
+ 
+ 
+3 
+All collaboration on quizzes and exams, unless explicitly permitted by the exam or quiz 
+instructions, is strictly forbidden. 
+ 
+Accommodations for Students with Disabilities: If you have a disability and have an 
+accommodations letter from the Disability Resources office, we encourage you to discuss 
+your accommodations and needs with the instructors as early in the semester as possible. 
+We will work with you to ensure that accommodations are provided as appropriate. If you 
+suspect that you may have a disability and would benefit from accommodations but are not 
+yet registered with the Office of Disability Resources, we encourage you to contact them 
+at access@andrew.cmu.edu.  
+ 
+Brief List of Topics Covered: Supervised learning techniques (linear and logistic 
+regression, support vector machines, naive Bayes, nearest neighbors, decision trees, neural 
+networks), unsupervised learning techniques (clustering, expectation maximization, 
+dimensionality reduction), fundamentals of learning theory (optimization, risk). Time 
+permitting, advanced topics like transformers and reinforcement learning. 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at 
+https://canvas.cmu.edu/. You should check the course Canvas and Piazza pages daily for 
+announcements and handouts.  
+ 
+Grading Algorithm: 
+ 
+40% 
+Homework 
+5% 
+Gradescope quizzes 
+15% 
+Mini-exams 
+15% 
+Midterm exam 
+25% 
+Final exam 
+ 
+There will be five homework assignments, of which your highest four scores will be given 
+equal weight in calculating your homework grade, i.e., we will drop your lowest homework 
+assignment score. Additionally, you will be given 5 “late days” that may be used at your 
+discretion for self-granted 24-hour extensions to the assignment deadlines. At most two 
+late days can be used per assignment, and late days are used in increments of one day—for 
+example, turning in a homework 3 hours late will count as using 1 late day. 
+ 
+No additional extensions will be given barring extraordinary personal circumstances (e.g., 
+prolonged illness or a family emergency) that typically require coordinating makeup work 
+across your classes with your academic advisor. Opportunities for extra credit points, e.g., 
+through answering extra homework questions, may be offered at the instructors’ discretion 
+at various points in the course. 
+ 
+Gradescope quizzes will be short, multiple choice quizzes administered through 
+Gradescope during the regular lectures, approximately one quiz per lecture. We will count 
+
+ 
+ 
+4 
+your best 10 Gradescope quizzes towards your grade. No extensions or makeup quizzes 
+will be given. 
+ 
+The three mini-exams will be equally weighted in calculating your quiz grade. Makeup 
+opportunities for mini-exams, as well as the midterm and final exams, will be offered only 
+in cases of extenuating circumstances that would cause the student to miss the main exam 
+through no fault of their own (e.g., sickness, conflict with University events). 
+ 
+The default method of assigning letter grades follows the standard grading scale (above 
+90% A or A-; 80 – 89% B+, B, or B-; 70 – 79% C+, C, or C-; 60 – 69% D+, D, or D-; and 
+below 60% F). We may lower these grading thresholds at the end of the course, particularly 
+for students who consistently engage with the course (attend and ask questions in lectures, 
+recitations, office hours, frequently help answer questions on Piazza, etc.). 
+ 
+Tentative Lecture Calendar: This calendar is subject to change. Please refer to the course 
+website (https://www.andrew.cmu.edu/course/18-661/) for an updated and detailed 
+calendar. 
+  
+Date 
+Day 
+Lecture Topic 
+January 
+13 
+Mon. 
+Intro & MLE/MAP 
+15 
+Wed. 
+Linear Algebra Review 
+22 
+Wed. 
+Linear Regression, Part I 
+27 
+Mon. Linear Regression, Part II 
+29 
+Wed. Overfitting, Bias/variance Trade-off, Evaluation 
+February 
+3 
+Mon. 
+Naïve Bayes 
+5 
+Wed. 
+Logistic Regression 
+10 
+Mon. Mini-exam 1 and multi-class classification 
+12 
+Wed. SVM, Part I 
+17 
+Mon. 
+SVM, Part II 
+19 
+Wed. Nearest Neighbors 
+24 
+Mon. Decision Trees 
+26 
+Wed. In-class Midterm Exam 
+
+ 
+ 
+5 
+March 
+3 
+Mon. 
+No classes; Spring Break 
+5 
+Wed. 
+No classes; Spring Break 
+10 
+Mon. 
+Boosting and Random Forests 
+12 
+Wed. 
+Neural Networks, Part I 
+17 
+Mon. 
+Neural Networks, Part II 
+19 
+Wed. 
+Neural Networks, Part III 
+24 
+Mon. 
+PyTorch 
+26 
+Wed. 
+Mini-exam 2 and Neural Networks, Part III.5 
+31 
+Mon. 
+Distributed Learning 
+April 
+2 
+Wed. 
+Clustering, Part I 
+7 
+Mon. 
+Clustering, Part II 
+9 
+Wed. 
+Dimensionality Reduction 
+14 
+Mon. 
+Online Learning (Bandits) 
+16 
+Wed. 
+Mini-exam 3 and guest lecture 
+21 
+Mon. 
+Reinforcement Learning, Part I 
+23 
+Wed. 
+Review Lecture and Reinforcement Learning, Part II 
+TBD 
+Final Exam 
+ 
+ 
+The ECE department is accredited by ABET to ensure the quality of your education. ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you 
+take. The following list describes which objectives are fulfilled by 18-461/661 and in what 
+manner they are fulfilled. The objectives are numbered from “1” through “7” in the 
+standard ABET parlance. Those objectives not fulfilled by 18-461/661 have been omitted 
+from the following list. 
+ 
+(1) an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: This course emphasizes 
+machine learning methods to solve engineering problems of increasing complexity. 
+Through problem solving in class (mostly in recitations) and in the homeworks, students 
+learn how to use the concepts, principles, and techniques taught in lecture to analyze 
+
+ 
+ 
+6 
+datasets. We also discuss how engineering constraints affect the mathematics of machine 
+learning algorithms.  
+  
+(2) an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors: In introducing different machine 
+learning methods, the course highlights their limitations, including engineering and 
+economic constraints as well as limits to their performance on different types of data. 
+Students are urged to consider how these factors affect the success of learning-based 
+solutions deployed to solve engineering problems. 
+ 
+(6) an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions: Machine learning 
+utilizes data to improve the performance of engineering systems. Students will be given 
+tools to identify patterns, make decisions, and learn from data. They will practice applying 
+these tools in homework exercises. 
+ 
+(7) an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: Programming exercises on the homework assignments require 
+students to go beyond concepts taught in the lecture to design and implement specific data 
+analysis techniques. The final homework assignment asks the students to explore specific 
+datasets, acquiring new knowledge as needed to answer open-ended questions about the 
+data. 
+ 
+CMU

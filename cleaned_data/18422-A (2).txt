@@ -1,0 +1,250 @@
+ECE 422/622 
+ 
+F24 
+K. Mai 
+ 
+ 
+ 
+1 
+ECE 422/622 
+Digital Integrated Circuit Design 
+ 
+Information Sheet 
+ 
+ 
+Lecture: 
+ 
+Monday and Wednesday, 10:00 AM – 11:50 PM, HH B103 
+ 
+Lab/Recitation: 
+Friday, 9:30 AM – 10:50 AM, HH 1305 (422/622) 
+ 
+ 
+ 
+Friday, 11:00 AM – 12:20 PM, HH 1305 (622) 
+Instructor: 
+ 
+Ken Mai 
+Email:  
+kenmai@andrew.cmu.edu 
+Phone:  
+412-268-8335 
+Office:  
+Hamerschlag Hall 2121 
+Office hours: TBD 
+ 
+TAs:  
+TBD 
+Email:  
+ece422ta@ece.cmu.edu 
+Office hours: TBD 
+ 
+Piazza: see Canvas 
+ 
+Prerequisites: ECE 320 or equivalent 
+ 
+Recitation and Labs: In addition to lecture, the course will have both recitations and labs. 
+The recitations will provide supplemental review of material from lecture. You are free to 
+attend any of the recitation sections. The labs will provide guided tutorials on the CAD 
+tools. Some labs will have a pre-lab component that you must complete before coming to 
+lab. Please attend your assigned lab section as the room has limited space. Recitations and 
+labs will begin the second week of the semester.  
+ 
+Assignments and grading: The course will have problem sets, labs, a midterm, a project, 
+and a final exam. Problem sets are due at the beginning of class. No late problem sets will 
+be accepted without prior written approval by the instructor obtained at least 24 hours 
+before the due date. Re-grading of any assignment or exam will be handled exclusively by 
+the instructor (do not ask the TAs or graders for a re-grade). Regrades must be requested 
+in writing within a week of the assignment or exam being returned. 
+ 
+The course grading breakdown is approximately as follows: 
+10% 
+Problem sets 
+10% 
+Labs 
+20% 
+Midterm 
+30% 
+Project 
+30% 
+Final exam 
+ 
+
+ECE 422/622 
+ 
+F24 
+K. Mai 
+ 
+ 
+ 
+2 
+Collaboration and academic honesty: All work submitted for the class must be your own. 
+You must write your own solutions, simulation decks, schematics, code, etc.; copying from 
+others is not permitted. However, you are strongly encouraged to discuss assignments and 
+check your solutions with classmates. The collaboration policy applies to all work in the 
+course unless explicitly stated otherwise. For group projects, you can of course turn in joint 
+work with your partner. Any instance of academic dishonesty will result in a failing grade 
+(R) for the course along with departmental and university penalties. 
+ 
+Texts and readings: There is no required text for this course. The primary reading 
+materials will be the course lecture notes and selected journal and conference papers 
+handed out in class and available on the course website. There are two recommended texts 
+available at the bookstore. They provide useful supplemental and background material, but 
+are not strictly necessary.  
+• CMOS VLSI Design: A Circuits and Systems Perspective (4th Ed.; Weste and 
+Harris)  
+ 
+Additionally, the following texts may prove useful: 
+• Logical Effort (Sutherland, Sproull, and Harris) 
+• Design of High-Performance Microprocessor Circuits (Chandrakasan, et al.) 
+ 
+
+ECE 422/622 
+ 
+F24 
+K. Mai 
+ 
+ 
+ 
+3 
+Lecture schedule 
+ 
+Date 
+Topic 
+ 
+ 
+ 
+ 
+ 
+ 
+8/26 
+Introduction  
+8/30 
+Basics: Manufacturing and layout 
+ 
+9/2 
+NO CLASS (Labor Day)  
+ 
+ 
+9/4 
+Basics: Transistor  
+ 
+9/9 
+Basics: Wire modeling 
+9/11 
+Gates and logical effort 
+ 
+9/16 
+Gates and logical effort (cont.) 
+ 
+ 
+9/18 
+Functional units: Adders 
+ 
+9/23 
+Functional units: More adders 
+9/25 
+Memory: Latches and flip-flops 
+ 
+9/30 
+Memory: SRAM 
+10/2 
+Memory: More SRAM 
+ 
+10/7 
+Memory: SRAM variants 
+10/9 
+Midterm Exam  
+ 
+10/14 
+NO CLASS (Fall break) 
+10/16 
+NO CLASS (Fall break) 
+ 
+10/21 
+Final project discussion 
+10/23 
+Memory: DRAM and other memory 
+ 
+ 
+10/28 
+System: Thinking about power 
+10/30 
+System: Low power design 
+ 
+11/4 
+System: Variability 
+11/6 
+System: Clock distribution 
+ 
+11/11 
+System: Design for testability 
+11/13 
+Final project design review 
+ 
+ 
+11/18 
+System: Design for manufacturability 
+11/20 
+System: Power supply distribution  
+ 
+11/25 
+System: Packaging and I/O 
+11/27 
+NO CLASS (Thanksgiving) 
+ 
+12/2 
+Guest lecture TBD 
+12/4 
+Final review and class wrap-up 
+ 
+ 
+ 
+Schedule subject to change. 
+
+ECE 422/622 
+ 
+F24 
+K. Mai 
+ 
+ 
+ 
+4 
+Education Objectives (Relationship of Course to Program Outcomes)  
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7 
+Educational Objectives that are fulfilled by the sum total of all the courses you take. The following list 
+describes which objectives are fulfilled by 18-422/622 and in what manner they are fulfilled. The objectives 
+are numbered from “1” through “7” in the standard ABET parlance. Those objectives not fulfilled by 18-
+422/622 have been omitted from the following list. 
+ 
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of 
+engineering, science, and mathematics. The course poses many problems; on homework, in labs, during 
+exams, and for in-class exercises; for the student to formulate and solve using good engineering practice. The 
+student will use mathematical and engineering concepts to model and design digital circuits and to solve 
+complex problems in the digital design and computer architecture domain. 
+ 
+2. An ability to apply engineering design to produce solutions that meet specified needs with 
+consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, 
+and economic factors. The course is an introduction to the design of digital circuits, so the student will start 
+to gain insight into the process of designing components and then designing systems using those components. 
+Some economic and manufacturability constraints will be discussed. At all appropriate points, safety will be 
+emphasized. 
+ 
+3. An ability to communicate effectively with a range of audiences. Students practice their communication 
+skills during laboratory exercises as well as the basic written communication of problem solutions on 
+homework and exams. In all such cases, the audience is small. During a large active-learning exercise, 
+students review their team's work and report results to the class. 
+ 
+5. An ability to function effectively on a team whose members together provide leadership, create a 
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. Students will 
+operate in 2-person teams for the final project. These are not multi-disciplinary teams, but the student will 
+start to learn teamwork and team management skills, particularly conflict resolution.  
+ 
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use 
+engineering judgment to draw conclusions. Laboratory exercises provide for the opportunity to conduct 
+experiments. The student will design experiments and analyze data throughout the debugging process in order 
+to generate a functioning lab. 
+ 
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. 
+During the project and exams, students will encounter new design challenges in which they will need to apply 
+learned knowledge to overcome.

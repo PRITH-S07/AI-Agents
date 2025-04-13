@@ -1,0 +1,401 @@
+ECE 725 
+ 
+S25 
+K. Mai  
+ 
+ 
+ 
+1 
+ECE 725 
+Advanced Digital Integrated Circuit Design 
+ 
+ 
+Class:  
+Tue & Thu, 12:30 - 1:50 pm (HH B103) 
+ 
+Recitation: 
+Fri, 2:00 – 3:20 pm (SH 236) 
+ 
+Instructor: 
+Ken Mai 
+Email:  
+kenmai@andrew.cmu.edu 
+Office:  
+Hamerschlag Hall 2121 
+Office hours: TBD 
+ 
+Instructor: 
+Tathagata Srimani 
+Email:  
+tsrimani@andrew.cmu.edu 
+Office:  
+Hamerschlag Hall 2124 
+Office hours: TBD 
+ 
+TAs:  
+TBD 
+Email:  
+ece725ta@andrew.cmu.edu 
+Office hours: TBD 
+ 
+Prerequisites: 18-422/622 OR 18-623, minimum grade B. Or instructor permission. 
+ 
+Reference Books (optional):  
+• Weste and Harris, CMOS VLSI Design: A Circuits and Systems Perspective, 4th 
+ed., Addison-Wesley, 2011. 
+• Sutherland, Sproull, and Harris, Logical Effort: Designing Fast CMOS Circuits, 
+Morgan Kaufmann, 1999. 
+
+ECE 725 
+ 
+S25 
+K. Mai  
+ 
+ 
+ 
+2 
+Lecture schedule 
+ 
+Date 
+Topic 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Milestones 
+ 
+ 
+1/14 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+1/16 
+Previous Projects, NDA & Export Control  
+ 
+Team form 
+ 
+ 
+ 
+1/21 
+Design Methodology 
+ 
+ 
+ 
+ 
+ 
+1/23 
+Project meetings  
+ 
+ 
+ 
+ 
+Project one-pager(s) 
+ 
+1/28 
+Inputs and outputs 
+ 
+ 
+ 
+ 
+ 
+1/30 
+Project Meetings  
+ 
+ 
+ 
+ 
+Project proposal 
+ 
+2/4 
+Clocking 
+2/6 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+2/11 
+Writing Good Verilog 
+ 
+ 
+ 
+ 
+ 
+2/13 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+2/18 
+Memory  
+ 
+ 
+ 
+ 
+ 
+2/20 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+2/25 
+Design Review 1  
+ 
+ 
+ 
+ 
+ 
+2/27 
+Design Review 1  
+ 
+ 
+ 
+ 
+RTL done 
+ 
+ 
+3/5 
+** Spring Break ** 
+ 
+ 
+ 
+ 
+ 
+3/7 
+** Spring Break ** 
+ 
+ 
+ 
+ 
+ 
+ 
+3/11 
+Design for Test  
+ 
+ 
+ 
+ 
+ 
+ 
+3/13 
+Project Meetings  
+ 
+ 
+ 
+ 
+Sub-block implementation 
+ 
+3/18 
+Design for Manufacturability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/20 
+Project Meetings  
+ 
+ 
+ 
+ 
+Sub-block optimization/verification 
+ 
+3/25 
+Power Supply Distribution  
+ 
+ 
+ 
+ 
+3/27 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/1 
+Design Review 2  
+ 
+ 
+ 
+ 
+ 
+4/3 
+** Spring Carnival, no class ** 
+ 
+ 
+ 
+Top-level integration and I/O 
+ 
+4/8 
+Design Review 2  
+ 
+ 
+ 
+ 
+ 
+4/10 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+4/15 
+Project Meetings  
+ 
+ 
+ 
+ 
+Top-level optimization/verification  
+4/17 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+ 
+4/22 
+Project Meetings  
+ 
+ 
+ 
+ 
+Tape-out checks 
+4/24 
+Project Meetings  
+ 
+ 
+ 
+ 
+ 
+4/28 – 5/6 Exam period 
+ 
+ 
+ 
+ 
+ 
+Final Presentations (date TBD) 
+4/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trial submission to Muse (4/23) 
+ 
+4/29  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final submission to Muse (4/30) 
+5/7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Muse tapeout to TSMC 
+8/7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chips back from TSMC 
+ 
+ 
+
+ECE 725 
+ 
+S25 
+K. Mai  
+ 
+ 
+ 
+3 
+Education Objectives (Relationship of Course to Program Outcomes) 
+ 
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7 
+Educational Objectives that are fulfilled by the sum total of all the courses you take. The following list 
+describes which objectives are fulfilled by 18-725 and in what manner they are fulfilled. The objectives are 
+numbered from “1” through “7” in the standard ABET parlance. Those objectives not fulfilled by 18-725 
+have been omitted from the following list. 
+ 
+They are: 
+1. an ability to identify, formulate, and solve complex engineering problems by applying principles of 
+engineering, science, and mathematics  
+ 
+The IC design project will comprise a large number of engineering problems to solve at various levels of the 
+design stack. You will need to apply the engineering skills you’ve learned in previous classes to make design 
+choices and trade-offs in order to complete the chip design.  
+ 
+2. an ability to apply engineering design to produce solutions that meet specified needs with consideration 
+of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors 
+ 
+One of the early tasks in the class is to devise a set of target specifications for your chip design. This will 
+serve as the guiding goal for your engineering choices as you progress through the design process.  
+ 
+3. an ability to communicate effectively with a range of audiences 
+ 
+Across the various meetings and design reviews in the class, you will need to discuss your design and 
+methodologies with the course staff, other students, and professional engineers. There will be multiple formal 
+presentations as well as less formal meetings in the class.  
+ 
+4. an ability to recognize ethical and professional responsibilities in engineering situations and make 
+informed judgments, which must consider the impact of engineering solutions in global, economic, 
+environmental, and societal contexts 
+ 
+Students using 18-725 as an undergraduate capstone will engage with 18-500 course material, assignments, 
+and lectures to address this need.  
+ 
+5. an ability to function effectively on a team whose members together provide leadership, create a 
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives 
+ 
+You will work in teams of 2-4 students to complete your IC design. Additionally, you will need to collaborate 
+with the course staff, other teams, and professional engineers.  
+ 
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use 
+engineering judgment to draw conclusions  
+ 
+Throughout the IC design, you will need to create and conduct various experiments (primarily using 
+architectural and circuit simulation) that will guide your design choices. You will need to analyze and 
+interpret the results of these simulations in order to make good engineering choices.  
+ 
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning strategies. 
+ 
+Taping out an IC is fundamentally different from course work and projects, as you need to fully verify your 
+design and take it from 99% done to 100% done, as there is very little room for error in IC design. And the 
+main onus for a broken design is on the students as they will have to test and debug the chip in 18-726. 
+Further, 18-725 address a number of design for test and design for manufacturability concerns that are not 
+address in other courses.

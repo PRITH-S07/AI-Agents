@@ -1,0 +1,328 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-059: Introduction to Amateur Radio 
+Spring 2025
+ 
+Instructor:    
+Tom Zajdel   
+Office Location:   
+HH A210 
+Email Address:   
+tzajdel@andrew.cmu.edu 
+Office Hours:   
+By appointment 
+ 
+Course Support:  
+Academic Services Center 
+Office Location:  
+HH 1113 
+Website:  
+https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+ 
+Amateur radio is a pursuit that encompasses equal parts technology, communication, and 
+public safety. It began in the US with the Radio Act of 1912, which guaranteed use of the 
+electromagnetic spectrum to the people, provided they demonstrated the requisite technical 
+competence. These privileges have persisted to the present day, with a vibrant global 
+community of radio amateurs (hams) utilizing the spectrum to tinker and experiment with 
+wireless communications for satellites, drone control, low-power communication, radio 
+astronomy, and so on! 
+ 
+This course will introduce students to the history, art, and science of radio with emphasis on 
+hands-on demonstrations and in-class projects, including soldering a low-power FM 
+transmitter and building a directional antenna. Students will also self-study to pass an 
+amateur radio licensing exam administered on campus, which unlocks the electromagnetic 
+spectrum for personal, non-commercial use. Radio service for public safety is tightly woven 
+into the cultural fabric of the Buggy tradition at Carnegie Mellon. Becoming licensed is the 
+first step to getting involved! Anyone interested in becoming a licensed amateur radio user 
+is welcome regardless of major or prior background! 
+ 
+Topics covered include: 
+• Radio signal fundamentals 
+• Basic electronics 
+• Antennas 
+• Radio wave propagation 
+• Radio equipment 
+
+ 
+2 
+ 
+• Norms and culture of amateur radio communication 
+• Operating regulations and safety 
+ 
+Course Web Page:   
+Canvas login page: https://canvas.cmu.edu/. You should check the course Canvas regularly 
+for announcements and handouts.  
+ 
+Course Information: 
+Number of Units:  
+ 
+ 
+3 
+Pre-Requisites: 
+ 
+ 
+none 
+ 
+Reference Textbooks: 
+• ARRL Ham Radio License Manual, 5th Edition (T) – main text 
+ 
+Course Meeting Info: 
+Classes:            Wednesdays 
+7:00pm-8:20pm 
+       BH A36 
+ 
+Licensing Exam (Final):  
+        March 19  
+Starting 7:00pm    
+       BH A36 
+ 
+Grading and Assignments: 
+This course is letter-graded. Each assignment is worth a certain number of points. Note that 
+not all assignments must be completed to earn an A, so you may pick what seems like the 
+most interesting way for you to engage with the class. Other assignment options may be 
+announced later in the semester. 
+ 
+Letter Grade Cutoffs: 
+A – 9 points or higher 
+B – 7 or 8 points 
+C – 5 or 6 points 
+R – 4 points or lower 
+ 
+Assignment Options: 
+Getting Licensed 
+5-7 Points (Mandatory) 
+Getting Hands-on 
+1-4 Points Each (Choose several) 
+Get Licensed 
+or 
+Upgrade License 
+FM Transmitter Build (+1) 
+Antenna Build (+1) 
+Shack Night Visit (+1) 
+Field Day QSO (+1) 
+Scotty Net Check-in* (+1) 
+Scotty Net Control* (+1) 
+Reflection (+1) 
+Buggy Net (+4) 
+* = Requires a radio license of any class 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3 
+ 
+ 
+Get Licensed or Upgrade License (5-7 points): 
+The Technician class is the entry-level license for amateur radio in the US. In order 
+to become licensed, a prospective ham must answer at least 26 out of 35 questions 
+on a multiple-choice test administered by an FCC-sanctioned group of Volunteer 
+Examiners. 
+ 
+An additional point is awarded for every additional license class you earn. For 
+example, an unlicensed student who successfully passes the Technician, General, 
+and Extra exams will receive 7 points. See the following table for all possible 
+combinations:  
+ 
+ 
+Earned License 
+Technician 
+General 
+Extra 
+Starting 
+License 
+None 
+5 points 
+6 points 
+7 points 
+Technician 
+- 
+5 points 
+6 points 
+General 
+- 
+- 
+5 points 
+Extra 
+- 
+- 
+- 
+ 
+We will have a test session on campus March 19 for your convenience, but you may 
+take an exam elsewhere to fulfill this requirement. 
+ 
+FM Transmitter Build (1 point) 
+An FM transmitter kit will be distributed in class. This is to be soldered on your own 
+time, although we will have a soldering instructional workshop. This transmitter 
+should take about 2 hours of work to complete, and must be completed by April 23 
+for credit. Demonstrate your transmitter after class one week, or schedule a time to 
+visit the instructor’s office hours. 
+ 
+Antenna Build (1 point) 
+On March 26, the class will build and test wire dipole antennas. Working in a group 
+that assembles and tests one of these antennas will earn the participation point. 
+ 
+Shack Night Visit (1 point): 
+The W3VC Carnegie Tech Radio Club meets weekly for Shack Nights. Stop by the 
+amateur radio club station in 4101 Hamerschlag Hall during a weekly Shack Night, 
+stay for 30 minutes or so, and write up your experience into a summary and submit 
+on Canvas. 
+ 
+Please include the following information in your summary: 
+• 
+What were people working on? 
+• 
+What sort of equipment/radios did you see? 
+• 
+Did anybody make any on-air contacts? 
+ 
+ 
+ 
+
+ 
+4 
+ 
+Field Day QSO (1 point): 
+Field Day will occur on Flagstaff Hill during class time on either April 16 or April 
+23 (depending on weather). Several radios will be set up with the opportunity to 
+make a QSO (on air contact). Submit a summary of your contact on Canvas if you 
+participate in Field Day. 
+Please include the following information in your summary: 
+• 
+What was the other amateur's callsign? 
+• 
+What frequency and mode were used? 
+• 
+Was a signal report exchanged? What RST did you send, and what did you 
+receive? 
+• 
+Anything else of note about the QSO? 
+ 
+Scotty Net Check-in (1 point): 
+In ham radio parlance, a net is a scheduled on-air meeting of amateur radio 
+operators. Once everybody gets their licenses, we will hand out radios and hold a 
+weekly net (time TBD). If you check in to one of these nets, you will complete the 
+assignment. The last Scotty Net for the semester is on April 30. 
+ 
+Scotty Net Control (1 point): 
+“Net Control” is the amateur who manages the flow of signals on a net. Serving as 
+Net Control for one week and submitting the list of check-ins afterwards will earn 
+the point. Depending on demand, two net controllers might co-manage the net each 
+week. 
+ 
+Reflection (1 point): 
+This is a written reflection, ~500 words, that describes your experience with the 
+course, due on April 30. Feel free to write about anything you like; here are some 
+questions that might get you started: 
+• What do you think of amateur radio having finished the course? 
+• Did you learn anything surprising? 
+• What do you think you will do with your license? 
+• What was your favorite hands-on demo or project in the class? 
+ 
+ 
+Buggy Net (4 points): 
+The Buggy Safety Net is a long-running tradition at CMU. Participate in the ham 
+radio club’s buggy safety net one time during weekend rolls or carnival for credit. 
+Submit a report on Canvas afterwards describing your experience. 
+• What date and times did you participate? 
+• What was your role in the net? 
+• What did you observe about the structure of the net/radio transmissions? 
+• Did anything interesting happen on the course, and how did the net respond? 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+ 
+Tentative Course Calendar:  
+ 
+Date 
+Topic 
+Activity 
+Reading 
+Assignments Due 
+Jan 15 
+What is Amateur Radio? 
+CH1 
+ 
+Jan 22 
+Signal Fundamentals 
+Shortwave Listening 
+CH2 
+ 
+Jan 29 
+Electricity, Components, and Circuits 
+CH3 
+ 
+Feb 5 
+Radio Equipment 
+Programming the GT-5R 
+CH5 
+ 
+Feb 12 
+Operating and Licensing 
+18059 Net, QSL Cards 
+CH6-7 
+ 
+Feb 19 
+Antennas and Feedlines 
+CH4 
+ 
+Feb 26 
+Propagation 
+CH4 
+ 
+Mar 5 
+FALL BREAK (NO CLASS) 
+ 
+ 
+Mar 12 
+Rules and Safety 
+Practice Exam 
+CH8-9 
+ 
+Mar 19 
+LICENSING EXAM! (Baker Hall A36, 7:00pm) 
+Will take ~1 hour 
+ 
+ 
+Mar 26 
+Building Antennas 
+ 
+Antenna Build 
+Apr 2 
+Buggy Net, Satellites 
+ 
+ 
+Apr 9 
+Carnival (NO CLASS) 
+ 
+Buggy Net 
+Apr 16 
+Field Day (weather permitting) 
+Field Day QSO 
+ 
+ 
+Apr 23 
+ 
+Shack Night Visit, 
+FM Transmitter 
+Apr 30 
+Exams (NO CLASS) 
+ 
+Scotty Net Check-in, 
+Scotty Net Control, 
+Reflection

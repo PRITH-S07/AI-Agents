@@ -1,0 +1,293 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-859-R: Networking Lab   
+Fall 2024 
+ 
+ 
+Instructor: 
+Emmanuel Ndashimye 
+ 
+Office Location:  D110 
+Email Address:  endashim@andrew.cmu.edu 
+Office Hours: Tu Tr 9h30 to 12h00 or By appointment 
+ 
+Teaching Assistant: Divine Nkurunziza 
+Email Address: dnkurunz@andrew.cmu.edu 
+ 
+Office Hours:  TBD
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+Course Description: In this class, students will learn key computer networking concepts. 
+75% of this course will be hands-on. Students will apply networking principles through the 
+set-up, configuration, and testing of actual network switches, routers, and other networking 
+and computing equipment. Students will complete weekly labs that require them to 
+implement a specific network configuration. The course grade will be based on weekly lab 
+write-ups, midterm written exam and final exam project.  
+ 
+Number of Units: 12  
+ 
+Pre-requisites: 04-641 Fundamentals of Telecommunications and Computer Networks 
+(may be taken concurrently); or similar class. 
+ 
+ 
+ 
+ 
+Class Lecture: In-Person lecture Monday 10h00 to 11h50 
+Lab time: Schedule the time with the TA, Minimum 2 hours per week. 
+Required Textbook: Official book: 
+CCNA 200-301 Official Cert Guide, Volume1, Available online through the CMU 
+Library  
+ 
+
+ 
+2 
+ 
+ 
+Suggested Reading:  
+ 
+Cisco CCENT/CCNA ICND1 100-105 Official Cert Guide by Wendell Odom, (2016) 
+Cisco Press, ISBN: 978-1-58720-580-4 
+ 
+Cisco CCNA Routing and Switching ICND2 200-105 Official Cert Guide by Wendell 
+Odom, (2017) Cisco Press, ISBN: 978-1-58720-579-8 
+ 
+Computer Networks: A Systems Approach, 6th ed. by Larry L. Peterson and Bruce S. 
+Davie. Available at https://book.systemsapproach.org/  
+ 
+Brief List of Topics Covered: 
+1. Basic Ethernet LANs and Switches 
+2. Ethernet Design, VLANs & Troubleshooting 
+3. Advanced Ethernet VLANs, STP and Trunking 
+4. IPv4 Subnetting 
+5. Implementing IPv4 on routers 
+6. Routing Protocols (RIP version I & RIP version II) 
+7. Routing Protocols (EIGRP) 
+8. Routing Protocols (OSPF) 
+9. Access Lists and NAT 
+10. IPv6 Subnetting 
+11. VxLAN 
+12. SDN and Cloud 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Course Website: 
+https://canvas.cmu.edu/courses/35816?invitation=KOUB43EATpZfx7h8UpuezpQC87V
+1PCjPgYmxPUzH 
+ 
+Grading Algorithm:  
+ 
+Item 
+Weight 
+Lab works and Quizzes 
+ 
+30% 
+Mini Project I 
+ 
+10% 
+ 
+Midterm Written Exam 
+ 
+20% 
+Mini Project II 
+ 
+10% 
+Final Project  
+ 
+30% 
+
+ 
+3 
+ 
+ 
+Tentative Course Calendar:  
+ 
+Week 
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+ 
+August 
+1 
+26 
+Mon. 
+Introduction 
+LAB 0 
+10:00am to 
+11:50am 
+ 
+September 
+2 
+2 
+Mon. 
+Labor Day – No Class 
+ 
+ 
+3 
+9 
+Mon  
+Basic Ethernet LANs and Switches 
+LAB 1 
+10:00am to 
+11:50am 
+4 
+    16 
+Mon  
+Ethernet Design, VLANs & Troubleshooting 
+LAB 2 
+10:00am to 
+11:50am 
+5 
+23 
+Mon 
+Advanced Ethernet VLANs, STP and Trunking 
+LAB 3 
+10:00am to 
+11:50am 
+ 
+October 
+6 
+30 
+Mon 
+IPv4 subnetting 
+Mini Project I 
+10:00am to 
+11:50am 
+7 
+7 
+Mon 
+Implementing IPv4 on routers 
+Mini Project I 
+10:00am to 
+11:50am 
+ 
+14-18 
+Mon-
+Fri 
+Fall Break – No Classes 
+ 
+ 
+8 
+21 
+Mon 
+Midterm Examination 
+ 
+ 
+9 
+28 
+Mon 
+Routing Protocols (RIP version I & II) 
+ 
+LAB 4 
+10:00am to 
+11:50am 
+ 
+November 
+10 
+4 
+Mon  
+Routing Protocols (EIGRP) 
+LAB 5 
+10:00am to 
+11:50am 
+ 
+5 
+Tues. 
+Democracy Day – No Classes 
+ 
+ 
+11 
+11 
+Mon 
+Routing Protocols (OSPF) 
+Mini Project II 
+10:00am to 
+11:50am 
+12 
+18 
+Mon 
+Access Lists and NAT 
+ 
+10:00am to 
+11:50am 
+13 
+27-29 
+Wed-
+Fri 
+Thanksgiving – No Classes 
+Mini Project II 
+ 
+14 
+27 
+Mon 
+VxLAN  
+ 
+Lab 6 
+10:00am to 
+11:50am 
+ 
+December 
+15 
+2 
+Mon 
+IPV6 Subnetting 
+SDN and Cloud 
+Final Examinations (Course project) 
+Paper Review 
+10:00am to 
+11:50am 
+ 
+6 
+Fri 
+Last Day of Classes 
+ 
+ 
+16 
+9-13 
+Mon-
+Fri 
+Final Exams Week 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+4 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

@@ -1,0 +1,174 @@
+Course Syllabus
+Jump to Today
+Course Description
+In this course, you will learn about software engineering paradigms that have
+shaped the software industry over the past few decades. You will be exposed to
+fundamental disciplines of software engineering as well as engineering practices
+that crosscut system, project, and user perspectives. You will learn to iteratively
+define requirements, and architect, design, implement, integrate, test, and deploy a
+solution. You will work on self-organizing teams and manage the work
+collaboratively. You will also learn to solve a real problem subject to multiple
+constraints while keeping the stakeholders involved throughout the lifecycle and
+balancing the underlying engineering tradeoffs. The topics are applied in the
+context of a semester-long group project.
+This course is intended for ECE/MSIT master students with a concentration in
+Software Engineering and will satisfy the "Software Engineering and Design"
+course area requirement.
+Live Sessions
+Section RW: Mon/Wed 3:00-4:50pm, Remote, room F307 available for group
+work
+Class attendance is mandatory on both days. On most Mondays, we will be doing
+in-class activities related to the recorded videos and readings. On most
+Wednesdays, you will work on your course projects in teams and with the teaching
+assistants. 
+Professors
+Cathy Bishop, E-mail: mcbishop@andrew.cmu.edu
+
+Teaching Assistants
+Section RW
+Jean Pierre Imanirumva: jimaniru@andrew.cmu.edu
+(mailto:dcobinna@andrew.cmu.edu)
+Bulambo Gloire: bgloire@andrew.cmu.edu
+Contact info and office hours posted on Piazza
+Learning Objectives
+By the end of this course, you will be able to:
+Compare and reflect on different approaches and methods for engineering
+software systems and combine them to fit a specific context
+Apply and interleave fundamental requirements, architecture, design,
+construction, and testing techniques 
+Proactively measure, monitor, and reason about software quality properties
+Leverage contemporary development tools and environments to boost
+productivity and maintain quality
+Demonstrate working familiarity with central modeling concepts and notations
+Plan, estimate, and manage a software project in an incremental and iterative
+fashion
+Using contemporary software engineering practices, develop and deliver a
+realistic software project that meets stakeholders’ expectations, is high-quality,
+and balances underlying engineering tradeoffs
+Pre-requisites
+Permission of the instructor.
+Basic software development experience with proficiency in at least one modern
+programming language and modern programming concepts.
+Prior to admission, students must successfully complete a programming
+assignment to demonstrate familiarity with required software technologies.
+Required Textbooks 
+
+None. Recommended readings (like articles) and other supplemental materials
+(like videos) are provided in the course website.
+List of Topics
+Object-oriented technology
+Object-oriented analysis and design
+Requirements
+Software architecture
+Design patterns
+Software testing 
+Technical development practices
+Code quality: code reviews and static analysis
+Software project planning and estimation
+Software development methods
+See Course Calendar
+(https://docs.google.com/document/d/1kC36e7qMJb6tEfSMhBoT8P3RcVYSYdthD_DtH3K-
+LLU/edit?usp=sharing)  for details. 
+Grading Rubric
+Your grade is determined along two dimensions: your individual performance (60%)
+and your team's performance (40%).
+Component
+Performance
+Criterion
+Weight
+(%)
+Final Quiz
+Individual
+20
+Individual Assignments
+(FSE Chat and Iteration 4)
+Individual
+20
+Participation
+(In-class discussions,
+completion of in-class
+Q&As, Piazza posts, Show-
+Individual
+20
+
+and-Tell presentations,
+completion of prep/practice
+quizzes, interactions with
+teaching team outside
+class)
+SE Project Presentation
+Team
+10
+SE Project Iterations*
+Team
+30
+Total
+100
+*SE Project Iterations component of individual students will be adjusted upward or
+downward according to their Peer Evaluation results.
+Refer to Grading and Penalty Policy
+(https://canvas.cmu.edu/courses/42386/files/11366296?wrap=1) 
+(https://canvas.cmu.edu/courses/42386/files/11366296/download?download_frd=1) 
+(https://drive.google.com/file/d/1JjJiSM1oxTZLHQzNRXzzRGIDpI48wKZl/view?
+usp=sharing) for further information on how the individual components are graded
+and applicable penalties. 
+The correspondence between the letter grade and performance evaluation is
+mapped out in the following table:
+Letter
+Grade
+Performance Interpretation
+Letter
+Grade
+Performance Interpretation
+A
+Outstanding performance and
+quality of work along all
+dimensions, going beyond
+expectations, deliverables of
+highest professional quality
+B
+Good overall performance and
+quality of work along most
+dimensions, meets
+expectations, but deliverables
+may be missing a few required
+components
+
+A-
+Excellent performance and
+quality of work along all
+dimensions, meets all
+expectations (but doesn't go
+beyond), deliverables of
+professional quality
+B-
+Performance and quality of
+work below expectations along
+many dimensions, although
+deliverables may have all
+required components
+B+
+Good to very good
+performance and quality of
+work along most dimensions,
+meets expectations, but
+deliverables may be missing a
+required component
+C
+Performance and quality of
+work below expectations along
+many dimensions, and
+deliverables are missing many
+components
+R
+Works represents insufficient
+performance 
+(student fails the course; units
+will not be considered toward
+graduate degree
+requirements; no quality
+points)
+Individual final grades may be adjusted up or down based on the instructors' holistic
+assessment of each student's demonstrated performance and learning.
+Units
+12

@@ -1,0 +1,371 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18647: Computational Problem Solving for Engineers 
+Spring 2025
+Instructor: 
+ 
+Franz Franchetti 
+Office Location: 
+Scott 6143, https://cmu.zoom.us/my/franzf  
+Email Address: 
+franzf@andrew.cmu.edu  
+Office Hours:  
+Monday 2pm—3pm 
+ 
+Teaching Assistant: Upasana Sridhar 
+Office Location: 
+TBD 
+Email Address: 
+upasanas@andrew.cmu.edu 
+Office Hours:  
+TBD 
+ 
+Course Support:  
+Academic Services Center 
+Office Location: 
+HH 1113 
+Website:  
+https://www.ece.cmu.edu/academics/academic-services-
+center.html  
+Course Description: Computing platforms used in engineering span an incredible 
+dynamic range from embedded and wearable processors through handhelds/laptops to 
+high performance computing servers and the cloud. Similar engineering and AI/ML 
+problems need to be solved across the entire dynamic range. When developing algorithms 
+or solving R&D problems, one usually starts with MATLAB and Python using 
+frameworks like Torch, Spark, and TensorFlow, and only resorts to C/C++ when needed. 
+This course covers how to solve AI/ML and engineering research and development 
+problems across the entire range of machines in a productive and performant way. It 
+discusses how to scale problems from the initial concept stage usually executed on a 
+laptop to more powerful computing systems like enterprise or HPC servers, GPU 
+accelerated systems, and cloud computing platforms. 
+ 
+This course addresses a wide range of computational and informatics problem families 
+from traditional numerical simulation and symbolic data processing to AI and machine 
+learning problems. It covers the most important scalable parallel algorithms used in 
+engineering computing and discusses frameworks providing problem-specific and general 
+implementation templates. It covers algorithm analysis from the numerical and 
+complexity perspective, parallelization approaches and scalability, algorithm 
+optimization, evaluation and analysis of results.  
+ 
+
+ 
+2 
+ 
+Students in this course learn to productively solve AI/ML and engineering research and 
+development problems on advanced computer systems across the dynamic range of 
+computing systems. Further, they learn to carry algorithms from the concept stage to 
+efficient-enough scaled-up implementations necessary to solve large scale problem 
+instances, or squeeze them into the small footprint of embedded and wearable devices. 
+Students will solve assigned homeworks and do a final blog post about lessons learned. 
+ 
+Number of Units:  
+12 
+ 
+Recommended pre-requisites: 18-213/613, 18-645/646, 18-202 or equivalent 
+ 
+Pre-requisite for:  
+ 
+Undergraduate Course Designation:  
+ 
+Undergraduate Course Area:  
+ 
+Class Lecture: 
+● Tuesday and Thursday 
+  9:30am – 10:50am  
+ 
+Recitation: 
+● Friday  
+ 
+ 
+10:00am – 10:50am 
+  
+Required Textbook: 
+none 
+ 
+Suggested Reading: 
+Advanced Engineering Mathematics, 10th Edition 
+Edward J. Norminton, Herbert Kreyszig, Erwin Kreyszig 
+ 
+Computer Systems: A Programmer's Perspective, Third Edition 
+Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University 
+ 
+Numerical Recipes: The Art of Scientific Computing 
+William H. Press, Saul A. Teukolsky, William T. Vetterling and Brian P. Flannery  
+ 
+Parallel Programming In C with MPI and OpenMP 
+Michael Quinn 
+ 
+ 
+Other Supplemental Materials: 
+ 
+ 
+
+ 
+3 
+ 
+ 
+ 
+Brief List of Topics Covered: 
+● Parallel algorithms, scalability, and numerical analysis of these algorithms 
+● Software stack and hardware for computational engineering and AI/ML problems 
+● Hardware and software available to CMU students (on-site, cloud, NSF XSEDE) 
+● Frameworks and execution environments for quick problem solving 
+● How to scale from initial concepts to large-scale problems 
+● Next steps: How to transition to C/C++ with CUDA/OpenCL, OpenMP, MPI etc. 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.instructure.com/. You should check the course canvas daily for 
+announcements and handouts.  
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Grading Algorithm: 
+ 
+20% 
+In-class participation 
+20% 
+Blog post 
+60% 
+5 Homeworks 
+ 
+Lectures: 
+Lectures will be presented in person and may include slides and handwriting. Lecture 
+notes and slide presentations will be posted after lecture. 
+ 
+Recitations: 
+Recitations will be presented in person and include blackboard and in-class discussion. 
+Specifically, homework questions are effectively addressed as a group during recitations. 
+ 
+Homeworks:  
+Expect 5 homeworks, roughly, one due every other week. Homework assignments will be 
+posted and submitted via Canvas. Completed homeworks are due at 11:59:59pm ET at 
+the date indicated when posted. Students are encouraged to discuss the problems together 
+but must submit their own independent work. 
+ 
+Machines 
+In this course we will use a large variety of machines in the homeworks and projects: 
+● Large Linux servers with direct ssh access. The machines we will access are the 
+ECE number cluster and the data science cloud. 
+● Large number of small Linux machines in high throughput mode via ECE's 
+HTCondor. 
+
+ 
+4 
+ 
+● HPC multicore nodes and multi-node configurations with and without GPUs via a 
+batch system at PSC and CMU. 
+● Hadoop/Spark/TensorFlow with and without GPUs at PSC. 
+● Special hardware at PSC: Bridges AI multi-GPU resources (HPE Apollo and 
+DGX-2) and large memory machines. 
+● AWS instances with or without multicore and GPU support. 
+ 
+Software Platforms 
+In the course we will try out a number of high-level languages and libraries in these 
+languages: 
+● Python with NumPy, SciPy, and matplotlib 
+● R with CRAN packages 
+● MATLAB 
+● Mathematica 
+● Haskell 
+● Frameworks: Torch, Theano, OpenCV 
+● High-end engineering software 
+● C/C++ with HPC math/ML libraries 
+ 
+Algorithms 
+We will use algorithms covered in the lecture as simple examples to experiment across 
+the machines and software platforms. Students either implement the algorithms 
+themselves or find implementations online, and then run them on the target machines to 
+perform scalability studies. Algorithm groups targeted in the homeworks are as 
+following: 
+● Dense numerical linear algebra, CNNs/DNNs/FFTs 
+● Graph algorithms and sparse numerical linear algebra 
+● ODE and PDE solvers, stencils, filters, discretization 
+● Discrete and continuous optimization, ML training 
+● Informatics, symbolic computing, higher level AI algorithms 
+● Statistics: Monte Carlo, MCMC, statistical machine learning 
+● Deep Learning, Big Data Analytics 
+ 
+Homework 1—5 Deliverables 
+Homework 1 to 5 will have as deliverables examples that run the specified/chosen 
+algorithms on the specified/chosen machines for a range of problem sizes. The homework 
+submission consists of the following: 
+● The source code for the algorithm, with source attribution as applicable 
+● The necessary data files 
+● All necessary scripts and make files 
+● The captured output of the submission runs 
+● Measurements in CSV files and performance plot 
+ 
+Blog post—Deliverables 
+As final project students submit a blog post addressing the following aspects of one of the 
+homework problems: 
+
+ 
+5 
+ 
+● Problem specification: explain what problem you are addressing and where it is 
+used. 
+● Algorithm: describe the algorithm you used. 
+● Hardware and software: describe the hardware platform and software 
+infrastructure you used. 
+● Outcome: describe the result you obtained and how larger computing resources 
+were necessary. 
+● Scalability and complexity: describe the algorithm's complexity, how the 
+algorithm scales with problem size, and how it scales number of processors/cores 
+in strong and weak scaling sense. 
+● Quality of the result: assess the numerical or approximation quality of your result. 
+● Performance analysis: measure the runtime behavior, model fit it to the 
+theoretical growth behavior, and assess the efficiency of the implementation. 
+● Suggested performance optimization: Assume a limited engineering budget but 
+the need for a faster solution. Suggest which parts of the algorithm one would 
+optimize and what optimization approach and target hardware should be used. 
+ 
+Tentative Course Calendar:  
+ 
+Date 
+Day 
+Class Activity 
+January 
+14 
+Tues. 
+State of computing: What is the current state of the art from embedded devices through 
+desktops, servers, and consumer system all the way to cloud, HPC, and supercomputing  
+16 
+Thurs. 
+Computer architecture: Relevant computer architecture concepts  
+21 
+Tues. 
+Software stack: ISA, operating system, virtualization, messaging, containers 
+23 
+Thurs. 
+Mathematics for Engineers: The central role of numerical linear algebra  
+release HW 1 
+28 
+Tues. 
+The ECE Computing Environment: number cluster, Andrew systems, capability 
+machines, GPU access, cloud access, Pittsburgh Supercomputing Center and ACCESS 
+30 
+Thurs. 
+Algorithm analysis, scalability, complexity: Getting answers in time 
+February  
+ 
+4 
+Tues. 
+Parallelization: Sequential vs. parallel algorithms, scalability vs. performance  
+HW1 due, release HW2 
+6 
+Thurs. 
+Need for speed: Principles of code optimization, when and how to optimize code 
+11 
+Tues. 
+Cloud computing and HPC: Amazon EC2/Windows Azure/Google Cloud, 
+Computational Grids, Scientific Workflows, Computing Centers, ECE ITS 
+13 
+Thurs. 
+Numerical Analysis: How good are your answers? How to make them better? 
+18 
+Tues. 
+Scalable algorithms: Dense numerical linear algebra, CNNs/DNNs, FFTs 
+20 
+Thurs. 
+Scalable algorithms: Graph algorithms and sparse numerical linear algebra 
+25 
+Tues. 
+Scalable algorithms: ODE and PDE solvers, stencils, filters, discretization 
+27 
+Thurs. 
+Scalable algorithms: Discrete and continuous optimization, ML training 
+HW 2 due, release HW3 
+March 
+11 
+Tues. 
+Scalable algorithms: Informatics, symbolic computing, higher level AI algorithms 
+13 
+Thurs. 
+Scalable algorithms: Statistics: Monte Carlo, MCMC, statistical machine learning 
+18 
+Tues. 
+Guest Lecture: Quantum Computing and Quantum Algorithms 
+20 
+Thurs. 
+Guest Lecture: Pittsburgh Supercomputing Center and Usable HPC and High 
+Performance AI/ML 
+HW 3 due, release HW4  
+25 
+Tues. 
+Data: Obtaining real data sets, data visualization, data bases, data stores, file systems 
+27 
+Thurs. 
+Modern CPUs: Super-Scalar Out-of-order, multicore 
+
+ 
+6 
+ 
+April 
+1 
+Tues. 
+Guest Lecture: Software Engineering vs. Performance Engineering  
+8 
+Thurs. 
+Modern CPUs: Vector Extensions 
+HW 4 due, release HW 5 
+10 
+Tues. 
+Hardware Acceleration: GPUs, FPGAs, TPU, Tensor Cores ,... 
+15 
+Tues. 
+From productivity to performance: C++, OpenMP, MPI, CUDA, Autotuning 
+17 
+Thurs. 
+Research Talk: SPIRAL: Formal Software Synthesis of Computational Kernels  
+HW 5 due 
+22 
+Tues. 
+Student Blog Presentations and Homework Lessons Learned  
+24 
+Thurs. 
+Summary and Beyond 
+Blog post due 
+ 
+ 
+ 
+
+ 
+7 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+Formulate a question that can be solved by large scale computing. 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+Implement scalable parallel algorithms, analyze scaling behavior and result 
+accuracy.  
+3. an ability to communicate effectively with a range of audiences 
+Multiple presentations of computing-related topics and the final project need to be 
+understandable for non-experts. 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+How powerful computing has become to be the third leg of science. 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, 
+plan tasks, and meet objectives 
+N/A 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+Measure performance and analyze it 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+Implement software that solves a large scale problem without the need of extensive 
+programming. 
+ 
+ 
+ECE

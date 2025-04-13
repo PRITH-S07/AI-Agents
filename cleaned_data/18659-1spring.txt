@@ -1,0 +1,313 @@
+Course Syllabus
+Course Description
+The course exposes students to the challenges of real-world software development.
+Indeed, industry software systems are often complex and developed by large and
+distributed teams that need to continuously adapt to ever-changing circumstances.
+Students learn to tackle this challenge from both theoretical and practical
+perspectives in the context of a semester-long project where the entire class works
+together as a team of teams. They define the optimal software development
+method for their project aimed at evolving an existing software system. They build
+new system increments by applying their own method. They practice collective
+code ownership while balancing feature development with refactoring to avoid
+technical debt. They measure the quality of their product, the productivity of their
+team, and the predictability of their process. Students also reflect on the
+effectiveness of their approach and adapt their way of working via continuous
+improvement.
+Note: This course is especially intended for ECE students pursuing a Master of
+Science degree in Software Engineering and will satisfy the Core Course
+requirement for these students.
+Class Schedule
+Classes: Mondays-Wednesdays 1:00 to 2:50 PM PT in room 109-110
+Recitations: Fridays 2:00 to 3:50 PM PT in room 118
+Class attendance is mandatory, both Mondays and Wednesdays. Permission to
+attend classes remotely via Zoom is permitted only when explicitly authorized by the
+department, the Office of Disability Resources, and the instructor. Students must
+contact the Office of Disability Resources and the instructor for permission in
+advance.
+
+Friday recitations will be held on campus. Friday recitations are mandatory
+on February 14 (DoD workshop) and April 25 (final presentations). Other
+recitations will be rare, optional, and recorded.
+Professor
+Cécile Péraire, E-mail: cecile.peraire@sv.cmu.edu
+(mailto:cecile.peraire@sv.cmu.edu)  
+Teaching Assistant
+Justin Ventura, E-mail: jmventur@andrew.cmu.edu
+(mailto:jmventur@andrew.cmu.edu)
+Academic Services Coordinator
+Stephanie Bolla:  sbolla@andrew.cmu.edu (mailto:sbolla@andrew.cmu.edu)   
+Learning Objectives
+By the end of this course, you will be able to:
+Successfully develop software systems in the face of complexity, including in the
+context of large teams, distributed teams, technical complexity, critical systems,
+and other scaling factors.
+Know your software development toolbox (available methods, scaling
+frameworks, practices, and supporting tools).
+Scale Agile development by adopting and customizing a scaling framework (like
+Disciplined Agile Delivery, Large-Scale Scrum, or Scaled Agile Framework)
+based on your team's unique needs.
+Develop software as a team of teams with collective code ownership.
+Continuously balance feature development with code refactoring to avoid
+technical debt. 
+Measure and assess the productivity of the team, the quality of the product, and
+the predictability of the process through the definition and collection of software
+engineers' metrics and related data.
+
+Drive continuous improvement by running short experiments based on data that
+software engineers care about.
+Determine root causes of software engineering development issues.
+Identify and prioritize project risks and opportunities, and develop appropriate
+risk management strategies.
+Develop and deliver effective technical presentations
+Those objectives are further detailed under ABET's 7 Educational
+Objectives below.
+Pre-requisite
+18-652 Foundations of Software Engineering
+Required Textbooks 
+None. Recommended readings and other supplemental materials are provided on
+the course website. The following book provides a good introduction to the course:
+Kniberg, Henrik. Lean from the Trenches: Managing Large-Scale Projects
+with Kanban (https://canvas.cmu.edu/courses/26472/files/7259341/download?
+wrap=1) 
+ (https://canvas.cmu.edu/courses/26472/files/7259341/download?
+download_frd=1) . Kay Keppler.
+List of Topics
+Agile and Lean Software Development at Scale
+Software Engineering Methods and Scaling Frameworks
+Software Engineering Practices and Tools
+Context-Driven Method Customization
+Collective Code Ownership
+Decentralized Work Coordination
+Continuous Improvement
+Software Engineering Measurement
+Root Cause Analysis
+Risk and Opportunity Management
+Software Engineering Method and Theory (SEMAT)
+Capability Maturity Model Integration (CMMi)
+
+See Course Calendar
+(https://docs.google.com/document/d/1MkeJfTDEWxheAsE6JKlP0KuMC5GOYZgHclTASad15AU/
+usp=sharing)  for details. 
+Grading Rubric
+Component
+Individual
+Weight (%)
+Team**
+Weight (%)
+CoP**
+Weight (%)
+Total
+Weight
+(%)
+Coding Warm-up
+5
+ 
+ 
+5
+Task 1: Practice Library
+15
+ 
+ 
+15
+Task 2: Method Selection:
+Framework Selection 
+ 
+ 
+5
+5
+Task 2: Method Selection:
+DoDs and Metrics Proposal 
+ 
+5
+5
+SEM Project - Practice
+Adoption
+ 
+10*
+ 
+10
+SEM Project -
+ CoP Contribution
+ 
+ 
+15* 
+15
+SEM Project - Working
+Software
+20 
+ 
+ 
+20
+SEM Project - Team
+Presentation
+ 
+5
+ 
+5
+Field Project 
+ 
+10
+ 
+10
+
+Exploration Quizzes
+4
+ 
+ 
+4
+Class Participation and
+Attendance
+4
+ 
+ 
+4
+CATME Peer Evaluations
+CMU Faculty Course
+Evaluation
+2
+ 
+ 
+2
+Total
+50
+25
+25
+100
+Bonus Points
+3
+ 
+ 
+103
+* Grade significantly adjusted based on your individual performance by taking into
+account a combination of faculty and peer evaluations.
+** Each student is part of both a Team and a CoP:
+Team: A group of students in charge of developing a subset of the features of the
+class product.
+Community of Practice (CoP): A group of students who share a common interest
+in one domain (e.g. design, implementation, deployment, planning) and lead
+some initiatives in that domain to improve the class process.
+The correspondence between letter grade and performance evaluation is mapped
+out in the following table:
+Letter
+Grade
+Performance Interpretation
+
+A
+Outstanding performance and quality of work
+along all dimensions, going beyond
+expectations, deliverables of highest
+professional quality
+A-
+Very good performance and quality of
+work along all dimensions, meets all
+expectations (but doesn't go beyond),
+deliverables of professional quality
+B+
+Good performance and quality of work along
+most dimensions, meets expectations, but
+deliverables may be missing required
+components
+B
+Performance and quality of work below
+expectations along some dimensions,
+although deliverables may have all required
+components
+B-
+Performance and quality of work below
+expectations along many dimensions,
+although deliverables may have all required
+components
+C+
+Performance and quality of work below
+expectations along many dimensions, and
+deliverables are missing some required
+components
+C
+Performance and quality of work below
+expectations along most dimensions, and
+
+deliverables are missing many components
+C-
+Work represents minimum acceptable effort
+(student fails the course; units will not be
+considered toward graduate degree
+requirements; however, quality points will be
+calculated into cumulative QPA)
+Pass / No Pass option: student passes the
+course (P); units will not be considered
+toward graduate degree requirements;
+quality points will not be calculated into
+cumulative QPA
+R
+Work represents insufficient performance 
+(student fails the course; units will not be
+considered toward graduate degree
+requirements; no quality points)
+Pass / No Pass option: student fails the
+course (N); units will not be considered
+toward graduate degree requirements; no
+quality points
+Individual final grades may be adjusted up or down based on the instructor's holistic
+assessment of each student's demonstrated performance and learning.
+Units
+12
+ABET's 7 Educational Objectives
+
+The ECE department is accredited by ABET to ensure the quality of your education.
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the
+courses you take. The following list describes which objectives are fulfilled by 18-
+659 and in what manner they are fulfilled:
+(1) An ability to identify, formulate, and solve complex engineering problems
+by applying principles of engineering, science, and mathematics: The course
+poses many problems (during in-class discussions, in-class activities, and a couple
+of projects) for students to formulate and solve using good software engineering
+practice. Students apply fundamental requirements, interaction & technical design,
+architecture, construction, and testing techniques to deliver a software system.
+They apply those techniques while dealing with complex scaling factors, including
+large teams, distributed teams, technical complexity, or critical systems.
+(2) An ability to apply engineering design to produce solutions that meet
+specified needs with consideration of public health, safety,  and welfare, as
+well as global, cultural, social, environmental, and economic factors: Students
+develop a mobile communication platform to be used by emergency responders
+and citizens in case of emergency situations, with a primary goal of saving lives.
+They stay in close communication with the product owner during the entire
+semester to make sure that they build a system that satisfies the users' needs.
+(3) An ability to communicate effectively with a range of audiences: Students
+practice their oral communication skills during in-class discussions, in-class
+activities, and during both formal and informal presentations to the entire class.
+These presentations are meant to inform the class about project progress or
+results, as well as support the adoption of new software development practices and
+technology. Students also practice basic written communication of problem
+solutions in the context of several project deliverables. 
+(5) An ability to function effectively on a team whose members together
+provide leadership, create a collaborative and inclusive environment,
+establish goals, plan tasks, and meet objectives: The entire class works
+together, as a team of teams, in the context of a semester-long project during which
+students build a new product in an incremental and iterative fashion. The class
+
+defines an optimal software development method for the project and builds new
+system increments by adopting its own method. The class plans, estimates, and
+manages its own work. Students learn teamwork and management skills in the
+context of a large software development team.
+(6) An ability to develop and conduct appropriate experimentation,  analyze
+and interpret data, and use engineering judgment to draw conclusions:
+Students drive continuous improvement by running short experiments based on
+data that software engineers care about: Students regularly measure and assess
+the productivity of their team, the quality of their product, and the predictability of
+their process through the definition of software engineers' metrics and collection of
+related data. They analyze the data, reflect on the effectiveness of their approach,
+and propose changes accordingly to improve their way of working. 
+(7) An ability to acquire and apply new knowledge as needed, using
+appropriate learning strategies: Each student is part of both a Team and a
+Community of Practice (CoP). While a Team is in charge of developing a subset of
+the features of the class product, a CoP is in charge of leading some initiatives in a
+specific domain (e.g. design, implementation, deployment, planning) to improve the
+class process. To that end, students of a given CoP are expected to explore their
+domain so they can provide guidance and leadership in order to help the rest of the
+class adopt new practices and technology in that domain.
+MS-SE Program Course Policies
+University, Department, and Program policies apply in full.  Click here
+(https://docs.google.com/document/d/1IvUYkxCMzoGoSmKryLcYDDBINNv6gvOAVKSA
+usp=sharing) to review all the policies, including grading, academic integrity,
+cheating, plagiarism, wellbeing, accommodations for students with disabilities,
+diversity, and more.

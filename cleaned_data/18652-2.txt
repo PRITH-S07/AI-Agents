@@ -1,0 +1,275 @@
+Course Syllabus
+Course Description
+In this course, you will learn about software engineering paradigms that have
+shaped the software industry over the past few decades. You will be exposed to
+fundamental disciplines of software engineering as well as engineering practices
+that crosscut system, project, and user perspectives. You will learn to iteratively
+define requirements, and architect, design, implement, integrate, test, and deploy a
+solution. You will work on self-organizing teams and manage the work
+collaboratively. You will also learn to solve a real problem subject to multiple
+constraints while keeping the stakeholders involved throughout the lifecycle and
+balancing the underlying engineering tradeoffs. The topics are applied in the
+context of a semester-long group project.
+Live Sessions
+Section SA: Mon-Wed 9:00 AM to 10:50 AM* in Room 109-110
+Section SB: Mon-Wed 11:00 AM to 12:50 PM* in Room 109-110 
+Recitations (common to SA and SB): Fri  1:00 PM to 2:50 PM* in Room 227
+*All times are in US Pacific Time (PT) Zone.
+Class attendance is mandatory on both Mon-Wed.
+On most Mondays, we will be doing in-class activities related to the recorded videos
+and readings. On most Wednesdays, you will work on your course projects in
+teams and with the teaching assistants. 
+Friday recitations are optional and recorded.
+Permission to attend classes remotely via Zoom is permitted only when explicitly
+authorized by the department, the Office of Disability Resources, and the instructor.
+Students must contact the Office of Disability Resources and the instructor for
+permission in advance. If allowed, sign in to the Zoom app with your CMU
+
+Andrew credentials using CMU SSO
+(https://www.cmu.edu/computing/services/comm-collab/web-conferencing/zoom/how-
+to/index.html) (upon opening the Zoom app, choose" Sign In" rather than "Join
+Meeting", and then choose the SSO option to log in). Make sure to add your full
+name (first, preferred, and last name) and your headshot photo to your CMU Zoom
+profile
+ (https://cmu.zoom.us/profile) .
+Professors
+Cécile Péraire, cecile.peraire@sv.cmu.edu (mailto:cecile.peraire@sv.cmu.edu)  
+Hakan Erdogmus, hakan.erdogmus@sv.cmu.edu
+(mailto:hakan.erdogmus@sv.cmu.edu)
+Teaching Assistants
+Section SA
+Kaushik Deka, kaushikd@andrew.cmu.edu (mailto:kaushikd@andrew.cmu.edu)
+(mailto:kaushikd@andrew.cmu.edu) Ruohong Gan,
+ruohongg@andrew.cmu.edu (mailto:ruohongg@andrew.cmu.edu)
+Sherry Xu, ruixu@andrew.cmu.edu (mailto:ruixu@andrew.cmu.edu)
+Section SB
+Tony (Kaitao) Chen, kaitaoc@andrew.cmu.edu
+(mailto:kaitaoc@andrew.cmu.edu)
+(mailto:kaitaoc@andrew.cmu.edu) Lori Li, haoanli@andrew.cmu.edu
+(mailto:haoanli@andrew.cmu.edu)
+Michelle Zhou, yijingz2@andrew.cmu.edu (mailto:yijingz2@andrew.cmu.edu)
+Academic Services Coordinator
+Stephanie Bolla:  sbolla@andrew.cmu.edu (mailto:sbolla@andrew.cmu.edu)
+Learning Objectives
+By the end of this course, you will be able to:
+
+Apply fundamental requirements, architecture, interaction & technical design,
+construction, and testing techniques on a regular basis
+Proactively measure, monitor, and reason about software quality properties
+Leverage modern development tools and environments to boost productivity and
+maintain quality
+Demonstrate working familiarity with central modeling concepts and notations
+Plan, estimate, and manage a software project in an incremental and iterative
+fashion
+Using contemporary software engineering practices, develop and deliver a
+realistic software project that meets stakeholders’ expectations, is high-quality,
+and balances underlying engineering tradeoffs
+Develop and deliver effective technical presentations
+Those objectives are further detailed under ABET's 7 Educational Objectives
+below.
+Pre-requisites
+Basic software development experience with proficiency in at least one modern
+programming language and modern programming concepts.
+Prior to admission, students must successfully complete a programming
+assignment to demonstrate familiarity with the required software technologies
+Required Textbooks 
+None. Recommended readings (like articles) and other supplemental materials
+(like videos) are provided on the course website.
+List of Topics
+Object-oriented technology
+Object-oriented analysis and design
+Requirements
+Software architecture
+Design patterns
+Software testing 
+
+Technical development practices
+Code quality: code reviews and static analysis
+Software project planning and estimation
+Software development methods
+See Course Calendar 
+(https://docs.google.com/document/d/1WQGOWEqDi5RK3YjwGCwEMH4uvp2x4gSkbbDs2U69dA
+usp=sharing) for details. 
+Grading Rubric
+Your grade is determined along two dimensions: your individual performance (85%)
+and your team's performance (15%).
+Component
+Performance
+Criterion
+Weight
+(%)
+Final Quiz
+Individual
+20
+Pre-enrollment Assignment
+(FSE Chat)**
+Individual
+5
+Readiness/Preparation
+Quizzes 
+(Post-prep quizzes and In-
+class Q&As)
+-- the 4 lowest grades are
+dropped
+Individual
+10
+Collaboration Skills
+Training***
+Individual
+5
+SE Project Iteration 4****
+Individual
+15
+
+SE Project Iterations 0, 1,
+and 2
+Individual*
+15
+SE Project Iterations 3 and 5 Individual*
+15
+SE Project Presentation
+Team
+10
+Show-and-Tell Presentation
+Team
+5
+Total
+100
+Total with bonus points (max.
+3 points)
+(awarded for exceptional performance, class
+participation, and contribution to the
+classroom experience at the discretion of the
+faculty)
+103
+*While the work is done in teams, SE Project Iterations component of
+individual students will be adjusted upward or downward according to their
+Peer Evaluation results.
+**Students who fail the pre-enrollment assignment (not delivering working
+code or scoring below 60%) will need to withdraw from or drop the course, or
+they will automatically fail the course.
+***To get a non-zero grade from the Collaboration Training module, a post-
+test of above 50% is required. 
+****Students who score below 60% or don't deliver working code in this
+component will automatically fail the course.
+Refer to the Grading Policy available from the course homepage for further
+information on how the individual components are graded and applicable bonuses
+
+and deductions. 
+The correspondence between the letter grade and performance evaluation is
+mapped out in the following table:
+Letter
+Grade
+Performance Interpretation
+A
+Outstanding performance and quality of work
+along all dimensions, going beyond
+expectations, deliverables of highest
+professional quality
+A-
+Excellent performance and quality of
+work along all dimensions, meets all
+expectations (but doesn't go beyond),
+deliverables of professional quality
+B+
+Good to very good performance and quality
+of work along most dimensions, meets
+expectations, but deliverables may be
+missing a required component
+B
+Good overall performance and quality of
+work along most dimensions, meets
+expectations, but deliverables may be
+missing a few required components
+B-
+Performance and quality of work below
+expectations along many dimensions,
+although deliverables may have all required
+components
+
+C+
+Performance and quality of work below
+expectations along many dimensions, and
+deliverables may be missing a few required
+components
+C
+Performance and quality of work below
+expectations along most dimensions, and
+deliverables are missing many components
+C-
+Work represents minimum acceptable effort
+(student fails the course; units will not be
+considered toward graduate degree
+requirements; however quality points will be
+calculated into cumulative QPA)
+Pass / No Pass option: student passes the
+course (P); units will not be considered
+toward graduate degree requirements;
+quality points will not be included in the
+cumulative QPA
+R
+Work represents insufficient performance 
+(student fails the course; units will not be
+considered toward graduate degree
+requirements; no quality points)
+Pass / No Pass option: student fails the
+course (N); units will not be considered
+toward graduate degree requirements; no
+quality points awarded
+Individual final grades may be adjusted up or down based on the instructors' holistic
+assessment of each student's demonstrated performance and learning.
+
+Units
+12
+ABET's 7 Educational Objectives
+The ECE department is accredited by ABET to ensure the quality of your education.
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the
+courses you take. The following list describes which objectives are fulfilled by 18-
+652 and in what manner they are fulfilled:
+(1) An ability to identify, formulate, and solve complex engineering problems
+by applying principles of engineering, science, and mathematics: The course
+poses many problems (during in-class discussions, in-class activities, a project, and
+an exam) for students to formulate and solve using modern software engineering
+practices. Students apply fundamental requirements, interaction design, software
+design, architecture, construction, and testing techniques to deliver a software
+system. 
+(2) An ability to apply engineering design to produce solutions that meet
+specified needs with consideration of public health, safety,  and welfare, as
+well as global, cultural, social, environmental, and economic factors: Students
+build a software system to be used by a community of citizen during emergency
+situations caused by natural disasters. Students stay in close communication with
+their stakeholders (represented by the teaching team) during the entire semester to
+make sure that they build a system that satisfies stakeholder needs under given
+time, schedule, and quality constraints.
+(3) An ability to communicate effectively with a range of audiences: Students
+practice their oral communication skills during in-class discussions, in-class
+activities, and during presentations of their work to the entire class. They also
+practice communicating software requirements and design solutions in their project
+deliverables and during the exam. 
+
+(5) An ability to function effectively on a team whose members together
+provide leadership, create a collaborative and inclusive environment,
+establish goals, plan tasks, and meet objectives:  Students operate in small
+teams in the context of a semester-long project during which they deliver new
+features every two weeks. As a team, they plan, estimate, and manage their project
+in an incremental and iterative fashion. They receive training on collaboration and
+conflict resolution and apply these skills throughout the semester. 
+(6) An ability to develop and conduct appropriate experimentation,  analyze
+and interpret data, and use engineering judgment to draw conclusions:
+Students proactively and regularly measure, monitor, and reason about the
+software quality properties of their system under development.
+(7) An ability to acquire and apply new knowledge as needed, using
+appropriate learning strategies: Students have the opportunity to apply the
+concepts introduced during the video lectures in the context of in-class activities
+first and during a semester-long software development project second. While
+students receive in-depth instruction on software development theory, principles,
+and practices, they have to learn the related implementation technology mostly on
+their own in order to build a software system. Recitations and initial resources are
+provided to help students get started with the technologies used. However, they are
+expected to continue to explore and find additional resources on their own.
+MS-SE Program Course Policies
+University, Department, and Program policies apply in full.  Click here
+(https://docs.google.com/document/d/1IvUYkxCMzoGoSmKryLcYDDBINNv6gvOAVKSA
+usp=sharing)  to review all the policies, including grading, academic integrity,
+cheating, plagiarism, wellbeing, accommodations for students with disabilities,
+diversity, and more.

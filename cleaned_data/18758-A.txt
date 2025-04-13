@@ -1,0 +1,256 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-758: Wireless Communications 
+Fall 2024 
+ 
+ 
+Instructor: Prof. Rohit Negi  
+Office: PH B29 
+Phone: 8x6264 
+Email: negi@andrew.cmu.edu 
+Office Hours: Tuesdays and Thursdays at 11:00 a.m. – 12:00 p.m. Over Zoom (Meeting 
+ID: 994 2632 9039, Passcode: 801143). Link:   
+https://cmu.zoom.us/j/99426329039?pwd=cVU0dW9lcEN5bXBLN3JiZCtnVFlTUT09 
+Send the instructor email if you want to meet in person in PH B29 during office hours. 
+ 
+Teaching Assistant: TBA 
+Email:  
+Office Hours: Over Zoom (Meeting ID: 994 2632 9039, Passcode: 801143). Link:  
+https://cmu.zoom.us/j/99426329039?pwd=cVU0dW9lcEN5bXBLN3JiZCtnVFlTUT09 
+Send TA email if you want to meet in person during office hours. 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Class Schedule: 
+Lectures:  Tuesdays & Thursdays, 12:30 p.m. – 1:50 p.m. PH 226B 
+ 
+Pre-requisites: 18-290 or equivalent, and 36-217 or equivalent, and some exposure to 
+MATLAB. These pre-requisites are not formally enforced, but you will need to have that 
+background from your undergraduate university to understand this course material. 
+ 
+Number of Units: 12 
+ 
+Graduate Area:  Signals and Systems, Signal Processing and Communications 
+ 
+Course Description: In this course, the wireless communication problem will be 
+introduced, and channel impairments such as noise, inter-symbol interference and fading 
+will be described. Solutions to combat these impairments, based on digital communication 
+theory, will be described. These will include signal space analysis, detection, equalization, 
+
+ 
+2 
+ 
+coding and diversity, and advanced topics such as OFDM, MIMO and 5G cellular standard. 
+Examples drawn from communication standards will illustrate how the theory is 
+implemented in practical wireless communication systems. A course project will allow 
+students to implement a working digital wireless system utilizing software radio hardware. 
+ 
+Computing: 
+Some homework assignments and the course project will require the use of Matlab. This is 
+widely available on ECE machines, or you can obtain a free student license for your 
+personal computer from CMU Software. 
+ 
+Textbook: 
+Course notes will be handed out. No textbook is required. If you need a reference, you 
+could try one of the books below, but that is not required. 
+1. A. Molisch, Wireless Communications, Wiley-IEEE Press; 2nd edition, 2010. 
+2. A. Goldsmith, Wireless Communications, Cambridge University Press, 2005. 
+ 
+Course Canvas:  
+To access the course canvas, go to the login page at: https://cmu.instructure.com/. You 
+should check the course canvas daily for announcements and handouts. 
+ 
+ 
+Grading Algorithm: 
+  
+25% distributed equally among best 3 out of 4 homeworks (pre-midterm) 
+  
+25% midterm exam 
+  
+10% distributed equally among best 2 out of 3 assignments (post-midterm) 
+  
+40% course project (post-midterm) 
+ 
+While lower grade cutoffs may be used, the following maximum grade cutoffs are 
+guaranteed based on total points (NN): 
+ 
+Grade 
+NN 
+A 
+>= 90% 
+A- 
+>= 85% 
+B+ 
+>= 80% 
+B 
+>= 75% 
+B- 
+>= 70% 
+C+ 
+>= 65% 
+C 
+>= 60% 
+C- 
+>= 55% 
+D+ 
+>= 50% 
+D 
+>= 45% 
+D- 
+>= 40% 
+R 
+< 40% 
+ 
+
+3 
+ 
+Brief List of Topics Covered: 
+Introduction 
+1. The communication problem 
+⎯ 
+A simple system design 
+2. Math tools  
+⎯ 
+Linear algebra, probability, Fourier transforms 
+3. Wireless channel impairments 
+⎯ 
+Simple system design does not work 
+4. The microwave channel ⎯ 
+Popular for wireless communications 
+ 
+Wireless communication system design 
+5. Baseband modulation, demodulation and detection 
+⎯ 
+Digital to analog and 
+back 
+6. Passband modulation, demodulation 
+⎯ 
+mixers for wireless 
+7. Detection, Signal space representation 
+⎯ 
+Guessing bits in noise, Analyzing 
+BER  
+8. Signal constellations 
+ 
+⎯ 
+PAM, PSK and QAM for efficiency  
+9. Synchronization ⎯ 
+What are 𝑓𝑐 and T ? 
+10. Equalization 
+⎯ 
+To convert an ISI  channel to AWGN channel 
+11. Types of equalizers 
+⎯ 
+ZF/MMSE, LE/DFE  
+12. z-transforms 
+⎯ 
+Math for equalizers 
+13. Adaptive algorithms 
+⎯ 
+The LMS algorithm 
+14. Channel coding 
+⎯ 
+To reduce BER 
+15. Convolutional codes 
+⎯  
+Commonly used channel codes 
+16. The Viterbi algorithm 
+⎯ 
+To decode convolutional codes 
+17. Channel fading 
+⎯ 
+Major wireless channel impairment 
+18. Diversity ⎯ 
+Deals with channel fading 
+  
+ 
+Advanced topics (as time permits) 
+19. OFDM 
+ ⎯ 
+Frequency domain communication 
+20. Smart antennas and MIMO 
+⎯ 
+Many antennas 
+21. 5G standard   
+⎯ 
+Cellular communications 
+22. Spread Spectrum  ⎯ 
+Covert communications 
+ 
+ 
+ 
+ 
+
+ 
+4 
+ 
+Homeworks: 
+• Homeworks or Assignments will be handed out on Tuesdays or Thursdays and 
+will be due in one week, by 11:59 pm on the due date marked on the homework or 
+assignment.  
+• Homeworks will typically require in-depth understanding of topics and more 
+work, and will be handed out in the first half of the semester. Scan your 
+homework and upload it to Canvas (under ‘Assignments’), preferably a single file 
+in pdf format. If you upload single images, label their filenames with the page 
+number, as h1.jpg, h2.jpg, etc. Matlab code should be uploaded as *.m file, and 
+also as a pdf or image file for visual inspection in Canvas. 
+• Assignments (as opposed to ‘Homeworks’) will be short, with multiple-choice 
+type answers for most questions, and will only test awareness of topics. These 
+will be used in the second half of the semester, since the course project will 
+occupy most of your time then. Assignments can be done interactively directly 
+in Canvas. 
+• Graded Homeworks and Exams can be downloaded from Canvas. 
+• No late submissions are allowed without prior permission, and permission will only 
+be granted in the most extreme situations. 
+• Since no late submissions are allowed, your lowest Homework score will be 
+dropped and your lowest Assignment score will also be dropped, as specified in the 
+Grading Algorithm.  
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+ 
+1. 
+an ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics: 
+The course applies undergraduate calculus, probability and linear systems theory, along 
+with engineering design principles and trade-offs, to the design of digital wireless 
+communication systems. 
+ 
+2. 
+an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, cultural, 
+social, environmental, and economic factors: 
+Homeworks, exams and a course project pose questions about communication 
+system design using the principles learnt in class. A discussion of the 
+“commons” issue in communications (especially wireless) is provided, in the 
+context of usage of spectrum. 
+ 
+3. 
+an ability to communicate effectively with a range of audiences. 
+The course project requires presentations to elaborate on the system designed 
+and to explain any new technology that has been implemented. 
+ 
+6. 
+an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions:  
+A project component allows adaptive learning by transmitting, receiving and analyzing 
+
+5 
+ 
+signals sent through a communication channel. 
+ 
+7. 
+an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: 
+A part of the course project is to read research papers to understand a technology and 
+then implement it. 
+ 
+ 
+ 
+Course-specific

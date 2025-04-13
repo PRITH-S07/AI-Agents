@@ -1,0 +1,384 @@
+1 
+                                                                                                                       
+Course Syllabus 
+18-416/18-616/42637: Nano-Bio-Photonics 
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Maysam Chamanzar  
+Office Location:   
+REH 331 
+Email Address:   
+mchamanz@andrew.cmu.edu 
+Office Hours:  
+Tuesday 11 AM-12 PM 
+ 
+Teaching Assistant: Xiang Li 
+Office Location:   
+HH B-121 
+Email Address: 
+xli7@andrew.cmu.edu 
+Office Hours:  
+TBD based on poll 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html
+
+ 
+2 
+ 
+ 
+Course Description:  
+ 
+Light can penetrate biological tissue non-invasively. Most of the available bio-optic tools are 
+bulky. With the advent of novel nanotechnologies, building on-chip integrated photonic devices 
+for applications such as sensing, imaging, neural stimulation, and monitoring is now a possibility. 
+These devices can be embedded in portable electronic devices such as cell phones for point of care 
+diagnostics. This course is designed to convey the concepts of nano-bio-photonics in a practical 
+way to prepare students to engage in emerging photonic technologies. 
+ 
+The course starts with a review of electrodynamics of light waves. The appropriate choice of 
+wavelength and material platform is the next topic. Then optical waveguides and resonators are 
+discussed. Resonance-based sensing is introduced followed by a discussion of the Figure of Merits 
+(FOMs) used to design on-chip sensors. Silicon photonics is introduced as an example of a CMOS-
+compatible platform. On-chip spectroscopy is the next topic. 
+ 
+The second part covers nano-plasmonics for bio-detection and therapy. The design methods are 
+discussed, followed by an overview of nanofabrication and chemical synthesis, and then a 
+discussion of applications. 
+ 
+The last part of this course will be dedicated to the application of optics in neuroscience. We will 
+discuss concepts of neurophotonics, Methods such as Optogenetic neural stimulation, Calcium 
+imaging and Cancer Imaging and Therapy and the state-of-the-art neurophotonic technologies for 
+neuroscience will be discussed. 
+ 
+ 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18-300, senior undergraduate or graduate standing 
+ 
+Undergraduate Course Designation: Depth 
+ 
+Undergraduate Course Area: Device Sciences and Nanofabrication 
+ 
+Class Schedule: 
+Lecture: 
+Tuesday and Thursday 
+9:30am-10:50 am 
+ 
+ 
+ 
+Textbooks:  
+ 
+Integrated Photonics, Authors: Clifford Pollock and Michal Lipson  
+Springer Science & Business Media, 2013  
+ 
+Plasmonics: Fundamentals and Applications, Stefan Alexander Maier  
+Springer Science & Business Media, May 16, 2007 - Technology & Engineering  
+
+ 
+3 
+ 
+ 
+Other Supplemental Materials: Scientific Papers will be made available to students during 
+class.  
+ 
+Brief List of Topics Covered: Biophotonic sensors, Integrated photonics, Waveguides, 
+Resonators, Nano-plasmonics, LSPR sensors, Raman Spectroscopy, SERS, Resonator-based 
+sensors, Surface chemistry, Biosensing, Optogenetic stimulation of brain, lab-on-chip, point-of-
+care diagnostics. Optogenetics, Calcium imaging, Neurophotonics, Numerical simulation of 
+photonic waveguides, resonators, and plasmonic structures. 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.instructure.com/. You should check the course canvas daily for announcements and 
+handouts.  
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Assignments:  
+Homework problem sets will need to be turned in on or before the due dates. Solutions will be 
+graded by the teaching staff and some of the problems will be discussed in class. The numerical 
+simulation part of homework is not required for the undergraduate level. 
+ 
+ 
+Term Project:  
+Projects will be assigned to groups of students (1-3 students each group). Students who have 
+signed up for the graduate level are required to carry out a more in-depth project, whereas 
+students in the undergraduate section are expected to carry out a survey-type project. The project 
+has three phases: 
+ 
+Phase I: During this phase, students will pick up their project topic, form the teams, and will lay 
+out the plan for the project. 
+ 
+Phase II: During this phase, students will perform literature survey, will perform initial analysis 
+and modeling, and will prepare a progress report. 
+ 
+Phase III: During this phase, students will complete their project, will write a comprehensive 
+report and will give presentations in class. 
+ 
+*The deliverables for each phase are due at the times indicated on course calendar. 
+ 
+** Students are required to meet with Prof. Chamanzar or the teaching staff during 
+office hours (or by appointment) before the due dates to discuss their projects. 
+ 
+
+ 
+4 
+ 
+ 
+ 
+ 
+Grading Algorithm:  
+Different grading algorithms will be used for the graduate and the undergraduate levels. 
+ 
+ 
+Graduate (18-616/42637) 
+Undergraduate (18-416) 
+ 
+20% Assignments  
+25% Assignments  
+ 
+35% Exam   
+45% Exam   
+ 
+5% Bonus credit  
+5% Bonus credit  
+ 
+45% Project  
+30% Project 
+ 
+The maximum possible grade for the graduate and undergraduate level is 105. While lower 
+cutoffs may be used, the following maximum grade cutoffs are guaranteed: 
+ 
+Final Score Grade  
+> 90 A  
+> 80 B  
+> 70 C  
+> 60 D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Note 
+January 
+ 
+14 
+Tues. 
+Introduction: Why Nano-bio-photonics? Basic concepts and 
+scales  
+ 
+16 
+Thurs. 
+Review of Lightwaves: Maxwell’s equations, Wave equation, 
+Boundary conditions for Dielectric Interfaces 
+ 
+21 
+Tues.  
+Integrated photonic waveguides: concept, analysis and modeling 
+of waveguides 
+ 
+23 
+Thurs. 
+Dispersion and loss in optical waveguides 
+ 
+28 
+Tues. 
+Waveguide devices 
+ 
+30 
+Thurs. 
+Mach Zehnder interferometers 
+HW1 
+Feb 
+ 
+ 
+4 
+Tues 
+Numerical simulation of WG modes 
+Xiang 
+6 
+Thurs. 
+Waveguide-based sensors 
+ 
+11 
+Tues. 
+Fabrication and characterization of waveguides  
+Projects Phase I 
+13 
+Thurs. 
+Integrated photonic resonators 
+ 
+18 
+Tues. 
+Whispering Gallery resonators 
+HW2 
+20 
+Thurs. 
+Resonance-based sensors: design, fabrication, and figures of 
+merit, sensitivity, and detection limit 
+ 
+25 
+Tues. 
+Sensor specificity: Surface chemistry  
+Challenges of resonance-based sensors: Temperature drift, 
+fabrication imperfections 
+ 
+27 
+Thurs. 
+Plasmonics: elements of nano-optics 
+ 
+March 
+ 
+ 
+3-7 
+Mon-
+Fri 
+Spring Break 
+ 
+11 
+Tues. 
+Surface plasmon polaritons, SPR sensors 
+ 
+13 
+Thurs. 
+Synthesis and fabrication of nanoplasmonic structures 
+HW3 
+18 
+Tues. 
+Applications in cancer therapy: Photothermal therapy 
+ 
+20 
+Thurs. 
+Surface Enhanced Raman Spectroscopy (SERS) 
+Projects Phase II 
+25 
+Tues. 
+Neuro-photonics: new frontiers for brain interfacing 
+ 
+27 
+Thurs. 
+Numerical simulations of micro-resonators 
+Xiang 
+April 
+ 
+1 
+Tues. 
+Optogenetics: Method, challenges and opportunities 
+HW4 
+3 
+Thurs. 
+Spring Carnival – No Classes 
+ 
+8 
+Tues. 
+Implantable active and passive neurophotonic devices: 
+requirements, challenges and opportunities.  
+Examples: fiber optics, implantable waveguide neural probes and 
+uLEDs 
+ 
+10 
+Thurs. 
+Imaging brain in action: functional optical imaging based on Ca 
+and voltage-sensitive indicators) 
+HW5 
+15 
+Tues. 
+Miniscopes for endoscopic functional imaging 
+ 
+17 
+Thurs. 
+2-photon and multi-photon neural imaging 
+Hybrid optical modalities for neural interfacing 
+HW6 
+22 
+Tues.  
+Project presentations 
+Xiang 
+24 
+Thurs. 
+Project presentations 
+Projects Phase III 
+Take-home EXAM, 
+Xiang 
+ 
+ 
+
+ 
+6 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+ 
+ 
+1. An ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics: Permeates course through 
+discussion of fundamentals and practical aspects of Nano-bio-photonics. 
+Problems are posed in terms of real world object whenever possible. 
+ 
+2. An ability to apply engineering design to produce solutions that meet specified needs 
+with consideration of public health, safety, and welfare, as well as global, cultural, social, 
+environmental, and economic factors: Examples of real world biosensors will be 
+discussed in the class, through which students will gain insight into the design 
+criteria, challenges, and limitations. 
+ 
+3. An ability to communicate effectively with a range of audiences: Course projects 
+encompass interdisciplinary topics and foster teamwork among students. 
+ 
+4. An ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of engineering 
+solutions in global, economic, environmental, and societal contexts. 
+ 
+5. An ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan tasks, 
+and meet objectives: Opportunity for performing a team project and presenting the 
+projects and preparing lecture summaries. 
+ 
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret 
+data, and use engineering judgment to draw conclusions: Some discussion of value of 
+memorization of fundamental relationships versus use of analysis from first 
+principles. Discussion of many application domains from subject. 
+ 
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning 
+strategies.: Discussion of application of nano-photonics to many areas of 
+contemporary technology is part of the course. 
+ 
+ 
+ECE

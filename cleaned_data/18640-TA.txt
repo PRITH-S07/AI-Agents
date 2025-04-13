@@ -1,0 +1,280 @@
+1 
+ 
+ 
+ 
+ 
+ 
+Course Syllabus 
+18-340/18-640: Hardware Arithmetic for Machine Learning 
+Fall 2024 
+ 
+Instructor: Prof. Shawn Blanton, HH2109, rblanton@andrew.cmu.edu, 412.268.2987 
+Course Academic Services: ece-asc@andrew.cmu.edu, 1113 Hamerschlag Hall. 
+Office Hours ZOOM:  Use this ZOOM URL for Prof. Blanton’s office hours.  
+Live session and Recitation: 11:00am-12:20pm, Wednesday and Friday. 
+Course Location: Wean Hall, Room 5421 
+Classroom ZOOM: Use this ZOOM URL for Wednesday and Friday classroom sessions. 
+Canvas Site: All course materials can be found on the course canvas site. 
+Gradescope: Assignments will be collected and returned using our Gradescope site.  
+Piazza: For course related discussions, questions and answers we will use piazza. Connect to 
+our piazza page here.  
+ 
+ 
+Name 
+Shawn Blanton 
+Prabhu Vellaisamy 
+Ruben Purdy 
+Cassie Pfannenstiel 
+ 
+ 
+Mug 
+Shots 
+ 
+ 
+ 
+Office 
+Hours 
+Virtually any time 
+(just email me) 
+Wednesday 
+2pm – 4pm 
+Tuesday 
+3pm – 5pm 
+M - F 
+8:30am – 5:00pm 
+Where 
+ZOOM 
+HH 1308 
+HH 1308 
+HH 1113 
+Email 
+rblanton@andrew 
+pvellais@andrew 
+rpurdy@andrew cpfannen@andrew 
+ 
+Number of Units: 12 
+ 
+Course prerequisites: 
+Course in logic design (18-240 or equivalent). Students should also be familiar with computer 
+organization and have the capability to understand and use the System Verilog design language. 
+ 
+Prerequisite for: 18-447, 18-525, 18-540, 18-745, 18-765 
+Undergraduate Course Designation: Breadth, Coverage 
+Undergraduate Course Area: Computer Hardware 
+ 
+Textbook: 
+The textbook for this course is titled Computer Arithmetic: Algorithms and Hardware Designs, 2nd 
+Edition authored by Behrooz Parharmi and published by Oxford Press. In addition, extra materials will 
+be made available to supplement the textbook, especially those not covered by Parharmi. 
+ 
+ 
+
+2 
+ 
+ 
+Course Description: 
+In this course, students explore the techniques for designing high-performance digital circuits for 
+computation along with methods for evaluating their characteristics. We begin by reviewing number 
+systems and digital arithmetic along with basic arithmetic circuits such as ripple-carry adders. From 
+there, we move to more complex adders (carry-look- ahead, carry-skip, carry-bypass, etc.), multipliers, 
+dividers, and floating-point units. For each circuit introduced, we will develop techniques and present 
+theory for evaluating their functionality and speed. Other methods will be described for analyzing a 
+circuit's power consumption, testability, silicon area requirements, correctness, and cost. In addition, 
+we will utilize various CAD tools to evaluate the circuits described. Finally, advanced timing and 
+clocking concepts will be investigated. For example, the notion of clock skew will be introduced and 
+its impact on clock period for sequential circuits will be analyzed. We will also learn how to analyze 
+and design asynchronous circuits, a class of sequential circuits that do not utilize a clock signal. All 
+course projects (except project 0) focus on key arithmetic aspects of various machine learning 
+algorithms including: K-nearest neighbors, neural networks, decision trees, and support vector 
+machines. The course also features guest speakers from both industry and academia; these are experts 
+in their respective fields that will provide insight on the state-of-the-art related to the foundational 
+topics covered in the course.  
+ 
+Grading: 
+Grades will be assigned based on the following assignments*: 
+a) Three exams and a final exam – 20% total 
+b) Seven homework assignments – 30% total 
+c) Lecture Quizzes – 5% total 
+d) FCE Evaluation Completion – 3% total 
+e) Attendance – 2% total (80% or better attendance receives the full 2%) 
+f) Mini projects for each student – 40% total 
+*Your lowest exam score and homework score will be dropped from grade consideration. Lecture quizzes 
+are graded liberally, that is, getting most answers right earns 100%.  
+ 
+Course Calendar: See the course canvas site for the detailed course schedule.  
+ 
+Gradescope:  
+In this course, we will be using Gradescope (a tool accessed through our Canvas course) to grade and 
+provide feedback on assignments and exams. This will allow your graders to provide more timely and 
+effective feedback. It also promotes fairer grading practices by facilitating anonymous grading and 
+question-by-question (rather than student-by-student) grading. In addition, Gradescope makes it easy 
+for you to access and review all your (graded) work. Our link to Gradescope is here. 
+ 
+During the semester, students will use Gradescope to (a) submit work online, (b) view feedback and 
+scores on graded work, and (c) make a re-grade request within prescribed guidelines. To access 
+Gradescope, simply log on to our course’s Canvas site and click on the Gradescope assignment(s) link. 
+ 
+This website (www.cmu.edu/teaching/gradescope/) provides students with more information on 
+using Gradescope, including how to scan assignments via your mobile device, where to find 
+copier/scanners around campus, and how to submit assignments online to Gradescope.  
+ 
+Note: A key step in submitting your work to Gradescope is getting a high-quality scan (i.e., digitized 
+version) of your work. Be sure to take the following important policies and procedures into account 
+whenever you are submitting work to Gradescope:  
+ 
+• 
+If you are writing your assignment by hand (on paper), be sure to use a dark pencil or pen, and 
+write clearly! 
+
+3 
+ 
+• 
+When you upload your work to Gradescope, be sure to (a) indicate where each question is 
+located within your submission via the click-and-select Gradescope interface and (b) after you 
+submit, review each page of your uploaded submission to make sure everything is clear and 
+legible. 
+• 
+Give yourself some extra time to prepare and submit your assignment online to Gradescope, 
+especially for the first few assignments when you are still getting familiar with it. (See 
+“Assignment 0”: it is designed to give you a chance to practice a successful Gradescope 
+submission workflow you can use throughout the semester.)  
+• 
+Keep a soft copy of each scanned assignment for your records. 
+• 
+Technical issues related to Gradescope, email: canvas-help@andrew.cmu.edu. 
+• 
+Important grading policy: If the grader cannot read your submission, there is no way to award 
+points, so the default grade will be 0. 
+ 
+Grace Days: Each student is issued 5 grace days. A grace day is a 24-hour period that provides grace 
+on late homework assignments or projects. In other words, if you employ a grace day, there will be no 
+late penalty applied. You can use the 5 days any way you like. For example, you can apply all 5 days to 
+one assignment, or one day each to 5 different assignments. Grace days cannot be split however and 
+thus must be used in whole-day increments. This means even if you an hour late, and you decide to 
+use a grace day, then you must use an entire day. Finally, to use a grace day, you must inform us within 
+24 hours of turning in your late assignment. This means using grace days later in the semester for 
+already turned-in assignments is not allowed. 
+ 
+Cheating 
+Don’t do it. Any and all students involved with copying homework, design projects, or exams will (in 
+the least) receive no credit for that assignment. Harsher penalties are possible and left to the discretion 
+of the instructor and may include course failure. All infractions are reported to the department, college 
+and university, and dropping the course prior to or after an infraction is discovered is NOT allowed 
+without the explicit permission from the instructor. Code comparison software will be used to compare 
+designs for similarities. Bottom-line: Please do you own work and do not collaborate. 
+• Extensions: Don’t ask. None will be given, especially in light of the grace days provided. 
+Exceptions only for legitimate circumstances. For e.g., a job interview is not a legitimate reason 
+for an extension. 
+• Late Assignments: 10 points deduction per day (weekend days count). 
+• Grading Appeals: If you believe there is a mistake in grading of any assignment, then bring it to 
+our attention so that we correct. Grade appeal requests must be submitted in writing within one 
+week of receiving back the graded assignment. Appeals may be made using Gradescope or Piazza 
+(in a private post). 
+• Re-scheduling: Don’t ask. No requests to take exams early or late will be granted to accommodate 
+personal schedules, interviews, etc. 
+ 
+Accommodations for Students with Disabilities 
+If you have a disability and are registered with the Oﬃce of Disability Resources, please come and talk 
+to me to discuss your needs.  You will also need to use the online system to formally notify me of your 
+accommodations. I will work with you to ensure that accommodations are provided as appropriate. 
+ 
+If you suspect that you may have a disability and would benefit from accommodations but are not yet 
+registered with the Oﬃce of Disability Resources, contact them at access@andrew.cmu.edu. 
+ 
+Your Health and Well Being 
+Things at CMU can get stressful at times. Please remember to take good care of yourself! Now more 
+than ever, with the additional sources of stress this semester, it is important for you to stay healthy, 
+and to reach out to your support network and to other resources that can help you when things start 
+feeling difficult. Know that you are not alone - all of us can feel overwhelmed at times (especially at a 
+
+4 
+ 
+time like this), and all of us benefit from help and support during those times. Even though some of 
+you are away from campus, there are still several resources that we encourage you to make use of if 
+you are going through any sort of struggle. Sometimes, even if you don't think that you need it, or that 
+it’s not serious enough to warrant reaching out, you may be surprised at how friends, family, course 
+staff, and professionals can help you - consider reaching out to any of them you trust for help, or to get 
+connected to resources that can provide the help you could use. An excellent resource at CMU is 
+Counseling and Psychological Services (CaPS) - they are excellent listeners, and can help you through 
+a wide variety of situations (including ones that many of you may not consider when you hear the 
+terms counseling and psychology). CaPS is available for students on and off campus, and can help you 
+with situations such as academic stress, difficult life events, or feelings such as anxiety or depression.  
+ 
+Counseling and Psychological Services (CaPS)  
+https://www.cmu.edu/counseling/ 
+(412) 268-2922 
+ 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, 
+day or night: 
+ 
+CaPS: (412) 268-2922,  
+Resolve Crisis Network: (888) 796-8226 
+ 
+If the situation is life threatening, call the police: 
+On campus: CMU Police: (412) 268-2323 
+Off campus: 911  
+ 
+Finally, if you have any questions about this, or would like to talk, please do not hesitate to reach out 
+to one of us. 
+ 
+Diversity and Inclusion 
+The ways we are diverse are many and are critical to excellence and an inclusive community. They include but 
+are not limited to: race, color, national origin, sex, disability, age, sexual orientation, gender identity, religion, 
+creed, ancestry, belief, veteran status, or genetic information. We at CMU, will work to promote diversity, 
+equity, and inclusion because it is just and necessary for innovation.  Therefore, while we are imperfect, we 
+will work inside and outside of our classrooms, to increase our commitment to build and sustain a community 
+that embraces these values. 
+ 
+It is the responsibility of each of us to create a safer and more inclusive environment. Bias incidents, whether 
+intentional or unintentional in their occurrence, contribute to creating an unwelcoming environment for 
+individuals and groups at the university. If you experience or observe unfair or hostile treatment on the basis 
+of identity, we encourage you to speak out for justice and support in the moment and and/or share your 
+experience anonymously using the following resources: 
+ 
+Center for Student Diversity and Inclusion: 
+csdi@andrew.cmu.edu 
+(412) 268-2150 
+www.cmu.edu/student-diversity  
+ 
+Report-It online anonymous reporting platform: 
+www.reportit.net 
+username: tartans 
+password: plaid 
+ 
+All reports will be acknowledged, documented and a determination will be made regarding a course of action.” 
+
+5 
+ 
+All experiences shared will be used to transform the campus climate.  As someone who served as Associate 
+Dean and Vice Provost of Diversity, Equity, and Inclusion, feel welcome to speak with me as well. 
+ 
+Education Objectives 
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines seven 
+Educational Objectives that are fulfilled by the sum total of all the courses you successfully complete. The 
+following list describes which objectives are fulfilled by 18-340 and in what manner they are fulfilled. 
+Note, 18-640 is not included here because ABET focuses on undergraduate education only. The objectives 
+are numbered from “1” through “7” in the standard ABET parlance. The objectives not fulfilled by 18-340 
+have been omitted from the following list. 
+ 
+(1) An ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics:  The course requires students to complete 
+homework, quizzes, exams and sophisticated design projects. All of these assignments required the 
+aforementioned skills. 
+ 
+(2) An ability to apply engineering design to produce solutions that meet specified needs with 
+consideration of public health, safety, and welfare, as well as global, cultural, social, 
+environmental, and economic factors: Students are required to complete sophisticated digital designs 
+that meet performance and cost goals. Consequently, some manufacturability and economic factors to 
+digital design are discussed.  
+ 
+(3) An ability to communicate eﬀectively with a range of audiences: Homework requires students to 
+present their solutions in a clear and concise manner. Project reports also exercises their ability to clearly 
+communicate to course staff. Oral communication is required among students, with course staff and 
+formally in the presentation of their final project to the entire class.  
+ 
+(6) An ability to develop and conduct appropriate experimentation, analyze and interpret data, 
+and use engineering judgment to draw conclusions: These abilities are absolutely necessary for 
+creating test-benches for the project designs. Test-benches produce data that must be analyzed and 
+interpreted in order to remove design bugs, and to ensure correct functionality. 
+ 
+ECE

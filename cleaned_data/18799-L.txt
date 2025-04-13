@@ -1,0 +1,337 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-799-L: Special Topics in Signal Processing: Robotics – Principles and Practice 
+Fall 2024 
+Instructor: 
+ 
+David Vernon 
+Office Location: 
+D205 
+Email Address: 
+vernon@cmu.edu 
+Office Hours:  
+Wednesdays from 2:00 pm to 4:00 pm 
+ 
+Teaching Assistant: Adedayo Akinade 
+Email Address: 
+aakinade@andrew.cmu.edu 
+Office Hours:  
+Fridays from 11 am to 1 pm
+ 
+ 
+Course Description: 
+The course covers the essentials of mobile robotics and robot manipulation, providing a solid 
+foundation for further study in the field.  It begins with a general overview of the different types 
+of robot and the components, effectors, actuators, sensors, and control systems that are used for 
+locomotion and manipulation.  It then covers the key elements of mobile robots, robot 
+manipulators, and robot vision, and their practical implementation using ROS (Robot Operating 
+System), C/C++, and OpenCV.  The first part of the course focusses on establishing a solid 
+understanding of the main principles of odometry, position estimation, kinematics, inverse 
+kinematics, control, locomotion, path planning, navigation, pose specification, manipulation, 
+task-level robot programming, visual sensing, image processing, camera calibration, and 2D & 
+3D computer vision. This part of the course uses robot simulators for exercises and assignments.  
+In the second part of the course, students gain hands-on practical experience by using these 
+principles with physical robots in team-based projects and exercises. 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+None 
+ 
+Class Lecture: 
+Monday and Wednesday 
+10:00 am – 11:50 pm F305 
+ 
+Required Textbook: 
+None. 
+ 
+Suggested Reading: 
+
+ 
+2 
+ 
+C. Bartneck, T. Belpaeme, F. Eyssel, T. Kanda, M. Keijsers, S. Šabanović. Human-Robot 
+Interaction – An Introduction, Cambridge University Press, 2020. Chapter 3: How a Robot 
+Works. https://www.human-robot-interaction.org/download/170/ 
+ 
+P. Corke. Robotics, Vision and Control. Springer, 2nd Edition, 2017. 
+ 
+M. Mataric, The Robotics Primer, MIT Press, 2007. 
+ 
+J. M. O'Kane. (2018). A Gentle Introduction to ROS. 
+ 
+D. Vernon, Machine Vision: Automated Visual Inspection and Robot Vision, Prentice-Hall, 1991. 
+ 
+Reference Materials:   
+R. Murphy (2000). Introduction to AI Robotics, MIT Press. 
+ 
+R. Paul (1981). Robot Manipulators: Mathematics, Programming, and Control. MIT Press. 
+ 
+R. Szeliski (2010). Computer Vision: Algorithms and Applications, Springer. 
+ 
+Brief List of Topics Covered: Types of robot, effectors, actuators, sensors, and control systems. 
+Mobile robots: odometry, position estimation, kinematics, inverse kinematics, control, 
+locomotion, path planning, navigation. Robot manipulators: pose specification, manipulation, 
+task-level robot programming. Robot vision: visual sensing, image processing, camera 
+calibration, and 2D & 3D computer vision. ROS (Robot Operating System) and OpenCV. 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas daily for 
+announcements and handouts.  
+ 
+Course Website: 
+Support material, including general resources and a software installation guide, are provided on the 
+course wiki: http://www.vernon.eu/wiki/Robotics:_Principles_and_Practice. 
+ 
+Grading Algorithm:  
+10% 
+Assignment 1 (individual) 
+10% 
+Assignment 2 (individual) 
+10% 
+Assignment 3 (individual) 
+10% 
+Assignment 4 (individual) 
+10% 
+Assignment 5 (group) 
+10% 
+Exercises 
+10% 
+Mid-semester test 
+30% 
+Final 
+ 
+ 
+ 
+
+ 
+3 
+ 
+Course Calendar:  
+Date 
+Day 
+Class Activity 
+August 
+26 
+Mon. 
+Module 1: Introduction and Robot Components 
+Lecture 1. Course preliminaries. What is a robot? Types of robot. The many areas of 
+robotics.  
+Lecture 2. A short history of robotics. 
+28 
+Wed. 
+Module 1: Robot Components 
+Lecture 1. Physical embodiment, sensors. 
+Lecture 2. Actuators. 
+September 
+ 
+2 
+Mon. 
+Module 1: Introduction and Robot Components 
+Lecture 3. Effectors for locomotion and manipulation. 
+Lecture 4. Control systems; closed-loop control and PID control. 
+4 
+Wed. 
+Module 2: The Robot Operating System (ROS) 
+Lecture 1. Installation and overview of the software development environment for 
+assignments. 
+Lecture 2. Introduction to ROS (Robot Operating System); the Turtlesim turtlebot 
+simulator. 
+9 
+Mon. 
+Module 2: The Robot Operating System (ROS) 
+Lecture 3. Writing ROS software in C++: publishers and subscribers. 
+Lecture 4. Writing ROS software in C++: services 
+11 
+Wed. 
+Module 3: Mobile Robots 
+Lecture 1. Locomotion vs navigation; challenges of navigation: localization, search, 
+path planning, coverage, SLAM. 
+Lecture 2. Absolute position estimation. 
+16 
+Mon. 
+Module 3: Mobile Robots 
+Lecture 3. Relative position estimation using inertial sensors.  
+Lecture 4. Relative position estimation using odometry 
+18 
+Wed. 
+Module 3: Mobile Robots 
+Lecture 5. Kinematics of a two-wheel differential drive robot. 
+Lecture 6. The go-to-position problem; divide-and-conquer controller. 
+23 
+Mon. 
+Module 3: Mobile Robots 
+Lecture 7. The go-to-position and go-to-pose problems; MIMO controllers. 
+Lecture 8. Path planning: the wavefront algorithm to find a shortest path on a map using 
+breadth-first search for unweighted graphs. 
+25 
+Wed. 
+Module 3: Mobile Robots 
+Lecture 9. Dijkstra's algorithm for weighted graphs. 
+Lecture 10: A* algorithm; other search approaches. 
+30 
+Mon. 
+Module 4: Robot Manipulators 
+Lecture 1. Robot programming; coordinate frames of reference and homogenous 
+transformations. 
+Lecture 2. Object pose specification with homogenous transformations and vectors & 
+quaternions. 
+October 
+2 
+Wed. 
+Module 4: Robot Manipulators 
+Lecture 3. Robot programming by frame-based task specification. 
+Lecture 4. Pick-and-place example of task-level robot programming. 
+7 
+Mon. 
+Module 4: Robot Manipulators 
+Lecture 5. Implementation of the pick-and-place example for a Lynxmotion AL5D robot 
+arm using the Frame class in C++. 
+Lecture 6. Forward kinematics; Denavit-Hartenberg representation; forward kinematics 
+of the LynxMotion AL5D arm. 
+9 
+Wed. 
+Module 4: Robot Manipulators 
+Lecture 7. Inverse kinematics; analytical vs. numerical solution to inverse kinematics; 
+
+ 
+4 
+ 
+Inverse kinematics of the LynxMotion AL5D arm. 
+Lecture 8. Manipulator velocity; manipulator Jacobian. 
+14 
+Mon. 
+Fall break; no classes 
+16 
+Wed. 
+Fall break; no classes 
+24 
+Mon. 
+Mid-semester test 
+23 
+Wed. 
+Module 5: Robot Vision 
+Lecture 1. Computer vision; optics and sensors; image acquisition; image representation. 
+Lecture 2. Image processing. 
+28 
+Mon. 
+Module 5: Robot Vision 
+Lecture 3. Introduction to OpenCV. 
+Lecture 4. Segmentation; region-based approaches; feature-based thresholding; graph 
+cuts. 
+30 
+Wed. 
+Lab Exercise 1.  Write a program that controls the iRobot Create2 so that it drives in a 
+square with side 1.2 m. 
+November 
+4 
+Mon. 
+Module 5: Robot Vision 
+Lecture 5. Segmentation; boundary-based approaches; edge detection. 
+Lecture 6. Image analysis; feature extraction. 
+6 
+Wed. 
+Lab Exercise 2.  Write a program that controls the iRobot Create2 so that it drives in a 
+circle of radius 0.6 m. 
+11 
+Mon. 
+Module 5: Robot Vision 
+Lecture 7. K-nearest neighbour, minimum distance, linear, maximum likelihood and 
+Bayes classifiers. 
+13 
+Wed. 
+Lab Exercise 3. Make the iRobot Create 2 stop when one of the front bumpers hits 
+something,  turn 180 degrees, and then continue with the next goto command. 
+18 
+Mon. 
+Module 5: Robot Vision 
+Lecture 8. Perspective transformation; camera model; camera calibration. 
+20 
+Wed. 
+Lab Exercise 4.  Adapt Assignment 4 to compute the pose of three tubes using a  USB 
+camera. 
+25 
+Mon. 
+Module 5: Robot Vision 
+Lecture 9. Inverse perspective transformation. 
+27 
+Wed. 
+Lab Exercise 5.  Implement Assignment 3 to stack three bricks with a physical 
+Lynxmotion AL5D robot. Thanksgiving holiday; no classes. 
+December 
+2 
+Mon.  
+Lecture 10. Stereo vision; epipolar geometry. 
+4 
+Wed. 
+Lab Exercise 5.  Combine Assignment 3 and Exercise 4 to implement the pickAndPlace 
+application using a  physical Lynxmotion AL5D robot and a USB camera. 
+9-13 
+ 
+Final Examinations 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you 
+take.  The following list describes which objectives are fulfilled by this course and in what 
+manner they are fulfilled. The objectives are numbered from “1” through “7” in the standard 
+ABET parlance. Those objectives not fulfilled by this course have been omitted from the 
+following list: 
+ 
+1.   
+an ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics: the course poses many problems 
+both as exercises and, in particular, in practical robot programming assignments, addressing 
+spatial localization, robot locomotion and navigation, robot manipulation, and computer 
+vision. It builds on formal representation of pose with both homogeneous transformations, 
+vectors, and quaternions, as well as robot kinematics and inverse kinematics.  Solutions use 
+task level robot programming based on C/C++. 
+2.  
+an ability to apply engineering design to produce solutions that meet specified needs 
+with consideration of public health, safety, and welfare, as well as global, cultural, 
+social, environmental, and economic factors: assignments are presented as a set of 
+functional requirements with clearly specified acceptance tests; students’ solutions must 
+meet these specifications by appropriate application of analysis, design, implementation, 
+and boundary-case testing. 
+ 3. 
+an ability to communicate effectively with a range of audiences: communication skills 
+are mainly exercised though the need for effective collaboration on team-based 
+assignments.  
+5. 
+an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives: students will operate in three-person teams for the concluding 
+project. These are not multi-disciplinary teams, but the students will learn how to 
+collaborate in the identification of solution strategies and system implementation through 
+effective project management. 
+6. 
+an ability to develop and conduct appropriate experimentation, analyze and interpret 
+data, and use engineering judgment to draw conclusions: exercises, assignments, and 
+the project provide the opportunity to conduct experiments, based on directed hands-on 
+tutorials and the formulation & execution of test strategies to verify and validate their 
+solution.  
+7. 
+an ability to acquire and apply new knowledge as needed, using appropriate learning 
+strategies: while the course notes provide complete coverage of the material on the course, 
+a full understanding requires the students to read, assimilate, interpret, and apply the 
+material in the recommended reading. This auxiliary learning is the key to successful 
+completion of the project in the second half of the course.  
+
+ 
+6 
+ 
+ 
+ECE

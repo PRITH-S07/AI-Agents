@@ -1,0 +1,288 @@
+1 
+                                                                                                                       
+ 
+ 
+Schedule of Topics 
+18-733: Applied Cryptography 
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Virgil Gligor 
+Office Location: 
+CIC 2122 
+Email Address: 
+gligor@cmu.edu 
+Office Hours:  
+Mon–Wed 1:30 - 2:30 PM (and by appointment at other times) 
+ 
+Teaching Assistant: TBD 
+Email Address: 
+ 
+Office Hours:  
+ 
+Course Management Assistant: TBD 
+Email Address:  
+ 
+Office Location:  
+HH 1112 
+ 
+ 
+
+ 
+2 
+ 
+Course Description:  
+A wide array of communication and data protections employ cryptographic mechanisms. 
+This course explores modern cryptographic techniques in some detail. The course 
+emphasizes how cryptographic mechanisms can be effectively used within larger security 
+systems, and the dramatic ways in which cryptographic mechanisms can fail. Topics 
+covered include cryptographic primitives such as block ciphers, symmetric 
+(authenticated) encryption, message authentication codes, hash functions, commitments, 
+public key encryption, digital signatures, and pseudo-random number generation. The 
+course also covers cryptographic protocols, such as key exchange, remote user 
+authentication, undeniable signatures, interactive proof systems and zero knowledge 
+proofs; threshold cryptography, oblivious transfers, and secure multi-party computations; 
+perfectly secure encryption and universal hash functions. The course also covers a variety 
+of special applications including computing on encrypted data, fully homomorphic 
+encryption, verifiable computation, and post-quantum cryptographic constructs. 
+ 
+Course Goals: 
+Provide the students with an understanding of:  
+•    Basic principles of modern cryptography. 
+• 
+Precise security deﬁnitions for cryptographic primitives and adversary models. 
+• 
+Correct use of cryptographic primitives in practice. 
+• 
+Role of cryptography within the IT security area. 
+ 
+Course relevance:  
+This course is relevant for all students who intend to work in the security and privacy 
+area. In particular, the course is relevant for students who plan to   
+• analyze cryptographic primitives of national and international standards as well 
+their specific implementation in systems, networks and applications  
+• analyse cruptographic protocols and their use in support of security and privacy 
+goals.  
+• identify vulnerabilities and countermeasures in both cryptographic primitives and 
+protocols.  
+• apply knowledge of cryptography in new applications areas, such as computing 
+on encrypted data, blockchanins, verifiable computations.  
+• undestand the theoretical and practical limits of crptography in system security 
+and privacy.   
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18-730 (or equivalent) and senior or graduate standing. 
+ 
+Prerequisite knowledge: basic logic, probability theory, algebra, modular arithmetic 
+ 
+ 
+Graduate Course Area: Algorithms/Systems/Programming Languages 
+ 
+Class Schedule: 
+
+ 
+3 
+ 
+• Lecture: 
+Pittsburgh 
+Monday and Wednesday 
+  4:00 pm -5:50  pm 
+GHC 4307 
+Silicon Valley Monday and Wednesday 
+  1:00 pm- 2:50 pm 
+B23 211 
+  
+• Recitation: 
+Pittsburgh 
+ 
+Friday  
+ 
+12:00 pm-12:50 pm 
+GHC 4307 
+Silicon Valley  
+Friday  
+ 
+  9:00 am -9:50 am 
+B23 211 
+ 
+ 
+Textbooks: 
+There is no textbook (although there are some good ones). The entire course will be 
+based on the following recommended notes and readings: 
+• 
+Introduction to Modern Cryptography (BR), by Mihir Bellare and Phillip Rogaway  
+(available on Canvas) 
+ 
+• 
+Lecture Notes on Cryptography (GB), by Shaﬁ Goldwasser and Mihir Bellare 
+(available on Canvas).  
+ 
+Recommended readings include: 
+• A Graduate Course in Applied Cryptography (BS), by Dan Boneh and Victor Shoup 
+(available on Canvas and at https://crypto.stanford.edu/~dabo/cryptobook) 
+• 
+Reference papers assigned in class. 
+ 
+Course Canvas:  
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.instructure.com/. You should check the course canvas daily for 
+announcements and handouts.  
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Grading Algorithm:  
+Tentatively, the course grade will be determined by homework/project score(s) and the 
+best two of the three exam scores; i.e., midterm 1, 2 and ﬁnal. 
+ 
+33.3% 
+Homework/projects 
+33.3% 
+Midterm 1 
+33.3% 
+Midterm 2 
+33.3% 
+Final 
+ 
+Laboratory projects are encouraged but not required in lieu of HW or a Midterm. The 
+actual grading policy will be optionally based on project work and class participation.   
+ 
+Late Policy: 
+
+ 
+4 
+ 
+No late days for homework submission. 
+ 
+Tentative Course Calendar:  
+ 
+Timeline 
+Material Covered 
+Topic Reading 
+HW 
+Week 1 
+1/13-1/17 
+Introduction: Cryptographic Protocols & Adversary 
+Models  
+Pseudorandom Function Families and bounded adversarie
+Confidentiality 
+HW1 out  
+Week 2 
+1/20-1/24 
+Block ciphers & Modes of Encryption 
+Secrecy Properties: indistinguishability, key privacy 
+BR Chapters 1-5 
+Appendix A 
+HW1 due 
+Week 3 
+1/27-1/31 
+Proof Methods: reduction proofs, hybrid reductions 
+ 
+HW2 out 
+Week 4 
+2/3-2/7 
+Authenticated Encryption 
+Cryptographic Hash Functions 
+ 
+HW2 due 
+Week 5 
+2/10-2/14 
+Message Authentication Codes (MACs) 
+Hash Functions & MAC constructions 
+Integrity &  
+Authenticity 
+HW3 out 
+Week 6 
+2/17-2/21 
+Public key crypto: RSA encryption, signatures 
+Theory introduction 
+BR Chapters 6—7 
+HW3 due 
+Week 7 
+2/24 – 2/28 
+Midterm 1 on Monday 
+Diffie-Hellman (DH) and other Hardness Assumptions; 
+Group theory basis; Midterm 2 Solutions on Friday 
+Public Key Crypto 
+ 
+BR Chapter 9 
+ 
+Week 8 
+3/3-3/7 
+Spring Break 
+ 
+ 
+Week 9 
+3/10-3/14 
+Elliptic Curve Cryptography and signature modes 
+BR Chapter 10 
+HW 4 out 
+Week 10 
+3/17-3/21 
+Elliptic Curve Cryptography and signature modes 
+Cryptography 
+Notes 
+HW 4 due 
+ 
+Week 11 
+3/24-3/28 
+ 
+Undeniable Signatures & Blinding  
+ 
+BR Chapters 9-12 
+ 
+ 
+Week 12 
+3/31-4/4 
+Interactive Proof Systems; Knowledge (ZK) protocols 
+GB Chapter 12 
+HW5 out 
+Week 13 
+4/7-4/11 
+Zero Knowledge (ZK) proofs 
+ 
+GB Chapter 12 
+ 
+Week 14 
+4/14-4/18 
+Threshold Cryptography &  
+Applications to Key Distribution & Signatures 
+Oblivious Transfers and Secure Multi-Party Computation 
+Threshold 
+Cryptography,  
+GB Chapter 10.6, 
+Chapter12 
+HW5 due 
+Week 15 
+4/21-4/25 
+Midterm 2 on Monday 
+Perfectly Secure Encryption, Fully Homomorphic 
+Encryption, Post-quantum crypto protocols 
+Midterm 2 Solutions & Final Review on Friday 
+Perfect Secrecy 
+& Authenticity 
+(BR Ch.2) 
+HW6  
+in-class 
+discussion 
+Week 16 
+4/28-5/4 
+Final examination week 
+ 
+ 
+ 
+The Department of Electrical and Computer Engineering adheres to the academic 
+integrity policies set forth by Carnegie Mellon University and by the College of 
+Engineering. ECE students should review fully and carefully Carnegie Mellon 
+University's policies regarding Cheating and Plagiarism; Undergraduate Academic 
+
+ 
+5 
+ 
+Discipline; and Graduate Academic Discipline. ECE graduate student should further 
+review the Penalties for Graduate Student

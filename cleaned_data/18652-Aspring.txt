@@ -1,0 +1,333 @@
+Course Syllabus
+ Edit
+Course Description
+In this course, you will learn about software engineering paradigms that have shaped the software industry over the past few decades. You
+will be exposed to fundamental disciplines of software engineering as well as engineering practices that crosscut system, project, and user
+perspectives. You will learn to iteratively define requirements, and architect, design, implement, integrate, test, and deploy a solution. With
+proper guidance on balanced and fair task division, you will work on a self-organizing team and manage the work collaboratively. The
+topics are applied in the context of a semester-long team project that each team defines based on a given theme and some common
+requirements.
+Cass Periods
+Mon 12:00 PM to 1:50 PM in Room DH 2122
+Wed 12:00 PM to 1:50 PM in Room DH 2122
+*All times are posted in US Eastern Time (ET) Zone.
+Class attendance is mandatory. See below. 
+Units
+12
+Professors
+Hakan Erdogmus, hakane@andrew.cmu.edu (mailto:hakan.erdogmus@sv.cmu.edu)
+No Office Hours: Instead weekly meetings will be scheduled with each project team
+Teaching Assistants
+Section A
+
+TBD
+Office Hours: TDB
+Academic Services Coordinator
+Provided by the ECE Academic Services Center
+Office Location: HH 1113
+Website: https://www.ece.cmu.edu/academics/academic-services-center.htm
+(https://www.ece.cmu.edu/academics/academic-services-center.html)
+Learning Objectives
+By the end of this course, you will be able to:
+Apply fundamental requirements, architecture, interaction design, technical design, construction, and testing techniques on a regular
+basis
+Measure and reason about software quality properties
+Leverage modern development tools and environments to boost productivity and maintain quality
+Demonstrate working familiarity with central modeling concepts and notations
+Plan, define, estimate, and manage a software project in an incremental and iterative fashion
+Using contemporary software engineering practices, develop and deliver a realistic software project that meets stakeholders’
+expectations, is high-quality, and balances underlying engineering tradeoffs
+Deliver an effective technical presentation to showcase your project
+Practice project leadership
+Those objectives are further detailed under ABET's 7 Educational Objectives below.
+Prerequisites
+18351 or 18651 - Full-Stack Software Development for Engineers  - with a grade of B or higher: this prerequisite ensures all
+students have (a) the required technical skills, (b) working familiarity with the software stacks needed in the team project, and (c)
+applied knowledge of fundamental software development practices required in a team project. This prerequisite is strict and only
+waived in special circumstances after a one-on-one assessment of these skills covered in 18351/18651:
+
+Proficient with Git/GitHub. This skill includes using feature branches effectively with main branch protection, working with PRs, ability to correct commit
+mistakes, and dealing with merge conflicts effectively and fearlessly. 
+Proficiency in TypeScript. Transpilation and build process using a bundler like Parcel or WebPack, async programming and promises, error handling, type
+guards, classes, objects, interfaces, union and intersection types, working with truthy/falsy/nullish values. Experience with only plain JavaScript is  is not
+sufficient. 
+Intermediate Knowledge of Front-end Skills and the Standard Web Stack. Knowledge of HTML, CSS, and JavaScript (TypeScript) and the ability to combine
+these technologies to create dynamic frontends. Familiarity with front-end JS/TS libraries/APIs such as Fetch, JQuery, and Axios that implement AJAX
+requests. 
+Backend Development Experience with Node.js and Express (or another Node.js based backend framework). Backend development experience using
+another language/framework (e.g., Python with Django, is not sufficient).  
+Knowledge of Best Practices for Uniform RESTful APIs. Designing a RESTful API following best practices to comply with the Uniform Interface principle for
+intuitive and self-evident URIs that use hierarchical navigation.  
+Experience with a REST Client Tool. These are tools for issuing AJAX requests to test the backend, and include tools like Postman, Swagger, and VS Code
+REST Client Extension. 
+Familiarity with Managing Requirements with User Stories or Use Cases. Be able to specify and follow structured software requirements consisting of
+acceptance criteria and specifications of flow of events. 
+Experience with Standard Web App Organization Using MVC.  Model-View-Controller is an architectural pattern that can be adapted to organize a client-
+server application. It achieves separation of concerns between the frontend and backend and helps isolate the core app logic in the backend models. 
+Having Used Strategies for Breaking the Dependency of the App on the Database. It is important for the app not to have a hard-coded dependency on the
+database implementation to be able to effectively test the system and easily substitute databases.  Strategies include dependency injection, specific design
+patterns, mocking, and building a parallel in-memory database implementation alongside the storage-based database implementation. 
+Experience with MongoDB and Mongoose. This the de-facto document-based database or the corresponding ODM used by teams. All 18351/18651
+students are familiar with it and will by default choose it for their team project. Experience with a relational databases (a SQL implementation along with an
+ORM like Sequelize) can be substituted for this skill, but if necessary, the student must learn MongoDB and Mongoose if necessary. 
+Familiarity with the VS Code Ecosystem, including GitHub Codespaces. This is the IDE that will be used by all team, along with many developer tool
+extension. 
+Ability to use the VS Code Debugger, the Chrome Debugger, and other Chrome Developer Tools. These skill is necessary  to properly debug both the
+backend and the client-side TypeScript. 
+Having used a  CI/CD Tool. Do you know how to perform CI/CD using workflows that run integration servers such GitHub Actions, CircleCI, TravisCI, or
+another tool. 
+
+Familiarity with Standard Static Analysis Tools. In TypeScript, the standard tool is ESLint. Counterparts exist in other programming languages. 
+Ability to Implement Client-Server Apps Using Systematic Approaches. This includes the ability to implement an end-to-end requirement in a systematic
+way using either a bottom-up approach or a front-end-first strategy.  
+Working Knowledge of Basic Security Using Token-Based Authentication and Authorization. Using web tokens (as opposed to cookies and sessions) to
+control access to a web app.   
+Working Knowledge of Real-time Dynamic Updates using Web-sockets.  Knowledge of backend-to-frontend communication to implement push
+notifications and dynamic updates. 
+Required Textbooks 
+None. Mandatory readings and other supplemental materials are provided on the course website.
+List of Topics
+Software development methods
+Review of object-oriented technology
+Object-oriented analysis and design
+Requirements specification with use cases
+Software architecture and architectural styles
+Design patterns
+Automated software testing 
+Technical development practices
+Code quality: code reviews and software quality tools
+Software project planning and estimation
+Grading Rubric
+Your grade is determined along two dimensions: your individual performance (90%) and your team's performance (10%).
+Component
+Performance
+Criterion
+Weight
+(%)
+
+Final Exam
+Individual
+20
+Readiness/Preparation Quizzes 
+(Post-prep and In-class quizzes)
+Individual
+10
+Individual Components
+Collaboration Skills Training*
+Mastery Levels** 
+Activity and Meeting Participation
+Completion of Misc. Course Chores
+Individual
+17
+Project Deliverables***
+Adjusted
+Team***
+45
+Project Presentation
+Team
+8
+Total
+100
+*To get a non-zero grade from the Collaboration Training module, sufficient number of modules must have been completed and a post-test score of above 50% is
+required.
+**Mastery Levels are determined by seven skills assessed during the team project, based on the student's contribution through individually owned tasks or tasks co-
+owned by another team member. The Mastery Levels component is subject to minimum criteria called the Mastery Outcomes Requirement. A student not satisfying
+the Mastery Outcomes Requirement will automatically fail the course.  
+**While the work is done and assessed as a team in this component, the Project Deliverables grade of each student will be adjusted upward or downward according to
+their Peer Evaluation results. Students (a) whose Peer Evaluation score is either below 70% at the mid-point of the course OR (b) who fail to contribute sufficiently to
+their team (including working code) in two consequent project iterations will be removed from their teams and automatically fail the course.
+The correspondence between the letter grade and performance evaluation is mapped out in the following table:
+
+Letter
+Grade
+Performance Interpretation
+A
+Outstanding performance and quality of work along all
+dimensions, going beyond expectations, deliverables of
+highest professional quality
+A-
+Excellent performance and quality of work along all
+dimensions, meets all expectations (but doesn't go
+beyond), deliverables of professional quality
+B+
+Good to very good performance and quality of
+work along most dimensions, meets expectations, but
+deliverables may be missing a required component
+B
+Good overall performance and quality of work along
+most dimensions, meets expectations, but deliverables
+may be missing a few required components
+B-
+Performance and quality of work below expectations
+along many dimensions, although deliverables may have
+all required components
+C+
+Performance and quality of work below expectations
+along many dimensions, and deliverables may be
+missing a few required components
+
+C
+Performance and quality of work below expectations
+along most dimensions, and deliverables are missing
+many components
+C-
+Work represents minimum acceptable effort
+(student fails the course; units will not be considered
+toward graduate degree requirements; however quality
+points will be calculated into cumulative QPA)
+Pass / No Pass option: student passes the course (P);
+units will not be considered toward graduate degree
+requirements; quality points will not be included in the
+cumulative QPA
+R
+Work represents insufficient performance 
+(student fails the course; units will not be considered
+toward graduate degree requirements; no quality points)
+Pass / No Pass option: student fails the course (N); units
+will not be considered toward graduate degree
+requirements; no quality points awarded
+Individual final grades may be adjusted up or down based on the instructors' holistic assessment of each student's demonstrated performance and learning.
+Letter Grade Schema
+Graduate Range
+A
+100 - 94%
+A-
+93.99 - 90%
+B+
+89.99 - 87%
+
+B
+86.99 - 84%
+B-
+83.99 - 80%
+C+
+79.99 - 77%
+C
+76.99 - 74%
+C-
+73.99 - 70%
+D+
+69.99 - 67%
+D
+66.99 - 64%
+D-
+63.99 - 61%
+R
+60.99% - 0%
+ABET's 7 Educational Objectives
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7 Educational Objectives that are
+fulfilled by the sum total of all the courses you take. The following list describes which objectives are fulfilled by 18-652 and in what manner
+they are fulfilled:
+(1) An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and
+mathematics: The course poses many problems (during in-class discussions, in-class activities, a project, and an exam) for students to
+formulate and solve using modern software engineering practices. Students apply fundamental requirements, interaction design, software
+design, architecture, construction, and testing techniques to deliver a software system. 
+(2) An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health,
+safety,  and welfare, as well as global, cultural, social, environmental, and economic factors: Students build a software system to be
+used by a community of citizen during emergency situations caused by natural disasters. Students stay in close communication with their
+stakeholders (represented by the teaching team) during the entire semester to make sure that they build a system that satisfies
+stakeholder needs under given time, schedule, and quality constraints.
+(3) An ability to communicate effectively with a range of audiences: Students practice their oral communication skills during in-class
+discussions, in-class activities, and during presentations of their work to the entire class. They also practice communicating software
+
+requirements and design solutions in their project deliverables and during the exam. 
+(5) An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive
+environment, establish goals, plan tasks, and meet objectives:  Students operate in small teams in the context of a semester-long
+project during which they deliver new features every two weeks. As a team, they plan, estimate, and manage their project in an
+incremental and iterative fashion. They receive training on collaboration and conflict resolution and apply these skills throughout the
+semester. Students rotate the project leadership role regularly throughout the semester. 
+(6) An ability to develop and conduct appropriate experimentation,  analyze and interpret data, and use engineering judgment to
+draw conclusions: Students proactively and regularly measure, monitor, and reason about the software quality properties of their system
+under development.
+(7) An ability to acquire and apply new knowledge as needed, using appropriate learning strategies: Students have the opportunity
+to apply the concepts introduced during the video lectures in the context of in-class activities first and during a semester-long software
+development project second. While students receive in-depth instruction on software development theory, principles, and practices, they
+have to learn the related implementation technology mostly on their own in order to build a software system. Recitations and initial
+resources are provided to help students get started with the technologies used. However, they are expected to continue to explore and find
+additional resources on their own.
+Attendance
+Attendance is necessary to succeed in the course. Most class periods involve in-person quizzes or group activities performed in the
+classroom: these compoments are graded. Missing these components repeatedly will degrade a student's grade and cause the student to
+fall behind.  After missing a component, the student bears the responsibility to catch up by synchronizing with their team and by throughly
+reviewing and understanding the relevant materials. Questions will be answered with the assumption that students have attended the
+lectures or reviewed the class materials to catch up, completed the relevant quizzes, and participated in the relevant class activities. 
+Mastery Levels Requirement
+To pass the course each student must reach a certain proficiency level in seven out out of eight individually-assessed skills.  This
+minimum passing requirement is called the Mastery Levels Requirement (MLR). The eight skills in which the students must develop
+sufficient individual proficiency are: Leadership, Requirements, Analysis, Design, Frontend Development, Backend Development, Unit
+Testing, and Integration Testing. 
+
+Missed Components, Late Submissions, and Flexibility
+Late Submissions 
+Late submissions are accepted for graded project deliverables subject to these rules: 
+Re-demo Option Days: Project team deliverables are assessed and graded weekly. If a graded deliverable is missing or not ready, it
+can only be regraded at the next re-demo option day. There is no penalty associated with a deliverable graded at a re-demo option
+day. 
+Late submissions for other team deliverables are not accepted, however their weight is small enough such that missing a few
+would not have a significant effect on the final grade. 
+Late submissions for individual components are not accepted, however there is enough flexibility that allows a student to miss a
+certain number of components without any penalty. See the section on Missed and Lowest-Graded Components Flexibility. 
+Team Project Deliverables Slack
+In addition, the lowest scored component among Iteration 2, 3, and 4 Deliverables will be dropped from the Project Deliverables group
+when calculating the grade for this group. Iterations 2, 3, and 4 are the heaviest iterations in which most of the project work is completed.
+Therefore a dismal performance in these iterations will have no impact on the team's final project grade. 
+However this slack does not exempt you from meeting your Mastery Outcome Requirement to pass the course. You may still need to fulfill
+tasks in a dropped iteration to meet your Master Outcomes Requirement. 
+Missed and Lowest-Graded Components Flexibility
+Quizzes: The two lowest-graded in-class quizzes and two lowest-graded post-prep quizzes will be dropped. Therefore you are
+permitted to miss a total of four of these quizzes without any impact on your performance. Note that in-class quizzes have a much
+higher weight than post-prep quizzes. Save this option for personal, technical, or medical emergencies.  No make-up quizzes will be
+offered, and no exceptions will be made. In-class quizzes can only be taken in-person in the classroom. Taking in-class quizzes
+remotely is not allowed. 
+In-Class Team Activities: You are permitted to miss four activities performed in the classroom without any impact on your
+performance. However you cannot miss the Project Ideation and Team Formation Workshop (first week) or the Project Presentation
+(final week) without any impact. Save this option for personal, technical, or medical emergencies. No exceptions will be made beyond
+this allowance.
+
+Weekly Meetings: You are permitted to miss up to four scheduled weekly meetings with your TA or instructor performed outside the
+classroom without any impact on your performance. Save this option for personal, technical, or medical emergencies. No exceptions
+will be made beyond this allowance.
+Extended or Recurring Absences due to Medical or Personal Emergencies
+These situations need to be communicated to your instructor, both of your advisors (academic and faculty), and applicable CMU offices,
+including Counseling and Psychological Services (CAPS) and the Office of Disability Resources, as soon as possible and practicable.
+Typically, they require valid and formal documentation. Note that the course already provides sufficient flexibility and slack for occasional
+missed deadlines, components, and deliverables, as per above, for temporary setbacks and emergencies.  Important: Accommodations for
+missed deadlines, components, and deliverables can be made for extended or recurrent absences only if the instructor receives a formal
+accommodation notice from a CMU office that has evaluated the situation and made an official determination. The instructors cannot not
+make this determination. 
+Asking General Questions and Requesting Help
+General questions about the topics covered, including theory, concepts, and programming strategies and constructs are welcome in any
+form the student desires. General questions asked by students may or may not be accompanied with code examples. These kind of
+questions should be asked publicly to benefit all students. If asked privately via an email, in a Piazza post, or during office hours, the
+Teaching Team reserves the right to repost them publicly or convert the private post to a public post to benefit all students and provide
+them with an equal opportunity to access the solution/advice. 
+Feel free to request help on your team project, however the Teaching Team in general will not debug or troubleshoot the team's code or
+provide advice regarding unique or non-standard technologies used. We will help you at our discretion if we we know the answer and if we
+deem it appropriate and fair.  Remember that the team project is partly open-ended and teams have multiple degrees of freedom for
+implementing their project. 
+Grade Negotiation and Regrade Requests
+Regrade requests are accepted if there was a mistake in grading up to five days after the grade for a component has been made available
+to the student. The Teaching Team will consider the request and correct the grade if a mistake has been made. Regrading is not possible
+in other situations (including using the amount of effort spent, or "hard work", to negotiate a higher grade). The Teaching Team will not
+respond to attempts to negotiate grades beyond valid grading mistakes. Remember that results determine the grade, not effort. 
+
+Integrity and Conduct Policies
+All of the following university and departmental policies apply, in all respects, to this course.
+Course Policy on Borrowing Source Code from Online Sources and Using Generative AI Tools and AI-Based Coding Aids
+For the project work, the use of online searches, StackOverflow and similar coder forums, ChatGPT, GitHub Copilot, and similar
+generative-AI or rule-based-AI tools and systems are permitted under the following conditions: (1) the tools must be used for solving small,
+contained coding problems within the project to produce code templates or function-level or line-level code fragments (element-level and
+rule-level for HTML and CSS, respectively), generate comments and documentation, receive explanations of own code fragments or
+external code fragments, or generate and inspect API specifications; (2) the student must fully understand the generated solutions and be
+able to explain and rationalize them in the project's context during project audits or during one-on-one interactions with the Teaching Team;
+(3) students should keep a record of the prompts, search terms, and links to online sources and must be able to produce the prompts,
+search terms, or links used for the generated or borrowed solutions; (4) the solution must comply with the project requirements and not
+violate its architectural, structural, and design constraints; (5) the solution must be properly and fully adapted when it’s incorporated into
+the project codebase (with proper restructuring, renaming of and changes to code abstractions, additions, and deletions); and (6) students
+use generated solutions at their own risk since these solutions may simply be wrong (so-called "hallucinations" in AI terms), may not work
+in the project’s context, may be too fragile to be effective, violate project constraints, or overly complicated to warrant grade deductions ("I
+borrowed this solution from source X" is not a valid excuse); (7) The Teaching Team will not help correct issues arising from borrowed or
+generated code; (8) students are not allowed to use Generative AI or other online sources for quizzes and other graded assessments
+outside the project. Note that GitHub Copilot is currently free through GitHub Education benefits for students who join the GitHub Student
+Developer Pack, however this may change at GitHub's discretion any time. 
+ECE

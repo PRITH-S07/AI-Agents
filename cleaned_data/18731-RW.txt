@@ -1,0 +1,254 @@
+1 
+ 
+ 
+ 
+ 
+ 
+[18-731 RW Network Security] 
+Monday, 10:00-11:50 CAT, Location: [Kigali]  
+Semester: [Fall], Year: [ 2024] 
+Units: [12], Section(s): [#] 
+ 
+Instructor information 
+Name 
+Assistant Teaching Professor, Jema David Ndibwile  
+Contact Info 
+jndibwil@andrew.cmu.edu  or  jeman@cmu.edu  
+Office location 
+D102 
+Office hours 
+12:30 - 17:30 CAT Tuesday and Thursday (By appointment only) 
+ 
+TA Information [If applicable]  
+TA name 
+Oluwole Adewusi 
+TA Contact Info  
+oadewusi@andrew.cmu.edu   (WhatsApp) +234 803 757 0235 
+Office location 
+TBD 
+Office hours 
+Tuesdays and Thursdays 17:00 to 21:00 CAT 
+Course Description 
+o Some of today's most damaging attacks on computer systems involve exploitation of network 
+infrastructure, either as the target of the attack or as a vehicle to advance attacks on end systems. 
+This course provides an in-depth study of network attack techniques and methods to defend against 
+them. Topics include firewall and virtual private networks, cryptography and public key encryption, 
+network threats and attacks, Denial of Service (DoS) and Distributed DoS (DDoS), network intrusion 
+detection systems (NIDS) and network intrusion prevention systems (NIPS), routing protocol security 
+(BGPsec), SDN security, DNS security, wireless network security, security testing, Roles and 
+responsibilities. Moreover, the course includes various lab works ranging from securing network 
+devices to VPN configuration. 
+ 
+• Students will demonstrate their Network Security skills through. 
+o Individual Lab Exam 
+o Lab exercises  
+o Individual written assignments 
+o Midterm Test 
+
+2 
+ 
+ 
+ 
+ 
+o The course delivery mode will be through. 
+o Lectures 
+o Practical demonstrations 
+o Problem-based learning 
+o Project-based approach 
+o Student-lead learning 
+• The course prerequisites are: 
+✓ Experience with C programming 
+✓ Basic Linux commands and operations 
+✓ Knowledge of TCP/IP networking 
+Learning Objectives  
+The goal of this course is to provide learners with an advanced understanding of network security from 
+both theoretical and practical perspectives. By the end of this course, students will be able to: 
+• 
+Explain common network attacks and identify the possible defense mechanisms for each attack. 
+• 
+Explain the concept of network intrusion systems (NIDS) and network intrusion 
+prevention systems (NIPS). 
+• 
+Explain concepts related to Firewalls and VPN, common network protection mechanisms. 
+• 
+Configure both stateless and stateful ACL as well as DMZ firewalls on Cisco routers. 
+• 
+Explain the concept of applied cryptography including, symmetric cryptography and 
+asymmetric cryptography, and cryptographic data integrity algorithms. 
+• 
+Outline the requirements and mechanisms for securing different layers of the network system. 
+Identify the possible threats at each network layer and implement appropriate protection 
+mechanism. 
+• 
+Configure IPsec, SSL, TLS on Cisco routers for real-time communication  
+• 
+Explain the requirements of network security management including testing, the policy as well as 
+roles and responsibility. 
+Learning Resources  
+o Books 
+o Wang, Jie, and Zachary Kissel. Introduction to Network Security: Theory and Practice, John 
+Wiley & Sons, Incorporated, 2015.  
+o   Perez A. Network security.  John Wiley & Sons; 2014 Nov 17  
+o Software 
+o Oracle VM Virtual Box 
+o Linux distribution 
+o GNS3 simulator 
+o Packet Tracer simulator 
+o Custom Cryptographic algorithms 
+
+3 
+ 
+ 
+Assessments 
+The final course grade will be calculated using the following categories: 
+ 
+Assessment 
+Percentage of Final Grade 
+1. Individual lab exams (x2)  
+20% 
+2. Group project assignment (x1)  
+15% 
+3. Individual written assignments (x3) 
+30% 
+4. Quizzes (in class) + 1 paper review  
+20% 
+5. Midterm Exam 
+15% 
+ 
+ 
+The assessment aim to measure the following: 
+ 
+o An ability to apply knowledge of mathematics, science, and engineering:  
+Through the cryptography and public-key encryption chapter, the student 
+completing network security should be able to understand and apply 
+mathematical expressions needed to address different encryption algorithms 
+and how can be applied in the real systems. The engineering skills will be 
+gained through innovative ideas that will be discussed in round tables that will 
+be arranged for brainstorming in order to prove concepts 
+ 
+o An ability to design and conduct experiments, as well as to analyze and interpret data:  
+In the network intrusion detection systems (NIDS), network intrusion prevention 
+systems (NIPS) and Distributed Deny of Service (DDoS) chapters, students will 
+learn how to analyze traffic signatures and match them with known cyber-
+attacks by using various tools for network sniffing such as Wireshark and kali 
+Linux packages. Therefore, students will be able to experiment and analyze the 
+current trend of network security trends in terms of traffic and be able to make 
+accurate interpretations and help network managers to make data-driven 
+decisions against securing their networks. 
+ 
+o An ability to design a system, component, or process to meet desired needs within realistic 
+constraints such as economic, environmental, social, political, ethical, health and safety, 
+manufacturability, and sustainability: For SDN security, DNS security, firewall and virtual 
+private networks topics, student will use the latest tools and technologies.  Therefore, at 
+the end of the course student will be able to come up with well-designed systems and 
+sub- systems that are secure and can advise managers on how to protect such information 
+infrastructure. 
+ 
+o An ability to function on multi-disciplinary teams 
+This course has the class works where the students will be able to team up in 
+
+4 
+ 
+ 
+groups that will discuss emerging technologies in networks and security and 
+bring about innovation since two are better than one. Moreover, our students 
+come from different disciplines and thus these class works shall introduce them 
+to multi-disciplinary teamwork. 
+ 
+o An ability to identify, formulate, and solve engineering problems:  
+Throughout the course, students will be requested to review various 
+scientific articles, which will improve their critical thinking ability. Moreover, 
+they will be shown and exposed to a number of questions deem their 
+attention in order to test how fast they can address that problem and 
+getting them on board in the world of quantum computing 
+o An understanding of professional and ethical responsibility.  
+For the chapter of Roles and responsibilities, the students will be taught how 
+to behave professionally in such a way that none should be able to conduct 
+for example penetration testing on any entity without undergoing prior 
+authorization of the concerned organ. 
+ 
+o An ability to communicate effectively:  
+Through a series of presentations of the findings that will be presented 
+against the min-projects that students will carry out, soft skills related to 
+how epic presentation should be conducted will be taught and shown to 
+them in order to apply them during their presentation. 
+ 
+o The broad education necessary to understand the impact of engineering solutions in a 
+global, economic, environmental, and societal context: Toward the end of the course, we 
+will invite a guest speaker from network security-related company. The students will be 
+able to relate the course content and what companies are expecting from them. Also, 
+students will be triggered to know their role and impact on the societies towards the 
+solutions they offer. 
+ 
+o A recognition of the need for, and an ability to engage in life-long learning:  
+Through the network threats and attacks chapter, students will be instilled 
+with the spirit of knowing that addressing current problems and 
+vulnerabilities it is never the end, since we experience zero-day attacks in 
+security, time has come for students to be trained with the spirit of resilience 
+where they have to continue learning even after class in order to foster and 
+sustain their career and hence be updated according to the season and 
+challenges. 
+ 
+o A knowledge of contemporary issues:  
+The students will be taught and be exposed to the current gap found in 
+networks put up in several institutions where network infrastructures are 
+there, but their related security is clause to zero. Therefore, there is a need 
+to bridge that gap hence students through various proof of concepts that 
+will be conducted will be the ones to expose that for the concerned 
+organization to bridge them. 
+ 
+
+5 
+ 
+ 
+o An ability to use the techniques, skills, and modern engineering tools necessary for 
+engineering practice:  
+The students will be equipped with outstanding skills while using emerging 
+network security tools for vulnerability assessment and penetration testing 
+as well as analysis to have all it takes to have skills that the world demands. 
+ 
+ 
+Students will be assigned the following final letter grades, based on calculations coming from the 
+course assessment section. 
+ 
+A+ 
+100% 
+B+ 
+87.00-
+89.99% 
+C+ 
+75.00-79.99 % 
+A 
+95.00-99.99% 
+B 
+83.00-
+86.99% 
+C 
+70.00-74.99% 
+A- 
+90.00-94.99% 
+B- 
+80.00-
+82.99% 
+C- 
+69.99 and 
+below 
+ 
+Grading Policies 
+● Late-work policy: Late work will be penalized with 25% deduction in the first 24 hours, 50% 
+deduction after 24 hours and receives 0% marks after 48 hours. A doctor’s note that a student 
+was not in a condition to do homework will be accepted.  
+● Make-up work policy: A student will be allowed to do make-up assignments and/or assessments if 
+he/she requests it in writing, at least 24-hours prior to the due date. What kind of documentation 
+required will depend on the nature of the issue 
+● Re-grade policy:  If students ask me to re-grade their work, I will do so if I receive a request in 
+writing, in office hours, within 72 hours of receiving the graded assignment citing the reason for 
+remarking. 
+● Attendance and/or participation policy: There is no explicit means for attendance tracking; 
+however, it is easier to notice any absenteeism. All students are argued to attend all classes and 
+MUST communicate earlier the reason for not attending. 
+Course Policies 
+● Attendance & Participation There is no explicit means for attendance tracking; however, it is 
+easier to notice any absenteeism. All students are argued to attend all classes and MUST 
+communicate earlier the reason for not attending. 
+●

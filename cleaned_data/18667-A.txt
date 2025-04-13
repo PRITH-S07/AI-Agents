@@ -1,0 +1,377 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-667: Algorithms for Large-Scale Distributed Machine Learning  
+and Optimization   
+Fall 2024 
+ 
+ 
+Instructor: Prof. Gauri Joshi  
+Office Location:  RM CIC 4119 
+Email Address:   gaurij@andrew.cmu.edu 
+Office Hours: Tuesday 2 pm ET 
+ 
+ 
+Teaching Assistants:  
+Baris Askin   
+baskin@andrew.cmu.edu 
+Arian Raje  
+ 
+araje@andrew.cmu.edu 
+Siddharth Shah 
+sgshah@andrew.cmu.edu 
+Tong Shen 
+ 
+tongshen@andrew.cmu.edu 
+ 
+TA Office Hours: TBD, see course website and Piazza 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.andrew.cmu.edu/course/18-667/ 
+ 
+ 
+Course Description:  
+ 
+The objective of this course is to introduce students to state-of-the-art algorithms in large-
+scale machine learning and distributed optimization. Students will read and critique a 
+curated set of research papers. A key discussion topic will be distributed stochastic gradient 
+descent, and how to scale it to a distributed computing system, and to the federated learning 
+framework where edge devices are used for training. Topics to be covered include but are 
+not limited to mini-batch SGD and its convergence analysis, momentum and variance 
+reduction methods, synchronous and asynchronous SGD, local-update SGD, decentralized 
+SGD, gradient compression/quantization, data heterogeneity in federated learning, 
+computational heterogeneity in federated learning, personalization, fairness, participation 
+incentives, differential privacy and secure aggregation in federated learning. Each lecture 
+will cover some latest research papers, and discuss open problems.  
+ 
+Number of Units: 12  
+
+ 
+2 
+ 
+ 
+Pre-requisites: 18-661, 18-660 (either before or concurrently with this course), 
+undergraduate probability and linear algebra  
+ 
+Graduate Area: Algorithms   
+ 
+Class Lecture: Mon/Wed 10:00-11:50 am, Remote Only 
+ 
+Class Recitation: Fri 9:00-9:50 am, Remote only 
+ 
+Suggested Reading: Material covered in the first part of the class is also in Prof. Joshi's 
+book on Optimization Algorithms for Distributed Machine Learning, available through 
+CMU libraries. 
+ 
+Reference Materials:  Students are expected to read the research paper discussed in each 
+lecture and review the lecture slides to prepare for the quizzes and homework 
+assignments. 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Course Website: https://www.andrew.cmu.edu/course/18-667/ 
+ 
+Homeworks (40%): There will be 4 equally weighted homeworks, each consisting of a 
+mix of mathematical and implementation questions. You are given 3 late days (self-
+granted 24-hr extensions) which you can use to give yourself extra time without penalty. 
+At most one late day can be used per assignment. This will be monitored automatically 
+via Gradescope. Solutions will be graded on both correctness and clarity. If you cannot 
+solve a problem completely, you will get more partial credit by identifying the gaps in 
+your argument than by attempting to cover them up. 
+ 
+Collaboration Policy 
+Group studying and collaborating on problem sets are encouraged, as working together is 
+a great way to understand new material.  Students are free to discuss the homework 
+problems with anyone under the following conditions: 
+• Students must write their own solutions and understand the solutions that they 
+wrote down.  
+• Students must list the names of their collaborators (i.e., anyone with whom the 
+assignment was discussed).  
+• Students may not use old solution sets from other classes under any 
+circumstances, unless the instructor grants special permission. 
+ 
+Project (15%): Students will form teams of 3-4 to conduct a detailed literature survey 
+and/or original research and/or implementation on one of the project topics listed on the 
+course website. Projects on a topic outside this list are also welcome -- please contact the 
+
+ 
+3 
+ 
+instructor to discuss your idea. At the end of semester, each team will need to submit a 4-
+page review paper and give a 15-min project presentation. 
+ 
+Quizzes (45%): There will be 3 equally weighted in-class quizzes. Each quiz will be a 
+mix of multiple-choice and descriptive questions. Every quiz will only be based on the 
+lectures and papers discussed during that module of the class. 
+ 
+Reading Assignments: Papers are listed on the course website alongside each lecture. 
+ 
+Grading Algorithm: On a curve based on relative performance of students in the class. 
+ 
+Tentative Course Calendar (subject to change):  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+August 
+26 
+Mon. 
+Intro and Logistics 
+ 
+ 
+28 
+Wed. 
+SGD in Machine learning 
+ 
+ 
+30 
+Fri 
+Math Review 
+HW1 release 
+ 
+September 
+2 
+Mon. 
+Labor Day – No Class 
+ 
+ 
+4 
+Wed. 
+SGD Convergence Analysis 
+ 
+ 
+6 
+Fri. 
+PyTorch tutorial 
+ 
+ 
+9 
+Mon. 
+Distributed Synchronous SGD 
+ 
+ 
+11 
+Wed. 
+Asynchronous SGD 
+ 
+ 
+13 
+Fri. 
+Guest Lecture 
+ 
+ 
+16 
+Mon. 
+Local-update SGD 
+ 
+ 
+18 
+Wed. 
+Elastic Averaging, Overlap SGD and variants 
+ 
+ 
+20 
+Fri. 
+Concept Review and Practice 
+HW2 release 
+HW1 due 
+23 
+Mon. 
+Quiz 1 
+ 
+ 
+25 
+Wed. 
+Quantization, Sparsification and Error Feedback 
+ 
+ 
+27 
+Fri. 
+Guest Lecture 
+ 
+ 
+30 
+Mon. 
+Decentralized SGD 
+ 
+ 
+October 
+2 
+Wed. 
+Federated Learning (FL) Introduction 
+ 
+ 
+4 
+Fri. 
+Guest Lecture 
+ 
+ 
+7 
+Mon. 
+Data Heterogeneity in FL 
+ 
+ 
+9 
+Wed. 
+Computational Heterogeneity in FL 
+ 
+ 
+11 
+Fri. 
+Guest Lecture 
+ HW3 release 
+ HW2 due 
+14-18 
+Mon-
+Fri 
+Fall Break – No Classes 
+ 
+ 
+21 
+Mon. 
+Client Selection and Partial Participation 
+ 
+ 
+23 
+Wed. 
+Personalized Federated Learning 
+ 
+ 
+25 
+Fri. 
+Concept Review and Practice 
+ 
+ 
+28 
+Mon. 
+Quiz 2 
+ 
+ 
+30 
+Wed. 
+Multi-task Learning 
+ 
+ 
+November 
+1 
+Fri. 
+Guest Lecture 
+HW4 release 
+HW3 due 
+4 
+Mon. 
+Federated Min-max Optimization 
+ 
+ 
+6 
+Wed. 
+Fairness and Participation Incentives 
+ 
+ 
+8 
+Fri. 
+Guest Lecture 
+ 
+Finalize 
+Project Team 
+and Topic 
+
+ 
+4 
+ 
+11 
+Mon. 
+Differential Privacy in Distributed Learning 
+ 
+ 
+13 
+Wed. 
+Secure Aggregation in Distributed Learning 
+ 
+ 
+15 
+Fri. 
+Guest Lecture 
+ 
+ 
+18 
+Mon. 
+Robustness to Adversaries 
+ 
+ 
+20 
+Wed. 
+Federated learning in the LLM Era 
+ 
+ 
+22 
+Fri. 
+Concept Review and Practice 
+ 
+HW4 due 
+25 
+Mon. 
+Quiz 3 
+ 
+ 
+27-29 
+Wed-
+Fri 
+Thanksgiving – No Classes 
+ 
+ 
+December 
+2 
+Mon. 
+Project Presentations 
+ 
+ 
+4 
+Wed. 
+Project Presentations 
+ 
+ 
+6 
+Fri 
+Project Presentations 
+ 
+Project 
+Reports Due 
+9-13 
+Mon-
+Fri 
+Final Exams Week – No Final Exam for this class 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

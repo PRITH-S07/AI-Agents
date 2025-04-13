@@ -1,0 +1,257 @@
+18-631 Introduction to Information Security 
+ 
+Sec. RW: Mon/Wed 14:00-15:50 
+ 
+Spring 2025, 12 Units     F203                                                            v3 Jan 17, 2025 
+ 
+ 
+Instructors 
+Tim Brown 
+timxb@cmu.edu                   0787 674 062                    Office C206 
+Office hours: Mon/Wed/Fri 4-5pm 
+                     Get an appointment via https://calendly.com/timxb/15-minute-meeting 
+João Barros 
+jbarros@andrew.cmu.edu    0793 671 563                    Office D201 
+Office hours: Mon 10-12, Wed 11-12, Thu 10-11 
+ 
+Teaching Assistants 
+Vital Ahishakiye 
+vahishak@andrew.cmu.edu 
+Office Hours: Tue/Thu 4-5pm in-person in D107 and remote via this Zoom link.  
+Aline Umubyeyi 
+alineu@andrew.cmu.edu 
+Office Hours: Mon 7-8pm in-person in F307, Thu 5-6pm remote via this Zoom link 
+Balambo Gloire 
+bgloire@andrew.cmu.edu 
+Office Hours: Wed 5-6pm Resource Center & Fri 4-5pm remote via this Zoom link 
+Course Description 
+Our growing reliance on information systems for daily activities, ranging from remote 
+communications to financial exchanges, has made information security a central issue of our critical 
+infrastructure. The course introduces the technical and policy foundations of information security. 
+The main objective of the course is to enable students to reason about information systems from a 
+security engineering perspective, taking into account technical, economic and policy factors. Topics 
+covered in the course include elementary cryptography; access control; common software 
+vulnerabilities; common network vulnerabilities; policy and export control laws, in the U.S., Japan, 
+and elsewhere; privacy; management and assurance; economics of security; and special topics in 
+information security. Prerequisites: The course assumes a basic working knowledge of computers, 
+networks, C and UNIX programming, as well as an elementary mathematics background, but does 
+not assume any prior exposure to topics in computer or communications security. Students lacking 
+technical background (e.g., students without any prior exposure to programming) are expected to 
+catch up through self-study.  
+ 
+There are no prerequisites for this course.  
+Learning Outcomes 
+After completing this course, students should be able to reason about systems from the perspective 
+of a security engineer. That is, they should be able to define the system to protect; determine the 
+desired security properties for this system; identify the possible threats to these security properties 
+ 
+​
+​
+​
+​
+1 
+ 
+
+and their likelihood of occurrence; and consider possible mitigations against these threats. 
+Learning Resources  
+Reading materials will be available online. ​
+In person: You are expected to bring your laptop and handwriting materials to every class.  
+Remote: You are expected to attend every remote class through live Zoom sessions.  
+Assessments 
+The final course grade will be calculated using the following categories: 
+ 
+ 
+Written assignments: You will submit ~12 written assignments over this 
+course. Assignments are due 1 hour before the beginning of class on the 
+due date. These will take the form of short laboratory exercises, hands-on 
+activities, critical thinking to build proficiency in the tools and techniques 
+taught in the class. You must complete these assignments individually and 
+submit them as instructed in the assignment. Each assignment becomes a building block towards 
+later assignments. It is important that you complete each assignment on time and completely.   
+ 
+Participation: You are required to participate actively in class, both in your group discussions and 
+also in plenary (all class) activities and teacher-led input sessions. In order to participate effectively, 
+you are expected to have read and gained a working understanding of any assigned readings. Your 
+reading comprehension will be assessed through your participation in Perusall (see below). In 
+addition, to gain full marks, you need to participate in classroom discussions or other teacher-led 
+stages of the lesson in at least 4 different classes. Participation in fewer than 4 classes will be 
+awarded 50% of the marks. You will not be awarded any marks if you fail to participate in classroom 
+activities and participate minimally in group discussions. This requirement aims to develop your 
+ability to speak clearly and confidently on a range of technical topics and participate effectively in 
+team activities. Note that you can’t participate if you don’t attend class. 
+Grading Policies 
+Late-work policy: Assignments received after their due date will lose 20% per day late unless a 
+reason for the delay is sent to the instructor(s) and an extended deadline approved before the 
+assignment is due.  
+ 
+Re-grade policy:  If you consider that the grade you have received is incorrect or unfair, you may 
+request a re-grade. Your regrade will be determined on the basis of meeting with one of the 
+instructors. A request for a re-grade must be submitted to the instructor by email within one week of 
+receiving the graded assignment.  
+Course Policies 
+Academic integrity & collaboration: Please refer to Appendix A below. 
+ 
+Assignments: Students are encouraged to talk to each other, to the T.A., to the instructor, or to 
+anyone else about any of the homework assignments. Any assistance, though, must be limited to 
+ 
+​
+​
+​
+​
+2 
+ 
+Percentage 
+Grade 
+≥ 93 
+≥ 90 
+  A 
+  A- 
+≥ 87 
+≥ 83 
+≥ 80 
+  B+ 
+  B 
+  B- 
+≥ 77 
+≥ 73 
+≥ 70 
+  C+ 
+  C 
+  C- 
+≥ 67 
+≥ 63 
+≥ 60 
+  D+ 
+  D 
+  D- 
+< 60 
+R (F) 
+Assessment 
+Percentage of Grade 
+Written assignments 
+30% 
+Midterm Exams 
+30% 
+Final Exam 
+15% 
+Project 
+15% 
+Participation + Quizzes + Perusal + EdPuzzle 
+10% 
+
+discussion of the problem and sketching general approaches to a solution. Each student must write 
+out his or her own homework solutions. Consulting another student’s solution is prohibited, and 
+submitted solutions may not be copied from any source. Copying from someone else’s homework 
+(present, past years, past year’s solutions, etc.), lab write-up, or exam or allowing another student to 
+copy his/her work, will be considered as cheating. Any form of collaboration is strictly prohibited on 
+the exams and is considered cheating. If you collaborate with any other person on your assignment, 
+list their name(s) at the top of the first page of your assignment. 
+ 
+In-class expectations: We all need to work together to ensure the health and safety of all of us in 
+and outside of the CMU community. In this environment, in-person participation is a privilege. 
+Students who do not follow all health directives will be asked to leave and referred to the 
+CMU-Africa Director.  
+ 
+Perusall Reading assignments may use the tool Perusall which can be found on Canvas. Perusall 
+allows us to read as a class and share annotations including comments and questions as well as 
+responses to others’ comments and questions. It is graded on a simple 0 to 3 grading scale. You 
+generally will get a 3 by reading the whole assignment, providing 5 to 7 meaningful annotations and 
+voting on other students’ comments.  
+ 
+EdPuzzle Asynchronous video assignments which will be watched through EdPuzzle. You should 
+be familiar with how this works from orientation and other classes.  
+ 
+Accommodations for students with disabilities: If you have a disability and require 
+accommodations, please contact Olga Gikundiro, Student Services Officer, +250 784 644 833, 
+gbuki@andrew.cmu.edu. If you have an accommodations letter from the student services office, we 
+encourage you to discuss your accommodations and needs with us as early in the semester as 
+possible. We will work with you to ensure that accommodations are provided as appropriate. 
+ 
+Statement on student wellness: The last few years have been challenging. We are all under a lot 
+of stress and uncertainty at this time. I encourage you to find ways to move regularly, eat well, and 
+reach out to your support system or the instructors if you need to. As a student, you may experience 
+a range of challenges that can interfere with learning, such as strained relationships, increased 
+anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These 
+mental health concerns or stressful events may diminish your academic performance and/or reduce 
+your ability to participate in daily activities. Services are available for CMU-Africa students, and 
+treatment does work. You can learn more about the confidential mental health services available by 
+contacting Olga Gikundiro, Student Services Officer, +250 784 644 833, gbuki@andrew.cmu.edu. 
+Free private counseling is available weekly. See the schedule outside the Wellness Room (room 
+E307).  
+ 
+Statement on student health: We all are subject to health issues. If health issues are impacting 
+your ability to perform in your courses, please contact your instructors as soon as possible so that 
+we can support you during this period.  
+ 
+Mobile devices: Mobile phones must be switched off or on silent and put away during all classes. If 
+you have a specific reason why you need to be able to check your phone during class time, you 
+must seek permission from the instructors in advance of the class. If you are seen using a mobile 
+phone in class, you will be asked to put it away. If you persist in using your phone, you will be asked 
+to leave the class. Laptops may be placed on desks but must be closed unless specific instruction to 
+use them is given.  
+ 
+ 
+​
+​
+​
+​
+3 
+ 
+
+Appendix A 
+The Carnegie Mellon Code 
+ 
+Students at Carnegie Mellon, because they are members of an academic community dedicated to 
+the achievement of excellence, are expected to meet the highest standards of personal, ethical 
+and moral conduct possible. 
+These standards require personal integrity, a commitment to honesty without compromise, 
+as well as truth without equivocation and a willingness to place the good of the community above 
+the good of the self. Obligations once undertaken must be met, commitments kept. 
+As members of the Carnegie Mellon community, individuals are expected to uphold the 
+standards of the community in addition to holding others accountable for said standards. It is rare 
+that the life of a student in an academic community can be so private that it will not affect the 
+community as a whole or that the above standards do not apply. 
+The discovery, advancement and communication of knowledge are not possible without a 
+commitment to these standards. Creativity cannot exist without acknowledgment of the creativity of 
+others. New knowledge cannot be developed without credit for prior knowledge. Without the ability 
+to trust that these principles will be observed, an academic community cannot exist. 
+The commitment of its faculty, staff and students to these standards contributes to the high 
+respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by 
+their failure to meet these standards. Students who cannot meet them should voluntarily withdraw 
+from the university.1 
+ 
+Expectations for this Class 
+ 
+Assignments: Students are encouraged to talk to each other, to the T.A., to the instructor, or to 
+anyone else about any of the homework assignments. Any assistance, though, must be limited to 
+discussion of the problem and sketching general approaches to a solution. Each student must write 
+out his or her own homework solutions. Consulting another student’s solution is prohibited, and 
+submitted solutions may not be copied from any source. Copying from someone else’s homework 
+(present, past years, past year’s solutions, etc.), lab write-up, or exam or allowing another student to 
+copy his/her work, will be considered as cheating. Any form of collaboration is strictly prohibited on 
+the exams and is considered cheating. If you collaborate with any other person on your assignment, 
+list their name(s) at the top of the first page of your assignment. 
+Cheating: If it appears answers have been shared between students, the instructor will contact 
+these students to discuss the matter. If the instructor decides that the students have not prepared 
+any of their answers individually, a grade of zero will be given for that assignment/exam for all 
+students involved (both givers and takers of the shared information). If a student is involved in 
+sharing answers a second time, the student will receive an R for the semester (failing grade).  
+Plagiarism: References for any externally-sourced work (e.g. text, ideas or graphics) used in your 
+answers should be referenced at the bottom of your assignment. This includes citations from the 
+set paper. Failure to provide a reference for any externally-sourced work will result in a zero grade 
+for that assignment. 
+ 
+If you have any questions about these principles and how they apply in your specific 
+situation: Just ask. We are happy to help you.  
+1 From http://www.cmu.edu/policies/student-and-student-life/academic-integrity.html : “Instructors have a duty to 
+communicate their expectations including those specific to collaboration, assistance, citation and acknowledgement 
+within each course. Students likewise have a duty to ensure that they understand and abide by the standards that apply 
+in any course or academic activity. In the absence of such understanding, it is the student’s responsibility to seek 
+additional information and clarification.” [italics added] 
+ 
+ 
+​
+​
+​
+​
+4

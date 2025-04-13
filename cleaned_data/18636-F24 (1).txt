@@ -1,0 +1,140 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18636: Browser security   
+Fall 2024 
+ 
+Instructor: 
+ 
+Limin Jia 
+ 
+ 
+Office Location:   
+CIC 2216 
+Email Address:    
+liminjia@andrew 
+Office Hours:  
+Wednesdays 2-3PM 
+ 
+Teaching Assistant: Chanhee Cho TBD 
+Email Address: 
+chanheec@andrew.cmu.edu TBD 
+Office Hours:  
+see canvas
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+ 
+Web browsers are becoming an increasingly attractive target for attackers who wish to 
+compromise users' systems or steal data from users. This course will study the architecture 
+of modern browsers, vulnerabilities in these browsers, as well as new technologies for 
+enhancing the functionality and security of browsers. Students will be assigned research 
+papers on relevant topics. Topics of study include (but are not limited to) browser 
+encryption, extension and plug-in security, authentication, privacy, browser policies, and 
+JavaScript security. This course will involve a project as well as small assignments. 
+Students will present their projects in class and write a final report on the projects. 
+ 
+Number of Units: 12  
+ 
+Pre-requisites: Graduate standing or by instructor permission 
+ 
+ 
+Class Lecture: MW 3:30-4:50PM Eastern /12:30-1:50PM Pacific 
+ 
+Required Textbook:  None 
+ 
+Suggested Reading: See canvas 
+ 
+Reference Materials:  See canvas 
+
+ 
+2 
+ 
+Brief List of Topics Covered: 
+Browser architecture, browser security mechanisms, web security, web tracking 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts 
+ 
+Evaluation and Grading: 
+• 10% Participation  
+• 30% Assignments 
+• 40% Course project 
+• 20% Tests 
+ 
+ 
+Tentative Course Calendar:  
+ 
+ 
+Unit 1: Introduction 
+8/26/24 Introduction I 
+8/28/24 Introduction II 
+Unit 2: Browser Components 
+9/2/24 Labor day no class 
+9/4/24 Policies 
+9/9/24 Cookies 
+9/11/24 Frames 
+Unit 3: Better browser architecture 
+9/16/24 Browser architecture  
+9/18/24 Sandboxing and Isolation 
+9/23/24 cross origin leaks, site isolation, UXSS 
+9/25/24 Browser extension architecture 
+9/30/24 Extension Vulnerabilities 
+Unit 4: Privacy 
+10/2/24 Tracking 
+10/7/24 Test 1 
+10/9/24 Project proposal 
+10/14/24 No class, fall break 
+10/16/24 No class, fall break 
+10/21/24 Browser fingerprinting 
+10/23/24 xs-leaks, timing channels 
+Unit 5: Web protocol vulnerabilities 10/28/24 Protocol attack 1 
+10/30/24 Protocol attack 2 
+11/4/24 Midterm project presentation 
+
+ 
+3 
+ 
+Unit 6: Advanced topics 
+11/6/24 Information flow security/taint tracking (1) 
+11/11/24 Information flow security/taint tracking (2) 
+11/13/24 Formal models and verification (1) 
+11/18/24 Formal models and verification (2) 
+11/20/24 TBD 
+The end 
+11/25/24 Test 2 
+11/27/24 no class, Thanksgiving 
+12/2/24 Project presentation 
+12/4/24 Project presentation 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. Technical skills in building secure browsing environment and analyzing the 
+security properties of browsing environment. Students will learn the security 
+mechanisms deployed in browsers and apply the knowledge to securing the web. 
+Students will learn to critically analyze the security properties of websites and 
+browser mechanisms.  
+ 
+2. Analytical and creative skills in identifying problems within browser-related 
+security topics and find solutions.  
+a. Students will be able to identify, formulate, and solve simple security 
+issues in modern browsing context.  
+b. Student will gain knowledge of contemporary issues of browser and web 
+security and will be aware of the current pressing browser security 
+challenges.  
+ 
+ 
+ECE

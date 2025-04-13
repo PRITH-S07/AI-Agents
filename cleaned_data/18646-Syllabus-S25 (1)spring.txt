@@ -1,0 +1,233 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18646: How to write fast code II 
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Tze Meng Low 
+Office Location:   
+HH A303 
+Email Address:    
+lowt@cmu.edu 
+Office Hours:  
+Mondays 2:30-3:30pm EST (Tentative) 
+ 
+Course Support:  
+Academic Services Center 
+Office Location:  
+HH 1113 
+Website:    https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:   
+The fast evolution and increasing complexity of computing platforms pose a significant 
+challenge for developers of high-performance software for engineering, science, and 
+consumer applications as it is becoming increasingly difficult to harness the available 
+compute power on modern CPU, GPU and cluster platforms. 
+ 
+18-646 - How to Write Fast Code II will focus on the application of the techniques taught 
+in 18-645 - How to Write Fast Code I to deconstruct software workloads to better 
+leverage the power available on these very different compute platforms. 
+ 
+Students will learn how to expose concurrency opportunities in existing software code 
+and exploit parallelism on multicore (CPU), manycore (GPU) and cluster computing 
+architectures to accelerate their applications. 
+ 
+We will review the OpenMP API and SIMD (Single Instruction Multiple Data) intrinsics 
+and leverage these constructors to explore and benchmark parallelization of software on 
+multi-core CPU platforms. Next, we will introduce the CUDA programming language 
+and discuss the challenges for parallel-computing on GPUs. Finally, we will introduce 
+parallel-computing techniques for cluster computing. 
+ 
+Students will apply the content from course lessons in group projects that accompany the 
+course. 
+ 
+Number of Units:  
+12 
+ 
+
+ 
+2 
+ 
+Pre-requisites:  
+ 
+ 
+Graduate Area:  
+Computer Software Engineering 
+ 
+Class Lecture: 
+ 
+Monday and Wednesday 
+12:30pm –   1:50pm EST 
+ 
+BH A53 
+ 
+ 
+ 
+ 
+  9:30am – 10:50am PST 
+ 
+B23 211 
+ 
+Required Textbook:  We will provide links to supplementary reading materials, and 
+online references via Canvas. 
+ 
+Brief List of Topics Covered: 
+OpenMP Parallelism 
+GPU Programming 
+Heterogeneous Programming 
+Advances in programming fast code 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas for 
+announcements and handouts. Important links to collaboration tools are also posted on 
+Canvas.  
+ 
+Grading Algorithm:  
+ 
+40% 
+Project     
+ 
+35%  
+Programming Assignments  
+15% 
+Paper reviews 
+10% 
+Class participation 
+ 
+All assignments are due at 11:59pm Anywhere on Earth (AoE). Late assignments may 
+not be graded if 1) there are no excused absences, or 2) approval for late submission was 
+not sought at least 48 hours before the deadline. If something unexpected happens, let us 
+know immediately. 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+January 
+13 
+Mon 
+Semester Begin – Overview of course 
+15 
+Wed 
+Architecture features and performance 
+20 
+Mon 
+MLK Jr Day – No class 
+22 
+Wed 
+Principles of parallelism 
+27 
+Mon 
+Introduction to OpenMP  
+29 
+Wed 
+OpenMP Parallelization 
+February 
+3 
+Mon 
+OpenMP Scheduling 
+5 
+Wed 
+OpenMP Affinity 
+10 
+Mon 
+OpenMP Task  
+
+ 
+3 
+ 
+Date 
+Day 
+Class Activity 
+12 
+Wed 
+OpenMP Task – continue  
+17 
+Mon 
+Introduction to GPU programming  
+19 
+Wed 
+Programming a GPU Kernel  
+24 
+Mon 
+Programming for the GPU memory hierarchy 
+26 
+Wed 
+Project Meeting 
+March 
+3-7 
+Mon – Fri 
+Spring Break 
+10 
+Mon 
+Tensor Cores on the GPU 
+12 
+Wed 
+GPU Streams 
+17 
+Mon 
+Communications on the GPU 
+19 
+Wed 
+Project Meeting 
+24 
+Mon 
+Introduction to Heterogeneous Platforms 
+26 
+Wed 
+Heterogeneous Platforms – Part 2 
+31 
+Mon 
+Overview of different approaches to fast code 
+April 
+2 
+Wed 
+Project Meeting 
+7 
+Mon 
+Advanced Computing Topics – Autotuning 
+9 
+Wed 
+Advanced Computing Topics – Analytical Models 
+14 
+Mon 
+Advanced Computing Topics – Domain Specific Compilers 
+16 
+Wed 
+Project Presentation 
+21 
+Mon 
+Project Presentation 
+23 
+Wed 
+Project Presentation Summary - Last Class Day 
+ 
+Technology Requirements 
+This is an in-class course mainly taught at the CMU Pittsburgh campus, and is also 
+broadcast to the CMU SV Campus through Zoom. Both classes are expected to be in 
+person.  Please make sure that you have access to collaboration tools such as Zoom, and 
+Canvas. 
+ 
+Programming assignments will need to run on the ECE number clusters, and in some 
+instances specific machines on the ECE number clusters. You are allowed to develop on 
+your own personal machines. However, it is your responsibility to make sure that the 
+assignment runs as expected on specific machines on the ECE number clusters. 
+ 
+Should you have problems accessing these tools and devices, let us know as soon as 
+possible. For accounts related matters, you should contact ITS at help@ece.cmu.edu 
+ 
+Collaboration Guidelines 
+Students are encouraged to collaborate, as long as the purpose is to learn. You are 
+allowed to discuss with fellow course-mates in the current class, but each student is 
+expected to write their code independently, and turn in their own separate write-ups. The 
+same rules apply for paper reviews. Please use the discussion boards as the primary 
+means of collaboration with your fellow course-mates. If in doubt, check with us on what 
+is considered acceptable. 
+ 
+ECE

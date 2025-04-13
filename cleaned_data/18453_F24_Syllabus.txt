@@ -1,0 +1,218 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-453 Introduction to XR Systems 
+Fall 2023 
+Instructor: 
+ 
+Anthony Rowe / Aswin Sankaranarayanan 
+Office Location: 
+CIC 2217, PH B24 
+Email Address: 
+{agr,saswin}@andrew.cmu.edu 
+ 
+ 
+Course Description:  
+Digitization of reality is at the cusp of widespread adoption; it also embodies a unique 
+convergence of techniques that span the gamut of electrical and computer engineering. This 
+course introduces students to augmented/virtual/mixed reality systems, or what is broadly 
+referred to as extended reality (XR). The course covers hardware and software topics 
+central to XR systems, namely, content capture, streaming, and display. The course also 
+aims to make students comfortable with some of the basic tools required to digitize, 
+optimize, render, control, and visualize content. 
+ 
+In addition to lectures spanning the eco-system of topics central to XR systems, the course 
+will feature labs where students will implement techniques to digitize 3D content using 
+RGBD cameras, importing and manipulating digital content in modern XR development 
+workflows, building controllers with 6 DOF, and finally building a 3D display. By the end 
+of the course, all these components will be connected to complete the cycle between reality 
+to digital reality and back.  
+ 
+The course will have one project that will require implementing and demonstrating a 
+feature on an XR display. The project will have multiple deliverables, including a mid-
+semester presentation that will involve a deep dive into related technical articles. 
+ 
+Course Goals: At the culmination of the course, the student should be able to understand 
+of gamut of techniques underlying XR systems, including different flavors of XR systems 
+that are in vogue. The course will provide hands-on experience in building different 
+components of an XR system, and the ability to critically analyze the tradeoffs in each.  
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+● 18-290 OR 18-213. 
+ 
+
+ 
+2 
+ 
+Course Area & Designation: Signals and Systems, Signal Processing and 
+Communications; Computer Systems 
+ 
+Class Schedule  
+● Lecture  
+     Tues,Thurs 11:00m – 12:20pm 
+ ET     
+  
+● Recitation:  
+     Friday 
+11:00am – 12:20pm ET 
+       
+ 
+ 
+Required Textbook: None 
+ 
+Suggested Reading: A wide range of reading material will be made available for each 
+topic. 
+ 
+Other Supplemental Materials: None 
+ 
+Grading Algorithm:  
+40% 
+Labs 
+20% 
+HWs 
+35% 
+Final project  
+5% 
+Experience sessions 
+ 
+Tentative Course Calendar:  
+ 
+Week 1 
+Introduction; Understanding the reality continuum 
+Week 2 
+Human perception 
+Week 3 
+Real-time rendering 
+Week 4 
+Display design  
+Week 5 
+Display design 
+Week 6 
+Localization 
+Week 7 
+Mid-semester presentation 
+Week 8 
+Reality capture 
+Week 9 
+Scene reconstruction 
+Week 10 
+Digitizing the human body 
+Week 11 
+Frontiers of XR 
+Week 12 
+Frontiers of XR 
+Week 13 
+Final project presentation 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of all 
+the courses you take.  The following list describes which objectives are fulfilled by this 
+course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+
+ 
+3 
+ 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: The course 
+poses many problems in the form of labs and projects where the students tackle 
+engineering problems in photogrammetry, real-time rendering, 3D display design, 
+and user interfaces 
+2. an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, as 
+well as global, cultural, social, environmental, and economic factors: the 
+course introduces students to concepts in XR systems, which are intricately tied to 
+socio-cultural and economic factors. 
+3. an ability to communicate effectively with a range of audiences: students get 
+to practice their communication skills in a project presentation and demo 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal 
+contexts: the course via projects gets students to think about the design of 
+systems and components central to XR systems. students have the opportunity to 
+consider the various factors that underlie design decisions, which involve social, 
+cultural, economic and environmental constraints 
+5. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions: through 
+the use of labs and projects the course provides problems that involve an 
+understanding of experimentation (including hands-on building) and the analysis 
+of the data generated. 
+6. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: both in the project and the lab, students are given 
+opportunities to learn by themselves using online resources as well as advice from 
+TAs and instructors. 
+ 
+How to succeed in this class. Attend lectures and recitations and ask lots of questions! 
+Getting high scores in HWs is a necessary ingredient for doing well in this course. And 
+HWs are best handled by asking lots of questions and clarifying your doubts in lectures, 
+office hours and piazza.  
+ 
+Take care of yourself. Do your best to maintain a healthy lifestyle this semester by 
+eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some 
+time to relax. This will help you achieve your goals and cope with stress. 
+ 
+All of us benefit from support during times of struggle. You are not alone. There are 
+many helpful resources available on campus and an important part of the college 
+experience is learning how to ask for help. Asking for support sooner rather than later is 
+often helpful. 
+ 
+If you or anyone you know experiences any academic stress, difficult life events, or 
+feelings like anxiety or depression, we strongly encourage you to seek support. 
+Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and 
+
+ 
+4 
+ 
+visit their website at http://www.cmu.edu/counseling/. Consider reaching out to a friend, 
+faculty or family member you trust for help getting connected to the support that can 
+help. 
+ 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone 
+immediately, day or night: 
+ 
+CaPS: 412-268-2922 
+Re:solve Crisis Network: 888-796-8226 
+ 
+If the situation is life threatening, call the police: 
+On campus: CMU Police: 412-268-2323 
+Off campus: 911 
+ 
+If you have questions about this or your coursework, please let me know. 
+ 
+We must treat every individual with respect. We are diverse in many ways, and this 
+diversity is fundamental to building and maintaining an equitable and inclusive campus 
+community. Diversity can refer to multiple ways that we identify ourselves, including but 
+not limited to race, color, national origin, language, sex, disability, age, sexual orientation, 
+gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. 
+Each of these diverse identities, along with many others not mentioned here, shape the 
+perspectives our students, faculty, and staff bring to our campus. We, at CMU, will work 
+to promote diversity, equity and inclusion not only because diversity fuels excellence and 
+innovation, but because we want to pursue justice. We acknowledge our imperfections 
+while we also fully commit to the work, inside and outside of our classrooms, of building 
+and sustaining a campus community that increasingly embraces these core values. 
+ 
+Each of us is responsible for creating a safer, more inclusive environment. 
+ 
+Unfortunately, incidents of bias or discrimination do occur, whether intentional or 
+unintentional. They contribute to creating an unwelcoming environment for individuals 
+and groups at the university. Therefore, the university encourages anyone who experiences 
+or observes unfair or hostile treatment on the basis of identity to speak out for justice and 
+support, within the moment of the incident or after the incident has passed. Anyone can 
+share these experiences using the following resources: 
+● Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150 
+● Report-It online anonymous reporting platform: reportit.net 
+       username: tartans password: plaid 
+All reports will be documented and deliberated to determine if there should be any 
+following actions. Regardless of incident type, the university will use all shared 
+experiences to transform our campus climate to be more equitable and just. 
+ 
+ 
+ECE

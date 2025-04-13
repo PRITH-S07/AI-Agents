@@ -1,0 +1,240 @@
+Carnegie Mellon University 
+Department of Electrical and Computer Engineering 
+18-290  
+    
+ 
+ 
+ 
+                                                    Spring 2025 
+Signals and Systems 
+Course Syllabus 
+ 
+Instructors 
+ 
+Vijayakumar Bhagavatula 
+kumar@ece.cmu.edu 
+Office:  HH B-205 
+ 
+Tom Sullivan  
+ 
+tms@ece.cmu.edu 
+Office:  HH A-209 
+ 
+ 
+ 
+Teaching Assistants 
+ 
+                     
+Jason Botros   
+ 
+jbotros@andrew.cmu.edu 
+Surya Chandramouleeswaran suryac@andrew.cmu.edu 
+Ricky Gao  
+ 
+ 
+rickyg@andrew.cmu.edu 
+Sagnik Ghosh  
+ 
+sagnikg@andrew.cmu.edu   
+Eesha Santosh Karnawat 
+ekarnawa@andrew.cmu.edu  
+Haejoon Lee  
+ 
+haejoonl@andrew.cmu.edu    
+Yixin Liang 
+ 
+ 
+yixinlia@andrew.cmu.edu 
+Ganghui Lin   
+ 
+ganghuil@andrew.cmu.edu   
+Thomas O’Brien 
+ 
+tgobrien@andrew.cmu.edu 
+Rayann Ramoutar 
+ 
+rramouta@andrew.cmu.edu  
+Vidur Sinha 
+  
+ 
+vidursin@andrew.cmu.edu    
+Balasubramanian Srinivasa Vaithiyanathan balasubs@andrew.cmu.edu 
+ 
+ 
+ 
+Course Web Page 
+ 
+We will use the Canvas course system for our class web page. Information about the staff’s office hours 
+and location for those hours will be available in the Syllabus section of the web page.  Homework 
+assignments as well as homework solutions will be posted to Canvas.  Your grades will be available first 
+on Gradescope then exported to Canvas after the re-grade period (see later section) has closed.  We 
+encourage you to check your scores regularly and bring to our attention any discrepancies between what 
+grades you received written on your work and what is listed on Canvas.  Students are also responsible 
+for any information conveyed to the class via Canvas announcements. 
+ 
+
+ 
+ 
+Course Description 
+ 
+The goal of this course is to introduce students to the basic concepts of signals and systems.  We’ll study 
+tools for the representation of signals in different domains (time and frequency) and the interaction 
+between signals and systems.  We focus our attention on linear systems.  We study both techniques for 
+continuous and discrete time systems and signals. Topics covered include Fourier Series, Fourier 
+Transforms, Discrete Fourier Transforms, Laplace Transforms and Z-Transforms, Convolution, Impulse 
+Response, Transfer Functions, Poles and Zeros, Filtering, and Filter Design. 
+ 
+The skills and knowledge gained in this course are essential for the analysis and design of many real-
+world systems. Examples of such systems can be found in telecommunications (telephony, radio, 
+television, data communications, fax); signal processing (audio, radar, sonar, video compression, image 
+processing, speech processing); automatic control (chemical plant control, airplane control, cruise 
+control); biomedical engineering (ECG, EEG, MRI); robotics (manipulation, navigation); Machine 
+Learning, Deep Learning, Natural Language Processing, etc.  
+ 
+This course will also provide you with the terminology needed to communicate with others working in 
+these areas.  By the end of the semester, you should be able to:  
+ 
+ 
+Model physical systems using mathematical models learned in this course,  
+ 
+ 
+Use a system block approach to describe engineering applications, 
+ 
+ 
+Solve the mathematical models for input/output relationships using time-domain and frequency-
+domain methods, and  
+ 
+ 
+Understand the limitations and advantages of the mathematical models employed.  
+ 
+This course is the entry point for courses in Telecommunications, Signal Processing, Control, Robotics, 
+ML/DL/NLP/AI.   
+ 
+  
+ 
+Recommended Reference Textbook 
+ 
+Signals and Systems, 2nd edition, by Alan V. Oppenheim and Alan S. Willsky with S. Hamid Nawab 
+Prentice Hall, 1997 
+ 
+Slides 
+ 
+There are no pre-prepared lecture slides for 18-290.  We prefer to be flexible with the course material as 
+it is presented, allowing the lectures to react easily to student questions.   
+ 
+
+ 
+ 
+Course schedule: 
+ 
+Lectures: 
+ 
+Monday and Wednesday, 12:00 pm – 1:50 pm, Posner Hall A35. 
+ 
+We will not be recording the lectures or recitations.  It will be important to be present in class to ask 
+questions and to participate in the dialog that takes place during lecture.  Active participation in lectures 
+can help with students’ understanding of the course material. 
+ 
+ 
+Recitations:  
+ 
+Section A: 
+Friday, 10:00 am – 10:50 am, GHC 4215      
+Section B: 
+Friday, 11:00 am – 11:50 am, WeH 4623    
+Section C: 
+Friday, 12:00 pm – 12:50 pm, WeH 4623    
+Section D: 
+Friday, 1:00 pm – 1:50 pm, WeH 5302 
+ 
+Recitations may be different this semester than standard recitations.  If enough locations can be found, 
+we will meet in smaller groups of about 10-12 students with a group leader TA.  Please attend your 
+scheduled recitation/group time as we are a very full class and we can’t take seats from others registered 
+for a specific section.  Recitation attendance will not be formally taken, but this is your chance to see 
+some problems worked and to ask extra questions, so attendance is encouraged. 
+ 
+Handouts: 
+ 
+All course materials will be available via Canvas and Homework and Exams via Gradescope.  
+ 
+Homework and Labs: 
+ 
+Weekly homework problem sets will be distributed on Canvas/Gradescope on Fridays by 4:30 pm and 
+will be due via Gradescope on the following Friday by 4:30 pm.  Please allow yourself time to upload 
+your homework to account for possible internet glitches.  Graded homework will also be available via 
+Gradescope.  While discussing HW with your classmates is allowed, you must do your own work where 
+the mechanics of solving the problems are concerned.  No group HWs.   
+ 
+We are in the process of developing some new labs for 18-290 for use in future versions of 290.  If ready 
+for beta-testing, we may use one or two of these this semester. 
+ 
+Exams: 
+ 
+Three exams will be given on the following dates: 
+ 
+Wednesday, February 19 (week 6) 
+Wednesday, April 2 (week 11) 
+Final Exam period when our time is scheduled (This will not be a 3 hour “final” exam.  It will be for 1 
+hour and 50 minutes like the other two and will be weighted the same, but it will be scheduled during 
+the final exam period.  It will be comprehensive.) 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Exam Taking 
+ 
+All exams are to be taken during the scheduled exam date and time.  Make-up exams are highly 
+discouraged.  If you are unable to take an exam at the scheduled time (for a valid reason), you must meet 
+with the instructor within one week of the originally scheduled exam time to schedule a make-up exam, 
+else you will receive a zero for that exam.  Make-ups will be given at the convenience of the instructor 
+and will generally be more difficult than the originally scheduled exam.  The format of the make-up 
+exam is up to the instructor.   
+ 
+If you have special circumstances approved by the Disabled Student Services office, it is up to you to 
+make arrangements with the instructor at least 72 hours before the scheduled exam time.  Failure to do 
+so will result in you taking the exam in the same place and at the same time (and for the same length of 
+time) as the rest of the class. 
+ 
+Grading: 
+ 
+Your final grade will be calculated using the following method: 
+ 
+10% 
+Pop quizzes in lecture.  We are planning 6 of these, the lowest quiz score will be dropped. 
+30%  Homework (lowest homework score dropped) 
+ 
+ 
+ 
+ 
+ 
+60%  Three term exams (lowest exam score worth 12%, other two worth 24% each) 
+ 
+While lower cutoffs may be used, the following cutoffs are guaranteed: 
+ 
+>90% A 
+>80% B 
+>70% C 
+>60% D 
+ 
+Re-grades 
+ 
+Re-grades on any course materials will only be given if a serious mistake in the grading has taken place 
+and should be requested through Gradescope.  The course instructors are the only persons to be 
+approached directly for questions about a re-grade of any course material.  No material will be accepted 
+for a re-grade more than one week after it has been available for viewing by the student.  Requesting a 
+re-grade does not guarantee that you will be awarded more credit for your work.  The grader who graded 
+the material will review the work and make a determination, possibly through consultation with others 
+on the course staff.  It is very important to be clear and concise with work that you are turning in to be 
+graded.  The graders must be able to understand what your intentions were in your solution to a problem.   
+ 
+Cheating: 
+ 
+Any student caught cheating in this course will receive an R and the facts of the case and the penalty will 
+be reported to the Dean of Student Affairs.  While students may work in groups to discuss homework 
+assignments, copying from someone else’s homework (present or past years or past year’s solutions), lab 
+write-up, or exam or allowing another student to copy his/her work, will be considered as cheating.

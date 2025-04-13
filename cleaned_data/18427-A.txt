@@ -1,0 +1,261 @@
+Course Syllabus 
+18-727 / 18-427: 
+Board-Level RF Systems for the Internet-of-Things 
+Fall Semester, 2024 
+ 
+Course Personnel: 
+ 
+Instructor: 
+• Prof. Rick Carley 
+ 
+Hamerschlag Hall 2119 
+ 
+Phone: 412-268-3597 
+ 
+carley@ece.cmu.edu 
+ 
+Office hours: See Canvas under “Office Hours” 
+ 
+ 
+Teaching Assistant(s): 
+• Kaiyuan Liu <kaiyuan2@andrew.cmu.edu> 
+Office hours: See Canvas under Home “Office Hours” 
+Room: See Canvas under Home “Office Hours” 
+ 
+• Korene Tu <korenet@andrew.cmu.edu> 
+Office hours: See Canvas under Home “Office Hours” 
+Room: See Canvas under Home “Office Hours” 
+ 
+• Korene Tu <korenet@andrew.cmu.edu> 
+Office hours: See Canvas under Home “Office Hours” 
+Room: See Canvas under Home “Office Hours” 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+______________________________________________________________________
+ 
+Course Schedule: 
+• Lecture: 
+ Mon & Wed, 2:00 p.m. – 3:50 p.m. ET, in person expectation, ANS-C02 / zoom 
+• Labs: 
+ Friday, 2:00 p.m. – 3:50 p.m. ET, in person expectation, ANS-C02 / zoom 
+ 
+
+ 
+2 
+ 
+Course Description:  
+Come learn what 5G/6G cellular communications is all about and why it will be such a 
+major breakthrough compared to 3G and 4G cellular. 
+     
+ 
+ 
+This class will teach you how radios work (at a block level) and just enough theory about 
+RF wave propagation to understand multipath interference and other key aspects of RF 
+communications systems. Our context will be the future in which every device wants to 
+communicate with the world (i.e., the Internet-of-Things). 
+ 
+The learning process will include a significant hands-on component. Students will build 
+and test RF transmission lines, RF patch antennas and a simple MIMO radio front end / 
+antenna array. We will explore key concepts like multipath interference, beam forming, 
+beam steering and null steering via the LAB exercises. 
+ 
+Number of Units: 12 
+ 
+Pre-requisites: 18-320 and 18-290, or permission of instructor.  
+Seniors and Graduate Students who are interested in the future of RF communications 
+and who have taken at least Undergraduate circuits (e.g., 18-320) and Intro to Signal 
+Processing (e.g., 18-290) or equivalent should be able to succeed in this class. In 
+addition, students should be familiar with programming in Python. 
+ 
+ 
+Graduate Course Area: Circuits 
+ 
+Reference Textbook: 
+  
+Title:  
+Microwave and RF Design 
+Author:  
+Steer, Michael  
+Abstract:  
+The book series Microwave and RF Design is a comprehensive treatment of 
+radio frequency (RF) and microwave design with a modern “systems-first” 
+approach. A strong emphasis on design permeates the series with extensive 
+case studies and design examples. Design is oriented towards cellular 
+communications and microstrip design so that lessons learned can be 
+
+ 
+3 
+ 
+applied to real-world design tasks. The books in the Microwave and RF 
+Design series consists of 6 volumes: Fundamentals of Microwave and RF 
+Design, Radio Systems (Volume 1), Transmission Lines (Volume 2), 
+Networks (Volume 3), Modules (Volume 4), and Amplifiers and 
+Oscillators (Volume 5). 
+Description: Print versions of these volumes are available for order through UNC Press - 
+https://www.uncpress.org/author/129832-michael-steer/ 
+Publisher:  NC State University  
+Date:  
+2019 
+Citation:  
+Steer, Michael. Microwave and RF Design (Third Edition, 2019). NC State 
+University, 2019. 
+URI:  
+https://doi.org/10.5149/9781469656915_Steer  
+https://doi.org/10.5149/9781469656892_Steer  
+https://doi.org/10.5149/9781469656939_Steer  
+https://doi.org/10.5149/9781469656953_Steer  
+https://doi.org/10.5149/9781469656977_Steer  
+https://doi.org/10.5149/9781469656991_Steer 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Supplemental Materials:  Lecture Notes 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. All course materials will be posted on 
+the 18-727 Canvas website.  You should check the course Canvas site daily for 
+announcements and handouts.  
+ 
+Homework Assignments:  
+The students will be expected to perform approximately 6 homework assignments during 
+the semester. 
+ 
+Lab Exercises:  
+The students will be expected to perform approximately bi-weekly Lab exercise 
+assignments typically on Fridays. When Lab exercises are not being held on Fridays, we 
+will hold either Recitation sections to go over homeworks or makeup Lectures to cover 
+now material. We will announce the schedule for the following week at least a week 
+ahead of time. Lab exercises will be in teams of 2 or 3 students depending on the total 
+number of students and the number of Lab setups available. 
+ 
+Quizzes:  
+The students will be given 4 in-class Quizzes during the semester in order for them to 
+demonstrate that they are keeping up with the course material. 
+
+ 
+4 
+ 
+ 
+Grading:  
+ 
+The students will carry out individual weekly homework assignments, 4 in-class quizzes 
+and regular LAB assignments. The relative point breakdown for these three assignments 
+is as follows.  However, we reserve the right to adjust these weights as the semester 
+progresses. 
+ 
+20% 
+Homework 
+40% 
+LAB Exercises 
+40% 
+Quizzes (10% each) 
+ 
+ 
+ 
+
+ 
+5 
+ 
+ 
+Planned Topics for Fall 2023:  
+ 
+The following are topics that we intend to cover through Lectures and Labs. 
+ 
+• 
+RF Communications Systems – Overview 
+– How basic Cellular communications systems work 
+• 
+RF Transmission Lines 
+– Analysis 
+– How to read a Smith Chart 
+– Design RF circuit using transmission lines 
+• 
+Selected RF Antennas 
+– Dipole Antenna 
+– Patch Antenna 
+– Impedance Matching to Antennas 
+• 
+RF Transceiver Architectures 
+– Direct Conversion Receivers and Transmitters 
+– Software defined radios 
+– Typical modulation schemes and spectral efficiency 
+• 
+Multi-Input Multi-Output Concept 
+– Increase data rate through increased frequency re-use 
+– Increased reliability through multi-path redundancy 
+– Various MIMO operating methodologies 
+• 
+MIMO Antenna Design 
+– Cartesian Array of Patch antennas 
+– Design Issues for MIMO Antennas 
+• 
+MIMO Communications 
+– Strategies for using MIMO in Cellular Data Communications 
+– RF backhaul – fixed point to fixed point 
+– Increased frequency re-use within cell 
+ 
+ 
+ 
+ 
+
+ 
+6 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+ 
+Homework assignments, Lab exercises and Exams all require the students to 
+identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics 
+ 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+ 
+Lectures provide detailed understanding of how cellular radios share spectrum as 
+a resource for the mutual benefit of all users.  In addition, the important increase 
+in spectrum reuse enable by MIMO is described in terms of its engineering 
+design. 
+ 
+3. an ability to communicate effectively with a range of audiences 
+ 
+Students provide written Lab reports on their weekly Lab exercises that 
+communicate what was done, the results, and any necessary interpretation of the 
+results. Feedback on their Lab reports is provided weekly by course TAs. 
+ 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+ 
+Students carry out weekly weekly Lab exercises that challenge them to design an 
+appropriate experiment, analyze and interpret the results and use engineering 
+judgement to draw conclusions.  Feedback on their Lab reports is provided 
+weekly by course TAs. 
+ 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+Students are given a number of different resources to help them solve the weekly 
+homework assignments. They are encouraged to gain experience searching 
+through multiple sources in order to extract the information needed to solve the 
+assignments. 
+ 
+
+ 
+7 
+ 
+ECE

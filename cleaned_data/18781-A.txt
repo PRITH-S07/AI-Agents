@@ -1,0 +1,148 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+11751/18781: Speech Recognition and Understanding 
+Fall 2024 
+ 
+ 
+Instructor: Shinji Watanabe 
+ 
+ 
+Office Location: GHC-6405 
+Email Address: swatanab@andrew.cmu.edu   
+Office Hours: Tuesday 1-2pm 
+ 
+ 
+Teaching Assistant: Yifan Peng 
+Email Address: yifanpen@andrew.cmu.edu  
+Office Hours: TBA 
+ 
+Teaching Assistant: Jinchuan Tian 
+Email Address: jinchuat@andrew.cmu.edu 
+Office Hours: TBA 
+ 
+Teaching Assistant: William Chen 
+Email Address: wc4@andrew.cmu.edu 
+Office Hours: TBA 
+ 
+Teaching Assistant: Kwanghee Choi 
+Email Address: kwanghec@andrew.cmu.edu 
+Office Hours: TBA 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description: The technology to allow humans to communicate by speech with 
+machines or by which machines can understand when humans communicate with each 
+other is rapidly maturing. This course provides an introduction to the theoretical tools as 
+well as the experimental practice that has made the field what it is today. We will cover 
+theoretical foundations, essential algorithms, major approaches, experimental strategies 
+and current state-of-the-art systems and will introduce the participants to ongoing work in 
+representation, algorithms and interface design. This course is suitable for graduate 
+students with some background in computer science and electrical engineering, as well as 
+for advanced undergraduates. Prerequisites: Sound mathematical background, knowledge 
+
+ 
+2 
+ 
+of basic statistics, machine learning, and good computing skills. No prior experience with 
+speech recognition is necessary. This course is primarily for graduate students in LTI, 
+CS, Robotics, ECE, Psychology, or Computational Linguistics. Others by prior 
+permission of instructor. 
+ 
+ 
+Number of Units: 12  
+ 
+Pre-requisites: No course requirements, but it requires a sound mathematical 
+background, knowledge of basic statistics and machine 
+learning, and good computing skills based on Python and 
+Linux.  
+ 
+Graduate Area: Human Language Technology/Machine Learning/Speech 
+Processing/Artificial intelligence 
+ 
+ 
+Class Lecture: MM103 (In Person) 
+ 
+ 
+Required Textbook: No required text. 
+ 
+ 
+Suggested Reading: They will be shown in the lecture material. 
+ 
+Reference Materials:  They will be shown in the lecture material. 
+ 
+ 
+Brief List of Topics Covered: Introduction to automatic speech recognition, hidden 
+Markov models, language models, end-to-end neural networks, application of deep 
+learning to speech recognition, conversational AI 
+ 
+Course Canvas: We will not use Canvas. Instead, we will use the following 
+- 
+Piazza: https://piazza.com/cmu/fall2024/1175118781 for the main discussions 
+and course materials 
+- 
+Gradescope: https://www.gradescope.com/courses/783573 for grading 
+ 
+Course Website: https://shinjiwlab.github.io/activities/2024/11751-2024f/ However, 
+it will not be updated so often. Please check the Piazza resource page primarily. 
+ 
+Homework Projects: we will have around 10 weekly assignments and 4 coding 
+assignments. 
+ 
+Reading Assignments: no reading assignments. 
+ 
+Grading Algorithm:  
+- 
+Class participation 25% 
+o Regular class points: 20 
+
+ 
+3 
+ 
+o ESPnet tutorial: 5 
+- 
+Assignments 30% 
+o Weekly assignments: 10 x 1 
+o Coding assignments: 5 x 4 
+- 
+Mid-term exam 20% 
+- 
+Term Project 25% 
+ 
+Tentative Course Calendar: (TBA) 
+ 
+  
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+
+ 
+4 
+ 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

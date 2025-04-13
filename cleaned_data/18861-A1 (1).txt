@@ -1,0 +1,203 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-861: 
+Energy Project Development and Economic Studies 
+Fall 2024
+Instructor: Barry Rawn 
+Office Location: D202 
+Email: brawn@africa.cmu.edu 
+Office Hours:  
+https://calendly.com/prof_barry_rawn
+ 
+  
+ 
+ 
+Teaching Assistants:  
+Vincent Nishimiyimana and Mariam 
+Sulleiman 
+Email: vnshimi2@andrew.cmu.edu  and 
+msulleim@andrew.cmu.edu 
+Office Hours:  By appointment 
+ 
+ 
+ 
+ 
+ 
+Course Description: This course will introduce concepts and tools for the development 
+and analysis of energy projects. Students will learn about energy project development 
+processes through cases studies in the African context. They will also develop the ability 
+to perform basic technical and economic feasibility assessments through directed 
+projects. Relevant skills to be developed include financial modeling, energy yield 
+estimation, social and environmental impact assessment and regulatory/policy analysis. 
+ 
+ 
+Number of Units: 6 
+ 
+Pre-requisites: None 
+ 
+Class Schedule: Lectures: Tuesdays and Thursdays  
+Section K1: Kigali 
+14:00PM - 13:50PM   
+E305 (F309 backup) 
+Section A1: Pittsburgh 
+8:00AM - 09:50AM   
+REO (link mailed to students)   
+ 
+Brief List of Topics Covered: 
+ 
+Technical feasibility studies 
+Financial feasibility studies 
+Financial modeling 
+ 
+Environmental impact assessment 
+Regulatory and licensing processes 
+Project financing 
+
+                                                    
+ 
+ 
+                                                                  
+ 
+2 
+                                                                                                                       
+Canvas: To access the course blackboard from an Andrew Machine, go to the login page 
+at: http://www.cmu.edu/canvas. You should check the course Canvas page daily for 
+announcements and handouts.  
+ 
+Piazza: Our Canvas site is integrated with Piazza, which is the best place to pose your 
+questions about the course. Your classmates, instructor and TA can all add to a great 
+answer. I will prioritize supplying guidance on Piazza because of its wide accessibility.  
+ 
+Grading Algorithm: 
+ 
+50% 
+Homework 
+40% 
+Project 
+10% 
+Highest of HW/Project 
+ 
+Late Work: 
+ 
+All assignments have due dates indicated on the syllabus. In general, submitting 
+assignments on time lets the instructional team provide feedback in a more timely and 
+efficient manner. Assignments build on each other, so timely submissions are crucial to 
+your progress in the class. If you cannot submit an assignment on time, the default will be 
+that late assignments will be receive a late penalty of 10% per day. If you have to submit 
+late, please contact me to let me know what’s going on (brawn@africa.cmu.edu). 
+ 
+How to Succeed: 
+ 
+Ask questions- in our sessions, or office hours.  Review materials when they become 
+available on Canvas. Answer the questions of your classmates. Choose a project that 
+matters to you. 
+ 
+Tentative Course Calendar 
+Date 
+Day 
+Class Activity 
+August 
+26 
+Mon. 
+Course Introduction, Project Development Process 
+28 
+Wed. 
+Participant Introductions, Project Discussion 
+September 
+ 
+2 
+Mon. 
+Financial Modeling 
+4 
+Wed. 
+Market/Needs Assessment 
+
+ 
+ 
+3 
+ 
+9 
+Mon. 
+Project Finance 
+11 
+Wed. 
+Introduction: Technical and Financial Feasibility 
+16 
+Mon. 
+Project Clusters: Defend Your Technical Feasibility 
+18 
+Wed. 
+Project Clusters: Defend Your Financial Feasibility 
+23 
+Mon. 
+Example, Market Assessment: Minigrid Assessment and SE4All Toolkit 
+25 
+Wed. 
+Environmental & Social Impacts 
+October 
+5 
+Wed. 
+Examples: Turkana Wind Farm 
+10 
+Mon. 
+Regulatory and Procurement Processes 
+12 
+Wed. 
+Project presentations 
+17 
+Mon. 
+Project presentations 
+ 
+Recording of Class Sessions 
+ 
+All synchronous classes will be recorded via Zoom so that students in this course (and 
+only students in this course) can watch or re-watch past class sessions. Please note that 
+breakout rooms will not be recorded. AV staff in the ECE department will make the 
+recordings available on Canvas as soon as possible after each class session (usually 
+within 3 hours of the class meeting, but not longer than 24 hours). Recordings will live in 
+our Canvas website via the “Panopto Recordings” tab.. Please note that you are not 
+allowed to share these recordings. This is to protect your FERPA rights and those of your 
+fellow participants. 
+ 
+Diversity and Class Conduct Statement 
+ 
+Developing engineering systems require us to leverage all kinds of experience.  This 
+course includes participants from a wide range of personal experience, training, 
+geography, and culture. Our dialogues in live sessions may have to be time-limited, but 
+as an instructor I require you to be respectful and open-minded, and encourage you to be 
+constructive in your comments to others, not only synchronously in live sessions, but also 
+online. 
+  
+ 
+ 
+Take care of yourself.  Do your best to maintain a healthy lifestyle this semester by 
+eating well, exercising, avoiding abuse of drugs and alcohol, getting enough sleep and 
+taking some time to relax. This will help you achieve your goals and cope with stress.  
+
+ 
+ 
+4 
+ 
+ 
+All of us benefit from support during times of struggle. You are not alone. There are 
+many helpful resources available on campus- but you must take the step of accessing 
+them. In fact, an important part of the college experience is learning how to ask for help. 
+Asking for support sooner rather than later is often helpful.  
+ 
+If you or anyone you know experiences any academic stress, difficult life events, or 
+feelings like anxiety or depression, we strongly encourage you to seek support. 
+Counseling and Psychological Services (CaPS) is here to help: 
+(http://www.cmu.edu/counseling/  and each campus has its own student services officers 
+who you can meet in person and obtain information.  Consider reaching out to a friend, 
+faculty or family member you trust for help getting connected to the support that can 
+help.   
+ 
+If you have questions about this or your coursework, please let me know. 
+ 
+The following are some official policies that you should be aware of as a participant in 
+this course. 
+ 
+ECE

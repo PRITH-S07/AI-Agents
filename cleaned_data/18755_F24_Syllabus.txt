@@ -1,0 +1,307 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-755: Networks in the Real World 
+Fall 2024 
+ 
+ 
+Instructor: 
+ 
+Osman Yağan 
+Email Address: 
+oyagan@andrew.cmu.edu 
+Office Hours:  
+Monday 2:30-3:30pm (Eastern time) 
+ 
+Teaching Assistants: 
+• Orkun Irsoy oirsoy@andrew.cmu.edu (Lead TA) (Pittsburgh) 
+• Saadhikha Suresh  saadhiks@andrew.cmu.edu (Pittsburgh) 
+• Kaitao Chen  kaitaoc@andrew.cmu.edu (SV)  
+• Rui Wang ruiwang3@andrew.cmu.edu (Pittsbugh) 
+Office Hours:  To be determined 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+18-755 is a graduate-level course that focuses on networks and their applications to 
+various natural and technological systems. Specifically, this class delves into the new 
+science behind networks and their concrete applications technological, biological, and 
+social systems, as well as various design synergies that exist when looking at these 
+systems from a cyber-physical perspective.  
+ 
+By scope and contents, this is not just another class on networks. Want to know how 
+complex networks dominate our world? How communities arise in social networks? How 
+group behavior dominates Twitter? How patterns of interaction can be identified in 
+hardware and software systems? Want to work on cutting edge projects involving 
+systems and synthetic biology? Or social networks? Or networks-on-chip and internet-of-
+things? Then this class is for you!  
+ 
+Course requirements consist of a few homework assignments, a semester-long project, 
+and in-class presentations of relevant papers. By structure and contents, this class targets 
+primarily the computer engineering and computer science students, but it also provides a 
+
+ 
+2 
+ 
+valuable foundation for interdisciplinary research to students in related disciplines. Senior 
+or graduate standing is required to take this course. 
+Number of Units: 12 
+Pre-requisites: Senior or Graduate Standing 
+Graduate Course Area: Algorithms/Complexity/Programming Languages 
+ 
+Class Lecture: 
+• Pittsburgh: Monday & Wednesday. 12:30pm – 1:50pm (Eastern time), DH 1211 
+• SV: Monday & Wednesday. 9:30am – 10:50am (Pacific time), B23 227 
+ 
+Required* Textbooks: Below are two nice books on the topic, one of which is available 
+online.   
+1. M. Newman, Networks. (2nd Edition), Oxford University Press, 2018 
+2. A.-L. Barabási, Network Science, Cambridge University Press, 2016. Available 
+Online at http://networksciencebook.com 
+ 
+* The lectures will contain material from various sources, and lecture notes will be made 
+available (after each class). However, having at least one of these books will be useful. 
+ 
+Suggested Reading:  
+1. M. A. Porter, and J. P. Gleeson, Dynamical systems on networks, Frontiers in 
+Applied Dynamical Systems: Reviews and Tutorials 4 (2016). Available online: 
+https://www.math.ucla.edu/~mason/papers/frontiers-published-tutorial.pdf  
+2.  D. J. Watts, Six degrees: The science of a connected age. 
+3. M. Gladwell: The Tipping Point: How Little Things Can Make a Big Difference 
+ 
+Brief List of Topics Covered: Network structure and dynamics. Processes over 
+networks. Networks in the real world: Social and biological networks. 
+ 
+Course Canvas: To access the course canvas from an Andrew Machine, go to the login 
+page at: https://cmu.instructure.com/. You should check the course canvas daily for 
+announcements and handouts.  
+ 
+Piazza: Students are encouraged to ask as many questions as they have using Piazza. The 
+instructor and TAs will actively monitor Piazza and respond in a timely manner.  
+Piazza sign-up link: https://piazza.com/cmu/fall2024/18755/home  
+ 
+Gradescope: Homework sets will be submitted through Gradescope at: 
+https://www.gradescope.com/courses/ 
+ 
+Grading Algorithm:  
+The following method will be used to compute a score for each student in the course: 
+ 
+40% 
+Homework (4 sets) 
+20% 
+Final Exam  
+40% 
+Project 
+
+ 
+3 
+ 
+Late HW Policy: You may submit homework sets up to 12 hours late for a 10% 
+deduction or up to 24 hours late for a 20% deduction. Any submissions made more than 
+24 hours after the deadline will not be accepted. 
+ 
+While lower cutoffs may be used, the following grade cutoffs are guaranteed:  
+> 90 A  
+> 80 B  
+> 70 C  
+> 60 D    
+ 
+Tentative Course Calendar: This schedule may be revised during the term.  
+ 
+At a high-level the content of the lectures is structured as follows: 
+• Lectures 1-5: Fundamentals of Networks 
+• Lectures 6-11: How to “Model” and Analyze Networks 
+• Lectures 12-19: Applications/Spreading Processes over Networks 
+ 
+Date 
+Day 
+Class Activity 
+Deadline 
+August 
+ 
+26 
+Mon. 
+Lecture 1: Introduction to Networks; Class Logistics 
+ 
+28 
+Wed. 
+Lecture 2: Mathematics of Networks; Graph Theory Basics 
+M0 out 
+September 
+ 
+ 
+2 
+Mon. 
+Labor Day; NO CLASS 
+ 
+4 
+Wed. 
+Lecture 3: Graphs ct’d: measures, metrics; vertex- and edge-
+connectivity 
+HW1 out 
+9 
+Mon. 
+Lecture 4: Graph theory ct’d: clustering coefficient 
+ 
+11 
+Wed. 
+No class (Instructor traveling) 
+ 
+16 
+Mon. 
+Lecture 5: The structure of real-world networks: Power-Law Degree 
+distribution; scale-free networks; assortative mixing.  
+HW1 due 
+18 
+Wed. 
+Lecture 6: Random Networks and Graphs: Erdos-Renyi Model 
+HW 2 
+out 
+23 
+Mon. 
+Lecture 7: Random Graphs ct’d. 
+M0 due 
+25 
+Wed. 
+Lecture 8: Milgram Experiments; Small-world Networks; Watts & 
+Strogatz Model. 
+ 
+30 
+Mon 
+Lecture 9: Random Key Graphs for modeling secure sensor networks; 
+Configuration Model; Barabasi-Albert Model with Preferential 
+Attachment; Clustered random graphs. 
+HW2 due 
+October 
+ 
+2 
+Wed. 
+ Lecture 10: Existence and Size of the Giant Component in Random 
+Networks; Epidemic Spreading 
+HW3 out  
+7 
+Mon. 
+Project Presentations (Milestone 1)  
+ 
+9 
+Wed. 
+Project Presentations (Milestone 1)  
+ 
+14-18 
+Mon-
+Fri 
+Fall Break; NO CLASS 
+ 
+21 
+Mon. 
+Lecture 11: Community Detection Algorithms 
+ 
+23 
+Wed.  
+Lecture 12: SI, SIR, SIS models. Epidemic Spreading over Networks  
+ 
+28 
+Mon. 
+Lecture 13: SIR Spreading over Networks 
+HW3 due 
+30 
+Wed. 
+Lecture 14: Analyzing information propagation using SIR model; SIR 
+model over multi-layer networks. 
+HW4 out 
+November 
+ 
+4 
+Mon. 
+Lecture 15: Spread of Influence over Networks (Complex Contagions) 
+ 
+
+ 
+4 
+ 
+6 
+Wed. 
+Lecture 16: Recent results on modeling spreading processes 
+• 
+Talk by Yurun Tian on the impact of mask wearing in 
+spreading processes 
+• 
+Additional talk; speaker TBD 
+ 
+11 
+Mon. 
+Lecture 17: Network Robustness and Percolation 
+ 
+13 
+Wed. 
+Lecture 18: Cascading Failures in Flow Networks; Cascading Failures 
+in Interdependent Systems 
+HW4 due 
+18 
+Mon. 
+Lecture 19:  Recent Results on Network Robustness / Opinion 
+Propagation  
+• 
+Lecture by Orkun Irsoy (Lead TA) 
+ 
+20 
+Wed. 
+No Class (Office hour for exam preparations) 
+ 
+25 
+Mon. 
+FINAL EXAM 
+ 
+27 
+Wed. 
+Thanksgiving Break; No Classes  
+ 
+December 
+ 
+2 
+Mon. 
+Final Project Presentations 
+ 
+4 
+Wed. 
+Final Project Presentations  
+ 
+9-16 
+Mon-
+Sun 
+Finals Week (Not relevant for 18-755) 
+ 
+ 
+Project Discussion Meeting Schedule with the TA: Students will have a meeting with the TA 
+on a regular basis to update their progress on the project and to receive feedback. These will be 
+scheduled later in the semester. 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you 
+take.  The following list describes which objectives are fulfilled by this course and in what 
+manner they are fulfilled. The objectives are numbered from “1” through “7” in the standard 
+ABET parlance. Those objectives not fulfilled by this course have been omitted from the 
+following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4.     
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

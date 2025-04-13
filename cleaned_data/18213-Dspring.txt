@@ -1,0 +1,226 @@
+18-213 / 18-613:
+Computer Systems
+18-213:
+Prof. Swarun Kumar
+18-613:
+Prof. Gregory Kesden
+Carnegie Mellon University
+Spring 2025
+1
+Organization
+Class web page:
+www.cs.cmu.edu/∼18213/
+Canvas:
+canvas.cmu.edu/courses/45656
+Piazza:
+piazza.com/cmu/spring2025/18213/home
+Autolab:
+beta.autolabproject.com/courses/18213-s25
+Ofﬁce Hours:
+Please see the class web page for instructor and TA ofﬁce hours.
+Recitations:
+Please see the class web page for the list of recitations.
+Lectures:
+• 18-213 students: Tue and Thu, 9:30am–10:50pm Eastern Time in POS 152
+• 18-613 PGH students: Tue and Thu, 12:30am–01:50pm Eastern Time in HOA 160
+• 18-613 SV students: Tue and Thu, 9:30am–10:50am Paciﬁc Time in B23 211
+2
+Objectives
+Our aim in the course is to help you become a better programmer by teaching you the basic concepts
+underlying all computer systems. We want you to learn what really happens when your programs run, so
+that when things go wrong (as they always do) you will have the intellectual tools to solve the problem.
+Why do you need to understand computer systems if you do all of your programming in high level lan-
+guages? In most of computer science, we’re pushed to make abstractions and stay within their frameworks.
+But, any abstraction ignores effects that can become critical. As an analogy, Newtonian mechanics ignores
+relativistic effects. The Newtonian abstraction is completely appropriate for bodies moving at less than 0.1c,
+but higher speeds require working at a greater level of detail.
+The following “realities” are some of the major areas where the abstractions you’ve learned in previous
+classes break down:
+1. Int’s are not integers, Float’s are not reals. Our ﬁnite representations of numbers have signiﬁcant
+limitations, and because of these limitations we sometimes have to think in terms of bit-level repre-
+sentations.
+1
+
+2. You’ve got to know assembly language. Even if you never write programs in assembly, The behavior of
+a program cannot be understood sometimes purely based on the abstraction of a high-level language.
+Further, understanding the effects of bugs requires familiarity with the machine-level model.
+3. Memory matters. Computer memory is not unbounded. It must be allocated and managed. Memory
+referencing errors are especially pernicious. An erroneous updating of one object can cause a change
+in some logically unrelated object. Also, the combination of caching and virtual memory provides the
+functionality of a uniform unbounded address space, but not the performance.
+4. There is more to performance than asymptotic complexity. Constant factors also matter. There are
+systematic ways to evaluate and improve program performance.
+5. Computers do more than execute instructions. They also need to get data in and out and they interact
+with other systems over networks.
+By the end of the course, you will understand these “realities” in some detail. As a result, you will be
+prepared to take any of the upper-level systems classes at Carnegie Mellon (both CS and ECE). Even more
+important, you will have learned skills and knowledge that will help you throughout your career.
+In detail, we set forth the following learning objectives, as activities you should be able to do after complet-
+ing the course:
+1. Explain common bit-level representations of numeric values (unsigned, two’s complement, ﬂoating
+point) and the consequent mathematical properties of arithmetic and bitlevel operations on them.
+2. Recognize the relation between programs expressed in C and in assembly code, including the imple-
+mentation of expressions, control, procedures, and data structures.
+3. Demonstrate ability to understand basic intention of a program through its binary representation and
+apply these skills to debugging programs.
+4. Investigate the programmer’s interaction with the underlying system through the different APIs and
+abstractions, including system support for process and thread control, virtual memory, and network-
+ing.
+5. Analyze the consequences of imperfect system usage, such as poor memory and CPU performance,
+crashes, and security vulnerabilities.
+6. Apply tools, both standard and self-developed, that will aid program development, including compil-
+ers, code analyzers, debuggers, consistency checkers, and proﬁlers.
+7. Apply these analytic and tool-use abilities to create reliable and efﬁcient programs exercising the
+different components of a modern computing system.
+8. Understand the sources of conﬂict that can arise when multiple threads of execution share resources,
+and demonstrate the ability to use synchronization constructs to mediate those conﬂicts.
+2
+
+3
+Textbook
+The primary textbook for the course is
+Randal E. Bryant and David R. O’Hallaron, Computer Systems: A Programmer’s Perspective,
+Third Edition (CS:APP3e), Pearson, 2016.
+Please make sure you have the Third Edition, which is signiﬁcantly different from the Second Edition
+published in 2011. You can get either hardcopy or electronic editions. Electronic access, starting at $34.99,
+is available through Vital Source. Copies are also on reserve in the Sorrells Engineering Library. Warning:
+Don’t buy the paperback version of the book! It’s not the same as the hardcover/electronic version. The
+practice and homework problems were rewritten and are a total mess.
+In addition, we expect you to use reference material about the C programming language. Our suggested
+reference is:
+Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Second Edition,
+Prentice Hall, 1988.
+This is the classic K & R book, the standard against which all reference manuals are compared. This book
+should be in the library of anyone who programs in C. Copies are on reserve in the Sorrells Engineering
+Library.
+4
+Course Organization
+Your participation in the course will involve these forms of activity:
+1. Attending the lectures and small group meetings
+2. Doing laboratory assignments
+3. Doing homework assignments
+4. Reading the text
+5. Taking exams
+Attendance will not be taken at the lectures, but is taken and graded at small group meetings. You will be
+considered responsible for all material presented at the lectures and recitations.
+Lectures will cover higher-level concepts. Group meetings will be more applied, covering important “how-
+to’s”, especially in using tools that will help you do the labs. In addition, group meetings will help clarify
+lecture topics and describe exam coverage.
+The textbook contains both practice problems within the chapter text and homework problems at the end
+of each chapter. The intention is that you work on the practice problems as you are reading the book.
+3
+
+The answers to these problems are at the end of each chapter. Our experience has been that trying out the
+concepts on simple examples helps make the ideas more concrete. Try out the practice problems associated
+with the readings for each class and ask questions about them at the next recitation. You will ﬁnd that you
+will get much more out of recitation if you have done some advance preparation.
+5
+Getting Help
+We will use the class website (www.cs.cmu.edu/∼18213/) as the central repository for all information
+about the class.
+For technical (lectures, labs, homeworks, exam) or logistics (accounts) questions, post a question on Piazza.
+We will put posts on Piazza and in the FAQ web page answering some common questions. Be sure to check
+these before contacting an instructor.
+The labs are offered through a hosted autograding service, developed by Dave O’Hallaron and a group of
+CMU undergrads, called Autolab. See the Autolab web page at http://autolabproject.com.
+If you want to talk to a staff member in person, the posted ofﬁce hours are the best opportunity, as they
+represent times when we guarantee that we will be available to meet, either in the location identiﬁed or via
+Zoom. If a meeting is needed outside of the ofﬁce hours, please use email to arrange a time.
+6
+Policies
+6.1
+Working Alone on Assignments
+You will work on all assignments by yourself.
+6.2
+Version Control
+We will be using GitHub Education for you to work on labs, with pre-populated directories for labs 4–7.
+The GIT repositories are private and will be deleted after the end of the semester. You will have a chance to
+download their contents before they will be deleted. We will explain the proper usage of the server and help
+with setting up the server via Piazza posts, in ofﬁce hours and during the recitations. In general, you should
+work as follows:
+• Add all of the provided source ﬁles in your lab assignment upon downloading them from Autolab
+and commit the initial version. Source ﬁles include any code (extensions ‘.c’, ‘.h’, ‘.pl’, ‘.py’, and
+‘.sh’), as well as any Makeﬁle and any program input ﬁle. It does not include any compiled libraries
+or reference programs.
+• Commit early and often. Make it a habit to commit at least every hour you work actively on the
+assignment, and commit in small increments. Commit at the end of your work day.
+• Make sure you commit your ﬁnal version right before you submit via Autolab.
+4
+
+It is good software engineering practice to use version control, and learning it before starting Lab 1 is a a
+good idea. We will be watching commit statistics on the server and may be reaching out to students who
+disregard our version control policy.
+6.3
+Handing in Assignments
+All assignments are due at 11:59pm on the speciﬁed due date Eastern Time. All programming handins are
+electronic using the Autolab system. You may hand in labs as often you like, with your most recent handin
+counting for credit.
+Homeworks
+Homeworks, including the midterm exam, will be submitted using Canvas, and are due by the due date.
+Late Programming Assignments
+The penalty for late assignments is 15% per day. Each student will receive a budget of ﬁve grace days for the
+course. These grace days are provided to allow you to cope with most emergencies that prevent completing
+a lab on time, including computer problems, a cold, getting stuck at the airport, etc. Here is how grace days
+work:
+• Each lab assignment has a maximum number of grace days that can be applied, ranging from 0 to 2.
+The grace day limits are indicated on the Assignments web page and in the assignment writeups.
+• Grace days are applied automatically until you run out.
+• If your last handin is one day late, and you have at least one remaining grace day, then you will receive
+full credit for the lab and automatically spend one grace day. For example, if an assignment is due at
+11:59pm ET on Thursday and your last handin is noon ET on Friday, then you will receive full credit
+and spend one grace day.
+• Once you have spent your grace days, or exhausted the limit for the assignment in question, then you
+will receive a penalty of 15% for each subsequent late day. For example, suppose you have only one
+grace day left. If an assignment is due at 11:59pm ET on Thursday and your last handin is noon ET
+on Saturday, then you will spend your one remaining grace day and be penalized 15%. If your last
+handin is noon ET on Sunday, then you will spend one grace day and be penalized 30%.
+• Handins will not be accepted after the end date of the lab, which is typically three days after the due
+date.
+Grace days are a tool to allow you to manage your time in the face of personal issues and to help smooth
+out burstiness in assignment due dates across classes. They are for when you are sick, when a short-
+term emergency situation arises, when you have too many deadlines all at once, etc. Except for serious
+persistent personal issues (see below), you should not anticipate additional deadline leniency. We strongly
+5
+
+recommend that you conserve your grace days, saving them for the more difﬁcult assignments at the
+end of the term. Grace days and penalties are computed automatically by Autolab, with grace days being
+used up before penalties are applied. You cannot choose how to distribute your grace days among your
+assignments.
+6.4
+Dealing with Serious Persistent Personal Issues
+We hope that everyone in the course will remain happy and healthy. But, if you have a serious persistent
+personal issue, such as being hospitalized for an extended period or needing to leave the country for a family
+matter, please talk to your academic advisor as soon as possible. Such issues consistently affect one’s ability
+to succeed in all classes, rather than just the course, and the academic advisors are equipped to coordinate
+plans for dealing with them. We will cooperate with such plans, but we cannot construct them independently
+of the academic advisors. Please contact your course instructor if you are unable to keep up with the course
+due to a serious personal issue.
+6.5
+Requesting a Regrade for an Assignment or an Exam
+After each lab, homework, or exam is graded, your score will be posted on the Autolab gradebook. We will
+make the utmost effort to be fair and consistent in our grading. But, we are human. If you believe that you
+did not receive appropriate credit for an assignment or an exam, you may request a regrade as follows:
+• Post a regrade request as a private message on Piazza. Provide a detailed explanation of why you
+believe your grade did not conform to the posted grading standard.
+• Verbal and email requests will NOT be accepted.
+• All regrade requests must be received within seven days of the grades becoming available.
+Your request will be processed off-line, and we will respond to your request as quickly as possible (typically
+within a week). This regrade policy is designed to correct legitimate mistakes in grading, while discouraging
+frivolous regrade requests (for the sake of being fair and consistent across the entire class).
+6.6
+Final Grade Assignment
+Each student will receive a numeric score for the course, based on a weighted average of the following:
+• Labs (50%): There are a total of eight labs, which will count a combined total of 50% of your score.
+Labs have different weightings, based on our perception of the relative effort required. See the Labs
+web page for the lab weightings.
+• Homeworks (20%): Homework comes out approximately weekly. The two lowest homework scores
+may be dropped. The midterm exam is included as part of the homework grade, except that it counts in
+place of the ﬁnal exam for mid-semester grades. An announcement will be made as to the dropability
+of the midterm exam: Special rules may apply to it as contrasted with a normal weekly homework.
+6
+
+• Final Exam (25%): There will be a ﬁnal exam counting 25%.
+• Participation (5%): Participation in small groups (in person or, with instructor permission, camera-
+on Zoom) counting 5%.
+The grading cutoff points are: 90 (A), 80 (B), 70 (C), 60 (D).
+6.7

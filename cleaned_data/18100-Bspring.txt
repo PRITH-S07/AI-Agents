@@ -1,0 +1,205 @@
+1 
+Course Syllabus 
+18-100: Introduction to Electrical and Computer Engineering 
+Spring 2025 
+Instructor:
+Greg Kesden 
+Office Location:
+HH A205 
+Email Address:
+gkesden@andrew.cmu.edu 
+Office Hours:
+https://www.andrew.cmu.edu/~gkesden/schedule.html 
+Instructor:
+Mark Budnik 
+Office Location:
+HH A212 
+Email Address:
+mbudnik@andrew.cmu.edu 
+Office Hours:
+Monday, 2-4pm or by appointment 
+Teaching Assistants: 
+Course Web Page: 
+We will use the Canvas system for our Web Page this semester. You should attempt to 
+access the page as soon as possible to ensure that you have access to the course materials. 
+http://www.cmu.edu/canvas/ 
+Students are responsible for any information conveyed via announcements made in 
+lecture and/or on the course web page. Absence from class the day of an important 
+announcement does not excuse you from being responsible for that information. 
+Akshaj Sharma Catherine Li 
+Haowen Huang 
+Kamya Singh 
+Shirley Li 
+Angela Wu 
+Clair Zhou 
+Henry Kim 
+Kevin Qian 
+Shravani Vedagiri 
+Angie Shere 
+Daniel Lin 
+Irene Fidone 
+Luna Lee 
+Sylvia Lyu 
+Ankita Kundu 
+David Chan 
+Jasmine Li 
+Miguel Salvacion Tiffany Yang 
+Ashley Yuan 
+Deniz Balci 
+JiWon Jin 
+Ming Yue 
+Victor Li 
+Berin Celik 
+Dilan Leon 
+John Diaz 
+Mohid Rattu 
+Wes Lee Lee 
+Caleb Song 
+Eric Ma 
+Jonathan Waller 
+Om Patel 
+Yuvvan Talreja 
+Calla Song 
+Felipe Perotti Julius Arolovich 
+  
+
+2 
+ 
+Course Information: 
+Number of Units: 
+12 
+Co-requisite: 
+21-120 (you can take before or while taking 18-100) 
+Course Designation: 
+18-100 is a required course for ECE majors 
+Undergraduate Course Area: 
+ECE Core 
+ 
+Course Description: 
+The goals of this introductory engineering course are: 
+● To introduce a broad spectrum of electrical and computer engineering sub-disciplines 
+in an integrated manner; 
+● To communicate the foundational abstractions underlying electrical and computer 
+engineering as a discipline; 
+● To motivate basic concepts in the context of real applications; 
+● To illustrate the process of thinking about problems and creating solutions; 
+● To inspire students for embracing future challenges, and; 
+● To prepare students by building the basic understanding and enthusiasm for higher 
+level classes in all areas of electrical and computer engineering, such as the next-tier 
+core courses 18-213, 18-220, 18-240, and 18-290. 
+The coverage of the course lectures and labs specifically includes: basic electric and 
+electronic circuits, computer digital logic, registers, memories, and CPUs, computer system 
+architecture, embedded systems, CMOS technology, LED technology, filters, amplifiers, 
+digital-analog conversion, wireless/wired digital communication, computer networks, 
+cryptography and cyber security, data storage technology and data centers, and machine 
+learning. 
+ 
+Students are introduced to the above topics not only through lectures, but also through 
+hands-on experience of constructing, testing and analyzing a series of carefully designed 
+small electronic and software “ECE systems” labs. Specifically, these labs cover: 
+Lab 1: Circuits – Electrical measurements; LEDs 
+Lab 2: Adder – Gate-level digital logic; binary adder circuits 
+Lab 3: MOSFET – Transistor-level logic; latching circuits 
+Lab 4: Signals – Timing circuits and signal generation 
+Lab 5: Op Amp – Operational amplifier circuits; oscilloscopes and signal generators 
+Lab 6: Serial – I2C serial communication 
+Lab 7: ADC – Frequency response of passive filters, sample-and-hold circuits  
+Lab 8: Radio – Amplitude modulation; wireless communication circuits 
+Lab 9: Crypto and Cloud – Cryptography and IoT Cloud Integration  
+
+3 
+ 
+The above labs are matched with the lecture series to consolidate the comprehension of the 
+course material through practical hands-on and thought-provoking experiences. Along with 
+the lecture materials, these labs should strengthen the fundamentals demanded by the next 
+tier courses on analog devices and circuits (18-220), digital logic and computation (18-240), 
+signal analysis and processing (18-290) and computer systems (18-213). 
+ 
+In addition, an effort is included in this course to help familiarize all students with some of 
+the specialized vocabulary that is often employed in the field of ECE. An additional goal of 
+this course is for students to establish qualitative intuition about how electrical and 
+computer systems operate in preparation for detailed quantitative analysis to be developed 
+later in the ECE core. 
+ 
+Reference Textbook: 
+There is no reference text. Lecture notes will be provided. 
+ 
+Lab Materials: 
+Students will receive all materials needed for all the labs. Handouts for Lab will be posted on 
+the course canvas website one week prior to their due date. 
+Two of the devices, ADALM 2000 and a Raspberry Pi Pico in the lab materials that you will 
+receive, require the use of a personal computer, either Mac or PC, with at least two USB-A 
+ports. We will use them starting in Lab 4. 
+ 
+Course Meeting Info: 
+ 
+Lectures:  
+Mondays and Wednesdays 
+12:30pm-1:50pm 
+HOA 160 
+Lectures are a critical part of this course. We do not have a textbook that is closely 
+followed in this course. Therefore, your timely comprehension on any given topic are 
+extremely important. Lecture slides and notes will be posted the day before each lecture 
+on Canvas. They will remain available on Canvas throughout the semester. 
+ 
+Recitations and Small Groups: 
+ 
+ 
+ 
+Small groups, listed on the University schedule as the Sunday afternoon or Monday evening 
+meetings are mandatory and graded. You must attend the small group at the time and location 
+for which you are registered.  Small group meetings involve groups of five (5) students 
+facilitated by two (2) TAs, and focus on hands-on learning and skill-building.  
+ 
+Lab Kits 
+ 
+Each student will receive a lab kit containing all the components, materials, and test 
+equipment necessary to complete all of the labs. Lab equipment will be distributed 
+during the first week of classes, and lab exercises are designed to be completed 
+anywhere (at home, TechSpark, etc.). 
+
+4 
+ 
+ 
+Course Activities: 
+ 
+To help students assess how well they are understanding the material presented in class, 
+there are a number of course activities that provide feedback on progress. 
+ 
+Exams: 
+ 
+The course lectures are broadly divided into three sections. At the end of each section, 
+there will be an Exam covering primarily the material presented in that section. There 
+will not be a cumulative final exam in this course although materials from previous 
+section(s) may still appear on a given exam due to natural dependencies. The first two 
+exams are during regular lecture time slots. The third exam is during the final exams 
+period.  
+ 
+All exams are to be taken during the scheduled exam date and time. Make-up exams are 
+highly discouraged. If you are unable to take an exam at the scheduled time (for a valid 
+reason), you must contact one of the instructors preferably one week prior to the 
+originally scheduled. Make-up exams may or may not be possible, but some reasonable 
+accommodation will be made.  
+If you have special circumstances approved by the Disabled Student Services office, 
+please make arrangements with the instructors at least 72 hours before the scheduled 
+exam time. 
+Quizzes: 
+A multiple-choice style quiz will be given at the end of each lecture using the quiz 
+platform on Canvas. Each quiz usually consists of three problems and these quiz 
+problems serve the purpose of reviewing the lecture material just presented. Students 
+need to finish each quiz by 10 pm the next day and no extensions will be granted for 
+quiz due dates. 
+ 
+Homework: 
+Doing homework assignments is the best way to reinforce understanding of the material 
+being covered in class. Homework will be submitted via Gradescope. You will upload a 
+scan (pdf) or photo (jpg) of your solution to each problem.  
+ 
+You may work together on mastering an understanding of each of the homework 
+problems; that is, learning how to set up the equations that embody the homework 
+problem and learning how to solve them. However, the actual written solutions to the 
+problems that you upload to Gradescope must reflect your own understanding. 
+You should NOT submit someone else’s solutions. You should NOT just copy someone 
+else’s solutions and submit them. Furthermore, artificial intelligence text generators such 
+as ChatGPT should not be used to directly produce answers to questions on assignments. 
+These actions constitute cheating and will be reported to the

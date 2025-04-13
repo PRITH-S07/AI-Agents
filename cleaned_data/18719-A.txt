@@ -1,0 +1,315 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18719: Nonlinear Optics and Photonics   
+Fall 2024 
+ 
+ 
+Instructor: Prof. Qing Li 
+ 
+Office Location:  REH 235 
+Email Address:   qingli2@andrew.cmu.edu 
+Office Hours:  Tuesday 4pm-5pm 
+ 
+ 
+Teaching Assistant: NA 
+Email Address: NA 
+Office Hours: NA 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+Nonlinear optics plays an indispensable role in modern photonics and is the driving force 
+behind many important applications. Examples include frequency mixing in the classical 
+domain and entangled photon sources in the quantum domain. This course aims to provide 
+practical yet broad coverage on nonlinear optics, focusing both on the theoretical and 
+experimental aspects of this subject. For example, by introducing nonlinear susceptibility 
+to classical EM wave equations based on the coupled mode theory, we will study two key 
+concepts of nonlinear optics: phase matching and energy conservation, in the context of 
+various second- or third-order nonlinear processes. In addition, key experimental sessions 
+are provided so that students can reinforce the learnt knowledge through hands-on 
+experience. Finally, we will also cover the basics of quantum optics relevant to this course, 
+which will help prepare students for future research work in the quantum area. Quantum 
+applications such as spontaneous parametric down-conversion and quantum frequency 
+conversion will be discussed.  
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites: 18-300, 18-310, 18-402 or 33-439 and senior or graduate standing  
+ 
+ 
+Graduate Area: IST  
+
+ 
+2 
+ 
+ 
+Class Lecture: 
+Tuesday and Thursday 
+12:30 PM – 1:50 PM  
+POS 147 
+ 
+Required Textbook:  
+None 
+ 
+Suggested Reading:  
+Nonlinear Optics, Third Edition, Robert W. Boyd, Academic Press  
+Introductory Quantum Optics, Christopher Gerry and Peter Knight, Cambridge 
+University Press  
+ 
+Reference Materials:   
+Reading materials will be provided by the instructor  
+ 
+Brief List of Topics Covered: 
+1. Free-space optics, Gaussian beams, and mode profile matching 
+2. Fibers, waveguides, and resonators 
+3. Coupled mode theory 
+4. Nonlinear susceptibilities and wave equation 
+5. Second-order nonlinear processes 
+6. Third-order nonlinear processes 
+7.  Basics of quantum optics: the concept of photon, coherence and photon 
+statistics, photon correlation and entanglement  
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Course Website: 
+https://canvas.cmu.edu/courses/43465 
+ 
+Homework Projects:  
+You will choose one topic focused on optics and prepare a 15-min presentation at the end 
+of the semester. This could be a literature survey, something related to your own 
+research, or any other topic that is approved by the instructor.   
+ 
+Reading Assignments:  
+Reading assignments will go along with the homework.  
+ 
+Grading Algorithm:  
+Homework (10 sets) 
+50 points 
+Midterm exam 
+25 points  
+Term project  
+25 points 
+ 
+ 
+
+ 
+3 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+August 
+26 
+Mon. 
+Classes begin 
+ 
+ 
+27 
+Tu. 
+Lect1: Introduction 
+ 
+ 
+29 
+Thurs. 
+Lect2: Ray optics and wave equations 
+HW1 
+ 
+September 
+2 
+Mon. 
+Labor Day – No Class 
+ 
+ 
+3 
+ Tu.  
+Lect3: Diffraction and wave optics 
+HW2 
+ 
+5 
+Thurs. 
+Lect4: Gaussian beams 
+HW3 
+ 
+10 
+Tu. 
+Lect5: Optical fibers and waveguides 
+HW4 
+ 
+12 
+Thurs. 
+Lect6: Dispersion 
+HW5 
+ 
+17 
+Tu. 
+Lect7: Coupled mode theory-linear case 
+ 
+ 
+19 
+Thurs. 
+Lect8: Nonlinear wave equation and overview 
+HW6 
+ 
+24 
+Tu. 
+Lect9: Second-harmonic nonlinear susceptibility 
+ 
+ 
+26 
+Thurs. 
+Lect10: Second-harmonic generation 
+HW7 
+ 
+October 
+1 
+Tu. 
+Lect11: SHG efficiency and phase matching I 
+HW8 
+ 
+3 
+Thurs. 
+Lect12: SHG efficiency and phase matching II 
+  
+  
+8 
+Tu. 
+Midterm exam 
+ 
+ 
+10 
+Thurs. 
+Midterm review and project discussion  
+ 
+ 
+14-18 
+Mon-
+Fri 
+Fall Break – No Classes 
+ 
+ 
+22 
+Tu. 
+Lect13:  The concept of photon 
+HW9 
+ 
+24 
+Thurs. 
+Lect 14: Photon interference 
+ 
+ 
+29 
+Tu. 
+Lect 15: Creation and annihilation operators 
+ 
+ 
+31 
+Thurs. 
+Lect 16: Coherence and photon statistics 
+HW10 
+ 
+November 
+5 
+Tu. 
+Democracy Day – No Classes 
+ 
+ 
+7 
+Thurs. 
+Lect 17: Spontaneous parametric downconversion 
+ 
+ 
+12 
+Tu. 
+Lect 18: Photon entanglement 
+ 
+HW11 
+ 
+14 
+Thurs. 
+Lect 19: Third-order nonlinear processes 
+ 
+ 
+19 
+Tu. 
+Lect 20: Nonlinear Schrodinger equation I 
+HW12 
+ 
+21 
+Thurs. 
+Lect 21: Nonlinear Schrodinger equation II 
+ 
+ 
+26 
+Tu. 
+Lect 22: Frequency combs 
+ 
+ 
+27-29 
+Wed-
+Fri 
+Thanksgiving – No Classes 
+ 
+ 
+December 
+3 
+Tu. 
+Lect 23: Nonlinear dynamics and chaos 
+ 
+ 
+5 
+Thurs. 
+Lect 24: Seminar: Integrated Photonics 
+ 
+ 
+6 
+Fri 
+Last Day of Classes 
+ 
+ 
+12 
+Thurs. 
+Term project presentation  
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+
+ 
+4 
+ 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

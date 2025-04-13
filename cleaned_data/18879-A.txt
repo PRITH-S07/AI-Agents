@@ -1,0 +1,174 @@
+Course syllabus: 18-879 (ECE)/42-699 (BME):  Special Topics in Systems and Controls: 
+Data-driven AI for control of dynamical systems with application to neural data 
+Spring 2025 
+ 
+Class Hours: Tu and Thu: 3:30-5. No recitations routinely (might be there occasionally)  
+Class Location: WEH 5421 
+ 
+Number of Units: 12 
+Pre-requisites: Introductory probability, linear algebra, familiarity with python, background in 
+machine-learning 
+ 
+Instructor: Prof. Pulkit Grover 
+Co-instructors/TAs: Yuxin Guo, Jeehyun Kim 
+Email ID: pgrover@andrew.cmu.edu, yuxinguo@andrew.cmu.edu, 
+jeehyunk@andrew.cmu.edu  
+Office Location: HH B202 
+Office hours: 11-12 Fridays, starting second week, HH B202 and over zoom. 
+TA office hours: 5-6 Tuesdays and Thursdays.  
+ 
+Recitations: No routine recitations. One-off events will be announced in advance. 
+ 
+The course is cross-listed in ECE and BME, and satisfies the computational requirements 
+for the PNC program. 
+ 
+The course is co-designed and taught by Prof. Pulkit Grover, Yuxin Guo, and Jeehyun Kim. 
+ 
+Outline: The world is filled with nonlinear dynamical systems requiring control, from climate and 
+robotics to human physiology. Understanding and controlling these systems can lead to 
+groundbreaking solutions, including improved treatments for complex conditions. This course 
+focuses on concepts and techniques for analyzing and controlling dynamical systems, 
+particularly in biomedical and neural domains. With a foundation in basic probability and 
+statistics, linear algebra, and machine-learning, the students will explore system dynamics, both 
+linear and nonlinear, using brain and brain-body interactions as key examples. 
+ 
+Learning objectives: Concepts of dynamical systems, linear and nonlinear dynamical systems, 
+system identification and control. Exemplar dynamical systems in human bioscience, especially 
+in brain dynamics and brain-body interactions. Examples of how treatment techniques interact 
+with these systems and affect them, and how optimized intervention problems are formulated 
+and solved. Application and refinement of techniques on simulated and real data.: 
+●​ A key part of the course will be hands-on exercises in homeworks, where students will 
+work with simulated and real neural and physiological data. These exercises will weigh 
+heavily in the grade. 
+○​ The students will apply techniques learned in the course to two neurostimulation 
+testbeds:  
+■​ 1. Simulated data of extracellular (invasive) electrical neurostimulation. 
+
+       
+                                              
+ 
+■​ 2. Experimental data of transcranial/transcutaneous electrical stimulation 
+○​ Pre-collected stimulation datasets will be shared on which students will iterate, 
+resulting in new datasets (simulated and real) being created.  
+○​ Real data will be collected by the teaching team using human experiments 
+(stimulation of peripheral or central nervous system) based on student-suggested 
+sampling.  
+●​ Students will gain experience applying more traditional data-driven control techniques 
+and comparing (or combining) them with data-driven AI. 
+●​ The course will have 3 phases. Phase 1 is an introduction that lasts 4 weeks. Phase 2 is 
+student seminars, where students will read, present, and critique scientific literature. 
+Phase 3 has a discussion of advanced topics and course projects. 
+●​ Phase 2 seminars: In each class in Phase 2, 2-3 students will team up to give a 20-30 
+minute presentation of scientific literature they read before class. Each presentation will 
+be followed by a discussion of connections with data-driven neurostimulation, strengths 
+and weaknesses, and possible future directions. You must sign up for a presentation at 
+least 2 weeks in advance. Each student will have to present at least once during the 
+semester. Presentations will be graded based on technical understanding of the 
+material, clarity, and organization. 
+●​ Phase 3 final project: You will form groups of 2-3 and complete a project on 
+implementation of a theoretical concept on the simulation platform. At the end of the 
+semester you will submit a report in the form of a conference-style paper (maximum 5 
+pages), and present it in class. 
+●​ Integration of student interests: during bring-your-own-problem days, some students may 
+discuss their own research problems  
+ 
+Textbook: 
+As this is a special topics, seminar- and research-based course, there is no textbook yet.  
+For Phase 1, we will rely on: “Dynamical Systems in Neuroscience: The Geometry of Excitability 
+and Bursting”, by E.M. Izhikevich, which is available online. 
+For Phases 2 and 3, we will utilize papers and/or textbook chapters that will be shared as the 
+semester progresses.  
+ 
+Grading Scheme: 
+45% 
+Homework 
+20% 
+Presentations 
+10% 
+Class Participation  
+25% 
+Final Project 
+ 
+Course structure: 
+ 
+Phase 1: Weeks 1-3 
+Week 1 (Jan 14/16): 
+
+       
+                                              
+ 
+Lecture 1: 
+●​ Intro to concepts in dynamical systems, nonlinear dynamical systems, neuroscience, 
+neuron, neurostimulation, and applications 
+●​ Two running course projects: 
+○​ Simulations on invasive stimulation of different neuron types 
+○​ Experiments: transcranial/transcutaneous electrical stimulation and EMG 
+●​ Why now: Dynamical systems and neurostimulation – these are two fields that have 
+existed for several decades, but their intersection isn’t well explored. 
+○​ Motivating examples from neurostimulation on why nonlinear dynamics are 
+important. 
+○​ The difficulty in creating accurate biophysical models 
+○​ Modern data-driven techniques can help address this gap 
+Lecture 2: 
+●​ Dynamical systems, simple examples, phase space diagrams and bifurcations 
+●​ Curious phenomena in neurostimulation-related dynamical systems: anode break 
+excitation, accommodation, resonance, temporal interference stimulation, pulse hums 
+ 
+Week 2 (Jan 21/23): 
+●​ Lecture 3: The Hodgkin Huxley model of neural dynamics  
+●​ Lecture 4:  
+○​ Hodgkin-Huxley continued: explaining anode-break excitation, accommodation, 
+and TI stimulation  
+○​ Cable equation, Rattay’s activating function for neurostimulation using 
+extracellular electric fields 
+●​ HW: Extracellular stimulation simulation 
+ 
+Week 3 (Jan 28/30): 
+●​ Detailed description of how neurostimulation of the primary motor cortex generates EMG 
+○​ EMG measurement and classification.  
+●​ In person demo on EMG generation through neurostimulation. 
+●​ HW: EMG classification 
+ 
+Phase 2: Weeks 4-10: Student presentations 
+ 
+Week 4 (Feb 4/6): Multi-arm bandits 1 (2 student presentations) 
+●​ Multi-arm bandits (1. Epsilon-greedy and UCB; 2. Thompson sampling) 
+●​ HW: run on neurostimulation simulator for energy-efficient stimulation 
+ 
+Week 5 (Feb 11/13): Advanced multi-arm bandits 2 (2 student presentations) 
+●​ No new homework 
+ 
+Week 6 (Feb 18/20): Bayes Optimization 1 (2 student presentations):  
+●​ HW: energy-efficient stimulation and selective stimulation 
+
+       
+                                              
+ 
+ 
+Week 7 (Feb 25/27): Bayes Op 2 and PATHFINDER (2 student presentations or one guest 
+lecture): 
+●​ No new homework 
+ 
+SPRING BREAK 
+ 
+Week 8 (Mar 11/13): EMG application: 
+●​ Simple optimization techniques (epsilon-greedy) run on real neurostimulation 
+●​ Homework:  
+○​ Energy-efficient stimulation 
+○​ Selective stimulation 
+ 
+Week 9 (Mar 18/20): Multi-Objective Optimization (2 student presentations): 
+ 
+Week 10 (Mar 25/27) Reinforcement learning (2 student presentations): 
+ 
+Phase 3: Advanced topics and course project 
+ 
+Week 11 (April 1/3): Model predictive control (guest lecture by Dr. Raffaele Romagnoli), 
+adopt-your-own-approach (course project) office hour 
+ 
+Week 12 (April 8/10): Dynamic mode decomposition, course project office hour 
+ 
+Week 13 (April 15/17): Koopman operator, course project office hour. 
+​
+Week 14 (April 22/24): Course project presentations. 
+—

@@ -1,0 +1,296 @@
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+ADSP
+Advanced Digital Signal Processing (18-792)
+Department of Electrical and Computer Engineering
+Fall Semester 2024
+PRELIMINARY SYLLABUS FOR FALL 2024
+Instructor: Professor Richard Stern, PH B26, (412) 916-7386, rms@cs.cmu.edu
+Teaching assistants:
+• Abdulhamid Aldoobi, aaldoobi@andrew.cmu.edu
+• Tony Su, tungches@andrew.cmu.edu
+General course support: Course support for things like handouts, homework and exam solutions,
+etc., will be handled at the ECE Academic Service Center, HH 1113. The website for the ASC is
+https://www.ece.cmu.edu/academics/academic-services-center.html.
+Overview of the course: This course is a second course in one-dimensional digital signal pro-
+cessing that will introduce a number of topics of current importance in research and industry. The
+course will include a uniﬁed treatment of modern spectral estimation techniques, linear prediction,
+and adaptive ﬁltering, along with discussions about related topics including multi-rate DSP, short-
+time Fourier analysis, wavelet processing and adaptive array processing. Many of these topics will
+be based on diﬀerent types of optimum signal processing methods using least-squares estimation
+concepts and Wiener ﬁltering.
+Most of the topics discussed in 18-792 concern techniques of statistical signal processing, so students
+are expected to have already completed a basic undergraduate course in applied probability as well
+as a ﬁrst course in digital signal processing. Background material in stochastic processes will be
+reviewed before the material is covered in depth.
+To the extent possible, homework assignments in 18-792 will be dominated by a series of project
+assignments in which students implement and analyze the various signal processing algorithms
+discussed in class in MATLAB . Homework will be turned in online using Gradescope, and executable
+MATLAB code will be turned in online as well.
+
+18-792 Syllabus
+Page 2
+Fall, 2024
+Major Educational Objectives (with relation to Course Outcomes):
+• (a) an ability to apply knowledge of mathematics, science, and engineering: ADSP concerns
+the application of contemporary techniques in signal processing and statistical analysis to
+solve practical problems in engineering.
+• (c) an ability to design a system, component, or process to meet desired needs within realis-
+tic constraints such as economic, environmental, social, political, ethical, health and safety,
+manufacturability, and sustainability: the ADSP homework assignments include major design
+components, with attention paid to issues such as processing time, storage, and computational
+complexity.
+• (j) a knowledge of contemporary issues: the techniques used in ADSP are among the current
+state-of-the-art as practiced by leading professionals in the industry.
+• (k) an ability to use the techniques, skills, and modern engineering tools necessary for engi-
+neering practice: ADSP makes extensive use of the latest engineering algorithms, as well as
+the most popular engineering design tool for signal processing, MATLAB .
+Prerequisites: 18-491/691 and 36-217, or consent of the instructor.
+MATLAB
+(or possibly
+Python) programming experience is necessary to complete the project assignments.
+While un-
+dergraduates who have completed 18-491/691 and 36-217 are encouraged to consider taking this
+course, we note that it will be taught as a graduate-level course rather than as a senior-level course.
+Students will be expected to work at a higher level of intensity than in undergraduate courses.
+Class times and rooms: Lectures are Mondays and Wednesdays, 2:00 to 3:50 in WeH 4625.
+Recitations are Fridays 10:00 to 11:50 in PH 125B. The major focus of the recitations will be to
+discuss practical problems, and especially to review useful techniques for completing the following
+week’s homework assignment. Occasionally the recitation and lecture days may be interchanged.
+Attendance expectations: This semester we will be expecting that you attend classes in person.
+The lectures will be recorded on Zoom, for oﬄine access after the lectures. The zoom recordings are
+not intended to be a replacement for in-class attendance. The notes from each lecture will be made
+available promptly on the course website. If COVID returns, we will make special arrangements
+to get lecture material and course notes to students who must isolate after testing positive for the
+virus, as needed. Please contact the Instructor (i.e. me) if special problems arise.
+Attendance for all classes, including recitations, is highly recommended! It will make a big diﬀerence
+in your absorption and mastery of the course material.
+Primary reading material: The selection of a textbook for an advanced topics course like 18-792
+is more diﬃcult than it is for a basic DSP course such as 18-491, as the choice of topics and style
+of presentation of the material vary far more from instructor to instructor. We will be using the
+following sources as your primary texts:
+• Selected chapters from the edited book Advanced Topics in Signal Processing, edited by Jae
+S. Lim and Alan V. Oppenheim (Prentice-Hall, 1987). This resource will be used for our
+Copyright 2024, Richard M. Stern
+
+18-792 Syllabus
+Page 3
+Fall, 2024
+discussions on multi-rate DSP, short-time Fourier analysis, and adaptive ﬁltering. Although
+Lim (LO) has been out of print for years (with no hope for revival), it will be duplicated
+(with the permission of the publisher) and distributed to students in this class at no cost.
+• The text Discrete-Time Signal Processing, Third Edition, by A. V. Oppenheim and R. V.
+Schafer (Prentice-Hall 2010)). This book is familiar to many of you as it has been the text for
+18-491 in recent years. OSYP will be used as the text for classical sampling and elemnemtary
+stochastic processes.
+• The book Theory and Application of Speech Processing, Rabiner, L. R. and Schafer, R. W.
+(2010), Pearson Press, will be the primary source for linear prediction.
+• In addition to the sources cited above, we are also providing a complete set of lecture notes
+that were originally compiled and edited over the summer of 2020.
+These notes, which
+presently have the prosaic title Selected Topics in Advanced Digital Signal Processing, are
+available online in .pdf form at
+http://www.ece.cmu.edu/~ece792/handouts/Notes ADSP.pdf
+Currently the last chapter on adaptive arrays is incomplete, but it is being actively rewritten
+and will be in better shape by the time we get to the end of the semester. If the notes ever
+stabilize (no promises here!), they will also be available optionally in hardcopy book form
+for the cost of publication and shipping. These notes are no more than a condensed prose
+transcription of what I present in class. They do not provide anything close to the context
+that is available from reading the original sources, which are identiﬁed at the beginnings
+of each chapter, and they are not guaranteed to provide all the information that is in the
+original lectures. Hence, these notes should be considered to be a supplement to, rather than
+a replacement for, the original lectures and the primary text material. Nevertheless, students
+in this class over the past several years have found them to be useful.
+All required reading will also be available online, except for the DSP text by Oppenheim, Schafer,
+Yoder, and Padgett, which I assume you already have access to from previous courses.
+Secondary reading material: For students who would like to consult other sources, the following
+books are recommended as well:
+• Comprehensive coverage of advanced digital signal processing and applications
+1. Statistical and Adaptive Signal Processing, Manolakis, D. G., Ingle, V. K., and Kogon,
+S. M. (2005), Artech House Publishers. This is an excellent comprehensive review of
+statistical signal processing techniques that are covered in this course.
+2. Statistical Digital Signal Processing and Modeling, Hayes, M. (1996), Wiley.
+This is
+another excellent and comprehensive review. It is currently out of print, but used copies
+are available on Amazon.com.
+3. Advanced Digital Signal Processing, Proakis, J. G., Rader, C. M., Ling, F., and Nikias, C.
+L. (1992), Macmillan. This book covers similar ground as that of Lim and Oppenheim,
+with somewhat better coverage of linear prediction. Unfortunately, it is also out of print.
+Copyright 2024, Richard M. Stern
+
+18-792 Syllabus
+Page 4
+Fall, 2024
+• Power spectral estimation
+1. Digital Spectral Analysis with Applications, Marple, S. L. (1989), Prentice-Hall, is an
+intuitive, practical treatment of the material, again out of print but available via Ama-
+zon.com.
+2. Modern Spectral Estimation: Theory and Application, Kay, S. M. (1999), Prentice-Hall,
+is more thorough and mathematical than Marple’s text.
+• Signal processing for speech applications, including short-time Fourier analysis
+and linear prediction
+1. Theory and Application of Speech Processing, Rabiner, L. R. and Schafer, R. W. (2010),
+Pearson.
+2. Discrete-Time Signal Processing of Speech: Principles and Practice, Quatieri, T. F.
+(2001), Pearson.
+The former book is an updated version of the classic text on speech processing. The latter
+book covers similar ground from a slightly diﬀerent point of view. Both books also contain
+excellent treatment of a number of other one-dimensional signal processing techniques.
+• Adaptive ﬁltering and adaptive array processing
+1. Adaptive Signal Processing, Widrow, B. and Stearns, S. D. (1985). Prentice-Hall. This
+is a good introductory treatment of adaptive ﬁltering and adaptive array processing.
+2. Adaptive Filter Theory (5th Edition), Haykin, S. (2013), Prentice-Hall. This is the latest
+in texts by Haykin on this subject. The presentation is more rigorous and comprehensive
+and less intuitive than that of Widrow and Stearns.
+Homework: Problem sets will usually be released by Thursday evening of each week. They will
+be discussed extensively (along with useful hints on how to solve the problems) on the Friday the
+morning after, and are generally due to be turned in via Gradescope by Friday at 0100 EDT/EST of
+the following week. The lowest homework grade will not be included in the ﬁnal grade computation,
+as was noted above. In addition, to provide additional ﬂexibility in dealing with surges in competing
+demands on your time, we will accept up to ﬁve additional late submission days over the course
+of the semester, with a maximum of two such late days available per assignment. Questions about
+the homework will be answered during the oﬃce hours of the following week
+A signiﬁcant component of the homework will be computer assignments using MATLAB . We have
+found that students beneﬁt highly from having individual access to MATLAB . A site-licensed ver-
+sion of MATLAB can be downloaded from the CMU Andrew software site. Students will also have
+the option of allowing students to complete these assignments in Python, although the documen-
+tation and support for Python is not as complete and is not guaranteed to cover everything.
+Late homework policy: In addition to our dropping the lowest homework grade (which of course
+means that you can opt out completely of one homework assignment during the semester), we will
+allow each student ﬁve (5) free late days, each carrying a deadline extension of 24 hours, with a
+maximum of two (2) for each assignment. After the “free” late days are used, the grades for late
+homework will be discounted according to how many days each assignment is late.
+Copyright 2024, Richard M. Stern
+
+18-792 Syllabus
+Page 5
+Fall, 2024
+An encouraging note: This is one of those rare courses where students tell us on the FCEs that
+they actually enjoy working the homework problems!
+Oﬃce hours: Each of the three of us on the teaching team will be available for two hours per
+week for oﬃce hours. Based on prior experience, we currently plan to have one oﬃce hour on each
+of Monday and Tuesday, and two oﬃce hours on Wednesday and Thursday. Times will be based
+on a quick poll of student availability.
+Examinations: There will be two in-class exams on October 9 and November 20, plus a ﬁnal
+exam during the regular ﬁnal exam period, at a date to be announced later in the semester. Please
+arrange your other commitments so as not to conﬂict with these dates. Make-up exams will not be
+given unless there are extremely compelling reasons.
+Grades: Grades will be based in part on performance in two or three examinations (nominally
+55-65% of the ﬁnal grade) and the homework and project assignments (35-45%).
+The lowest
+homework assignment grade will be excluded from the ﬁnal grade calculations and the ﬁnal exam
+will be weighted 1.5 times each midterm exam.
+18-792 home page: We will be maintaining a home page for 18-792 which may be accessed
+through the URL http://www.ece.cmu.edu/~ece792/.
+We will be putting all course handouts (with the exception of homework and exam solutions),
+reference documents, and other information on the 18-792 home page. The pages will also include
+the MATLAB scripts used for classroom demos and other material presented in the lectures. We
+will be using the Canvass site for grade reporting, using Piazza for discussions, and Gradescope for
+homework submission.
+******
+A word or two about diversity and inclusion
+The engineering profession has historically been one of the primary means by which people from
+humble origins, as well as members of minority groups, have been able to advance their social
+and economic status circumstances. Lamentably, in this country and around the world, people
+over the years have suﬀered from discrimination on the basis of their race, religion, ethnic origin,
+sexual preference, gender identity, and disability, along with a ton of other circumstances that I
+am probably not thinking of as I write this. The multiple killings of people of color by various
+police oﬃcers during the spring of 2020 has highlighted the extent to which endemic bias and
+discrimination can and does have lethal consequences. Nevertheless, it is the implicit bias that
+shades many of our day-to-day interactions that is more likely to aﬀect many of us on a more
+ongoing basis.
+It is our challenge and responsibility as engineers to support everyone with whom we work with
+and live, regardless of race, ethnicity, or other circumstance, and to treat everyone the same, based
+on merit alone. The tragedies of Spring 2020, which of course continue to this day, have sparked
+Copyright 2024, Richard M. Stern
+
+18-792 Syllabus
+Page 6
+Fall, 2024
+a useful conversation, although fundamental change remains quite diﬃcult and elusive. Let us all
+strive to work toward constructive change both at the societal level and in our day-to-interactions
+with each other.
+One response to the George Floyd murder in 2020 and similar killings over the years has been the
+establishment of programs at all levels of our University to address and hopefully ameliorate these
+endemic problems at least to some degree. The ECE Diversity, Inclusion, and Outreach Committee
+has worked for a number of years to support all of our communities and to identify issues that come
+up in our own classes and research programs.
+https://www.ece.cmu.edu/student-resources/dio.html
+Please contact us at any time with suggestions on how the DIO committee can better serve our
+Department.
+******
+Academic stress and sources of help
+This course, along with many others at CMU, can be extremely demanding. Because of these
+pressures, the Provost’s oﬃce has issued the following statement, which I fully endorse:
+Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well,
+exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This
+will help you achieve your goals and cope with stress.
+All of us beneﬁt from support during times of struggle. You are not alone. There are many helpful
+resources available on campus and an important part of the college experience is learning how to
+ask for help. Asking for support sooner rather than later is often helpful.
+If you or anyone you know experiences any academic stress, diﬃcult life events, or feelings like anxi-
+ety or depression, we strongly encourage you to seek support. Counseling and Psychological Services
+(CaPS) is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling.
+Consider reaching out to a friend, faculty or family member you trust for help getting connected
+to the support that can help.
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately,
+day or night:
+• CaPS: 412-268-2922
+• resolve Crisis Network: 888-796-8226
+If the situation is life threatening, call the police:
+• On campus: CMU Police: 412-268-2323
+Copyright 2024, Richard M. Stern
+
+18-792 Syllabus
+Page 7
+Fall, 2024
+• Oﬀcampus: 911
+If you have questions about this or about your coursework, please let me know.
+******
+Academic integrity
+Although it is unfortunate in a university like Carnegie Mellon, I ﬁnd it necessary to call your
+attention to the various university policies on academic integrity.
+Please understand that we take any form of cheating or plagiarism very seriously. As a scientist or
+engineer your reputation is of supreme importance. It is simply not worth sacriﬁcing the integrity
+with which you are known for something as trivial and transitory as a homework or exam grade
+on a course. And in the end, your throrough mastery of the course material, which you can only
+attain by doing your own work, will be far more valuable to you than the grade you receive for this
+course.
+In this course it is considered acceptable (and even desirable) for students to discuss the general
+approach to be taken for homework problems and lab projects with each other. Nevertheless, work
+handed in for grading must be a product of your own individual eﬀort, so solutions which are nearly
+exact copies of one another are evidence of an unacceptable collaboration. Looking up solutions to
+problems on the Web is not permitted under any circumstances, nor is using any information from
+exams and homework sets from previous years in this course. Finally, all work turned in on exams
+must represent your eﬀorts alone.
+This year for the ﬁrst time we are becoming concerned about the potential utility of the use of
+generative AI tools (such as ChatGPT and its competitors) for providing inappropriate assistance
+in completing the homework assignments, including especially the homework problems. For the
+time being, the use of generative AI tools in completing your homework assignments is strictly
+prohibited. It is understood that the creative use of these technologies can be useful in this course,
+and suggestions from anyone on how to better combine generative AI tools in this course are
+appreciated, and the strict prohibition against AI tools may be modiﬁed if circumstances warrant
+such a change.
+The ECE

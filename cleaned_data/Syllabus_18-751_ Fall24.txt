@@ -1,0 +1,448 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-751: Probability Theory and Random Processes for AI and Machine 
+Learning 
+Fall 2024 
+ 
+ 
+ 
+Instructor: 
+Prof. Ozan Tonguz 
+ 
+Office Location:  B203 Hamerschlag Hall (HH) 
+Email Address:   tonguz@andrew.cmu.edu OR tonguz@ece.cmu.edu 
+Office Hours:  Monday 5:00-6:00 PM and Wednesday 5:00-6:00 PM  
+ 
+ 
+Teaching Assistant: Yiwei Zhao 
+Email Address: yiweiz3@andrew.cmu.edu 
+Office Hours: Tuesday 5:00-6:00 PM and Thursday 5:00-6:00 PM 
+Office Hours Location: 2117 Robert Mehrabian Collaborative Innovation Center (CIC) 
+Note: For weeks with recitations, OH on Thursday will be cancelled. 
+ 
+The students can use this zoom link or come to the CIC and I'll let them in during either 
+of those times: 
+ 
+Topic: CMU 18751 Office Hours 
+Join Zoom Meeting 
+https://cmu.zoom.us/j/95009320083?pwd=NQTYvVnNcgboPVu7yWGOnVfPHaq5lE.1  
+Meeting ID: 950 0932 0083 
+Passcode: 963838 
+ 
+ 
+Course Management Assistant: Academic Services Center 
+Email Address: ece-asc@andrew.cmu.edu 
+ 
+Office Location: HH 1113 
+ 
+ 
+Course Description: This course will cover graduate level Probability Theory and 
+Random Processes with application of the main principles to areas such as Estimation, 
+Artificial Intelligence, Machine Learning, Wireless Communications, Computer Vision, 
+etc. 
+ 
+
+ 
+2 
+ 
+Number of Units: 12 units 
+Pre-requisites: Undergraduate probability and maturity in math. Knowledge of 
+MATLAB or a programming language (e.g., C, Java, or Python) is NOT a prerequisite 
+for the course, but would be helpful since the homework assignments will include 
+programming examples. 
+Graduate Area: Signals and Systems and Computer Systems 
+ 
+Class Schedule: 
+• Lecture: Monday and Wednesday 12:00PM – 1:50PM at WEH 4623 
+• Recitations: Thursday 7:00-8:20PM at WEH 4623 
+Required Textbook:   
+A. Papoulis and S. U. Pillai, Probability, Random Variables, and Stochastic Processes, 
+4th ed., McGraw-Hill, 2001. 
+Recommended supplementary readings: 
+“Matlab Tutorials on Statistics, Probability, and Reliability”, a primer on MATLAB. 
+ 
+Suggested Reading:  
+• 
+A. Leon-Garcia, Probability and Random Processes for Electrical Engineering, 
+2nd ed., Prentice Hall, 1993. 
+• 
+C.W. Helstrom, Probability and Stochastic Processes for Engineers, 2nd ed., 
+Prentice Hall, 1990. 
+• 
+Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 
+2006. 
+Reference Materials: 
+ 
+“MATLAB Tutorials on Statistics, Probability, and Reliability”, a MATLAB primer.   
+ 
+Brief List of Topics Covered: 
+In this course, broadly speaking, we will cover fundamental concepts in probability 
+theory, random variables, and stochastic processes. More specifically, the course will 
+cover the following concepts: 
+Basic probability concepts (experiments, outcomes, and events): Probability space, 
+simple and compound events, statistical independence, and Bayes Rule. Total Probability 
+Concept; Bernoulli trials; Poisson Law. De Moivre-Laplace Theorem. Definition of a 
+Random Variable (RV) (e.g., continuous, discrete, and mixed); Probability distribution of 
+a RV: cumulative distribution function (CDF) and probability density function (PDF). 
+
+ 
+3 
+ 
+Two Random Variables; several Random Variables. One function of one RV; one 
+function of two RV’s; one function of several RV’s; conditional distributions; conditional 
+expectations; joint distributions. Moments, generating functions, and characteristic 
+functions of RVs. Chebyshev inequality. Estimation; linear estimation; minimum mean 
+square estimation; and orthogonality principle. Limit theorems; Central Limit Theorem; 
+Law of Large Numbers (both strong LLN and Weak LLN). Definition of a Random 
+Process (RP). Different notions of stationarity: strict sense stationarity and wide-sense 
+stationarity. Some special random processes: Time Series, Poisson process and pulse-
+code modulation. Autocorrelation and Power Spectral Density (PSD) of an RP. 
+Cyclostationarity. Processing of random (stochastic) processes by linear systems. 
+Wiener-Khinchine Theorem. Ergodicity. Spectral analysis of stochastic processes. 
+Matched Filtering and Pre-whitening filtering. Selected applications from AI and 
+machine learning (such as Decision Making Under Uncertainty, Expectation 
+Maximization Algorithm---EM Algorithm---, Bayesian Networks, Hidden Markov 
+Models, Kalman Filtering, NLP applications such as Large Language Models). 
+Additional topics that might be covered (time permitting): Large Deviations, Markov 
+Chains, Martingales, Data Networking, Queuing Theory, Big Data, and Bayesian 
+Networks. 
+Course Canvas: Canvas login page: https://cmu.instructure.com/. You should check the 
+course Canvas daily for announcements and handouts.  
+ 
+Course Piazza: https://piazza.com/cmu/fall2024/18751a  
+ 
+Course Slack: Please your Andrew account to join https://join.slack.com/t/cmu18751-
+f24/shared_invite/zt-2pb3zp5aa-f1OyJuExB3ZoUevH~Wq0BQ. The Slack channel can 
+be used as an alternative way for Q&A in addition to Piazza. 
+ 
+Homework Projects: There will be 6 sets of homework assignments (biweekly) and they 
+will include MATLAB problems to help you to use MATLAB for solving some of these 
+problems. 
+ 
+Reading Assignments:  They will be assigned on a need basis. 
+ 
+Grading Algorithm: Course evaluation will be based on 3 tests (no Final Exam) and 
+homework (Quizzes will count as bonus points toward your final grade). The contribution 
+of these components will be as follows: 
+• Homework (6 sets): 30% 
+• Class Attendance, Participation, and In-Class Presentation: 10% 
+• Test (3 tests, 20% each): 60% 
+Grades will be tentatively as follows:  
+A 
+91-100 
+A- 
+86-90 
+
+ 
+4 
+ 
+B+ 
+81-85 
+B 
+76-80 
+C 
+66-75 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+August 
+26 
+Mon. 
+Lecture 1: Introduction Lecture (Basic probability 
+concepts (experiments, outcomes, and events): 
+Probability space, simple and compound events, 
+statistical independence, and Bayes Rule. 
+ 
+ 
+28 
+Wed 
+Lecture 2: Total Probability Concept; Bernoulli 
+trials; Binomial distribution; Poisson Law. 
+ 
+ 
+September 
+ 
+ 
+ 
+HW #1 
+September 12 
+2 
+ 
+Labor Day; No classes 
+ 
+ 
+4 
+ 
+Lecture 3: De Moivre-Laplace Theorem. Definition 
+of a Random Variable (RV) (e.g., continuous, 
+discrete, and mixed); Probability distribution of a 
+RV: cumulative distribution function (CDF) and 
+probability density function (PDF). 
+ 
+ 
+    9 
+ 
+Lecture 4: Two Random Variables; several Random 
+Variables. One function of one RV; one function of 
+two RV’s; one function of several RV’s; conditional 
+distributions; conditional expectations; joint 
+distributions  
+HW #2 
+September 24 
+11 
+ 
+Lecture 5: Independence of RV’s; Functions of 
+Random Variables; Fundamental Theorem; An 
+important example. Discrete Random Variables; 
+Probability Mass Function (PMF). 
+ 
+ 
+16 
+ 
+Lecture 6: Moments of RV’s. Linear Properties of 
+Expectation. Joint Moments; Correlation Coefficient 
+of RV’s. Markov and Chebyshev inequality.  
+ 
+ 
+18 
+ 
+Lecture 7: generating functions, and characteristic 
+functions of RVs. Expectation of RV’s revisited; 
+Conditional Expectations. Applications of 
+Expectation of RV’s in Estimation Theory. 
+ 
+ 
+23 
+ 
+Lecture 8: Estimation; linear estimation; linear 
+minimum mean squared estimation; and 
+orthogonality principle 
+HW #3 
+ October 6 
+25 
+ 
+Test #1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+Mon 
+Lecture 9: Univariate, Bivariate, and Multi-variate 
+Gaussian Random Variables; Quadratic Forms and 
+the Covariance Matrix 
+ 
+ 
+Oct. 
+ 
+ 
+ 
+ 
+2 
+ 
+Lecture 10: More on Multi-variate Normal Random 
+Variables 
+ 
+ 
+7 
+ 
+Lecture 11: Estimation of Gaussian Random Variables; 
+Covariance Matrix; Transformation of Uncorrelated 
+Random Variables; Principal Component Analysis 
+(PCA); Examples 
+ HW #4 
+ October 20 
+
+ 
+5 
+ 
+9 
+ 
+Lecture 12: Limit Theorems; Markov’s Inequality; 
+Chebyshev Inequality; Central Limit Theorem (CLT) 
+ 
+ 
+14-18 
+ 
+Mid-Semester break; No Classes 
+ 
+ 
+    21 
+ 
+Lecture 13: More on CLT, Law of Large Numbers 
+(LLN); Weak LLN; Strong LLN; One-sided 
+Chebyshev Inequality; Jensen’s Inequality; Examples 
+on using Limit Theorems 
+ 
+ 
+    23 
+ 
+Lecture 14: Convergence Theorems; Convergence in 
+Probability, Sure Convergence, Almost Sure 
+Convergence, Uniform Convergence and how they 
+apply to CLT and LLN. 
+ 
+ 
+    28 
+ 
+Lecture 15: Estimating the Mean and Variance of a 
+Sample Population; Sample Mean; Sample Variance; 
+Sample Covariance. 
+ 
+ 
+30 
+ 
+Test #2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Lecture 16: Random Processes (Stochastic Processes); 
+definition and notation; different types of random 
+processes; expected value, autocorrelation, and 
+covariance of a random process. 
+ 
+ 
+5 
+Tues. 
+Democracy Day – No Classes 
+ 
+ 
+6 
+Wed 
+Lecture 17: First and Second-Order Distribution of a 
+Random Process; the concept of stationarity of a 
+random process; strict-sense stationarity (SSS); wide-
+sense stationarity (WSS); cyclo-stationarity; examples 
+illustrating the stationarity concepts. 
+ 
+ 
+11 
+ 
+Lecture 18: Examples of random processes (RP): 
+Poisson Process; Gaussian Process; Pulse-Code 
+Modulation (PCM); computing the expected value and 
+autocorrelation of such random processes. 
+ 
+ 
+13 
+Wed 
+Lecture 19: More examples of random processes: 
+discrete-state discrete-time random processes; how to 
+compute mean, autocorrelation, and covariance of such 
+processes using conditioning as a tool. 
+HW #5 
+November 8 
+18 
+ 
+Lecture 20: More examples of random processes from 
+financial markets; time series; Autoregressive and 
+Moving Average Processes; ARIMA models. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+Lecture 21: Processing of Random Processes by Linear 
+Systems and Linear Time-Invariant Systems (LTIS); 
+Linear Operators; Wiener-Khinchin Theorem; 
+relationship between autocorrelation and power 
+spectral density of a Random Process at the input and 
+output of a LTIS; use of Laplace and Fourier 
+Transforms for spectral analysis of random processes.  
+ 
+ 
+25 
+Wed 
+Lecture 22: The concept of ergodicity in random 
+processes and its practical significance; Mean 
+Ergodicity; Correlation Ergodicity; Ergodicity in the 
+distribution sense. 
+HW #6 
+November 22 
+27-29 
+ 
+Thanksgiving Break 
+ 
+ 
+December 
+
+ 
+6 
+ 
+2 
+ 
+Lecture 23: Important properties of of the 
+autocorrelation and PSD of Random Processes. 
+ 
+ 
+4 
+ 
+Lecture 24: Other practical examples of random 
+processes; Hypothesis Testing in Communications and 
+Matched Filtering 
+ 
+ 
+6 
+ 
+Test 3 (Last day of classes) 
+ 
+ 
+11-15 
+ 
+Final Examinations 
+ 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

@@ -1,0 +1,264 @@
+18-240: Structure and Design of Digital Systems 
+Spring Semester 2025 
+Course Personnel: 
+Instructors: 
+Bill Nace
+Ziad Youssfi 
+A206 Hamerschlag Hall 
+A202 Hamerschlag Hall 
+wnace@cmu.edu 
+zyoussfi@andrew.cmu.edu 
+Office Hours: 1:00-3:00pm Wednesdays Office Hours: TBD 
+ 
+calendly.com/billnace/office-visit 
+Teaching Assistants: 
+Rishabh Cowlagi
+Lilly Das
+Caroline Kasuba
+Siddarth Kunisetty
+Siena Lee
+Jaehyun Lim
+Tristan Liu
+Govind Malasani
+Vikram Mani
+Nicholas Ortiz
+William Privratsky
+Richard Sbaschnig
+Vishal Setty
+Akul Singh
+Rudy Sorenson  
+Alice Tang
+Trey Wagner
+Aaron Xu  
+David Zoota 
+Academic Services: 
+ECE Course Hub (aka Academic Services Center) 
+1113 Hamerschlag Hall 
+The ECE Hub is open Monday-Friday, 9am-5pm 
+Class Schedule: 
+Lecture:  
+Tuesday & Thursday, 9:30 a.m. – 10:50 a.m., POS A35 
+Lab:  
+A 
+Tuesday: 
+7 p.m. - 9:50 p.m., HH 1305 
+B 
+Wednesday: 
+7 p.m. - 9:50 p.m., HH 1305 
+C 
+Thursday: 
+7 p.m. - 9:50 p.m., HH 1305 
+Small Group Meetings: 
+A	
+Friday: 
+11 a.m. - 11:50 a.m., TBD 
+B	
+Friday: 
+12 p.m. - 12:50 p.m., TBD 
+C	
+Friday: 
+1 p.m. - 1:50 p.m., TBD 
+Weekly lab sections are REQUIRED — we enforce attendance, so don't show up late. 
+
+Pre-requisite: 18-100, grade of C or better. 
+Undergraduate Course Designation: Core 
+Undergraduate Course Area: Computer Hardware 
+Course Description: 
+This course introduces basic issues in design and verification of modern digital 
+systems. Topics include: Boolean algebra, digital number systems and computer 
+arithmetic, combinational logic design and simplification, sequential logic design and 
+optimization, register-transfer design of digital systems, basic processor organization 
+and instruction set issues, assembly language programming and debugging, and a 
+hardware description language. Emphasis is on the fundamentals: the levels of 
+abstraction and hardware description language methods that allow designers to cope 
+with hugely complex systems, and connections to practical hardware implementation 
+problems. Students will use computer-aided digital design software and actual 
+hardware implementation laboratories to learn about real digital systems. 
+Textbook: 
+Required - Logic Design and Verification Using SystemVerilog by Don Thomas.  ISBN 
+9781523364022.  Available from Amazon. 
+Recommended - Digital Design and Computer Architecture, 2nd edition, David Harris 
+and Sarah Harris 
+Course Canvas: 
+We will use Canvas to communicate with you (announcements, copies of handouts, 
+lab support files, etc).  Access is through: www.cmu.edu/canvas. 
+Piazza Question Website: 
+The 18-240 staff is committed to answering any questions you may have in order to 
+help clarify concepts and concerns.  We use the Piazza website as our primary 
+mechanism to help with such questions.  Students are encouraged to answer, 
+discuss, or comment on any question posted on Piazza.  Our course page is found at 
+https://piazza.com/cmu/spring2025/18240/home. 
+Mailing list: 
+Any email sent to ece240-staff@lists.andrew.cmu.edu will be delivered to all TAs and 
+the Professors.  We encourage you to use Piazza for questions, but will answer 
+anything sent to this email list as well.  Please use this email address rather than 
+sending email directly to a particular TA or Professor. 
+
+Homework Handin 
+Homework will be turned in using Gradescope.  There are some complications about 
+handin, some of which are requirements of Gradescope, others result from the grading 
+mechanisms we employ in order to be efficient in such a large class.  As a result, you 
+are expected to follow handin directions carefully.  If you do not follow directions, 
+your grade will likely be a zero.  Turning in code (SystemVerilog or ASM) that does not 
+compile, or code that does not match the provided module headers will also result in 
+a zero grade. 
+Let me repeat that:  
+Carefully follow directions, else your homework will receive a ZERO! 
+Grading Algorithm: 
+Your grade in 18-240 will be calculated based on your performance on a number of 
+events.  A weighted average will be computed using the following weights: 
+Weight
+Event
+25%
+11 Homework exercises.  Homework will be due each Monday, for 
+the most part.  No grade will be given for late homework.  The 2 
+lowest scoring homeworks will be dropped to allow for handin 
+troubles, illness, travel, interviews, weddings, funerals or other 
+personal issues.
+30%
+7 Laboratory exercises.  The "Tech Ethics" experience counts as a 
+laboratory exercise.  Prompt attendance is mandatory.
+25%
+2 Midterm exams
+20%
+Final exam.  Any student who has a 90% or greater weighted 
+average, has taken both midterm exams, and has no AIVs, will be 
+excused from taking the final exam.  In calculating the weighted 
+average for purpose of the excusal, no grades will be dropped.
+
+When calculating mid-term grades, no homework will be dropped.  Both midterm and 
+final grades will be assigned based on the following grading contract.  The instructors 
+reserve the right to assign higher grades than guaranteed by the contract.  Such a 
+modification will apply equally to all students in the course (i.e. in no instance will a 
+student with a lower average than another student obtain a higher letter grade) 
+Extra Credit: Only graded events offered to all students in the course will be 
+considered for the final grade.  No individual will be offered “extra-credit” or a “make-
+up project” to improve their grade, as that would not be fair to other students.  If you 
+wish to have a better grade, don’t wait until after the final to ask -- the only way to get 
+a better grade is to do better work (and thus learn more) throughout the semester. 
+Grading Appeals:  If you believe there has been a mistake in the grading of any 
+assignment (Homework, Lab or Exam), then please bring it to our notice so we might 
+correct it.  Grade appeals must be submitted in writing within 1 week of the date 
+where material was returned/released.  Appeals may be made on Gradescope (for 
+homework and exams) or on Piazza (in a private post). 
+Accommodations for Students with Disabilities: 
+If you have a disability and are registered with the Office of Disability Resources, 
+please come and talk to me to discuss your needs.  You will also need to use their 
+online system to formally notify me of your accommodations. I will work with you to 
+ensure that accommodations are provided as appropriate.   
+If you suspect that you may have a disability and would benefit from accommodations 
+but are not yet registered with the Office of Disability Resources, I encourage you to 
+contact them at access@andrew.cmu.edu. 
+Weighted Average
+Letter Grade
+>= 90%
+A
+>= 80%
+B
+>= 70%
+C
+>= 60%
+D
+< 60%
+R
+
+Your Health and Well-being 
+Things at CMU can get stressful at times. Please remember to take good care of 
+yourself! It is important for you to stay healthy, and to reach out to your support 
+network and to other resources that can help you when things start feeling difficult. 
+Know that you are not alone - all of us can feel overwhelmed at times, and all of us 
+benefit from help and support during those times. There are several resources that we 
+encourage you to make use of if you are going through any sort of struggle. 
+Sometimes, even if you don't think that you need it, or that it's not serious enough to 
+warrant reaching out, you may be surprised at how friends, family, course staff, and 
+professionals can help you - consider reaching out to any of them you trust for help, 
+or to get connected to resources that can provide the help you could use. 
+An excellent resource at CMU is Counseling and Psychological Services (CaPS) - they 
+are excellent listeners, and can help you through a wide variety of situations (including 
+ones that many of you may not consider when you hear the terms counseling and 
+psychology).  CaPS is available for students on and off campus, and can help you 
+with situations such as academic stress, difficult life events, or feelings such as 
+anxiety or depression. 
+Counseling and Psychological Services (CaPS) 
+https://www.cmu.edu/counseling/ 
+(412) 268-2922 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone 
+immediately, day or night: 
+CaPS: (412) 268-2922 
+Re:solve Crisis Network: (888) 796-8226 
+If the situation is life threatening, call the police 
+On campus: CMU Police: (412) 268-2323 
+Off campus: 911 
+Finally, if you have any questions about this, or would like to talk, please do not 
+hesitate to reach out to one of us. 
+Policies Related to Diversity and Inclusion 
+We believe that every human being is special and precious and deserving of respect.  
+Unfortunately, many have been treated in non-respectful ways, often horrifyingly so, 
+based on their gender, race, age, sexuality, disabilities, or other status.  We will do 
+everything possible to ensure that all students are treated with the respect they 
+deserve while participating in this course.  Such respect requires that every student's 
+diverse learning needs are addressed and that all student's diverse perspectives are 
+treated as a source of strength and a benefit for all in the course. 
+
+If you feel you have been treated otherwise by professors, course staff or other 
+students, you are encouraged to discuss the situation with the professors.  We will 
+take the situation seriously, provide you with anonymity, and act on the information. 
+You should also know that there are university-level resources as well: 
+• Campus Climate and Bias Reporting Protocol: cmu.ethicspoint.com. More 
+information is available at the CCBRP website: cmu.edu/title-ix/how-to-report-+-
+options-for-resolution/ccbrp/index.html 
+Further, your suggestions on how we can do a better job in these areas is encouraged 
+and appreciated.  Please let us know of any areas of improvement. 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the 
+courses you take.  The following list describes which objectives are fulfilled by 18-240 
+and in what manner they are fulfilled.  The objectives are numbered from “1” through 
+“7” in the standard ABET parlance.  Those objectives not fulfilled by 18-240 have 
+been omitted from the following list. 
+(1) An ability to identify, formulate, and solve complex engineering 
+problems by applying principles of engineering, science, and 
+mathematics:  The course poses many problems; on homework, in labs, 
+during exams, and for in-class exercises; for the student to formulate and 
+solve using good engineering practice.  The student will use mathematical and 
+engineering concepts to model and design digital circuits and to solve 
+complex problems in the digital design and computer architecture domain. 
+(2) An ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, 
+as well as global, cultural, social, environmental, and economic factors: 
+The course is an introduction to the design of digital circuits, so the student 
+will start to gain insight into the process of designing components and then 
+designing systems using those components.  Some economic and 
+manufacturability constraints will be discussed.  At all appropriate points, 
+safety will be emphasized. 
+(3) An ability to communicate effectively with a range of audiences: 
+Students practice their communication skills during laboratory exercises as 
+well as the basic written communication of problem solutions on homework 
+and exams.  In all such cases, the audience is small.  During a large active-
+learning exercise, students review their team's work and report results to the 
+class. 
+
+(4) An ability to recognize ethical and professional responsibilities in 
+engineering situations and make informed judgments, which must 
+consider the impact of engineering solutions in global, economic, 
+environmental, and societal contexts: Students will participate in an "ethics 
+lab" during the first week of class.  In addition, most homework assignments 
+will require a thoughtful answer in essay form, to an ethical question. 
+(5) An ability to function effectively on a team whose members together 
+provide leadership, create a collaborative and inclusive environment, 
+establish goals, plan tasks, and meet objectives:  Students will operate in 
+2-person teams for the laboratory exercises.  These are not multi-disciplinary 
+teams, but the student will start to learn teamwork and team management 
+skills, particularly conflict resolution.  They also work on 4-person teams 
+during an active learning exercise. 
+(6) An ability to develop and conduct appropriate experimentation, 
+analyze and interpret data, and use engineering judgment to draw 
+conclusions: Laboratory exercises provide for the opportunity to conduct 
+experiments.  The student will design experiments and analyze data 
+throughout the debugging process in order to generate a functioning lab. 
+(7) An ability to acquire and apply new knowledge as needed, using 
+appropriate learning strategies:  During a full-period active-learning 
+exercise, students work in teams of four to examine new problem statements 
+in computer architecture and attempt to modify the course CPU design to 
+meet these new requirements.  Students use resources they find on the 
+internet to provide context and ideas for their solutions.

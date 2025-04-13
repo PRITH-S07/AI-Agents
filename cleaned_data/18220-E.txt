@@ -1,0 +1,489 @@
+18-220  
+Syllabus 
+Page 1 of 9 
+Course: 
+18-220 / Electronic Devices and Analog Circuits 
+ 
+Semester / Year: 
+Fall, 2025 
+ 
+Units: 
+12.0 
+ 
+Meetings: 
+Lecture 
+Tuesday / Thursday 
+11:00AM – 12:20PM 
+HOA 160 
+ 
+ 
+Small Groups Friday  
+(A) 
+10:00AM – 10:50AM ANS 101 
+ 
+ 
+Friday  
+(B) 
+11:00AM – 11:50AM ANS 101 
+ 
+ 
+Friday  
+(C) 
+12:00PM – 12:50PM 
+ANS 101 
+ 
+ 
+Friday  
+(D) 
+1:00PM – 1:50PM 
+ANS 101 
+ 
+ 
+Friday  
+(E) 
+2:00PM – 2:50PM 
+ANS 101 
+ 
+ 
+Friday  
+(F) 
+3:00PM – 3:50PM 
+ANS 101 
+ 
+ 
+ 
+ 
+Labs 
+Tuesday  
+(A) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Tuesday  
+(B) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Wednesday  (C) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Wednesday  (D) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Thursday  
+(E) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+Thursday  
+(F) 
+7:00PM – 9:50PM 
+ANS 101 
+ 
+ 
+Course Description:  
+This course covers fundamental topics that are common to a wide variety of 
+electrical engineering devices and systems. The topics include:  
+ 
+• 
+An introduction to semiconductor devices and technology 
+• 
+DC circuit analysis techniques 
+• 
+Operational amplifiers 
+• 
+Energy storage elements 
+• 
+Sinusoidal steady-state response 
+• 
+Frequency domain analysis 
+• 
+Filters 
+• 
+Transient response of first- and second-order systems. 
+ 
+The laboratories allow students to use modern electronic instrumentation and 
+to build and operate circuits that address specific concepts covered in the 
+lectures, including: 
+ 
+• 
+Semiconductor devices and sensors 
+• 
+Operational amplifiers 
+• 
+Filters 
+• 
+Signal detection and processing 
+• 
+Power converters 
+• 
+Circuit transients.  
+ 
+ 
+Prerequisite:  
+18-100 / Introduction to Electrical and Computer Engineering (C or better) 
+ 
+Corequisite:  
+33-142 / Physics II for Engineering and Physics Students 
+
+18-220  
+Syllabus 
+Page 2 of 9 
+Instructor:  
+Mark M. Budnik 
+ 
+ 
+Tom Zajdel 
+ 
+A212 Hamerschlag Hall 
+ 
+A210 Hamerschlag Hall 
+ 
+mbudnik@andrew.cmu.edu  
+tzajdel@andrew.cmu.edu 
+ 
+Office Hours: 
+To be announced, but there are bunches of them! 
+ 
+ 
+Required (Free) 
+Circuit Analysis and Design 
+Textbook: 
+Fawwaz T. Ulaby, Michel M. Maharbiz,                                                                      
+and Cynthia M. Furse 
+ 
+2nd Edition 
+ 
+Michigan Publishing, 2024. 
+ 
+ISBN:  978-1-60785-876-8  
+ 
+Free. 
+ 
+ 
+Recommended  
+Foundations of Analog and  
+Textbooks: 
+Digital Electronic Circuits, 
+ 
+1st Edition 
+ 
+Anant Agarwal and  Jeffrey Lang  
+ 
+Morgan Kaufmann, 2005. 
+ 
+ISBN: 978-1558607354 
+ 
+ 
+~$28.82 eBook rental 
+ 
+ 
+ 
+Grading: 
+The final course grade will be calculated using the following categories: 
+ 
+Homework 
+10% 
+Exams 
+60% 
+Labs 
+30% 
+Total 
+100% 
+ 
+Students will be assigned the following final letter grades, based on 
+calculations coming from the course assessment section: 
+ 
+90 – 100 
+A 
+80 – 89.9 
+B 
+70 – 79.9 
+C 
+60 – 69.9 
+D 
+00 – 59.9 
+R / F 
+ 
+Note, 18-220 has a policy of not curving the grades or rounding up.  For 
+example, if you get an 89.999 over the entire semester, you will receive a 
+grade of “B” for the semester.   Please allow us to repeat that.     
+   
+FOR EXAMPLE, WITH A GRADE OF 89.999, YOU WILL RECEIVE 
+A GRADE OF “B.”  
+ 
+ 
+ 
+ 
+
+18-220  
+Syllabus 
+Page 3 of 9 
+Homework: 
+Homework will account for 10% of your semester grade.  We typically have 
+12 or 13 homework assignments per semester.  However, only your 10 best 
+scores are included in the calculation of your grade.  Homework will be 
+assigned every MONDAY and will be due the following MONDAY, via 
+Gradescope, at 5PM, Pittsburgh time. No late homework will be accepted.  
+Please allow us to repeat that:  
+ 
+ 
+NO LATE HOMEWORK WILL BE ACCEPTED.   
+ 
+ 
+It is YOUR responsibility to ensure your homework is submitted on time, 
+every time.  Don’t just upload your file and forget about it.  Double-check to 
+make sure you uploaded the correct file.  In addition, you may consider 
+uploading a “safety” or “back-up” version of your homework while you are 
+working your way through the assignment.  Only your last submission will 
+be graded. 
+ 
+ 
+Solutions to the homework will be provided on Canvas shortly after it is due.  
+  
+Discussions about homework amongst students are encouraged.  However, 
+  
+homework must be written up individually and independently. Questions 
+regarding homework will be covered during class times, as well as office 
+hours. 
+ 
+ 
+Please review your homework scores when you receive them. You have one 
+week after a graded item is returned to request a grade correction.  All 
+homework corrections must be submitted via Gradescope.   
+ 
+ 
+Exams: 
+Exams will account for 60% of your semester grade.   
+ 
+ 
+Two midterms are each worth 20% of the course grade, and a final exam is 
+worth 40%.   
+ 
+ 
+You may either drop ONE MID-TERM EXAM   or   WEIGHT YOUR 
+FINAL EXAM GRADE BY HALF.   
+ 
+• 
+If you drop one midterm exam grade, then your exam score will be 
+composed of the other midterm (20%) and the final exam (40%).   
+ 
+For example, consider that your two exam scores were 65% and 85%.  
+Your final exam score was 75%.  Then, your 65% midterm would 
+automatically be dropped, and your final exam score of 75% would 
+receive its full weighting. 
+ 
+• 
+If you drop half the final exam weighting, then your total exam score will 
+be composed of the two midterms (20% each) and the final exam (20%). 
+ 
+For example, consider that your two exam scores were 65% and 85%.  
+Your final exam score was 55%.  Then, your 55% final exam score 
+weighting would be reduced to 20%.  Your total exam score would be 
+composed of your two midterms (20% each) and the 55% on the final 
+exam (20%).  
+
+18-220  
+Syllabus 
+Page 4 of 9 
+Labs: 
+Lab assignments will be distributed on Canvas and collected at the end of 
+your lab session.  Labs must be done in groups of 2 students (or in rare cases, 
+3 students), but all students must participate.  
+ 
+ 
+You may not drop any labs.  If you are unable to complete a lab during your 
+normal session, you will have the opportunity to work on the lab at an 
+alternate time.   
+ 
+ 
+You and your partner must be able to make it to the entire lab time.  One 
+partner may not do the first half and the second partner due the second half. 
+ 
+ 
+If you are unable to complete a lab during your normal session, they typically 
+must be turned in by 7pm on your next lab night.  For example, if you are 
+in lab section A, your first lab starts at 7pm on Tuesday, 14-Jan.  You must 
+complete the lab, have it checked off, and turned in before 7pm on Tuesday, 
+21-Jan. 
+ 
+ 
+Recitation 
+When you registered for 18-220, you also registered for a small group, with 
+Small Groups: 
+all the small groups meeting on Fridays.  In small groups, students will work  
+with a pair of teaching assistants to review the week’s lecture material, 
+discuss the pending homework assignment, and prepare for the next week’s 
+lab.  Approximately 20% of each week's lab grade will be based on 
+participation in lab-oriented exercises in the small group.  As such, a 
+significant amount of your learning is expected to occur during the small 
+group sessions, and attendance is mandatory. 
+ 
+Each student will have two (2) “sick days” during the semester that they may 
+use if they are not able to attend their small groups.  However, to use one of 
+your sick days, you must send an email to your TAs (copying your 
+professors) BEFORE THE START OF YOUR SMALL GROUP.  (Yup, 
+that’s how sick days work in the “real world.”)  Failure to notify your TAs 
+and professors before the start of your small group will result in an 
+unexcused absence which may negatively impact your course grade. 
+ 
+To use a sick day, use an email subject of:  SICK DAY 
+ 
+Include in the email your section and start time: 
+ 
+ 
+Friday  
+(A) 
+10:00AM – 10:50AM 
+ANS 101 
+ 
+Friday  
+(B) 
+11:00AM – 11:50AM 
+ANS 101 
+ 
+Friday  
+(C) 
+12:00PM – 12:50PM 
+ANS 101 
+ 
+Friday  
+(D) 
+1:00PM – 1:50PM 
+ANS 101 
+ 
+Friday  
+(E) 
+2:00PM – 2:50PM 
+ANS 101 
+ 
+Friday  
+(F) 
+3:00PM – 3:50PM 
+ANS 101 
+ 
+ 
+ 
+Wireless Policies: 
+To minimize distractions and show your teammates respect, cell phones 
+should normally be turned off while you are in the classroom.  If you believe 
+you have a valid excuse to leave your cell phone on, please let me know. 
+
+18-220  
+Syllabus 
+Page 5 of 9 
+Student Wellness: 
+As a student, you may experience a range of challenges that can interfere 
+with learning, such as strained relationships, increased anxiety, substance use, 
+feeling down, difficulty concentrating and/or lack of motivation. These 
+mental health concerns or stressful events may diminish your academic 
+performance and/or reduce your ability to participate in daily activities.  
+ 
+ 
+CMU services are available, and treatment does work.  
+ 
+ 
+You can learn more about confidential mental health services available on 
+campus at: http://www.cmu.edu/counseling/ 
+ 
+ 
+Support is always available (24/7) from Counseling and Psychological 
+Services: 412-268-2922 
+ 
+ 
+Accommodations:  
+If you believe you may require accommodations, please apply online through 
+the confidential Carnegie Mellon University Disability Services secure 
+portal: 
+ 
+ 
+https://rainier.accessiblelearning.com/cmu 
+ 
+If you have questions about the process or would like to speak with a 
+Disability Resources staff member before completing your application, you 
+may contact them at (412) 268-6121 or by email: 
+ 
+access@andrew.cmu.edu 
+ 
+ 
+If you already have an accommodations letter from the Disability Resources 
+office, I encourage you to discuss your accommodations and needs with your 
+faculty as early in the semester as possible. We will work with you to ensure 
+that accommodations are provided as appropriate. 
+ 
+ 
+Approximately 20% of all college students self-report having a disability.  
+This an issue that we take very personally.  We want to provide every student 
+with the opportunity to thrive and succeed.  That may look different for each 
+student.  Please let us know how we can help. 
+ 
+ 
+ 
+
+18-220  
+Syllabus 
+Page 6 of 9 
+Education Objectives 
+The ECE department is accredited by ABET to ensure the quality of your  
+and Relationship to 
+education. ABET defines 7 Educational Objectives that are fulfilled by the  
+Program Outcomes: 
+sum total of all the courses you take.  The following list describes which 
+objectives are fulfilled and how they are fulfilled by 18-220. The objectives 
+are numbered from “1” through “7” in the standard ABET parlance.  
+ 
+(1) an ability to identify, formulate, and solve complex engineering 
+problems by applying principles of engineering, science, and 
+mathematics: Design of circuits, including RLC and op amp filters, that 
+require application of mathematical and physical concepts and an 
+understanding of engineering design concepts. Open ended circuit design 
+problems that represent real-world engineering problems such as wireless 
+and IR remote signal propagation, investigation of faults in transmission 
+lines using time domain reflectometry, and design of RFID tags and 
+scanner/reader.  
+ 
+(2)  an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, 
+as well as global, cultural, social, environmental, and economic factors: 
+Design of op amp circuits that recognize the importance of feedback for 
+providing a controlled gain in spite of manufacturing variations for the 
+semiconductors. The use of low-power and energy harvesting design 
+techniques for future electronic systems.  
+  
+(3)  an ability to communicate effectively with a range of audiences: 
+Student lab notebooks capture circuit designs, measurement results and lab 
+experience in a form communicating all details to the lab/course instructors. 
+  
+(4)  an ability to recognize ethical and professional responsibilities in 
+engineering situations and make informed judgments, which must 
+consider the impact of engineering solutions in global, economic, 
+environmental, and societal contexts: The impact of wireless technology, 
+RFID, etc., on the global community is discussed throughout the semester. 
+ 
+(5)  an ability to function effectively on a team whose members together 
+provide leadership, create a collaborative and inclusive environment, 
+establish goals, plan tasks, and meet objectives: Lab work is conducted in 
+teams and requires close collaboration to complete a challenging lab in a 
+short time period.  
+ 
+(6)  an ability to develop and conduct appropriate experimentation, 
+analyze and interpret data, and use engineering judgment to draw 
+conclusions: Lab designs and supporting experiments that range from 
+circuits convert energy from other domains to tuning circuits for use in 
+wireless radio transceivers. 
+ 
+(7)  an ability to acquire and apply new knowledge as needed, using 
+appropriate learning strategies: Lecture material starts with early 
+electrical and electronic discoveries and inventions and relates them to the 
+latest emerging technologies and trends. 
+ 
+
+18-220  
+Syllabus 
+Page 7 of 9

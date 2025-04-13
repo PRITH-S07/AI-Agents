@@ -1,0 +1,178 @@
+Carnegie Mellon University 
+Department of Electrical and Computer Engineering 
+18-372  
+    
+ 
+ 
+ 
+                                                    Fall 2024 
+Fundamentals of Electric Power Systems 
+Course Syllabus 
+ 
+Instructor 
+ 
+Tom Sullivan  
+tms@ece.cmu.edu 
+Office:  HH A-209 
+ 
+ 
+ 
+Office hours:  
+Tuesday  12:30 -1:30 pm in HH A-209 (right after class) 
+ 
+Teaching Assistant 
+ 
+Hariharan Chithalamangalam Saravanan   
+hchithal@andrew.cmu.edu 
+ 
+ 
+ 
+ 
+Course Web Page 
+ 
+We will use the Canvas course system for our class web page. Information about the staff’s office hours 
+and location for those hours will be available in the Syllabus section of the web page.  Homework 
+assignments will be posted to Canvas as well as homework solutions.  Your grades are also available in 
+Canvas.  We encourage you to check your scores regularly and bring to our attention any discrepancies 
+between what grades you received written on your work and what is listed on Canvas.  Students are also 
+responsible for any information conveyed to the class via Canvas announcements. 
+ 
+
+ 
+ 
+Course Description 
+ 
+The goal of this course is to introduce students to the basics of the electrical power grid and power 
+generation, transmission, consumption and types of power generation. The power grid of the United 
+States was named the greatest engineering achievement of the 20th century by the National Academy of 
+Engineering and described by former Department of Energy Secretary Moniz as “a continent-spanning 
+machine of immense complexity that is at its best when it’s invisible.” The ongoing reinvention of the 
+grid from a 19th century design to a modern, more agile and efficient system is one of the greatest and 
+most interesting challenges in engineering. This class will look at the grid from many perspectives, not 
+just as a collection of electric circuits but as a system of systems, with mechanical, political, economic, 
+social, environmental and other aspects in constant interplay. 
+ 
+ 
+A Reference Textbook 
+ 
+Power Systems: Analysis and Design, 3rd edition, by J. Duncan Glover and Mulukutla S. Sarma, 
+Brooks/Cole, 2002 
+ 
+Suggested Reading:  
+ 
+How the Electricity Grid Works | Union of Concerned Scientists (ucsusa.org)  
+Link:   https://www.ucsusa.org/resources/how-electricity-grid-works 
+ 
+Slides 
+ 
+There will be a mixture of previous lecture slides and written on slides for 18-372.  We prefer to be 
+flexible with the course material as it is presented, allowing the lectures to react easily to student 
+questions.  What we’ve done in class will be uploaded to Canvas after each class for you to review 
+ 
+
+ 
+ 
+Course schedule: 
+ 
+Lectures: 
+ 
+Tuesday and Thursday, 11:00 am – 12:20 pm, WeH 8427 
+ 
+We will not be recording the lectures or recitations.  It will be important to be present in class to ask 
+questions and to participate in the dialog that takes place during lecture. 
+ 
+Recitations:  
+ 
+Friday, 12:00 pm – 12:50 pm, WeH 8427      
+ 
+Since this is a small class, the recitation section is basically a group “office hour” for the TA to answer 
+your questions and for you all to further discuss the course material. 
+ 
+Handouts: 
+ 
+All course materials will be available via Canvas and Homework and Exams via Gradescope.  
+ 
+Homework: 
+ 
+There will be problem sets distributed on Canvas/Gradescope periodically throughout the semester.  You 
+will have at least one week to complete each assignment from when it is posted and hand-in will be 
+through Gradescope.  Assignments will be graded for “effort”.  While discussing HW with your 
+classmates is allowed, you must do your own work where the mechanics of solving the problems are 
+concerned or answering essay/thought questions.  No group HW turn-in.   
+ 
+Research Paper and Presentation: 
+ 
+All students will choose some topic in Energy on which to do some research and write a summary paper.  
+Everyone will do a very short presentation of their topic in class on the last week of class after 
+Thanksgiving (mandatory attendance, so please plan accordingly).   
+ 
+Abstract Due.  Thursday, October 31 by end of class, 12:30 pm 
+Presentations:  Tuesday and Thursday December 3 and 5 
+Paper Due:  
+Wednesday December 11 (Reading Day) by 4 pm. 
+ 
+Exams: 
+ 
+Two term exams will be given on the following dates: 
+ 
+Thursday, October 10 (week 7) 
+Tuesday, November 26 (week 13) (Note:  This is the Tuesday before Thanksgiving.  You can be remote 
+for the exam as it is a take-home, more on this later, this exam will be comprehensive). 
+ 
+There will be no Final Exam for this course during the final exam week.  Your final paper will be due on 
+Reading Day, Wed. Dec. 11  
+ 
+
+ 
+ 
+ 
+Exam Taking Policy(s) 
+ 
+All exams are to be taken during the scheduled exam date and time.  There are no make-ups.  If there is 
+a dire emergency preventing you from taking an exam at the scheduled time (and I mean dire), you must 
+meet with the instructor within one week of the originally scheduled exam time to discuss how to make 
+up the credit for that exam, else you will receive a zero for that exam.  Make-ups will be given at the 
+convenience and discretion of the instructor and will generally be more difficult than the originally 
+scheduled exam.  The format of the make-up work is up to the instructor.   
+ 
+If you have special circumstances approved by the Disabled Student Services office, it is up to you to 
+make arrangements with the instructor at least 72 hours before the scheduled exam time.  Failure to do 
+so will result in you taking the exam in the same place and at the same time (and for the same length of 
+time) as the rest of the class. 
+ 
+Grading: 
+ 
+Your final grade will be calculated using the following method: 
+ 
+20%  Homework (lowest score dropped) 
+20% 
+Paper and presentation 
+ 
+ 
+ 
+ 
+ 
+ 
+60%  Two term exams 
+ 
+While lower cutoffs may be used, the following cutoffs are guaranteed: 
+ 
+>90% A 
+>80% B 
+>70% C 
+>60% D 
+ 
+Re-grades 
+ 
+Re-grades on any course materials will only be given if a serious mistake in the grading has taken place.  
+The course instructor is the only person to be approached for a re-grade of any course material.  No 
+material will be accepted for a re-grade more than one week after it has been available for viewing by 
+the student.  If materials are submitted for a re-grade, the entire piece of work is subject to re-grade, not 
+just the portion the student wishes.  Regrades are requested through Gradescope.  
+ 
+Cheating: 
+ 
+Any student caught cheating in this course will receive an R and the facts of the case and the penalty will 
+be reported to the Dean of Student Affairs.  While students may work in groups to discuss homework 
+assignments, copying from someone else’s homework (present or past years or past year’s solutions), lab 
+write-up, or exam or allowing another student to copy his/her work, will be considered as cheating.

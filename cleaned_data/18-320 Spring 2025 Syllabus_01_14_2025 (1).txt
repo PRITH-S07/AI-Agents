@@ -1,0 +1,145 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-320 – Microelectronic Circuits 
+Spring 2025 
+ 
+ 
+Instructor: Prof. Marc Dandin 
+ 
+ 
+Office Location: HH 2111 
+Email Address: mdandin@andrew.cmu.edu    
+Office Hours: TBA  
+ 
+Teaching Assistants: TBA 
+Email Addresses: TBA 
+ 
+Office Hours:  TBA 
+ 
+ 
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html
+Course Description:  
+18-320 introduces students to the fundamentals of microelectronic circuits. The course will emphasize the analysis 
+and design of basic analog and digital integrated circuits in preparation for further study in analog, digital, mixed-
+signal, and radio-frequency integrated circuit design. Additionally, students will learn to design and analyze 
+microelectronic circuits using industry standard computer aided design (CAD) software. Topics to be covered 
+include: MOSFET fabrication and layout MOSFET models for analog and digital design Analysis and design of 
+digital CMOS logic gates Analysis and design of clocked storage elements (e.g., flip-flops, latches, memory cells) 
+Delay optimization of digital circuits Circuit topologies for arithmetic and logical functional units Analysis and 
+design of single-stage MOS amplifiers Frequency response characteristics of single-stage amplifiers Differential 
+amplifiers and simple operational amplifiers Analog filters using operational amplifiers The course includes a lab 
+component which will give students hands-on experience in the design and implementation of analog and digital 
+circuits. Labs will employ both design using discrete, SSI, and MSI parts, as well as using CAD design tools. 
+ 
+Class Schedule:  
+ 
+• Lecture: Tuesdays and Thursdays, 12:30 pm – 1:50 pm, TEP 3500 
+• Labs: Tuesdays (Section B), Wednesdays (Section C), and Thursdays (Section A), 07:00 pm –  09:50 
+pm, HH A101 
+• Recitation: Fridays, 11:00 am – 11:50 pm, HHB103 
+ 
+
+ 
+2 
+ 
+Number of Units: 12 
+Pre-requisite: 18-220  
+Co-requisite: 18-240 
+Class Mode: In-Person Expectation  
+ 
+Textbooks:  
+ 
+• Sedra & Smith (SS), “Microelectronics Circuits,” 7th ed., Oxford University Press 
+• Weste & Harris (WH), “CMOS VLSI Design: A Circuits and Systems Perspective,” 4th ed., Addison-
+Wesley, 2011 
+ 
+Other References:  
+ 
+• 
+Mayergoyz & Lawson, ““Basic Electric Circuit Theory, Academic Press, 1997 
+• 
+Baker, “CMOS: Circuit Design, Layout, and Simulation”,  4th ed., Wiley 
+ 
+Computing Resources:  
+You should remote log-in to one of the headless ece000~ece031 servers. Note that you will need a VPN client to 
+access our campus resources remotely. 
+ 
+Course Canvas:  
+Canvas login page: https://canvas.cmu.edu/. You should check the course Canvas daily for announcements and 
+handouts.  
+ 
+Grading Algorithm:  
+ 
+Homework (9-10) =   10%  
+Labs (8)  = 25%  
+Exams (3)   = 60%  
+Final Report (1) =    5%  
+ 
+The following maximum grade cutoffs are guaranteed:  
+ 
+ > 92 A  
+ > 83 B  
+ > 72 C  
+ > 61 D  
+ 
+General Course Policies: 
+ 
+• Collaboration on homework and labs is permitted but a submission must reflect your own individual 
+effort. 
+• This class has an explicit late policy included in each assignment. Generally, individual assignments 
+will reflect two due dates, the first, which is the date by which the assignment is due, and the second, 
+which is the last possible date the assignment will be accepted with no penalty. After the second date, the 
+assignment will not be accepted. Students are encouraged to reach out to the course instructor should any 
+unforeseen and later documentable events preclude a timely submission.  
+ 
+
+ 
+3 
+ 
+Educational Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET defines 7 Educational 
+Objectives that are fulfilled by the sum total of all the courses you take.  The following list describes which 
+objectives are fulfilled by this course and in what manner they are fulfilled. The objectives are numbered from 
+“1” through “7” in the standard ABET parlance. Those objectives not fulfilled by 18-320 have been omitted from 
+the following list: 
+ 
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of 
+engineering, science, and mathematics. For example, you will learn how physical device characteristics 
+give rise to design trade-offs, and you will learn how to mitigate these design trade-offs by applying 
+engineering and scientific principles grounded in mathematical reasoning. 
+ 
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration 
+of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic 
+factors. For example, in the latter part of the course, we will discuss the current state of microelectronics 
+research, and we will discuss how circuits are deployed in health and environmental applications.  
+ 
+ 
+3. An ability to communicate effectively with a range of audiences. In this class, you will produce a final 
+report covering a microelectronics problem. Throughout the course, you will learn how to effectively 
+present your lab findings in a written format.  
+ 
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make 
+informed judgments, which must consider the impact of engineering solutions in global, economic, 
+environmental, and societal contexts. In the latter part of the course, we will discuss the ethical and 
+professional implications of microelectronics research.  
+ 
+ 
+5. An ability to function effectively on a team whose members together provide leadership, create a 
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. For instance, 
+you will work in a group to conduct labs and projects. 
+ 
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use 
+engineering judgment to draw conclusions. The labs will give you hands-on experience in experimenting 
+with several aspects of mixed-signal circuit design.  
+ 
+ 
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. In this 
+class, you will learn how to learn! Projects and homework will include metacognitive components that 
+will force you to audit your own learning and refine your methods of absorbing new material. 
+ 
+ECE

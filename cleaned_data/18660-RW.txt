@@ -1,0 +1,346 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-460/18-660: Optimization   
+Spring 2025 
+ 
+ 
+Instructor: Giulia Fanti 
+Office Location:  Scaife Hall 234 
+Email Address: gfanti@andrew.cmu.edu 
+Office Hours: TBA, CIC 2118 
+ 
+Teaching Assistant:  
+• Pedro Rocha Cachim (Email: pcachim@andrew.cmu.edu) 
+• Chaoyi Pan (Email: chaoyip@andrew.cmu.edu) 
+• Xingyu Xu (Email: xingyuxu@andrew.cmu.edu)  
+Office Hours: TBA
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description: Many design problems in engineering (e.g., machine learning, 
+finance, circuit design, controller, energy networks, etc.) involve minimizing (or 
+maximizing) a cost (or reward) function. Optimization is the study of algorithms and 
+theory for numerically solving such problems, and it underpins many of the technologies 
+we use today.  
+ 
+This course is an introduction to optimization. Students will:  
+1. 
+learn about common classes of optimization problems 
+2. 
+study and implement algorithms for solving them 
+3. 
+gain hands-on experience with standard optimization tools.  
+ 
+We will focus on convex optimization problems, but will also discuss the important role 
+of non-convex optimization, as well as some more general numerical methods. The 
+course will emphasize connections to real-world applications including machine learning, 
+networking, and cyber physical systems, etc. The course will involve lectures, homework, 
+exams, and a project. 
+ 
+ 
+Number of Units: 12 
+ 
+
+ 
+2 
+ 
+Pre-requisites: (18202) and (36219 or 36218 or 36225 or 21325 or 36217) and (21241) 
+OR equivalent background material with permission of the instructor. 
+ 
+Class Lecture: Tuesday and Thursday, 11:00AM – 12:20PM, Scaife Hall 234 
+ 
+Recitation Session: There will be about 6 recitation sessions spaced out throughout the 
+semester to help you understand the course and prepare for the tests better. Time will be 
+determined via a poll.  
+ 
+Required Textbook: No official textbook 
+ 
+Suggested Reading:  
+• Boyd and Vanderberghe, Convex Optimization (available at 
+https://web.stanford.edu/~boyd/cvxbook/) 
+• Nesterov, Introductory Lectures on Convex Optimization 
+• Dimitri P. Bertsekas, Nonlinear Programming 
+• Bubeck, Convex Optimization: Algorithms and Complexity (available at 
+https://arxiv.org/abs/1405.4980) 
+Suggested reading materials for each lecture will be posted online.  
+ 
+Reference Materials:  None 
+ 
+Brief List of Topics Covered: 
+• Convex functions and convex sets 
+• Convex optimization problems: linear/quadratic programming, second-order 
+cone programming, semi-definite programming 
+• Examples of optimization in engineering 
+• First-order methods: gradient descent, stochastic gradient descent, subgradient 
+descent, proximal gradient descent 
+• Duality theory: Lagrangian, multipliers, duality, KKT conditions 
+• Special topics: nonconvex optimization 
+ 
+Course Canvas: Canvas login page: https://cmu.instructure.com/. You should check the 
+course Canvas daily for announcements and handouts.  
+ 
+Course Website: Canvas will host all the lecture materials. In addition, all QA will be 
+handled on Piazza, and all homework submission is via GradeScope.  
+ 
+Quizzes: There will be short quizzes to be completed for each lecture. These quizzes are 
+intended to make sure that you understood the material from the previous lecture. The 
+quizzes will be available on Canvas after each lecture and is due before the next lecture.  
+ 
+Homework: There will be 4 homework problem sets spaced out over the semester. The 
+homework will be posted on Canvas, and completed homework will be submitted via 
+GradeScope. You have five late days (total across all 4 homeworks) that can be used on 
+homework, no questions asked. You can use at most 3 late days for any single 
+
+ 
+3 
+ 
+homework. For example, you can use (at most) 3 late days on HW1, which leaves you 
+with 2 late days for the rest of the semester. If you have an emergency, let the instructor 
+know (BEFORE the due date), and we will work something out.  
+ 
+You may NOT copy or look at solutions to problems that you find online, from other 
+students, or anywhere else (including generative AI models like ChatGPT). You may work 
+with other students, but you must give them credit on your homework assignment and state 
+their contribution.  
+ 
+Tests: There will be two tests throughout the semester. These will be in-class, during the 
+regular lecture slot (11:00am -12:20 pm ET).  
+ 
+The tests will be open-book, open-notes, which means you can use all the materials within 
+the course, including the lecture slides, homework, reading materials. However, you may 
+NOT use electronics, including laptops or calculators (you should not need a calculator to 
+complete the problems). 
+ 
+There will be NO FINAL EXAMS.  
+ 
+Project: There will be a final project for the course. In this project, you will explore a 
+topic related to optimization in greater depth. You will work in groups of 2-3. There will 
+be periodic milestones for the project. On the last day of class, there will be a session 
+where students will present their projects.  
+ 
+Difference between 18-460/18660: The two course numbers share the same lectures, but 
+compared to 18-660, 18-460 has fewer homework problems, fewer exam questions, and 
+less stringent criteria for the project. 
+ 
+ 
+Reading Assignments: None 
+ 
+Grading Algorithm: 
+ 
+45% 
+Homework 
+25% 
+Tests 
+20% 
+Project 
+10% 
+Quizzes 
+ 
+ 
+ 
+Tentative Course Calendar:  
+Week 
+Date 
+Day 
+Class Activity 
+Assignment 
+ 
+January 
+Week 1 
+14 
+Tue 
+1 - Introduction 
+ 
+16 
+Thu 
+2 - Convex functions 
+Week 2 
+21 
+Tue 
+3 - Convex functions cont’d and convex sets 
+HW1 released 
+23 
+Thu 
+4 - Convex sets cont’d 
+
+ 
+4 
+ 
+Recitation: Linear 
+Algebra and 
+Calculus  
+Week 3 
+28 
+Tue 
+5 - Convex optimization  
+ 
+30 
+Thu 
+6 - Canonical forms of convex optimization 
+Week 4 
+February 
+ 
+4 
+Tue 
+7 - Example of optimization in engineering (Zoom 
+lecture) 
+HW1 due 
+6 
+Thu 
+8 - Example of optimization in engineering cont’d 
+(Zoom lecture) 
+Week 5 
+11 
+Tue 
+9 - Gradient descent 
+HW 2 released 
+Recitation: CVX  
+13 
+Thu 
+10 - Stochastic Gradient Descent 
+Week 6 
+18 
+Tue 
+11 - Subgradients 
+Recitation: Test 1 
+Review  
+20 
+Thu 
+12 - Proximal gradient descent 
+Week 7 
+25 
+Tue 
+13 - Acceleration 
+HW2 due 
+27 
+Thu 
+Test 1 
+ 
+March 
+N/A 
+4 
+Tue 
+Spring Break – No Classes 
+  
+6 
+Thu 
+Spring Break – No Classes 
+Week 8 
+11 
+Tue 
+14 - Newton’s method 
+HW3 released 
+13 
+Thu 
+15 - Duality 
+Week 9 
+18 
+Tue 
+16 - KKT Conditions 
+ 
+20 
+Thu 
+17 - KKT cont’ and dual gradient method 
+Week 10 
+25 
+Tue 
+18 - Dual gradient method  cont’ 
+HW3 due 
+27 
+Thu 
+19 - Barrier method   
+ 
+April 
+Week 11 
+1 
+Tue 
+20 - Primal-dual interior-point method   
+Recitation: Test 2 
+Review 
+3 
+Thu 
+Spring Carnival – No Classes  
+Week 12 
+8 
+Tue 
+Test 2  
+HW 4 released 
+10 
+Thu 
+21 - Special topics: TBD 
+Week 13 
+15 
+Tue 
+22 - Special topics: TBD 
+ 
+17 
+Thu 
+23 – Special topics: TBD 
+Week 14 
+22 
+Tue 
+Project Presentations, Part 1 
+ 
+24 
+Thu 
+Project Presentations, Part 2 
+ 
+ 
+ 
+ 
+HW 4 due, Project 
+report due 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: In particular, 
+students will learn to apply tools from optimization to formulate engineering 
+
+ 
+5 
+ 
+problems (e.g., max flow in networking, power flow in power systems, optimal 
+control in robotics), and learn how to use optimization algorithms to solve them. 
+2. an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, as 
+well as global, cultural, social, environmental, and economic factors: We will 
+study this in the context of constrained optimization, which allows us to specify 
+solutions to engineering problems that meet certain constraints imposed by the 
+environment or societal factors. 
+3. an ability to communicate effectively with a range of audiences: Students will 
+conduct a group project and present their results in written and oral form at the 
+end of the course. 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal 
+contexts: We will discuss how to interpret solutions of an optimization problem, 
+and how to use the solutions to make informed decisions in engineering 
+situations. We will emphasize that realistic considerations (economic, 
+environmental, etc) must be taken into account before applying the solutions to 
+the real-world.   
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, 
+plan tasks, and meet objectives: The group project will exercise these skills.  
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions: As part of 
+the project, students will need to formulate an optimization problem and solve it. 
+This will involve designing numerical experiments, analyze the results, and draw 
+conclusions. 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: The project will encourage students to acquire new 
+knowledge on their own and conduct independent research.  
+ 
+ECE

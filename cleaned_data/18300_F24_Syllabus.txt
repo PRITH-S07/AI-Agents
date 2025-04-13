@@ -1,0 +1,456 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18300: Fundamentals of Electromagnetics 
+Fall 2024
+Instructor: 
+ 
+Maysam Chamanzar 
+Office Location: 
+REH 331 
+Email Address: 
+mchamanz@andrew.cmu.edu 
+Office Hours:  
+Tuesday 11 am - 1 pm or by appointment at other times. 
+Teaching Assistant: Xiang Li 
+Email Address: 
+xli7@andrew.cmu.edu 
+Office Hours:  
+TBD based on poll
+Office Location: 
+HH-B121
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+Course Description:  
+This course introduces electromagnetic principles and describes ways in which those 
+principles are applied in engineering devices and systems. Topics include: vector calculus 
+as a mathematical foundation for field descriptions, Maxwell's equations in integral and 
+differential forms with associated boundary conditions as descriptions of all 
+electromagnetic principles, quasistatic electric fields in free space and in materials, 
+superposition for known charge sources, conduction and polarization, resistance and 
+capacitance, charge relaxation, analytic and numerical methods for electric field 
+boundary value problems, quasistatic magnetic fields in free space and in materials, 
+superposition for known current sources, magnetization, inductance, magnetic diffusion, 
+and analytic and numerical methods for magnetic field boundary value problems. The 
+course involves some discussions of contemporary applications in EM, including 
+communications, biomedical applications, and wireless energy transfer. 
+ 
+We will have some experimental demos during the lectures! 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+18-220 
+ 
+Undergraduate Course Designation: Breadth, Coverage 
+ 
+Undergraduate Course Area: Device Sciences and Nanofabrication  
+ 
+
+ 
+2 
+ 
+Class Lecture: 
+● 
+Lecture: 
+Tuesday and Thursday 
+9:30am – 10:50am 
+ 
+CIC 4105 
+  
+● 
+Recitation: 
+Wednesday 
+ 
+ 
+9:30am – 10:50am 
+ 
+CIC 4105 
+ 
+ 
+ 
+Textbook: Field and Wave Electromagnetics, 2nd edition, by David K. Cheng, Pearson 
+ ISBN 978-9332535022 
+ 
+Suggested Reading:  
+Classical Electrodynamics, 3rd Edition, John David Jackson  
+ 
+Brief List of Topics Covered: 
+1. Mathematical foundations: vector analysis.                     
+Cheng, Ch 2 
+2. Fundamental quantities in EM field descriptions.            
+Cheng, Ch 1 
+3. Electroquasistatic fields in free space and in materials.      Cheng, Ch 3 
+4. Conservation of charge and conduction.                             Cheng, Ch 5 
+5. Quasistatic magnetic fields in free space and in materials.    Cheng, Ch 6  
+6. Electromagnetic waves and Maxwell’s equations              
+Cheng, Ch 7 
+ 
+Course Canvas:  
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas 
+daily for announcements and handouts.  
+ 
+Course Wiki: 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Exams: 
+Two midterm exams will be given during the class periods on the following dates:   
+ 
+● 
+Exam I: October 10 
+● 
+Exam II: November 14 
+ 
+The registrar will schedule a 3-hour final examination, to be given during final exam 
+week. The final exam is an essential part of assigning you a grade for the course. 
+ 
+If, for any reason (good or bad), you do not take any of the tests, you will be assigned a 
+score of zero for that test, and that score will then be dropped in the grading algorithm 
+(described below). There will be no makeup tests.  
+ 
+Assignments: 
+Homework problem sets will need to be turned in on or before the due dates. Homeworks 
+will be graded by the teaching staff and some of the problems will be discussed in class.  
+
+ 
+3 
+ 
+ 
+Term Project:  
+Small projects will be assigned to groups of students (~3 students each group). The goal 
+of these projects is to help students become familiar with the contemporary applications 
+in electromagnetics. 
+ 
+Grading Algorithm:  
+Two methods will be used to compute a score for each student in the course. Each 
+method has a maximum possible score of 105:   
+ 
+Method A 
+ 
+ 
+ 
+ 
+Method B   
+10 % Assignments 
+ 
+ 
+ 
+10 % Assignments 
+40 % Midterm (average of the two)              25 % Midterm (lowest score dropped) 
+30 % Final exam  
+ 
+ 
+ 
+40 % Final exam  
+10 % Participation credit 
+ 
+ 
+10 % Participation credit 
+15 % Project  
+ 
+ 
+ 
+20 % Project 
+ 
+Whichever method yields the highest score will be used for your final score. You will 
+have 5% extra to gain! While lower cutoffs may be used, the following maximum grade 
+cutoffs are guaranteed:   
+ 
+Final Score Grade   
+> 90 A   
+> 80 B   
+> 70 C   
+> 60 D  
+ 
+ 
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Assignment 
+Note 
+August 
+26 
+Mon. 
+Classes begin 
+ 
+ 
+27 
+Tues. 
+Intro, Why E&M?, Coordinate Systems  
+ 
+ 
+29 
+Thurs. 
+Cont. coordinate systems examples 
+ 
+ 
+September 
+2 
+Mon. 
+Labor Day – No Class 
+ 
+ 
+3 
+Tues. 
+Vector Calculus 
+ 
+ 
+4 
+Wed. 
+Discussion of problems in Vector Calculus 
+ 
+ 
+5 
+Thurs. 
+Fundamental laws of EM  
+ 
+ 
+10 
+Tues. 
+Electrostatics 
+ 
+ 
+11 
+Wed. 
+Poisson and Laplace equations 
+ 
+ 
+12 
+Thurs. 
+Electrostatic problems 
+HW1 
+ 
+17 
+Tues. 
+Electrostatic examples 
+ 
+ 
+19 
+Thurs. 
+Point charge, dipole, capacitance 
+ 
+ 
+24 
+Tues. 
+Magnetostatics 
+HW2 
+ 
+25 
+Wed. 
+Recitation: selected problems in Electrostatics  
+ 
+Xiang 
+26 
+Thurs. 
+1D Laplace Equation problems 
+ 
+ 
+
+ 
+4 
+ 
+October 
+1 
+Tues. 
+Biot Savart law 
+ 
+ 
+2 
+Wed. 
+Magnetic Materials and Applications 
+  
+  
+3 
+Thurs. 
+Magnetic force and Torque 
+HW3 
+Xiang 
+8 
+Tues. 
+Faraday’s Experiments 
+ 
+ 
+9 
+Wed. 
+Help session for Exam I 
+ 
+Xiang 
+10 
+Thurs. 
+Exam I 
+ 
+Xiang 
+14-18 
+Mon-
+Fri 
+Fall Break – No Classes 
+ 
+ 
+22 
+Tues. 
+Magnetostatics Problems 
+HW4 
+ 
+24 
+Thurs. 
+Faraday’s law and EM boundary conditions 
+ 
+ 
+29 
+Tues. 
+Maxwell’s equations  
+ 
+ 
+30 
+Wed 
+Electromagnetics problems 
+ 
+ 
+31 
+Thurs. 
+Reflection and transmission 
+HW5 
+ 
+November 
+5 
+Tues. 
+Democracy Day – No Classes 
+ 
+ 
+6 
+Wed. 
+Wave equation 
+ 
+ 
+7 
+Thurs. 
+Fun Topics in EM II: Brewster angle 
+ 
+ 
+12 
+Tues. 
+Plane Waves; Reflection and Transmission at a 
+dielectric interface 
+HW6 
+ 
+13 
+Wed 
+Exam II help session 
+ 
+Xiang 
+14 
+Thurs. 
+EXAM II 
+ 
+Xiang 
+19 
+Tues. 
+Poynting vector 
+HW7 
+ 
+20 
+Wed. 
+Problems in Reflection and Transmission 
+ 
+ 
+21 
+Thurs. 
+Power and Energy 
+ 
+ 
+26 
+Tues. 
+Power and Energy, Cont. 
+ 
+ 
+27-29 
+Wed-Fri 
+Thanksgiving – No Classes 
+ 
+ 
+December 
+3 
+Tues.  
+Project presentations 
+HW8 
+ 
+5 
+Thurs. 
+Project presentations 
+ 
+ 
+6 
+Fri 
+Last Day of Classes 
+ 
+ 
+9-13 
+Mon-Fri 
+Final Exams Week 
+ 
+ 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics: The course 
+introduces many problems and questions to students, as pop-up questions during 
+the lectures, problems on homeworks and exams, and for in-class exercises. The 
+students will use mathematical and engineering concepts to solve simple and 
+complex electromagnetic problems, both using engineering estimations and 
+rigorous mathematical analysis. This includes using methods from vector algebra, 
+vector calculus and complex analyses. 
+
+ 
+5 
+ 
+ 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors: The students will learn the 
+principles of electromagnetics to learn how wireless communication systems 
+work; how magnetic hard drives operate; and how maglev trains are designed. In 
+parallel, we discuss the potential harmful effects of electromagnetic waves on 
+human health. Through these discussions, students learn how responsible 
+engineering design can be applied to contemporary applications of 
+electromagnetics. 
+3. an ability to communicate effectively with a range of audiences: The course 
+involves term projects, in which the students work as teams to work on a topic 
+related to the course topics. The team will deliver a presentation at the end of the 
+semester. These timed presentations will help students improve their 
+communication skills. 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+Through the course projects, some students study the harmful effects of 
+engineered systems that operate based on principles of electromagnetics on 
+human health. They share their findings with the rest of the class. 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives: Course projects are defined as team projects. Groups 
+of two or three students work together on a research topic. They will coordinate 
+literature survey, information analysis and preparing presentations.  
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions: The instructor 
+performs demo experiments in class. The students observe these experiments and 
+will have the opportunity to run the experiments themselves and use engineering 
+concepts they have learned in this class to make sense of these experiments.  
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies: This course offers a broad range of concepts from physics 
+concepts to engineering concepts. The students develop the ability to learn new 
+knowledge by connecting fundamental concepts to engineering applications.  
+ 
+ECE

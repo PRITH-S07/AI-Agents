@@ -1,0 +1,256 @@
+Ethics and Policy Issues in Computing (Fall 2024)
+17-200/18-384
+Lecture Time: Tuesdays and Thursdays 2:00-3:20 PM ET
+Recitation Time: Fridays 2:00-3:20 PM ET
+Location:
+In-person: Scaife Hall Room 236
+➢We do not record class to respect student privacy due to the sensitive nature of
+discussions involving ethics and personal values.
+Professor:
+Michael Skirpan
+●
+Email: mskirpan@cmu.edu
+●
+Web: https://mwskirpan.com
+●
+Office hours
+○
+By appointment
+○
+Mike tends to work in his office (TCS Hall Rm. 314) Tues/Thurs 9A-1P for
+drop-ins or as a good time to schedule with him.
+Teaching Assistants:
+Aditi Narasimhan (aditin@andrew.cmu.edu)
+Debeshi Ghosh (debeshig@andrew.cmu.edu)
+Kennedy Botts (kbotts@andrew.cmu.edu)
+Khinezin Win (kwin@andrew.cmu.edu)
+Rachel Wilson (rbwilson@andrew.cmu.edu)
+1
+
+Sameeksha Garg (sameeksg@andrew.cmu.edu)
+Sophia Holland (sophiaho@andrew.cmu.edu)
+Tatym Rasmussen (tatymr@andrew.cmu.edu)
+Grading:
+●
+Major Assignments (50%)
+○
+10% each across 5 assignments
+●
+Written Exam (20%)
+●
+Class Engagement (20%)
+●
+Final Group Presentations (10%)
+Course Structure
+Please be aware that this course uses Canvas and you should be regularly checking Canvas for
+the most up to date information on the class.
+Lecture Time
+Class is held in person, attendance is taken each day, and our lecture time does involve critical
+points of student engagement. This is a discussion heavy class so expect to be called on and
+prepared to talk during class.
+Each lecture will involve moderated discussion with the support of our TAs and occasionally
+course guests. Every single lecture will have many points of open dialogue, analysis, and Q&A
+with students. We will be tracking student participation in the class dialogue which will contribute
+to your grade (see below).
+There will be lecture slides that distill core content, definitions, references, and examples.
+However, most classes will open with questions and/or cases that motivate this content. We will
+use slides and content to illuminate and deepen discussion, and in most cases we will return to
+dialogue or other forms of active learning to further digest content.
+The use of laptops is strongly discouraged as there is ample evidence this harms learning [1, 2].
+However, we will have a debate on the first day of class to determine the final policy.
+Regardless, lecture slides will be made available on Canvas although hand-written notes are
+encouraged to help with retention.
+2
+
+Recitation Session
+Weekly recitations will be places for key dialogue across peers, discussing arguments and
+positions on key issues, and working through class concepts. These sessions will be led by our
+TAs with an occasional guest moderator. Most of the session will take place in breakout groups
+that are having conversation in smaller units.
+Recitations are counted for attendance and your weekly homework assignment will include a
+reflection section that will build off the discussion prompts from recitation.
+Course Requirements
+Class Engagement (20% of grade): Class engagement points are broken up into 3
+components outlined below:
+1.
+Attendance (10%) - Class attendance will be taken at each lecture and at each
+recitation. Each lecture and recitation is worth a point. Students can miss up to 4 days
+with no penalty (ie., we drop 4 points of the total before calculating your grade at the end
+of semester). We do have a grace window for late arrivals without prior approval: for
+class, being more than 30 mins late, counts as an absence, and for recitation
+being more than 15 minutes late counts as an absence
+2.
+Discussion participation (5%) – throughout class time, there will be prompted discussion
+and chances for Q&A. The entire class will also be asked to participate in small group
+discussions or solo exercises, and to share perspectives from their small groups or
+private work with the rest of the class. TAs will be tracking who has engaged in
+discussion by contributing arguments, engaging with prompts, asking content relevant
+questions (ie., “when is the assignment due?” does not count), and sharing insights. If
+you are looking for a targeted metric, you should be shooting to have contributed to
+class discussion at minimum, once per month.
+a.
+While we will quantitatively track in-class participation, this is a qualitative grade
+meaning that to get the full points for this 10%, it will be based on the professor
+and TAs seeing a real effort to attend class and engage in the course discussions
+and activities.
+3.
+Weekly Reflections (5%)
+a.
+Each week we will give a short reflection assignment for homework. This will
+involve a few questions related to readings and core concepts from the week as
+well as a short reflection that can be submitted either as a write-up (max 2 pages)
+or as a short video or audio recording (max 5 mins).
+Major Assignments (50% of grade): Throughout the course, there will be five major
+assignments that are each worth 10% of your final grade. The assignments directly relate to the
+key skills and content the course seeks to cover, please see each assignment write-up on
+Canvas.
+3
+
+As the largest part of your grade, the major assignment will carry a soft deadline and a hard
+deadline. The soft deadline is a chance to submit your work either in part or in whole for grade
+and feedback, yet you’ll have a chance to (re)submit at the hard deadline to improve your grade
+or make up the work if you didn’t get it done earlier.
+It is encouraged that you use the soft deadline as your target since that both allows you to pace
+the course better and to get feedback. If you are happy with your grade, you can be done with
+the assignment and have nothing to submit at the hard deadline! The hard deadlines are there
+to recognize that students may have busy periods and need to balance workloads at different
+times in the semester.
+The soft deadlines are listed below alongside each assignment description. The hard deadline
+for all major assignments is Sunday December 8, 2024 at 11:59PM. This deadline is inflexible
+with no extensions due to the fact you have the soft deadline (and all the time in between) to
+plan your work.
+The 5 major assignments are as follows:
+1.
+Perspectives on Personal Values (due 9/15)
+a.
+This assignment asks you to reflect on your personal values and how they relate
+to your behaviors and to technology. We will also ask that you interview someone
+outside your major to discuss your values and compare perspectives on what the
+value terminology means to different people.
+2.
+Position Paper (due 10/6)
+a.
+This assignment asks you to take a position on an ethical question related to
+technology and engineering. You should give an overview of the ethical problem
+you are focusing on, including definition of key terminology, you will then have to
+make clear what side you take on the issue, and give an exposition of your
+perspective using real examples, speculations, and counter-arguments to
+potential critiques.
+3.
+Technical Analysis (due 10/27)
+a.
+This assignment will ask you to dive into the technical implementation of a piece
+of hardware, software, app, or system to assess what technical choices were
+made to create the technology, what the implications of those technical choices
+are, and how they could be reconsidered to better align with social benefits
+and/or ethical outcomes. Though you will not write code, you will be required to
+think through specific technical practices and observable system behaviors
+related to your analysis.
+4.
+Ethics Scenario/Story (due 11/10)
+a.
+This assignment asks you to write either a fictional short story or do a
+presentation of a scenario that represents a real ethical dilemma faced by
+practitioners in industry. The goal is to ensure you can develop and discuss how
+specific scenarios of risks and harms that happen when people use technology
+4
+
+are structured by ethical dilemmas the technologists face when making design /
+implementation decisions.
+5.
+Transforming Tech (due 11/24)
+a.
+This assignment has you thinking about the future and what it will take to change
+the social impacts of technology for the better. You will have the opportunity to
+look at this assignment through the lens of an innovator, policy-maker, or
+advocate to consider goals, approaches to change, and road map how we may
+achieve these outcomes.
+Written Exam (20% of grade): The Midterm will be held in person on the Thursday after Fall
+break (October 24). You will have the full class time (1 hour and 20 mins) to answer a few short
+answer questions about core concepts covered in class and to do a long-form analysis of a
+case, identifying questions, dilemmas, differing perspectives, and potential solutions.
+Final Presentation (10% of final grade): The final presentation will involve you working with a
+group (2-4 people) to develop a short presentation and corresponding visual aid. We will have a
+class showcase time where students will have an opportunity to set up their visuals and present
+to our TAs and members of the public who Prof. Skirpan will invite. During the presentation time,
+“graders” will go around and stop at each team’s station to get a short presentation and
+overview and ask questions. Groups will be graded based on clarity of presentation,
+accessibility to the general public, and team communication dynamics.
+●
+We are waiting to coordinate when the poster session will be and will announce it to the
+class (and put on Canvas) soon as we have it confirmed.
+Course Objectives
+This course is expected to introduce students to ethical thinking and writing as it relates to
+technology and engineering. We will take a very applied approach to teaching ethics where our
+goals will be more about supporting each student in adopting practical and reproducible mental
+habits that allow you to go about your specialized work with an ethical lens or mindset. We will
+also reinforce writing and communication skills such that each student is better prepared to both
+speak and write about ethical concepts and frameworks in their discussion of technology and
+engineering. The learning outcomes you can expect are:
+1.
+Increased communication skills in writing and speaking about ethics in the technology
+and engineering context
+2.
+An improved awareness of current events related to technology ethics issues and
+science and technology policy
+3.
+An improved awareness of differing perspectives around different ethical dilemmas and
+issues
+4.
+Translational skills for converting ethical concepts into engineering examples, choices,
+and practices, and vice versa.
+5
+
+5.
+Ability to reason through and creatively interpret engineering problems and scenarios
+using ethical frameworks and concepts
+6.
+Develop your own personal ethical standards around how you approach computing
+issues within your future career.
+On Tolerance and Respect
+In this course students will be expected to engage in discussion about ethics, which is a
+notoriously thorny and personal matter. Taking this course implies you are interested in
+improving your comprehension and awareness of ethical issues in computing. Part of
+developing a viewpoint and set of ethics is understanding the landscape of thought. In order to
+tread this together and learn from one another, we must listen to each other and fundamentally
+give one another respect and the benefit of the doubt.
+It is anticipated that cultural viewpoints are going to be bound into how we each interpret this
+material and so we expect that people will practice the art of careful listening. Students who feel
+certain discussions may be challenging for them to hold in a group setting are welcome to join
+the TAs in office hours as a replacement to group discussion. For particularly personal topics,
+we are also open to scheduling separate small-group or individual discussions to offer a safe
+space to work out your ideas.
+Class Schedule
+Please use the course Canvas for the most up to date information. A live course schedule,
+based on what is currently planned, is available publicly here.
+We may occasionally modify this schedule based on potential speaker availability. Updates to
+the class plan, readings, or recitations will be posted to the linked schedule and Canvas.
+DEI Statement
+We must treat every individual with respect. We are diverse in many ways, and this diversity
+is fundamental to building and maintaining an equitable and inclusive campus community.
+Diversity can refer to multiple ways that we identify ourselves, including but not limited to race,
+color, national origin, language, sex, disability, age, sexual orientation, gender identity, religion,
+creed, ancestry, belief, veteran status, or genetic information. Each of these diverse identities,
+along with many others not mentioned here, shape the perspectives our students, faculty, and
+staff bring to our campus. We, at CMU, will work to promote diversity, equity and inclusion not
+only because diversity fuels excellence and innovation, but because we want to pursue justice.
+We acknowledge our imperfections while we also fully commit to the work, inside and outside of
+our classrooms, of building and sustaining a campus community that increasingly embraces
+these core values.
+Each of us is responsible for creating a safer, more inclusive environment.
+6
+
+Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional.
+They contribute to creating an unwelcoming environment for individuals and groups at the
+university. Therefore, the university encourages anyone who experiences or observes unfair or
+hostile treatment on the basis of identity to speak out for justice and support, within the moment
+of the incident or after the incident has passed. Anyone can share these experiences using the
+following resources:
+●
+Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150
+●
+Report-It (Links to an external site.) online anonymous reporting platform:
+reportit.net (Links to an external site.) username: tartans password: plaid
+All reports will be documented and deliberated to determine if there should be any following
+actions. Regardless of incident type, the university will use all shared experiences to transform
+our campus climate to be more equitable and just.

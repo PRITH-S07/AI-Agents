@@ -1,0 +1,344 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-744: Autonomous Driving 
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Prof. Raj Rajkumar 
+Office Location: 
+CIC 2309 
+Email Address: 
+rajkumar@cmu.edu  
+Office Hours:  
+6:30 pm – 7:30 pm Mondays, CIC 2309 
+ 
+Teaching Assistant: Shruti Bansal 
+Email Address: 
+shrutib@andrew.cmu.edu  
+Office Hours:  
+TBA
+ 
+ 
+Course Description 
+Autonomous vehicles (AVs) promise to (a) significantly reduce or even eliminate 
+fatalities, injuries and damage from automotive crashes; (b) replace driving times with 
+other productive work; and (c) provide independence, flexibility and a better quality of 
+life to legally-blind and differently-abled individuals by giving them transportation 
+options.   At the same time, driving is one of the most complex tasks performed by 
+humans on a regular basis.  Put together, autonomous driving has become a deep 
+engineering and technological challenge of our times.  This course will expose students to 
+the software architecture used in autonomous vehicles (AVs) and discuss in-depth each of 
+the many layers underlying AVs. These layers include sensing, perception, localization, 
+driving behaviors, route planning, path planning, vehicular communications, control, 
+fault management and user interfaces. Lectures will be partly discussion-oriented and 
+may require the reading of book chapters or papers. Project groups of no more than 3 
+students each will design, implement and test a unique project that adds a notable 
+function to an AV’s software stack. Intermediate and final project demonstrations outside 
+lecture hours will be supplemented by in-class project presentations and a final written 
+report. Grading criteria will include classroom participation, course project content and 
+report, in-class quizzes and a final exam. The class size will be limited to 30 students. 
+Prior hands-on knowledge of and experience with machine learning/computer vision, 
+linear algebra, calculus, physics and statistics are essential. Exposure to mobile robotics 
+will be advantageous. Exceptions can be made only with the explicit permission of the 
+instructor. 
+ 
+Number of Units:  
+12 
+ 
+
+ 
+2 
+ 
+ECE Graduate Course Area: AI/ML Systems 
+ 
+Class Schedule 
+• Lectures: 
+Mondays and Wednesdays 
+4:00pm-5:50pm Baker Hall 237B 
+ 
+ 
+Required Textbook: None 
+ 
+References 
+1. S. Thrun, W. Burgard, D. Fox, “Probabilistic Robotics”, Intelligent Robotics and 
+Autonomous Agents series, 672 pages, ISBN-10 0262201623, ISBN-13 978-
+0262201629, MIT Press, Aug 2005. 
+2. S. Liu, L. Li, J. Tang, S. Wu, J-L Gaudiot, “Creating Autonomous Vehicle Systems”, 
+216 pages, ISBN-10 1681739356, ISBN-13 978-1681739359, Morgan & Claypool, 
+2nd edition, Sept 2020. 
+3. J. Torchinsky, “Robot, Take the Wheel: The Road to Autonomous Cars and the Lost 
+Art of Driving”, 244 pages, ISBN-10 1948062267, ISBN-13 978-1948062268, 
+Apollo Publishers, May 2019. 
+4. L. Venturi and K. Korda, “Hands-On Vision and Behavior for Self-Driving Cars: 
+Explore visual perception, lane detection, and object classification with Python 3 and 
+OpenCV 4”, 374 pages, ISBN-10 1800203586, ISBN-13 978-1800203587, Packt 
+Publishing, Oct 2020. 
+5. H. Sjafrie, “Introduction to Self-Driving Vehicle Technology”, Chapman & 
+Hall/CRC Artificial Intelligence and Robotics Series, ISBN-10 0367321254, ISBN-13 
+978-0367321253, Dec 2019. 
+6. M. E. McGrath, “Autonomous Vehicles: Opportunities, Strategies and Disruptions”, 
+333 pages, ISBN-10 1706683596, ISBN 
+ 
+599
+1706683
+-
+978
+, Dec 2019. 
+7. S. Ranjan and S. Senthamilarasu, “Applied Deep Learning and Computer Vision for 
+Self-Driving Cars: Build autonomous vehicles using deep neural networks and 
+behavior-cloning techniques”,  332 pages, ISBN-10  :  1838646302, ISBN-13  :  978-
+1838646301, Packt Publishing, 2020. 
+ 
+Course Canvas 
+To access the course canvas from an Andrew Machine, go to the login page at: 
+https://cmu.infrastructure.com/. You should check the course canvas daily for 
+announcements and handouts.  
+ 
+Course Wiki 
+Students are encouraged to use the ECE wiki to provide feedback about the course at: 
+http://wiki.ece.cmu.edu/index.php. 
+ 
+Grading Criteria 
+Your final grade for this course will be based on your performance in the course project, 
+class participation, quizzes, assignments and the final exam. The breakup will be as listed 
+in the following table: 
+ 
+ 
+ 
+
+ 
+3 
+ 
+50% 
+Project 
+20% 
+Quizzes (4) 
+20% 
+Final Exam 
+10% 
+Class Participation 
+ 
+Final grades will be assigned based on the following rules:  
+• 
+If you score more than 90%, you get an 'A' grade guaranteed.  
+• 
+If you score more than 80%, you are guaranteed to get a 'B' grade.  
+• 
+If you score more than 70%, you are guaranteed to get a 'C' grade.  
+• 
+If you score less than 70%, you are guaranteed to get a ‘D’ grade. 
+A curve will be fit by instructor discretion if a sufficient number of students do not meet 
+the above criteria. 
+ 
+Tentative Course Calendar  
+Date 
+Day 
+# 
+Class Activity 
+ 
+January 
+13 
+Wed 
+1 
+Course Overview 
+ 
+15 
+Mon 
+2 
+Requirements for Autonomy 
+ 
+20 
+Mon 
+ 
+** MLK Day ** 
+No Classes 
+22 
+Wed 
+3 
+AV Hardware and Software Architectures 
+ 
+27 
+Mon 
+4 
+Project List and Descriptions 
+ 
+29 
+Wed 
+5 
+Computer Vision 
+ 
+February 
+3 
+Mon 
+6 
+Neural Networks 
+ 
+5 
+Wed 
+7 
+2D Object Detection 
+Quiz #1 
+10 
+Mon 
+8 
+Initial Project Presentations – 1 
+ 
+12 
+Wed 
+9 
+Initial Project Presentations – 2 
+ 
+17 
+Mon 
+10 
+Semantic Segmentation 
+ 
+19 
+Wed 
+11 
+Motion Planning 
+ 
+24 
+Mon 
+12 
+Mapping for Planning 
+ 
+26 
+Wed 
+13 
+Reactive Planning 
+Quiz #2 
+March 
+3 
+Mon 
+ 
+** Spring Break ** 
+No Classes 
+5 
+Wed 
+ 
+** Spring Break ** 
+No Classes 
+10 
+Mon 
+14 
+Smooth Local Planning 
+ 
+12 
+Wed 
+15 
+Least Square Methods 
+Intermediate project demos this week 
+outside class hours 
+17 
+Mon 
+16 
+State Estimation and Kalman Filters 
+ 
+19 
+Wed 
+17 
+GNSS/INS for Pose Estimation 
+Quiz #3 
+24 
+Mon 
+18 
+Lidar Sensing and State Estimation 
+ 
+26 
+Wed 
+19 
+A State Estimator for AVs 
+ 
+31 
+Mon 
+20 
+Modeling of Vehicle Dynamics 
+ 
+April 
+2 
+Wed 
+21 
+Longitudinal and Lateral Control 
+Quiz #4 
+7 
+Mon 
+22 
+Connected and Automated Vehicles 
+ 
+9 
+Wed 
+23 
+Safety Assurance 
+ 
+14 
+Mon  
+24 
+Ethical & Regulatory Considerations 
+ 
+16 
+Wed 
+25 
+Future Directions and Course Summary 
+ 
+21 
+Mon 
+26 
+Final Project Presentations – 1  
+Final project demos this week outside 
+class hours 
+23 
+Wed 
+27 
+Final Project Presentations – 2  
+ 
+ 
+ 
+Final Exam on date picked by the registrar 
+
+ 
+4 
+ 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+(a) an ability to apply knowledge of mathematics, science, and engineering: how to 
+apply principles of WSN science and engineering to get a system to function correctly as 
+specified 
+ 
+(b) an ability to design and conduct experiments, as well as to analyze and interpret 
+data: how to test and evaluate the performance of a custom-defined wireless sensor 
+network system 
+ 
+(c) an ability to design a system, component, or process to meet desired needs within 
+realistic constraints such as economic, environmental, social, political, ethical, health 
+and safety, manufacturability, and sustainability: how to consider energy constraints, 
+computational limitations and dynamic configurations 
+ 
+(d) an ability to function on multi-disciplinary teams: how to work together within a 
+3-person team comprising students with varied backgrounds. 
+ 
+(e) an ability to identify, formulate, and solve engineering problems: how to pick a 
+WSN application, define requirements and design a practical system to meet the 
+requirements. 
+ 
+(f) an understanding of professional and ethical responsibility: how to utilize 
+creativity and originality to implement functionality, and work in multiperson teams with 
+professional courtesy 
+ 
+(g) an ability to communicate effectively: orally present project requirements, design 
+and final status, complete a written report and present a demo in an audience-friendly 
+manner, 
+ 
+(i) a recognition of the need for, and an ability to engage in life-long learning: how to 
+read the most recent research papers and apply them to ongoing projects, 
+ 
+(k) an ability to use the techniques, skills, and modern engineering tools necessary 
+for engineering practice: integrate a set of complementary techniques to get a fully 
+functioning system. 
+ 
+ECE

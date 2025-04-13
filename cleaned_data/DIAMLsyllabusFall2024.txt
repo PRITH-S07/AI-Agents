@@ -1,0 +1,256 @@
+Course Syllabus
+18-785: Data, Interference, and Applied Machine Learning
+Fall 2024
+Instructor: Prof. Patrick McSharry
+Email Address: mcsharry@cmu.edu
+Course Management Assistant: Cassie Pfannenstiel
+Email Address: cpfannen@andrew.cmu.edu
+Office Location: HH 1113
+Waitlist Manager: Megan Oliver
+Email Address: mvoliver@andrew.cmu.edu
+Office Location: HH 1113B
+Course Website: https://www.andrew.cmu.edu/course/18-785
+Teaching Assistants:
+Name:
+Email:
+Zoom Meeting Id:
+Innocent Mukoki
+imukoki@andrew.cmu.edu
+https://cmu.zoom.us/my/imukoki
+Gabriel Ntwari
+ntwarig@andrew.cmu.edu
+https://cmu.zoom.us/j/Gabriel
+Sally Musanga
+smusanga@andrew.cmu.edu
+https://cmu.zoom.us/my/smusanga
+Tomisin Alex-Aina
+talexain@andrew.cmu.edu
+https://cmu.zoom.us/my/talexaina
+Stephen Tipa
+stipa@andrew.cmu.edu
+https://cmu.zoom.us/my/stipa
+Maurine Gatimu
+mgatimu@andrew.cmu.edu
+https://zoomto.me/SWUTN
+Simon Pierre Ndizihiwe
+sndizihi@andrew.cmu.edu
+https://cmu.zoom.us/my/sndizihi
+Issah Ahmed
+aissah@andrew.cmu.edu
+https://cmu.zoom.us/my/ahmedissah
+Jeannine Mukashema
+mjeannin@andrew.cmu.edu
+https://cmu.zoom.us/my/mjeannin
+Clarisse Isingizwe
+cisingiz@andrew.cmu.edu
+https://cmu.zoom.us/j/Clarisse
+Ngoh Rodney
+namah@andrew.cmu.edu
+https://cmu.zoom.us/my/ngohrodneyamah
+Course Discipline: Electrical and Computer Engineering
+Course Level: Graduate
+Type of Course: Onsite - Remote
+Course Streamed to Pittsburgh: Yes
+Course Concentration: Applied Machine Learning
+Core/Elective: Core
+Units: 12
+Lecture/Lab/Rep Hours/Week: 3 Lecture Hours Per Week; 1 Lab/Rep Hours Per Week
+Semester/Year Offered: Fall, All Years
+Pre-Requisites: None
+Recitation zoom link: https://cmu.zoom.us/j/93116855362?pwd=jwtU5zfFfiUKQrbz2heEIGkXUPV1uD.1
+Pittsburgh: BH A53
+Kigali: F205 / Remote
+1
+
+Lectures: 1 hour and 20 minutes
+Week
+A
+Pittsburgh
+Kigali
+B
+Pittsburgh
+Kigali
+1
+Tues, Aug 27
+08:00 ET
+14:00 CAT
+Thurs, Aug 29
+08:00 ET
+14:00 CAT
+2
+Tues, Sep 03
+08:00 ET
+14:00 CAT
+Thurs, Sep 05
+08:00 ET
+14:00 CAT
+3
+Tues, Sep 10
+08:00 ET
+14:00 CAT
+Thurs, Sep 12
+08:00 ET
+14:00 CAT
+4
+Tues, Sep 17
+08:00 ET
+14:00 CAT
+Thurs, Sep 19
+08:00 ET
+14:00 CAT
+5
+Tues, Sep 24
+08:00 ET
+14:00 CAT
+Thurs, Sep 26
+08:00 ET
+14:00 CAT
+6
+Tues, Oct 01
+08:00 ET
+14:00 CAT
+Thurs, Oct 03
+08:00 ET
+14:00 CAT
+7
+Tues, Oct 22
+08:00 ET
+14:00 CAT
+Thurs, Oct 24
+08:00 ET
+14:00 CAT
+8
+Tues, Oct 29
+08:00 ET
+14:00 CAT
+Thurs, Oct 31
+08:00 ET
+14:00 CAT
+9
+Tues, Nov 05
+08:00 ET
+15:00 CAT
+Thurs, Nov 07
+08:00 ET
+15:00 CAT
+10
+Tues, Nov 12
+08:00 ET
+15:00 CAT
+Thurs, Nov 14
+08:00 ET
+15:00 CAT
+11
+Tues, Nov 19
+08:00 ET
+15:00 CAT
+Thurs, Nov 21
+08:00 ET
+15:00 CAT
+12
+Tues, Nov 26
+08:00 ET
+15:00 CAT
+Tues, Dec 3
+08:00 ET
+15:00 CAT
+Note the move one hour later after Nov, 5 due to the end of US daylight saving
+Course Description:
+This course will provide the methods and skills required for utilizing data and
+quantitative models to automate predictive analytics and make improved decisions. From
+descriptive statistics to data analysis to machine learning the course will demonstrate the
+process of collecting, cleaning, interpreting, transforming, exploring, analyzing and
+modeling data with the goal of extracting information, communicating insights and
+supporting decision-making. The advantages and disadvantages of linear, nonlinear,
+parametric, nonparametric and ensemble methods will be discussed while exploring the
+challenges of both supervised and unsupervised learning. The importance of quantifying
+uncertainty, statistical hypothesis testing and communicating confidence in model results
+will be emphasized. The advantages of using visualization techniques to explore the data
+and communicate the outcomes will be highlighted throughout. Applications will include
+visualization, clustering, ranking, pattern recognition, anomaly detection, data mining,
+classification, regression, forecasting and risk analysis. Participants will obtain hands-on
+experience during project assignments that utilize publicly available datasets and address
+practical challenges.
+Learning Objectives:
+The objective of this course is to provide students with an overview of the use and
+potential of data analysis and machine learning in research, business and government. For
+example, the task could be to seek an answer to a practical challenge, segment customers,
+understand client behavior or formulate a new strategy for optimizing key performance
+indicators (KPIs), by applying data analysis techniques to real-world datasets.
+Participants will learn how to plan, design and implement an empirical research project
+using statistical, computational and quantitative techniques. They will learn how to test
+for statistically significant relationships, construct a variety of models, communicate the
+outcomes from complicated analyses and build decision support tools. Practical skills will
+be strengthened by discussing project design, data collection, data quality and techniques
+to account for uncertainty and cope with measurement errors, missing values and outliers.
+The course will combine theoretical aspects of data analysis with visual examples and
+demonstrations of how to construct and utilize statistical models obtained from machine
+learning approaches in practice. There will be a strong emphasis on highlighting the
+challenges of working with real-world data, avoiding over-fitting and the risks of relying
+on traditional assumptions.
+2
+
+Outcomes
+After completing this course, students should be able to:
+•
+Design an empirical project in response to a specific objective
+•
+Identify and collect relevant data for undertaking the project
+•
+Acquire data and organize it into a structured format
+•
+Visualize data, identify key characteristics and present a summary
+•
+Describe the advantages and disadvantages of different models
+•
+Decide which models are likely to work best for a given application
+•
+Undertake feature construction and feature selection
+•
+Apply machine learning techniques for estimation and evaluation
+•
+Select an optimal model using statistical approaches
+•
+Produce diagnostic information for investigating model properties
+•
+Understand model weaknesses and where assumptions could fail
+•
+Communicate model output and conclusions to end-users
+Grading
+The grades for this course will be based on students’ performance on seven homework
+assignments, a final exam and class participation. Homework assignments will be done
+individually and turned in via Canvas by the deadline. Late work will be acceptable until
+24 hours past the deadline, but it will lose 10%. The assignments will be graded based on
+both a writing report and code used to achieve the results presented in the report. Class
+participation will be evaluated based on the student's contribution to discussions both in
+class and on the Piazza Discussion Board. When posting or reacting to online discussion
+threads, students are expected to use their own words and the post should be relevant to
+the topic under discussion. Make sure to introduce, summarize and explain the article in
+your own words to enlighten the audience on the point the article is making.
+The following is the weight distribution of the grades:
+Class participation
+5%
+Canvas Quiz
+2.5%
+Piazza Participation
+2.5%
+Homework Assignment 1
+5%
+Homework Assignment 2
+10%
+Homework Assignment 3
+10%
+Homework Assignment 4
+10%
+Mid-Semester Exam (Multiple Choice) 10%
+Homework Assignment 5
+10%
+Homework Assignment 6
+12.5%
+Homework Assignment 7
+12.5%
+Kaggle Project
+Bonus 2.5%
+Final Exam (Multiple Choice)
+10%
+Course

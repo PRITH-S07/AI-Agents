@@ -1,0 +1,227 @@
+Course Syllabus 
+18-709/15-719: Advanced Cloud Computing  
+Spring 2025 
+ 
+Course Instructors: ​
+ 
+Instructor:​
+​
+Greg Ganger 
+Office Location:​
+CIC 2208 
+Email Address:​
+ganger@ece.cmu.edu  
+ 
+Instructor:​
+​
+Majd Sakr 
+Office Location:​
+GHC 7006 
+Email Address:​
+msakr@cs.cmu.edu 
+ 
+ 
+Course Description:​
+Computing in the cloud has emerged as a leading paradigm for cost-effective, scalable, 
+well-managed computing. Users pay for services provided in a broadly shared, 
+power-efficient datacenter, enabling dynamic computing needs to be met without paying 
+for more than is needed. Actual machines may be virtualized into machine-like services, 
+or more abstract programming platforms, or application-specific services, with the cloud 
+computing infrastructure managing sharing, scheduling, reliability, availability, elasticity, 
+privacy, provisioning, and geographic replication. 
+This course will survey the aspects of cloud computing by reading about 30 papers and 
+articles, executing cloud computing tasks on a state-of-the-art cloud computing service, 
+and implementing a change or feature in a state-of-the-art cloud computing framework. 
+Number of Units: 12 
+Pre-requisites: This course will require a solid understanding of computer organization, 
+basic operating systems, and basic communication. Therefore, the minimum prerequisite 
+is a 'B' or better in 15-213 (or 18-213, 15-513, 14-513, 18-600, or 18-613 which are the 
+same class) from CMU, or 15-619 (or 15-319). Exceptions are rare and only by 
+permission of the instructor. Our experience indicates that students without the substantial 
+hands-on systems experience provided by these prerequisites (or some equivalently 
+extensive experience) struggle significantly. 
+ 
+  
+Course Area: Software Systems and Computer Networking 
+                                                                  
+ 
+1 
+                                                                                                                       
+
+ 
+Class Lecture: Monday and Wednesday         4:00pm-5:50pm ET        DH 2315 
+​
+                       
+Required Textbook: None 
+  
+Learning Goals: ​
+Students completing Advanced Cloud Computing will develop a broad-based 
+understanding of state-of-the-art technologies, underlying business and technological 
+trends, key systems and artifacts and research directions in modern data center 
+computing, scalable distributed systems, and programming frameworks enabling the 
+widespread adoption of cloud computing. Many will go on to code, design and architect 
+innovative new cloud computing services and offerings, and to develop business 
+processes to exploit opportunities afforded by modern cloud computing. 
+  
+Learning Objectives:​
+Specific skills learned and outcomes achieved by graduates of this course include: 
+​
+●  Describe, explain, justify, and criticize differing perspectives on the definition, 
+novelty, and essential features of state-of-the-art cloud computing. 
+​
+●  Design and implement distributed systems for big data science applications to 
+operate in and exploit advanced features of cloud computing systems. 
+​
+●  Design, criticize, implement and improve features of large-scale cluster 
+computing, with emphasis on scale elasticity, limitations on unusually long 
+duration corner cases, high availability in the face of rare and dependent failure 
+modes. 
+​
+●  Interpret and criticize cloud computing research papers, and anticipate and 
+design strategies to avert structural or implementation problems identified. 
+  
+Course Website: www.cs.cmu.edu/~15719 
+  
+Course Canvas: To access the course canvas from an Andrew Machine, go to the login 
+page at: https://canvas.cmu.edu/.  You will gain access to all course-related resources 
+such as the Sail() Platform for course projects and Piazza for the course-related 
+questions/answer forum. 
+ 
+Communicating With Course Staff: Access the course Piazza page is available on 
+Canvas. (You must be invited into this Piazza site by course staff after you have been 
+accepted into the class.) You should check the course Piazza daily for announcements and 
+handouts, and you should strongly consider enabling notifications of updates from the 
+teaching staff. 
+  
+Grading Algorithm:  There will be no final exam, but there will be two in-class exams. 
+In addition, we will have weekly, online quizzes (with the exception of some weeks, as 
+will be announced via Piazza). Grades will be calculated using approximately the 
+following formula: 50% project work, 15% quizzes, 35% examination results. 
+ 
+2 
+ 
+
+Mobile Devices and Other Distractions (for in-person lectures): 
+Research on learning shows that unexpected noises and movements automatically divert 
+and capture people's attention, which means you are affecting everyone's learning 
+experience if your cell phone, pager, laptop, etc. makes noise or is visually distracting 
+during class. For this reason, we allow you to take notes on your laptop but insist that you 
+turn the sound off so that you do not disrupt other students' learning. If you are doing 
+anything other than taking notes on your laptop, please sit in the back row so that other 
+students are not distracted by your screen.  
+No Recording of Class Meetings: 
+No student may record or tape any classroom activity (whether in person, remote, or 
+provided by us as a recording) without the express written consent of all instructor(s). If a 
+student believes that he/she is disabled and needs to record or tape classroom activities, 
+he/she should contact the Office of Equal Opportunity Services, Disability Resources to 
+request an appropriate accommodation.  As discussed below, recordings of some lectures 
+may be made available for streaming by students enrolled in the class, but capturing or 
+downloading recordings is strictly prohibited. 
+ 
+Tips for productive office hours 
+●​ Prepare for office hours and have screenshots, your screen with code ready to 
+share, your student VM up and running. 
+●​ Expect to have ~5 mins with the TA if other students are waiting. 
+●​ Do not expect TAs to debug your code or be able to interpret poorly-structured 
+code.  This is a graduate-level class, and it is our expectation that you will write 
+your own tests, experiment with approaches, and debug your code.  
+Re-grading Policy for Exams and Assignments: 
+We will make the utmost effort to be fair and consistent in our grading. But, we are 
+human. If you believe that you did not receive appropriate credit for an exam or 
+assignment, you may request a re-grade as follows:  
+●​ Submit your request in writing within seven calendar days of when the exam or 
+assignment is returned, explaining in detail why you think that there was a 
+mistake in the grading. Please note that verbal requests will not be processed; 
+requests must be in writing. 
+●​ Requests should be submitted to a form provided by the teaching staff on Piazza, 
+whether for an assignment or for an exam. 
+●​ When you submit a request for a re-grade, the entire assignment or exam may be 
+re-graded (not just the parts that you specify). Your grade may go up or down (or 
+stay the same) as a result of the re-grade request. Your request will be processed 
+off-line, and we will respond to your request thereafter (may take weeks, but will 
+be done before final grades are assigned). This re-grade policy is designed to 
+correct legitimate mistakes in grading, while discouraging frivolous re-grade 
+requests (for the sake of being fair and consistent across the entire class); 
+excessive poorly-founded requests may be penalized. 
+ 
+3 
+ 
+
+Late Policy: 
+No late assignments will be accepted, beyond explicitly announced deadline extensions 
+announced to the entire class. If extreme extenuating circumstances make it impossible 
+for you to submit your assignment on time, e-mail the course instructors. This course 
+does not offer a grace day policy. 
+  
+Cheating Policy:  
+Each exam, quiz, and project must be the sole work of the student turning it in. Like the 
+University as a whole and the ECE and CSD departments, we take cheating very 
+seriously. See CMU's policies on academic integrity and other policies below for more 
+information on the University's policies, which apply fully to this course. ​
+ 
+The usual penalty for cheating in this class is to be removed from the course with a 
+failing grade. The University also places a record of the incident in the student's 
+permanent CMU-internal record. 
+ 
+No collaboration on exams or quizzes is allowed. Unless otherwise notified, the 
+following guidelines dictate what non-exam/quiz collaboration is authorized and what is 
+not.  
+What is Cheating? 
+●​ Sharing code or other electronic files: either by copying, retyping, looking at, or 
+supplying a copy of a file from this or a previous semester. Also not allowed is 
+verbal or other description of one person's code to another. Be sure to store your 
+work in protected directories, and log off when you leave an open cluster, to 
+prevent others from copying your work without your explicit assistance. Also, do 
+NOT use any code repository without ensuring that it cannot be accessed by 
+others... for example, using github in a public access mode invites others to copy 
+your code and is not allowed.  
+●​ Sharing written assignments or exams: Looking at, copying, or supplying an 
+assignment, quiz, or exam.  
+●​ Using other's code. Using code from this or previous offerings of this course, 
+from other courses at CMU or other institutions, or from any other source outside 
+those provided by this course (e.g., software found on the Internet).  
+●​ Looking at other's code. Although mentioned above, it bears repeating. Looking 
+at other students' code or allowing others to look at yours is cheating. Also, 
+searching the web for other solutions to the projects (or code similar to a project) 
+is cheating, as is looking at code found and looked at to understand how to 
+complete the project. There is no notion of looking "too much," since no looking 
+is allowed at all. 
+●​ Using generative AI programs for assignments. Generating content that you cut 
+and paste into an assignment, or translate into an assignment solution. Otherwise 
+using or presenting generative AI content that you pass off as your own work, 
+when it is not. 
+ 
+4 
+ 
+
+What is NOT Cheating?​
+ 
+●​ Clarifying ambiguities or vague points in-class handouts or readings.  
+●​ Helping others use the computer systems, networks, compilers, debuggers, 
+profilers, or other system facilities.  
+●​ Helping others with high-level design issues only. Algorithm implementations, 
+pseudo-code, detailed flow charts, and other such details are not "high-level 
+design issues". 
+●​ Suggesting to others high-level (not code-based) debugging approaches or test 
+cases to try.  
+●​ Using generative AI programs to research and better understand topics discussed​
+in class. 
+  
+Be sure to store your work in protected directories, and log off when you leave an open 
+cluster to prevent others from copying your work without your explicit assistance. Do not 
+use publicly accessible code repositories or revision control systems; make sure that only 
+you can access your code. If you are going to host your code on Github, make sure you 
+use a private repository, and be warned that two years after your student status expires, 
+Github will be converting your private repositories to public, so be sure to remove your 
+code. Academic integrity policies extend beyond the duration of your studies.  
+  
+We understand that the web is a popular tool for everyone (including students) seeking to 
+better understand and solve problems. Because the line between cheating and such 
+explorations has been reached by some in the past, we ask all students to explicitly list 
+websites on which they relied in developing their solutions. And, we reiterate for 
+emphasis: looking at or relying on implementations found on the web is considered 
+cheating.​
+​
+  
+ 
+ECE

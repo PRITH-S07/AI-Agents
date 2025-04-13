@@ -1,0 +1,284 @@
+1 
+ 
+ 
+ 
+ 
+14-763/18-763: Systems and Toolchains for AI Engineers 
+Meeting Dates/Times:  
+Mon/Wed 3:30PM – 4:50PM ET  
+Location: CIC 1201 & INI DEC 
+Course Webpage: https://canvas.cmu.edu/courses/42628  
+Semester: Fall, Year: 2024 
+Units: 12, Sections: A & B 
+ 
+Co-Instructor  
+Name 
+Mohamed Farag (he/him) Addressed as “Mohamed” or “Dr. Farag” 
+Contact Info 
+farag@cmu.edu  
+Office Hours Location 
+CMU Remote 
+Office Hours 
+Monday 11am - 12PM ET and Thursday 3-4PM ET 
+Conducted remotely via Zoom (URL is available on course home page) 
+ 
+Co-Instructor 
+Name 
+Guannan Qu (he/him) 
+Contact Info 
+gqu@andrew.cmu.edu 
+Office Hours Location 
+CMU Remote 
+Office Hours 
+Tuesday/Wednesday 1:30-2:30PM ET (Between Week-5 and Week-10 only)  
+Conducted remotely via Zoom (URL is available on course home page) 
+ 
+Course Description 
+• 
+Adopting Artificial Intelligence in modern era has much more to it than learning the theoretical foundation of AI 
+algorithms. The implementation of Machine Learning and Artificial Intelligence at large scale requires solid 
+technical infrastructure to support its complex, heavy processes. In this course, students will learn to be effective 
+users of AI systems. Students will gain hands-on experience with modern ML frameworks and infrastructure tools, 
+in the context of large real-world datasets and under conditions requiring engineering design choices. This 
+experience will be gained in conjunction with practical application of class topics on real cloud environment.  
+ 
+• 
+The premise of this course is to build a broad and solid foundation in Artificial Intelligence Infrastructure that will 
+pay significant dividends throughout a student’s research and work career across data science and Artificial 
+Intelligence related fields. In this class, we will focus on the following topics: 
+ 
+o 
+Data Collection and Storage. 
+o 
+Data Streaming. 
+
+ 
+2 
+ 
+o 
+Data Engineering. 
+o 
+Modern ML Frameworks. 
+o 
+Model Validation and Monitoring. 
+o 
+Neural Network Design and Implementation. 
+o 
+Embedded Machine Learning. 
+o 
+Deployment of ML Models to the Cloud. 
+ 
+• 
+The course material will focus on recent and landmark research papers and existing tools and software systems. 
+Students will have substantial programming project work in which they design, implement, and analyze aspects of 
+AI-model infrastructure. This course will use an IoT-relevant dataset throughout the semester. The format of this 
+course will be a mix of lectures and hands-on labs. Students will be responsible for readings, and completing a 
+hands-on project focused on developing applications on Apache Spark, TensorFlow, PyTorch Apache Kafka, 
+PostgreSQL and NoSQL. Readings will be selected from recent conference proceedings and journals.  
+ 
+• 
+Prerequisites: Practical experience in Python is highly preferable and exposure to machine learning experience 
+is preferred. There will be a Python lecture offered in the second week of the class to help the students who 
+needs a Python refresher. If you have questions about your programming experience, please let me know at the 
+beginning of the semester, so we can decide how to proceed. 
+ 
+• 
+Class Structure: Lectures will be synchronous, and attendance is required. Lecture slides are delivered via 
+TopHat, an online course delivery system. TopHat can be accessed on a smartphone or laptop. For this purpose, 
+I will ask you in advance to bring your laptop or mobile device, and we will review how to use the tool together in 
+class. If you do not have the necessary equipment, please contact your HUB liaison who is available to help you 
+tap into appropriate resources. Join code will be posted on Canvas. In addition, lecture materials will be offered 
+via Jupyter Notebooks. 
+Learning Objectives  
+In taking and successfully completing this course, students will learn how to, e.g.,  
+ 
+• 
+apply best practices in collecting, storing, and modeling data of various size; 
+• 
+gain hands-on experience in building and analyzing large-scale AI infrastructure components and 
+developing and testing services that operate within them;  
+• 
+practice the implementation of large-scale AI algorithms in modern machine-learning frameworks;  
+• 
+implement data engineering pipelines to streamline the development of complex AI-models;  
+• 
+understand the benefits of “Productionizing” large complex AI models and deploying them to the Cloud to 
+promote scalability and high availability; 
+• 
+apply best practices in designing and building neural networks; and 
+• 
+understand the aspects of building machine learning models for embedded devices 
+ 
+The work that you will carry out in this course maps to some of the learning outcomes that INI has defined as 
+vital to the full CMU graduate-level experience. Specifically: 
+• 
+self-directed learning; 
+• 
+critical thinking; and 
+• 
+complex problem solving. 
+Learning Resources  
+There is no primary textbook, as most reading material will come from research papers and other 
+technical documentation. Additional background reading material can be suggested upon request. 
+
+ 
+3 
+ 
+Important Dates 
+• 
+September 2nd, 2024: Labor Day (no class/office hours) 
+• 
+October 14th – October 18th, 2024: Fall break (no classes/office hours). 
+• 
+November 5th, 2024: Democracy Day (no classes/office hours). 
+• 
+November 27th– November 29th, 2024: Thanksgiving Break (no class/office hours) 
+• 
+December 4th, 2024: Final exam (during lecture time) 
+Assessments 
+Students are encouraged to attend class regularly, read the assigned reading material and participate in class discussions. 
+The final grade will be based upon 1 exam, 1 project, 8 homework assignments, and in-class quizzes. In-class participation 
+will grant student extra-credit that will help boosting their quiz score. 
+Final Exam 
+Project 
+Assignments 
+Quizzes 
+15% 
+20% 
+50% 
+15% 
+• 
+Final Exam: is an open-note test.  
+o 
+Students will have access to all the PDFs for lectures, readings and HW solutions. Students can 
+bring any hard-copied materials with them.  
+o 
+Students are required to follow the schedule of their registered section. On the scheduled final 
+lecture of each section, final exam will be released only to the registered students of the 
+corresponding section. Each section will have its final exam version(s).  
+o 
+Exam will be offered via Lockdown Browser and no knowledge exchange is allowed among 
+students during the exam.  
+o 
+Students are expected to install and test Lockdown browser on their machines ahead of the exam. If 
+students face an issue with Lockdown browser installation, students must reach out to the instructors 
+no later than 2 weeks before the final exam date.  
+o 
+Sharing hard-copied notes is prohibited during the exam. 
+• 
+Quizzes: are offered during each lecture via Canvas. Each quiz will be accessible via a unique access code 
+that will be provided to students of the corresponding section. Students will have 2-3 minutes to answer 1-2 
+multiple choice questions.  
+• 
+Assignments: will provide the opportunity to practice the concepts that are taught during the class. 
+Students are expected to spend a good amount of time on their own to learn implementation details that are 
+not provided during the lectures. Students will receive 8 assignments throughout the semester. Assignment 
+schedule is shown on the last section of this syllabus. 
+• 
+Project: details are released in week 3. Each student will have the option to team up with another student 
+for the project and you will choose one of two project options to submit. Students will be expected to record 
+a video including a code-walkthrough of their work and functionality demo showing the running version of 
+their application. Project submission deadline is November 14th, 2023 11:59PM ET. Course project is solely 
+student work. There will be a lot of self-learning that is needed from the students to complete the project. 
+The course instructor will provide project-related hints, high-level directions, and clarifications during the 
+lectures. However, students shouldn’t expect any additional project support during office hours or via emails. 
+Students are highly encouraged to give themselves enough time to learn the skills they need to complete the 
+project. There will be one checkpoint to ensure that students are making good continuous progress (refer to 
+
+ 
+4 
+ 
+the proposed course schedule in the last section of this syllabus). Project grading rubric and evaluation will 
+be released along with project details.  
+ 
+Students will be assigned the following final letter grades, based on rubric provided in the above table. +/- will be 
+assigned to provide further granularity. 
+ 
+ 
+Letter Grade 
+Percentage Interval 
+A / A- 
+[85-100%] – A to start from 93 
+B 
+[70-85%) 
+C 
+[55-70%) 
+D 
+[40-55%) 
+R (F) 
+Below 40% 
+Homework & Grading Policies 
+● 
+Students are expected to check the course webpage on canvas regularly for announcements, class 
+schedules, lecture notes, homework assignments, reading assignments, and other related course material. 
+● 
+Assignments will be submitted online via GitHub Org URLs. For this purpose, sign up for a (free) account at 
+GitHub. 
+● 
+Homework and Project assignments must be turned in prior to their specified deadline. Typically, homework 
+is due one week after it is assigned unless otherwise mentioned. 
+● 
+Students are strongly encouraged to complete the assignments as early as they can. No homework 
+extensions will be offered due to technical difficulties. 
+● 
+Students will have 3 days to submit an assignment after the due date and a late penalty will be applied. 
+Late penalties are applied based on the timestamp of the last code commit on GitHub and it will follow this 
+equation: 
+● 
+1 point for each 1 hour of delay up to 24 hours delay (You will get TA support at specific time slots on 
+Zoom and Piazza) 
+● 
+24 points for the next 24 hours delay (You will get TA support at specific time slots on Piazza only) 
+● 
+24 points for the next 24 hours delay (No TA support is provided). 
+● 
+100 points penalty (no grade) after this time. 
+● 
+Late submissions for the course project will receive no grade (0 points).  
+● 
+After homework and project grades are released, a Canvas announcement will be made with a link to submit 
+regrade requests. Regrade requests can be made for 24 hours via the URL that is provided on the 
+Canvas announcement and CANNOT be submitted via email. 
+● 
+For grading questions, email the TA or ask your question during TA office hours. If you continue to have an 
+issue with the grading, you may ask your question during instructor’s office hours. 
+● 
+Students are encouraged to read their privacy rights in Family Educational Rights and Privacy Act (FERPA).   
+Guidelines for Office Hours and Out-of-class Questions 
+• 
+Students are encouraged to leverage office hours to get the support they need. Some office hours will be 
+held in-person while others will be held via Zoom. Refer to the course page for details. 
+
+ 
+5 
+ 
+• 
+If you have materials-related questions, you can post them on Piazza or ask them during instructor’s office 
+hours. You should plan to receive the question responses on Piazza during office hours’ allocated time. 
+• 
+You may email personal inquiries and severe emergencies to the instructor(s). The email subject line should 
+begin with "14-763” or “18-763”. Emails sent to the instructor should be 2-3 lines maximum and the 
+instructor’s response will not be more than few words. Generally, the course instructor is available to 
+respond to personal inquiries during M-F 9am-8pm ET. Please don’t expect responses over the weekend or 
+late at night. 
+Expectations for Class Attendance 
+● 
+Classes will be offered synchronously and in-person only.  
+● 
+Students are highly encouraged to follow the schedule of their registered section. During every lecture, a 
+quiz is released only to the registered students of the corresponding section.  
+● 
+Class attendance and participation are important parts of the learning in this course. To account for this, a 
+portion of the final grade is based on quizzes that are offered during the lectures (see assessment section). 
+That said, I also recognize that students may need to miss class for a variety of reasons (religious 
+observance, job interview, university-sanctioned event, or illness). For that reason, all students are 
+permitted two class absences without any impact on the final grade. If you encounter extenuating 
+circumstances and must miss more than two classes, please email the course instructor for further 
+guidance. 
+• 
+When attending the class in-person, I expect that you will abide by all behaviors indicated in A Tartan’s 
+Responsibility, including any timely updates based on the current conditions.  
+Recording of Class Sessions 
+● 
+Class recordings will be available after each lecture. Please note it may take a few hours for the recording to 
+become available. The Class recordings will be published on Canvas.

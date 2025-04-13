@@ -1,0 +1,311 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18-100: Introduction to Electrical and Computer Engineering 
+Fall 2024 
+ 
+Instructor:   
+ 
+Jian-Gang (Jimmy) Zhu 
+Office Location:  
+ 
+REH 348 
+Email Address:  
+ 
+jzhu@cmu.edu 
+ 
+ 
+ 
+Office Hours:  
+ 
+Tuesdays:    1:30 pm-4:00 pm 
+ 
+ 
+ 
+ 
+ 
+ 
+Lead Teaching Assistants:  
+Liam Carden and Kaitlyn Vitkin 
+                                                            lcarden@andrew.cmu.edu, kvitkin@andrew.cmu.edu 
+ 
+ECE Course Office Location:  
+HH 1113 (a.k.a. the ECE Course Hub) 
+ 
+ 
+Course Web Page:   
+We will use the Canvas system for our Web Page this semester. You should attempt to 
+access the page as soon as possible to ensure that you have access to the course materials. 
+http://www.cmu.edu/canvas/  
+ 
+Students are responsible for any information conveyed via announcements made in 
+lecture and/or on the course web page. Absence from class the day of an important 
+announcement does not excuse you from being responsible for that information. 
+ 
+ 
+Course Information: 
+Number of Units:  
+ 
+ 
+12 
+Co-requisite:  
+ 
+ 
+21-120 (you can take before or while taking 18-100) 
+Course Designation:   
+ 
+18-100 is a required course for ECE major 
+Undergraduate Course Area:  
+ECE Core 
+ 
+ 
+Course Description:  
+This course introduces basic concepts and principles over the broad spectrum of electrical 
+and computer engineering in an integrated manner. It covers basic concepts in electronic 
+circuits, computer logic circuits, computer architecture, analog and digital signals 
+
+ 
+2 
+ 
+processing, wired and wireless communication systems, computer network, computer 
+memory, data storage, and data center technologies, machine learning and artificial 
+intelligence, and cryptography and data security. The 9 specially designed labs in the course 
+give students excellent hands-on experience on various examples of practical systems in 
+electrical and computer engineering. The labs also help to consolidate the understanding of 
+the topics covered in lectures. The course is designed to inspire and motivate students 
+through in-depth learning of many present systems and their underlying fundamentals.   
+ 
+Specifically, the labs in this course: 
+Lab 1:  Circuits Lab – Electrical measurements; LEDs  
+Lab 2:  MOSFET Lab – Transistor-level logic; flip-flop circuits 
+Lab 3: Adder Lab – Gate-level digital logic; binary adder circuits  
+Lab 4: 555 Lab – Time and frequency signal generation  
+Lab 5: Op-Amp Lab – Amplifier circuits using operational amplifier 
+Lab 6:  ADC Lab – Analog to digital conversion.  
+  
+Lab 7:  Radio Lab – Amplitude modulation; frequency selections circuits; antennas. 
+Lab 8:  Serial Lab - I2C communication protocol; real-time clocks 
+Lab 9:  Crypto Lab – Crypto schemes via wireless communications. 
+ 
+The above labs are well matched with the lecture series to consolidate the comprehension of 
+the course material through practical hands-on and thought-provoking experiences. Along 
+with the lecture materials, these labs should strengthen the fundamentals demanded by the 
+next tier courses on analog devices and circuits (18-220), digital logic and computation (18-
+240), signal analysis and processing (18-290) and computer systems (15-213). 
+ 
+In addition, an effort is included in this course to help familiarize all students with some of 
+the specialized vocabulary that is often employed in the field of ECE. An additional goal of 
+this course is for students to establish qualitative intuition about how electrical and 
+computer systems operate in preparation for detailed quantitative analysis to be developed 
+later in the ECE core. 
+ 
+ 
+ 
+Reference Textbook:  
+Not required. 
+ 
+Lab Materials:  
+Students will receive all materials needed for all the labs. Handouts for Lab will be posted on 
+the course canvas website prior to your Lab session.  
+Two of the devices, ADALM 2000 and Arduino MKR Zero in the lab materials that you will 
+receive, require the use of a personal computer, either Mac or PC, with at least two USB 
+connections. We will use them starting in Lab 4.  
+
+ 
+3 
+ 
+ 
+Course Meeting Info: 
+ 
+Lectures:             Mondays and Wednesdays 
+2:00pm-3:20pm 
+SH 105 
+Lectures are a critical part of this course. We do not have a textbook that is closely 
+followed in this course. Therefore, your timely comprehension on any given topic are 
+extremely important. Lecture slides will be posted the day before each lecture on 
+Canvas. They will remain available on Canvas throughout the semester.  
+ 
+Recitations: 
+ 
+Section A: 
+Recitation Friday 11:00am-11:50pm      
+WEH 4625 
+ 
+Section B: 
+Recitation Friday 12:00pm-12:50pm   
+WEH 5302 
+ 
+Section C:  
+Recitation Friday 1:00pm-1:50pm 
+ 
+WEH 5302 
+ 
+Section D:  
+Recitation Friday 2:00pm-2:50pm 
+ 
+GHC 4301 
+ 
+Section E:  
+Recitation Friday 3:00pm-3:50pm 
+ 
+WEH 4625 
+ 
+Section F:  
+Recitation Friday 10:00am-10:50am  
+WEH 5415 
+ 
+ 
+ 
+Students are highly encouraged to attend recitation sessions since they will focus on 
+problem solving skills and help students to comprehend and solidify the concepts taught 
+during lecture. Recitations will not be recorded. 
+ 
+Labs:     Small Group Meetings: Sundays, Mondays, & Tuesdays, Ansys Hall C02 
+Students will be divided into “small groups” of four to five students with two designated 
+teaching assistants (TAs). These small groups will meet once weekly for a one-hour 
+session in the TechSpark classroom (Ansys Hall C02). These group meetings will take 
+place on Sunday, Monday, or Tuesday afternoon, and specific meeting times will be 
+determined during the first week of classes. TAs will check off circuit functions from 
+the previous week’s lab and then advise students for the coming week’s lab. 
+Each student will receive a lab kit containing all the components, materials, and test 
+equipment necessary to complete all of the labs. Lab equipment will be distributed 
+during the first two weeks of classes, and lab exercises are designed to be completed 
+anywhere (at home, TechSpark, etc.). 
+ 
+Course Activities: 
+ 
+
+ 
+4 
+ 
+In order help students assess how well they are understanding the material being presented 
+in class, there are a number of course activities that provide feedback to the students on their 
+progress. 
+ 
+Exams: 
+ 
+The course lectures are broadly divided into three parts.  At the end of each part, there 
+will be an exam covering primarily the material presented in that section. There will not 
+be a cumulative final exam in this course although materials from previous part(s) may 
+still appear on a given exam. The three exams will be given over one lecture period on 
+the following dates: 
+ 
+Exam 1:    Wednesday, Sept. 25th ,   Regular Lecture Time and Classroom. 
+Exam 2:    Wednesday, Oct. 30th,     
+Regular Lecture Time and Classroom. 
+Exam 3:    Final Exam date, 
+  Regular Lecture Duration. Final Exam location. 
+ 
+All exams are to be taken during the scheduled exam date and time. Make-up exams are 
+highly discouraged. If you are unable to take an exam at the scheduled time (for a valid 
+reason, which should be limited to extreme emergencies), you must contact the 
+instructor at least one week prior to the originally scheduled exam time to schedule a 
+make-up exam, else you might receive a zero for that exam. Make-ups will generally be 
+more difficult than the originally scheduled exam. The format of the make-up exam is 
+up to the instructor, and may be in a different format such as an oral exam with the 
+student asked to work problems on a white board. 
+ 
+If you have special circumstances approved by the Disabled Student Services office, 
+please make arrangements with the instructors at least 72 hours before the scheduled 
+exam time.  
+ 
+ 
+Quizzes: 
+A multiple-choice style quiz will be given at the end of each lecture using the quiz 
+platform on Canvas. Each quiz usually consists of three problems and these quiz 
+problems serve the purpose of reviewing the lecture material just presented. Students 
+need to finish each quiz within 36 hours of the end of the lecture.  
+ 
+ 
+Homework: 
+Homework will be posted on Tuesdays and it is due the following Tuesday at 10pm. 
+Doing homework assignments is the best way to reinforce the understanding of the 
+material being covered in class. Homework will be submitted via Gradescope. You will 
+upload a scan (pdf) or photo (jpg) of your solution to each problem.  
+ 
+You may work together on mastering an understanding of each of the homework 
+problems; that is, learning how to set up the equations that embody the homework 
+
+ 
+5 
+ 
+problem and learning how to solve them. However, the actual written solutions to the 
+problems that you upload to Gradescope must be your own work.  You should NOT 
+submit someone else’s solutions. You should NOT just copy someone else’s solutions 
+and submit them.  These actions constitute cheating. You are strongly encouraged to 
+make sure you can do each problem by yourself independently. 
+ 
+Laboratory: 
+A one-hour session per lab assignment will be held with your assigned TAs together 
+with your designated five-student group in TechSpark. Each lab requires an independent 
+in-person demonstration of the circuits or systems that each student has constructed and 
+their function to his/her designated TA along with explanations and ability to answer 
+questions. Students should keep their circuit wiring neatly so that good visual can be 
+achieved for TA to see. Messy circuit wiring may affect adequate assessment of your 
+building work, impacting your lab grades in an unwanted way.  
+ 
+Your lab grade will consist of the following two components: 
+1) Answers to all questions listed in your lab handout. These must be completed by 
+each student individually and submitted online through Gradescope by 10pm on 
+the Thursday (Pittsburgh Time) of the lab due week.  
+2) In-person demonstration of the required functions of the constructed circuit/system 
+or/and the functional program codes within three days after the online lab 
+submission. This will occur during each week’s small group meeting in TechSpark. 
+ 
+You should complete all Labs to pass the course. Failure to submit a lab session and 
+conduct independent demonstration will result in a score of zero for the lab that week. If 
+you miss a lab session, you are expected to make up that lab session before the semester 
+ends. Any missing lab will result in a failure to pass the course.   
+ 
+Late Policy:  
+Late homework and labs are accepted up to three days late – but there is a 10% late penalty 
+per day. In general, we don’t accept assignments after three days late because we need to 
+post solutions on Canvas 
+Should you need additional time, please speak with your group TA or an instructor. 
+Depending upon the circumstances, extensions and/or reduced late penalties may be 
+possible.  
+ 
+Grading Policy:  
+Your grade will be calculated using the following method: 
+5%  
+Quizzes* (There will be a quiz following each lecture on Canvas) 
+20%     Homework  
+45%  Lab (no drops) 
+30%  3 Exam Scores (each exam 10%) 
+*Quiz grading:  :   1 correct = 50%, 2 correct = 90%  and  3 correct = 100% 
+ 
+
+ 
+6 
+ 
+ 
+While lower cutoffs may be used, the following cutoffs are guaranteed: 
+>=90 A 
+>=80 B 
+>=70 C 
+>=60 D 
+ 
+ 
+ 
+Re-grades:  
+You have 1 week from the time an exam, quiz or lab assignment is available to be picked-up 
+to ask for a re-grade. To request a re-grade, write a brief summary of the alleged grading 
+error(s) and attach it to the work you’d like to have re-graded and submit it to the Course 
+Hub. Be aware that a request for a re-grade of any portion of an exam or quiz means that the 
+entire exam or quiz is subject to re-grade, and that there is a possibility that your grade could 
+be lowered as well as raised by this process. Unless instructed otherwise, all regrade 
+requests must be made via Gradescope.  
+ 
+Attendance: 
+Attendance is expected at all lecture, recitation, and lab sections. If attendance is not 
+reasonably possible, please review the lecture slides and course materials, come to office 
+hours and ask questions to the course staff, as needed. Attendance at small group meetings 
+is mandatory.  
+ 
+ 
+Any in person meeting associated with the class, whether group or individual, requires 
+complains with the University’s guidelines, i.e. “Tartan’s Responsibility”: 
+ 
+• https://www.cmu.edu/coronavirus/students/tartans-responsibility.html

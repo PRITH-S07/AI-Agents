@@ -1,0 +1,277 @@
+Course Syllabus
+18-794: Introduction to Deep Learning and Pattern Recognition for Computer
+Vision
+Fall Semester, 2024
+Instructor:
+Marios Savvides
+Office Location: CIC 1308
+Email Address: marios.savvides@ri.cmu.edu
+Teaching Assistants:
+Zhantao Yang:
+Email: zhantaoy@andrew.cmu.edu
+Office Hours: Tue 5pm-6pm
+Location: CIC 1308
+Alex Liao:
+Email: jiangmel@andrew.cmu.edu
+Office Hours: Thur 2pm-3pm
+Location: CIC 1308
+Han Zhang:
+Email: hanz3@andrew.cmu.edu
+Office Hours: Fri 4:30pm-5:30pm
+Location: CIC 1308
+Parsheeta:
+Email:
+Office Hours: Mon
+Location:
+Can Xu:
+Email: canxu@andrew.cmu.edu
+Office Hours: Wed 5pm-6pm
+Location: CIC 1308
+
+Fangyi Chen:
+Email: fangyic@andrew.cmu.edu
+Office Hours: Tue 4pm-5pm
+Location: CIC 1308
+Course Support: Academic Services Center
+Office Location: HH 1113
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html
+Course Description:
+Introduction to Deep Learning and Pattern Recognition for Computer Vision will focus on Deep
+Learning algorithms used in Computer Vision applications while explaining the pattern
+recognition aspect of these algorithms. The first half of this course is also available as a mini
+(18-790) which introduces students to the basic Deep Learning ML techniques in the course.
+The course will introduce Neural networks and how they perform recognition and their evolution
+to Deep Neural Networks. Different DNN backbone architectures (e.g. VGG, ResNet +
+variations, MobileNets etc.) used for classification. We will overview DL architectures for object
+detection (to include a large range of algorithms such as anchor-based and anchor-free,
+single-stage, and two-stage as well as well-known Yolo, SSD, FCOS, CornerNet, Mask-RCNN,
+DETR and others). We cover object recognition, and semantic segmentation (with applications in
+robot vision, autonomous driving, general scene understanding, and medical analysis). Other
+topics include instance segmentation, loss functions, feature extraction, Transformers, Generative
+Models, Diffusion Models, Large Language Models, MMLMs, Neural Architecture Search
+(NAS), low form factor Deep Learning architectures for embedded platforms (e.g., Jetson Nano,
+AGX), TensorRT for model optimization on Nvidia embedded platforms, and ONNX model
+conversions.
+Number of Units: 12 Units
+Pre-requisites: 10-601 or equivalent machine learning course, 36-217, or equivalent probability
+theory and random variables course and introductory linear algebra course and senior or graduate
+standing.
+Class Lecture:
+Timings: Fridays 1:00 PM to 3:50 PM
+Venue: GHC 4307
+Course Recitations:
+
+Timings: Mondays 4:00 PM to 4:50 PM
+Venue: SH236
+Suggested Textbook:
+Deep Learning Book by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann
+Brief List of Topics Covered:
+1. Introduction to Neural Networks
+2. Evolution of Deep Neural Networks
+3. Convolutional Neural Networks
+4. Different DNN backbone architectures
+5. Object Recognition
+6. Object Detection
+7. Image Segmentation
+8. Transformers
+9. Generative Modeling
+10. Multi-Modality Learning
+11. Low form factor Deep learning architectures for embedded platforms
+12. Pretraining, Transfer Learning and Finetuning
+13. TensorRT for model optimization and ONNX model conversions
+Course Canvas:
+Canvas login page: https://cmu.instructure.com/. You should check the course Canvas daily for
+announcements and handouts.
+Homework Projects:
+There will be 4 homework programming assignments as part of this course. All assignments will
+be designed to work over AWS cloud platform using academic credits.
+Following are the topics covered in homework assignments:
+Hands-on development and training of multilayer perceptron and Convolutional neural networks.
+Object Detection, Image Segmentation, Generative Modeling.
+
+Final Project:
+The final project represents a big part of this course. It will constitute a team effort(teams of 2 or
+3) and will include a written feasibility study(project proposal document), a written progress
+review(mid-term report), a NeurIPS-style final paper(final report), poster presentation and a live
+demo (either via poster or presentation).
+Detailed guidelines for the final project will be presented in an individual announcement.
+Grading Algorithm:
+The final grade will be computed using the following weighting scheme:
+1. Homework Assignments - 50%
+2. Final Project - 45%
+a.
+5% Feasibility study
+b. 5% Mid-Progress Review
+c.
+5% Noval research and potential for future impact
+d. 30% Project work and performance
+3. Class participation - 5%
+Homework Policy:
+Homework is due at the beginning of class on the date stated on each assignment, unless
+otherwise mentioned. The written part of the homework does not have to be typeset, however,
+please write legibly, provide full justification and circle/box your final answers. All submissions
+are made in Gradescope.
+Late Homework Policy:
+You have a total of 5 late homework days without penalty for the entire semester. You can use all
+three days on one homework or one day on 4 different homeworks. You cannot use half-days or
+any other fractions. You cannot use your late days to meet any project deadlines. After you’ve
+used all your late days, your homework will be worth half credit if it is up to 24 hours late,
+and worth zero credit after that with NO exceptions.
+Collaboration Policy:
+Homework should reflect an individual effort. Each student must hand in his/her own answers.
+Each student must also write his/her own code for the programming assignments. If you get help
+
+from a fellow classmate, indicate with whom you collaborated at the top of your homework.
+You should take the responsibility to personally understand all the material you hand in.
+Tentative Course Calendar:
+Date
+Day
+Class Activity
+Assignment
+Due Date
+August
+26
+Mon.
+No Class
+30
+Fri
+Introduction to Course + Feature Extraction +
+Dimensionality Reduction
+Project Group
+September
+2
+Mon.
+R: PyTorch Tutorial / Project topic Q&A
+6
+Fri
+PCA review+LDA+SVM+ANNs
+Project Proposal
+9
+Mon.
+R: Working with AWS
+13
+Fri
+Introduction to Deep Learning
+HW1 release
+Project Proposal
+16
+Mon
+R:
+20
+Fri
+Deep Learning based Image Classification
+23
+Mon
+R: image classification
+27
+Fri
+Deep Learning based Object Detection I
+HW2 release
+HW1 due
+30
+Mon
+R: Object Detection
+October
+4
+Fri.
+Deep Learning based Object Detection II
+7
+Mon
+11
+Fri.
+Image Segmentation
+HW3 release &
+Project midterm
+report
+HW2 due
+14
+Mon
+Fall Break – No Classes
+18
+Fri
+Fall Break – No Classes
+
+21
+Mon.
+R: Image Segmentation
+25
+Fri.
+Multimodality Learning
+Midterm report
+due
+28
+Mon.
+R: Multimodality Learning
+November
+1
+Fri
+Generative Modeling I
+HW4 release
+HW3 due
+4
+Mon
+R: Generative Modeling
+8
+Fri
+Generative Modelling II
+11
+Mon
+15
+Fri
+Pretraining, Transfer learning and Finetuning
+Final report
+HW4 due
+18
+Mon
+22
+Fri
+Model optimization
+25
+Mon
+29
+Fri.
+Thanksgiving - No class
+December
+2
+Mon.
+6
+Fri.
+Project Presentation Week
+Poster session
+9
+Mon.
+13
+Fri.
+Project Presentation Week
+Poster session
+Final report due
+Education Objectives (Relationship of Course to Program Outcomes)
+The ECE department is accredited by ABET to ensure the quality of your education. ABET
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you take.
+The following list describes which objectives are fulfilled by this course and in what manner
+they are fulfilled. The objectives are numbered from “1” through “7” in the standard ABET
+parlance. Those objectives not fulfilled by this course have been omitted from the following list:
+
+1.
+an ability to identify, formulate, and solve complex engineering problems by applying
+principles of engineering, science, and mathematics
+2.
+an ability to apply engineering design to produce solutions that meet specified needs with
+consideration of public health, safety, and welfare, as well as global, cultural, social,
+environmental, and economic factors
+3. an ability to communicate effectively with a range of audiences
+4.
+an ability to recognize ethical and professional responsibilities in engineering situations and
+make informed judgments, which must consider the impact of engineering solutions in global,
+economic, environmental, and societal contexts
+5.
+an ability to function effectively on a team whose members together provide leadership,
+create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6.
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and
+use engineering judgment to draw conclusions
+7.
+an ability to acquire and apply new knowledge as needed, using appropriate learning
+strategies.
+ECE

@@ -1,0 +1,166 @@
+16/18-873: Spacecraft Design-Build-Fly Lab
+Fall 2024 – Spring 2025
+Course Description
+Spacecraft design is a truly interdisciplinary subject that draws from every branch of engineering.
+This capstone design class brings together the material from prior classes in a way that emphasizes
+the interactions between disciplines and demonstrates how some of the more theoretical topics
+are synthesized in the practical design of a spacecraft. The class will design, build, and test a
+small satellite that addresses objectives and requirements posed at the beginning of the course
+sequence. Students will work in subsystem teams, each focusing on some aspect of the spacecraft,
+but exposed to many diﬀerent disciplines and challenges. Practical, hands-on engineering skills
+will be emphasized, along with fabrication and testing of physical hardware and the creation of
+thorough documentation.
+Instructors
+Prof. Zac Manchester
+Email: zacm@cmu.edu
+Prof. Brandon Lucia
+Email: blucia@cmu.edu
+TA: Neil Khera
+Email: nkhera@andrew.cmu.edu
+TA: Kyle McCleary
+Email: kmcclear@andrew.cmu.edu
+TA: Ibrahima Sow
+Email: isow@andrew.cmu.edu
+Learning Objectives
+The goal of this course is to give students hands-on experience designing and building small space-
+craft subsystems and integrating them into a CubeSat. Throughout this course, students will:
+1. Understand how the design and integration of a system whose performance depends on the
+success of many interacting subsystems.
+2. Work within a small team to fabricate, and test hardware and software through rapid design
+iteration.
+3. Coordinate with other teams to integrate subsystems into a complete spacecraft.
+4. Gain exposure to the complete life cycle of a small satellite mission.
+Logistics
+The course will involve designing and building hardware in small teams. Class time will be used
+primarily for weekly team meetings and consulting time to meet with the instructors.
+1
+
+• Lectures on selected topics will be held at 3:30 on Mondays, followed by consulting hours.
+• All-hands meetings will be held at 3:30 on Wednesdays, followed by consulting hours.
+• Sub team meetings will be held once per week at times coordinated with the instructors.
+• Attendance of weekly team meetings is mandatory.
+• Slack will be used for coordination between teams and instructors. All students will be added
+to the “SpacecraftDesignBuildFlyLab” slack channel.
+• GitHub will be used to manage project ﬁles for all teams.
+Assignments and Exams
+There will be no exams in this course. Evaluation will be based on participation, contribution to
+design and fabrication work, and ﬁnal documentation from each team.
+Grading
+Grading will be based on:
+• 25% Participation and attendance of team meetings
+• 25% Individual technical contributions quantiﬁed by git commit history and peer surveys
+• 25% Completeness and quality of team documentation
+• 25% Outcome of design review
+Learning Resources
+There is no textbook required for this course. Video recordings of lectures and lecture notes will
+be posted online. Additional references for further reading will be provided with each lecture.
+Course Policies
+Attendance: This is a team-based course. In order to coordinate work among teams, participation
+in weekly meetings is required. If you are unable to be present at a meeting, you must notify the
+instructors and ensure that your teammates are prepared to present your work.
+Accommodations for Students with Disabilities: If you have a disability and are registered
+with the Oﬃce of Disability Resources, I encourage you to use their online system to notify me of
+your accommodations and discuss your needs with me as early in the semester as possible. I will
+work with you to ensure that accommodations are provided as appropriate. If you suspect that
+you may have a disability and would beneﬁt from accommodations but are not yet registered with
+the Oﬃce of Disability Resources, I encourage you to contact them at access@andrew.cmu.edu.
+Statement of Support for Students’ Health & Well-Being: Take care of yourself. Do your
+best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and
+2
+
+alcohol, getting enough sleep, and taking some time to relax. This will help you achieve your goals
+and cope with stress.
+If you or anyone you know experiences any academic stress, diﬃcult life events, or feelings like
+anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological
+Services (CaPS) is here to help: call 412-268-2922 and visit http://www.cmu.edu/counseling. Con-
+sider reaching out to a friend, faculty, or family member you trust for help getting connected to
+the support that can help.
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately,
+day or night:
+CaPS: 412-268-2922
+Re:solve Crisis Network: 888-796-8226
+If the situation is life threatening, call the police:
+On campus: CMU Police: 412-268-2323
+Oﬀcampus: 911
+3
+
+Tentative Fall 2024 Schedule
+Week
+Dates
+Topics
+1
+Aug 26
+Course Overview & Logistics
+Aug 28
+Team Selections
+2
+Sep 2
+No Class (Labor Day)
+Sep 4
+Mission Objectives and Requirements (Z+B)
+3
+Sep 9
+Lab Intro (TAs)
+Sep 11
+All-Hands Meeting (Requirements Discussion)
+4
+Sep 16
+Spacecraft Dynamics and Simulation (Z)
+Sep 18
+All-Hands Meeting
+5
+Sep 23
+Orbit Determination & Spacecraft Navigation (Z)
+Sep 25
+All-Hands Meeting and Project Management (B)
+6
+Sep 30
+Orbital Edge Computing (B)
+Oct 2
+All-Hands Meeting
+7
+Oct 7
+No Class
+Oct 9
+All-Hands Meeting (TAs)
+8
+Oct 14
+No Class (Fall Break)
+Oct 16
+No Class (Fall Break)
+9
+Oct 21
+Attitude Determination and Control (Z)
+Oct 23
+All-Hands Meeting
+10
+Oct 28
+Spacecraft Communication (Z)
+Oct 30
+All-Hands Meeting
+11
+Nov 4
+Case Studies: V-R3x and PY4 (Z)
+Nov 6
+All-Hands Meeting
+12
+Nov 11
+Case Study: Guest Lecture
+Nov 13
+All-Hands Meeting
+13
+Nov 18
+Case Study: Guest Lecture
+Nov 20
+All-Hands Meeting
+14
+Nov 25
+TBD
+Nov 28
+No Class (Thanksgiving Break)
+14
+Dec 2
+Design Review
+Dec 4
+Design Review
+4

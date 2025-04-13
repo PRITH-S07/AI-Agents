@@ -1,0 +1,248 @@
+Carnegie Mellon University 
+Department of Electrical and Computer Engineering 
+18-490 
+ 
+    
+ 
+ 
+ 
+                                                         Fall 2024 
+Electroacoustics 
+Course Syllabus 
+ 
+Instructor 
+ 
+Tom Sullivan  
+ 
+tms@ece.cmu.edu 
+Office:  HH A-209 
+ 
+x8-3351 
+ 
+I’m not scheduling regular ‘office hours’.  The class is small enough that if you’d like to meet, just 
+contact me and we’ll set up a time to chat (either in person or over zoom) that works for your schedule. 
+ 
+ 
+ 
+  
+ 
+Teaching Assistant 
+ 
+Unfortunately no TA this semester.   
+ 
+Course Management 
+ 
+ECE Academic Services Center 
+ 
+HH1113  
+ 
+Course Web Page 
+ 
+We will use Canvas for our Web Page this semester.  You should attempt to access the page as soon as 
+possible to ensure that you have access to the course materials.  
+ 
+Students are responsible for any information conveyed via announcements made in lecture and/or 
+on the course web page.  Absence from class the day of an important announcement does not 
+excuse you from being responsible for that information. 
+
+ 
+ 
+Textbooks 
+Electroacoustics by W. Marshall Leach (Kendall-Hunt Publishing)  4th Edition 
+Acoustics by Leo Beranek, first published in 1954 (!) and now republished (and only very slightly 
+updated) by the Acoustical Society of America.   
+Acoustics_ Sound Fields, Transducers and Vibration by Leo Beranek and Tim Mellow, Academic Press, 
+2019 
+The fundamental material of the course has not really changed all that much in that time, though the 
+Leach book provides a more contemporary treatment of the material.  Beranek’s book has a lot of useful 
+tables and formulae in it to which we will refer and has a very thorough treatment of the material.  The 
+Mellow book is a (mostly) updated version of the Beranek book. 
+Other reference texts: While we chose the texts by Leach and Beranek because of their depth and goals 
+for this course, there are a number of other good books out there.  Interested readers may wish to consult 
+with the following texts: 
+The Fundamentals of Physical Acoustics by D. E. Blackstock (Wiley, 2000).  
+Acoustics, by Kinsler and Frey et. al,  (Wiley, 2001) 
+The Science of Sound by T. D. Rossing, F. R. Moore, and P. A. Wheeler (3rd son-Wesley, 2001) 
+ 
+Course Meeting Info: 
+ 
+Lectures: 
+ 
+Tuesday and Thursday, 9:30 – 10:50 AM, WeH 8427 
+ 
+Overview of the course:  
+This course provides an introduction to physical, engineering, and architectural acoustics.  The course 
+begins with a review of the wave equation and some of its solutions that are relevant to the propagation 
+of sound from planar and spherical sources, and from arrays of simple sources.  Lumped-parameter elec-
+trical circuit analogies are developed to describe mechanical and acoustical systems, leading to a 
+discussion of the constraints and tradeoffs involved in the design of loudspeakers, microphones, and 
+other transducers.  The characteristics of sound in regular and irregular enclosures will be developed and 
+discussed in the context of the acoustical design of rooms and auditoriums.  The interaction of sound and 
+man is also discussed, with introductory lectures on auditory perception and speech production.  Given 
+time, we may have some lectures with applications in the areas of efficient perceptually-based coding of 
+music and speech, and virtual acoustical environments.  
+The study of acoustics is challenging because the wavelengths of sound are both long and short  
+compared to the size of typical devices that produce or monitor sound, such as loudspeakers, 
+microphones, and the human head.  As a consequence, we will examine generation and propagation of 
+sound using three types of mathematical frameworks: distributed-parameter modeling (in the context of 
+topics such as travelling waves, plane waves, boundary conditions, and simple sources), lumped-
+parameter modeling (in the context of topics such as mechanical and acoustic circuits, with applications 
+to the design of transducers, mufflers, etc.), and statistical modeling (in the context of architectural 
+acoustics and the design of auditoriums).  
+ 
+
+ 
+ 
+ 
+Homework: 
+ 
+Doing homework is integral to understanding the course material.  Please take the time to do your 
+homework.  It is weighted high in this course (equivalent to the weight of one exam) to encourage you to 
+work on it.  Exams will be difficult if you haven't worked the homework problems.  I am not yet sure of 
+the homework schedule, since it will somewhat depend on how we progress through the material, but it 
+will be “roughly” weekly and will be available on the Canvas page when announced to you either in 
+class or via email.  It will be due at the beginning of lecture on the due dates.   No late homework will 
+be accepted (a "late" homework is one that is turned in more than 5 minutes after the scheduled 
+beginning of lecture on the due date), as solutions will be posted to the web page shortly after the set is 
+due. 
+ 
+I will allow “group” homework on most assignments.  A “group” will have a maximum size of two.  If 
+you choose to partner up with someone to do homework, I would only like to receive one copy of the 
+homework, with both names on the paper.  Please don’t use this as an opportunity to “take turns” or 
+“each do half of the problems”.  I may require individual homework on a few of the sets.  This will be 
+noted on the homework handout.  On exams, you will need to do your own work so it is in everyone’s 
+best interest to be integrally involved in the solutions to the homework problems. 
+ 
+Emphasis in this course will be on people learning new material, so I’d like you to fret less about your 
+grade and instead concentrate on getting as much as you can out of the class. 
+ 
+Exams: 
+ 
+Three 24-hour take-home exams will be given during the semester and will take place on the following 
+dates, please reserve them in your schedule (and plan interview trips, plant trips, etc. accordingly): 
+ 
+Thursday, October 10 (week 7)  
+Thursday, November 21 (week 12) 
+Thursday, December 5 (comprehensive Final exam, week 14) 
+ 
+On exam days, the exam will be posted in Gradescope and on Canvas by 9:30 am.  I will be available 
+then during the normal lecture time to answer any basic questions about the exam (format, problem 
+statements, etc.).  You then have until 9:30 AM the day after the exam is handed out to upload your final 
+solutions to Gradescope.  NO LATE EXAMS WILL BE ACCEPTED! All exams will be considered 
+to be “comprehensive”, meaning that material learned earlier in the course is fair game on all exams. 
+(The material builds throughout the semester.) 
+ 
+There will be no formal final examination given during the final examination period this semester.  
+Exam III will be considered your “final” exam. 
+ 
+
+ 
+ 
+Grading: 
+ 
+25%  Homework 
+ 
+ 
+ 
+ 
+ 
+(lowest score dropped) 
+ 
+ 
+ 
+25% each, take-home exams 
+ 
+Course grades will be assigned via comparing your score to that of your classmates.  Groupings of 
+similar performance in the course will be given similar grades. 
+ 
+Re-grades 
+ 
+You have 1 week from the time an exam or homework assignment is returned to ask for a re-grade.  Be 
+aware that a request for a re-grade of any portion of an exam or homework assignment means that the 
+entire exam or homework assignment is subject to re-grade, and that there is a possibility that your grade 
+could be lowered as well as raised by this process.  We will only re-grade an exam if you feel an 
+extreme grading error has been made. 
+ 
+Exam Taking Policy(s) 
+ 
+All exams are to be taken during the scheduled exam dates and time.  Make-up exams are highly 
+discouraged.  If you are unable to take an exam at the scheduled time (for a valid reason, which means 
+extreme emergencies), you must meet with the instructor within one week of the originally scheduled 
+exam time to schedule a make-up exam, else you will receive a zero for that exam.  Make-ups will be 
+given at the convenience of the instructor and will generally be more difficult than the originally 
+scheduled exam.  The format of the make-up exam is up to the instructor.   
+ 
+If you have special circumstances approved by the Disabled Student Services office, it is up to you to 
+make arrangements with the instructor at least 72 hours before the scheduled exam time.  Failure to do 
+so will result in you taking the exam in the same place and at the same time (and for the same length of 
+time) as the rest of the class. 
+ 
+Cheating: 
+ 
+The take-home exams and group homework are not the norm for most courses in our department.  I’m 
+really putting my trust in all of you to do your own work and to participate fully.  You are not to look at 
+any materials from past semesters that this course was given, as some of the exams and assignments may 
+be re-used this semester.  The material in this course is such that everyone will do things her/his own 
+way so it will be pretty obvious to us if cheating has occurred.  Any student caught cheating in this 
+course will receive an R and the facts of the case and the penalty will be reported to the Dean of Student 
+Affairs.  While students may work in groups to discuss homework assignments, copying from other’s 
+homework (present or past years or past year’s solutions) or exam or allowing another student to copy 
+his/her work, will be considered as cheating.  
+ 
+
+ 
+ 
+Topics in (probable) order of course coverage  
+ 
+Introduction to sound and acoustics 
+The wave equation and its solutions 
+1-d wave equation solutions: travelling waves and complex amplitudes. 
+Travelling waves, standing waves, and acoustic impedance. 
+Reflections, impedance, and the standing wave ratio (SWR) 
+Simple sources and arrays of sources. 
+Applications to sound reinforcement 
+Acoustical energy and intensity 
+Generalized lumped-parameter elements 
+Dual networks and mechanical circuits 
+Acoustic elements and circuits 
+Radiation impedance and directivity of radiation 
+Introduction to transducers 
+Introduction to microphones and their design 
+Introduction to loudspeaker design 
+Loudspeaker enclosures and contemporary design approaches 
+Sound in regular enclosures 
+Sound in irregular enclosures 
+Design of modern auditoria for music and speech 
+ 
+Possible special topics: 
+ 
+Auditory Perception 
+Hearing impairment 
+Acoustics of speech production 
+MPEG audio coding 
+Power amp design 
+Noise control in buildings 
+Guest lectures 
+
+ 
+ 
+ABET Student outcomes for ECE programs: 
+ 
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles 
+of engineering, science, and mathematics. 
+2. An ability to apply engineering design to produce solutions that meet specified needs with 
+consideration of public health, safety, and welfare, as well as global, cultural, social, 
+environmental, and economic factors. 
+3. An ability to communicate effectively with a range of audiences. 
+4. An ability to recognize ethical and professional responsibilities in engineering situations and 
+make informed judgments, which must consider the impact of engineering solutions in global, 
+economic, environmental, and societal contexts. 
+5. An ability to function effectively on a team whose members together provide leadership, create a 
+collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. 
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and 
+use engineering judgment to draw conclusions. 
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. 
+
+ 
+ 
+ECE

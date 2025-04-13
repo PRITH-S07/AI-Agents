@@ -1,0 +1,282 @@
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Course Syllabus 
+18-452/18-750: Wireless Networking and Applications 
+ Spring 2025 
+ 
+Instructor: 
+Peter Steenkiste 
+Office Location: 
+GHC 9107 
+Email Address: 
+prs@andrew.cmu.edu 
+Office Hours: 
+TBA on web site 
+Web Site: 
+http://www.cs.cmu.edu/~prs/wirelessS24 
+ 
+Teaching Assistant: Smriti Jha 
+Email Address: smritij@andrew.cmu.edu 
+Office Hours: TBD 
+ 
+Course Management Assistant: Tracy Farbacher  
+Email Address: .tracyf@cs.cmu.edu  
+Office Location: please use e-mail 
+ 
+Course Description: 
+ 
+This course introduces fundamental concepts of wireless networks. The design of 
+wireless networks is influenced heavily by how signals travel through space, so the 
+course starts with an introduction to the wireless physical layer, presented in a way that is 
+accessible to a broad range of students. The focus of the course is on wireless MAC 
+concepts including CSMA, TDMA/FDMA, and CDMA. It also covers a range of 
+wireless networking standards, and reviews wireless network application areas (e.g., 
+sensor networks, vehicular) and other applications of wireless technologies (e.g., GPS, 
+RFID, sensing, etc.). Finally, we will touch on public policy issues, e.g., spectrum use. 
+ 
+The course will specifically cover: 
+ Wireless networking challenges 
+ Wireless communication overview 
+ Wireless MAC concepts 
+ Overview of cellular standards and LTE 
+ Overview of wireless MAC protocols WiFi, bluetooth and personal area 
+networks, etc. 
+ Wireless in today's Internet: TCP over wireless, mobility, security, etc. 
+ Advanced topics, e.g., RFIDs, vehicular networks, sensor networks, DTNs, 
+localization, sensing, etc. 
+ 
+
+2
+ 
+All information regarding the course will be posted on this web page so please check the 
+page regularly. We will also make announcements in class. 
+ 
+Number of Units: 
+12 
+Pre-requisites: 
+18-213, 15-213, or 15-513 or equivalent background. C/C++ 
+and/or Java programming skills are also needed for the project. 
+Course Designation: Coverage 
+Course Area: 
+Computer Software 
+ 
+Class Schedule:
+ 
+
+Lecture:
+Monday, Wednesday
+2:30 pm – 4:20 pm
+Wean 5302
+ Recitation: Friday 
+11:50am – 1:00pm 
+Doherty 1112 
+ 
+ 
+Required Textbook: 
+A lot the course material can be found in an online book published by 
+Springer: Introduction to Wireless Networking and Its Impact on Applications. Access is 
+free for people at CMU (make sure you are authenticated!). Note that the lectures will 
+often have additional material.  
+ 
+The following textbook may also be useful: "Wireless Communication Networks and 
+Systems", Cory Beard and William Stallings, Pearson, first edition, 2015. Again, it does 
+not cover all the course material.  A more recent alternative is "Wireless 
+Communications", Andreas Mulisch, Wiley, 3rd edition, 2022, which covers roughly the 
+same topics. Both textbooks provide a lot more detail than we have time for in the 
+course. 
+ 
+Assignments: 
+Four homeworks will be assigned throughout the course. Homeworks must be submitted 
+using Gradescope by 5pm the day they are due. Homeworks cannot be submitted 
+electronically through e-mail or blackboard. Late homeworks will be assessed a 30% 
+penalty. No homeworks will be accepted more than one day late. 
+ 
+The homework schedule will be announced on the web site. 
+ 
+This course also includes a midterm and a final. The midterm will be on Monday, 
+February 27th , during class time. It is closed book and covers the material in lecture 1-
+13. The date and location for the final will be posted by the registrar. 
+ 
+Project: 
+The course includes two hands-on projects. The first one is an individual measurement project 
+while the second project is a larger, open-ended project executed by small teams of students. 
+ 
+The educational objectives of the course project include the ability to apply knowledge of 
+mathematics, science, and engineering; to design and conduct experiments, as well as to 
+analyze and interpret data; to design a system, component, or process to meet desired 
+
+3
+ 
+needs within real-world constraints; the ability to function on multi-disciplinary teams; 
+and to identify, formulate, and solve engineering problems. 
+ 
+The due dates for the project miles stones will be announced on the course web site. 
+ 
+Survey Presentations: 
+A block of lectures in the course will be dedicated to more advanced topics. This part of 
+the course will consist of presentations by both the instructor and by the students. Each 
+student will prepare and present one survey. More details on the survey assignment, 
+including list of topics, can be found in the Survey Handout. That page also includes a list 
+of papers for each topic. The papers from a previous offering can be found on the 
+schedule for the student talks can be found on the Survey Papers page. 
+ 
+The dates for survey presentations will be announced on the web site once the student 
+teams have selected their topics. 
+ 
+The survey lectures are part of the course, and the material presented in the presentations 
+will be covered in the homeworks and final. Specifically, the slides used in the survey 
+presentation and one of the papers on the reading list, should be studied to prepare for the 
+final. Both the slides and the selected paper can be found in the table with the course 
+schedule. 
+ 
+The education goals for the survey presentations include a recognition of the need for, 
+and an ability to engage in life-long learning; and an ability to communicate effectively. 
+ 
+Grading Algorithm: 
+10% 
+Homework 
+5% and 25% 
+Projects 
+10% 
+Survey Talk 
+20% 
+Midterm 
+30% 
+Final 
+
+4
+ 
+Tentative Course Calendar: 
+ 
+Week of
+Monday
+Wednesday
+Friday
+1/13
+Intro, course overview
+Wireless challenges
+Physical layer
+1/20
+MLK
+Physical layer
+Physical layer
+1/27
+Physical layer
+Wireless MAC
+Introduction Projects, Survey
+2/3
+WiFi basics
+WiFi 
+WiFi versions
+2/10
+Today’s WiFi
+Cellular 1
+Cellular 2
+2/17
+Cellular LTE
+Cellular 5G
+No class
+2/24
+Q&A midterm
+Midterm
+Spring break
+3/3
+Spring break
+Spring break
+Spring break
+3/10
+Wireless and IP
+Wireless and TCP/apps
+PAN
+3/17
+Sensor networking
+RFID
+Localization
+3/24
+DSA
+3/31
+Spring Carnival
+4/7
+Student Survey 
+presentations
+Student Survey 
+Presentations 
+ 
+4/14
+Student Survey
+presentations
+4/21
+Project presentations
+Course review
+ 
+The ECE department  Changes in the schedule will be posted on the course website and will be 
+announced in class. 
+ 
+Education Objectives (Relationship of Course to Program Outcomes): 
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET 
+defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you 
+take.  The following list describes which objectives are fulfilled by 18-452/750 and in what 
+manner they are fulfilled. Objectives not fulfilled by 18-452/750 have been omitted from the 
+following list but are covered in other courses: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by applying 
+principles of engineering, science, and mathematics: 
+ 
+The students use mathematical concepts to model signal propagation and learn how to 
+apply engineering principles to optimize network bandwidth and design wireless networks.  
+ 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors: 
+ 
+The students learn how to optimize individual radio channels, wireless network 
+connections, and wireless networks. Besides technical constraints, constraints imposed 
+by spectrum policy and economic realities are an important consideration. 
+ 
+3. an ability to communicate effectively: 
+ 
+
+5
+ 
+Students give several presentations. They must present a mid-semester update and a final 
+report on their project 2. In addition, each student must present a “survey” of a specific 
+wireless topic, effectively a 30 minute mini lecture on that topic based on ~3 research 
+papers and background reading.  These presentations are in front of the class, i.e., ~20 
+students. Students also must write a short (5-10 pages) final report for their project that 
+states the goals and requirements of the system they built, describes its design and 
+implementation, and presents and analyzes measurements of the system. 
+ 
+4. an ability to function effectively on a team whose members together provide leadership, 
+create a collaborative and inclusive environment, establish goals, plan tasks, and meet 
+objectives 
+ 
+The second course project is performed in in teams of 2-3 students. Besides technical 
+project goals, the students learn teamwork and team management skills. The course attracts 
+student with very diverse backgrounds, including signal processing, computer engineering, 
+and engineering and public policy, so some teams are inter-disciplinary in nature. 
+ 
+5. an ability to develop and conduct appropriate experimentation, analyze and interpret data, 
+and use engineering judgment to draw conclusions 
+ 
+In the first project students measure the received signal strength in different scenarios (line-
+of-sight versus non-line of sight, different distances, mobility versus stationary, etc.).  The 
+students are asked to analyze the results and interpret the data within the context of the 
+material taught in the course. 
+ 
+6. an ability to acquire and apply new knowledge as needed, using appropriate learning 
+strategies  
+ 
+In Project 2, teams of students do a large course project on a topic of their choice.  About 
+half the projects are on topics that are covered only lightly, or not at all, in the course.  
+Examples include projects building a simple network using visible light or acoustic 
+communication channels, cross-technology communication, or IoT communication in the 
+white spaces, and sensing using WiFi .  This requires students learn about these new topics 
+and apply their knowledge to their project. 
+ 
+ 
+ECE

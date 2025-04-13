@@ -1,0 +1,145 @@
+1 
+                                                                                                                       
+ 
+ 
+Course Syllabus 
+18632: Hardware Security   
+Spring 2025 
+ 
+ 
+Instructor: 
+ 
+Sam Pagliarini 
+Office Location:        HH2120 
+Email Address:         pagliarini@cmu.edu  
+Office Hours:  
+Fridays 9-11am 
+ 
+Teaching Assistant: - 
+Email Address: 
+- 
+Office Hours:  
+-
+Course Support: Academic Services Center 
+Office Location: HH 1113 
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+ 
+ 
+Course Description:  
+This course covers basic concepts in the security of hardware systems. Topics covered 
+include active and passive attacks, reverse engineering, counterfeiting, obfuscation, and 
+design of hardware security primitives (e.g., random number generators, physical 
+unclonable functions, and cryptographic accelerators). Lab sessions will give students 
+hands on experience with performing attacks, developing countermeasures, and 
+implementing secure hardware building blocks. 
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites:  
+- 
+ 
+Graduate Area:  
+ 
+ 
+Class Lecture: 
+- 
+ 
+ 
+Required Textbook: - 
+ 
+ 
+Suggested Reading: Check reading assignments in Canvas. 
+ 
+
+ 
+2 
+ 
+Reference Materials:  Check reading assignments in Canvas. 
+ 
+Brief List of Topics Covered: 
+Reverse Engineering, Hardware Obfuscation, Cryptographic hardware engineering, True 
+random number generators, Physically Unclonable Functions 
+ 
+Course Canvas:  
+https://canvas.cmu.edu/courses/44613  
+ 
+Course Website: 
+https://canvas.cmu.edu/courses/44613  
+ 
+Homework Projects:  
+Check assignments in Canvas. Deadlines are March 12 and Apr 25. 
+ 
+Reading Assignments:  
+Check reading assignments in Canvas. 
+ 
+Grading Algorithm:  
+Two projects and final exam make up the final grade as follows: 
+ P1=20% of the grade 
+ P2=40% of the grade 
+ Ex=40% of the grade 
+ 
+The weighted Average Letter Grade follows the distribution below: 
+>= 90% A 
+>= 80% B 
+>= 70% C 
+>= 60% D 
+< 60% R 
+ 
+A couple more items worth mentioning since they are grade related: the course has 
+several labs, one every week. These labs are *NOT* graded but they are a build-up to the 
+projects. Not completing the labs on time will put you in a very bad position to complete 
+the projects on time. For the projects, you can present as many times as needed 
+*BEFORE* the deadlines. There are no penalties for presenting it multiple times and fix 
+from one iteration to the next. In fact, this is highly encouraged. For this reason, there are 
+absolutely *NO* grace days on the projects. There are also no extra credits for early 
+presentation/delivery. 
+ 
+The final exam does not have any coding questions. Why? Because the projects are 
+meant to check your ability to write security-aware hardware description, whereas the 
+exam will check your understanding of technical concepts. The exam features questions 
+from the lecture materials *AND* questions from the reading assignments.  
+ 
+
+ 
+3 
+ 
+There will be integrity checks as the assumption is that every project is the work of a 
+single individual. A project is considered delivered if submitted on Canvas before the 
+deadline and it has been presented to the instructor also before the deadline.  
+ 
+A final note on ChatGPT: while not strictly banned, please understand that this is a tool 
+that is severely limited when describing hardware. It makes several mistakes, and no sane 
+circuit designer would consider it to generate security modules. You shouldn’t either. It is 
+a waste of your time and the instructor’s time.  
+ 
+ 
+Tentative Course Calendar:  
+Check schedule in Canvas under cheat_sheet.pdf 
+ 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of 
+all the courses you take.  The following list describes which objectives are fulfilled by 
+this course and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by this course 
+have been omitted from the following list: 
+ 
+1. an ability to identify, formulate, and solve complex engineering problems by 
+applying principles of engineering, science, and mathematics 
+2. an ability to apply engineering design to produce solutions that meet specified 
+needs with consideration of public health, safety, and welfare, as well as global, 
+cultural, social, environmental, and economic factors 
+3. an ability to communicate effectively with a range of audiences 
+4. an ability to recognize ethical and professional responsibilities in engineering 
+situations and make informed judgments, which must consider the impact of 
+engineering solutions in global, economic, environmental, and societal contexts 
+5. an ability to function effectively on a team whose members together provide 
+leadership, create a collaborative and inclusive environment, establish goals, plan 
+tasks, and meet objectives 
+6. an ability to develop and conduct appropriate experimentation, analyze and 
+interpret data, and use engineering judgment to draw conclusions 
+7. an ability to acquire and apply new knowledge as needed, using appropriate 
+learning strategies. 
+ 
+ECE

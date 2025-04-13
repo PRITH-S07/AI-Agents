@@ -1,0 +1,369 @@
+Course Syllabus
+18-740: “Modern Computer Architecture and Design”
+(Fall 2024)
+Instructor: John Paul Shen
+ast Co-In
+Office Location: CMU-SV, B23-114
+Sau
+Email Address: john.shen@sv.cmu.edu
+Email: gh
+Office Hours on Zoom: Wed 6:00pm-8:00pm ET (schedule via email)
+Head Teaching Assistant:
+Lecturer & Ex-Head Teaching Assistant:
+Shanmuga Venkatachalam
+Harideep Nair
+Email: shanmugv@andrew.cmu.edu
+Email: harideep.nair@sv.cmu.edu
+Office Hours: TBA
+Office Hours: TBA
+Teaching Assistant: (A/C)
+Teaching Assistant: (B/D/SV)
+Yichen Ni
+Aadesh Desai
+Email: yichenn@andrew.cmu.edu
+Email: aadeshkd@andrew.cmu.edu
+Office Hours: TBA
+Office Hours: TBA
+Teaching Assistant: (A/C)
+Teaching Assistant: (B/D/SV)
+Wei-Che Huang
+Chi Nguyen
+Email: weichehu@andrew.cmu.edu
+Email:
+clnguyen@andrew.cmu.edu
+Office Hours: TBA
+Office Hours: TBA
+Class Schedule:
+Lectures 1/3, Sections A/C: (46) - BH-A36
+Recitation, Sections A/C: (46) - DH-1211
+TR, 12:30pm to 1:50pm (ET) (in-person)
+F, 11:00am to 11:50pm (ET) (in-person/remote)
+Lectures 1/3, Sections B/D: (46) - BH-A36
+Recitation, Sections B/D: (46) - DH-1211
+TR, 12:30pm to 1:50pm (ET) (in-person)
+F, 2:00pm to 2:50pm (ET) (in-person/remote)
+Lectures 2, Section SV: (8) - B23-212
+Recitation, Section SV: (8) - B23-211
+TR, 9:30am to 10:50am (PT) (in-person)
+F, 11:00am to 11:50am (PT) (in-person)
+__________________________________________________________________________________________________________________________________________________________________________
+Course Description: Computer architecture deals with the art and science of designing and integrating hardware
+subsystems, by spanning across the hardware/software interface to create a computer system that achieves functional
+correctness and meets design objectives in performance, power, energy, and cost. This course provides in-depth
+coverage of modern computer systems, with a special focus on System-on-Chips (SoCs) for mass-market mobile and
+edge computing devices, including smartphones, tablets, and diverse smart home/office devices. Topics covered span
+the design and evaluation of three major subsystems: (1) Processing Subsystem: superscalar out-of-order cores,
+multicore processors, asymmetric cores, and heterogeneous cores, AI/DL accelerators, (2) Memory Subsystem: main
+memory and DRAM, multicore cache hierarchy, and co-processor shared memory management, and (3) Interconnect
+Subsystem: Network on Chip (NoC), Multi-Die Packages, and Chiplets.
+Each subsystem will be studied from the
+perspective of several first-class design goals: performance, power consumption, and energy efficiency. This course
+places a strong emphasis on professional design tools (e.g., architecture/microarchitecture simulators, RTL design and
+synthesis tools, area/power/thermal modeling), and hands-on experimentation on physical hardware systems with the
+goal of preparing students to be highly competent processor designers and computer architects in the industry.
+Recommended Pre/Co-requisites: 15-513/18-613; 18-447 (or a course based on Computer Organization and
+Design by Patterson & Hennessy). Having Verilog and Gem5 experience would be very helpful.
+Required Textbooks: (1) Modern Processor Design: Fundamentals of Superscalar Processors, by John Shen and
+Mikko Lipasti, 2005; reissued by Waveland Press Inc, 2013. ISBN 10: 1-4786-0783-1, ISBN 13: 978-1-4786-0783-0.
+(2) Modern System-on-Chip Design on Arm by David J. Greaves, 2021. ISBN 978-1-911531-36-4. Free copy available:
+https://www.arm.com/resources/education/books/modern-soc
+
+Course Calendar: 18-740 Fall 2024 (08/26/2024) (Periodically updated during the course of the semester.)
+Week Date
+Day
+Class Activity
+Labs
+Lab 0: Orientation (1 week)
+Lab 0
+Week
+1
+8/27
+Tues
+Lecture 1: Computer Architecture & Processor Design [JS]
+8/29
+Thur
+Lecture 2: Modern Superscalar Out-of-Order Processors [JS]
+8/30
+Fri
+Recitation 1: Course Overview & Lab 1 Preview
+Lab 1: CPU Design: Dynamic Branch Predictors (2 weeks)
+Lab 1
+Week
+2
+9/3
+Tues
+Lecture 3: Advanced Dynamic Branch Prediction Techniques [JS]
+9/5
+Thur
+Lecture 4: Instruction Fetch and Decode Techniques [JS]
+9/6
+Fri
+Recitation 2: Lab 1 Discussion
+Week
+3
+9/10
+Tues
+Lecture 5: Register Renaming & Out-of-Order Execution [JS]
+9/12
+Thur
+Lecture 6: Dynamic Instruction Scheduling Techniques [JS]
+9/13
+Fri
+Recitation 3: Lab 2 Preview (ROB, RS, & IQ Designs)
+Lab 2: CPU Design: Superscalar Out-of-Order Structures (2.5 weeks)
+Lab 2
+Week
+4
+9/17
+Tues
+Lecture 7: Modern Superscalar O-o-O Processor Design [JS]
+9/19
+Thur
+Lecture 8: Dealing with Long Latency Memory Instructions [JS]
+9/20
+Fri
+Recitation 4: Lab 2 Discussion; Cadence Tutorial; Reg. Renaming
+Week
+5
+9/24
+Tues
+Lecture 9: Modern SoC - Managing Data & Memory Hierarchy [HN]
+9/26
+Thur
+Lecture 10: Modern SoC - Main Memory & Data Storage [HN]
+9/27
+Fri
+Recitation 5: Lab 2 Checkpoint; Out-of-Order Interactions
+Week
+6
+10/1
+Tues
+Lecture 11: Modern SoC - Multicore Cache Coherence [HN]
+10/3
+Thur
+Lecture 12: Modern SoC - Interconnect & Data Movement [HN]
+10/4
+Fri
+Recitation 6: Lab 3 Preview; Review for Midterm Exam #1
+Lab 3: Asymmetric Cores: Multicore CPUs & Shared Memory (3 weeks)
+Lab 3
+Week
+7
+10/7
+Mon
+MIDTERM EXAM #1
+10/8
+Tues
+Lecture 13: Qualcomm Snapdragon 8 Gen 2 Mobile Platform [SV]
+10/10 Thur
+Lecture 14: Performance, Power, Energy Efficiency Iron Laws [JS]
+10/11
+Fri
+Recitation 7: Lab 3 Discussion; Load/Store Queue Design
+10/14-10/18
+NO CLASSES - Fall Break!!!
+2
+
+Week
+8
+10/22 Tues
+Lecture 15: System Level Memory Prefetching [TH]
+[Tyler Huberty - Apple] CMU alum
+Lab 3
+10/24 Thur
+Lecture 16: Parallel Architecture and Parallel Programming [SM]
+[Scott Mionis - Apple] CMU alum
+10/25
+Fri
+Recitation 8: Lab 4 Preview
+Lab 4: Heterogeneous Cores: with GPUs (2.5 weeks)
+Lab 4
+Week
+9
+10/29 Tues
+Lecture 17: Special Guest #1 Career Story of a Computer Architect
+[Bob Colwell - Multiflow, Intel, DARPA] CMU alum
+10/31 Thur
+Lecture 18: Meta Data Center Architecture for AI/ML Workloads
+[Abhinav Jauhri - Meta] CMU alum
+11/1
+Fri
+Recitation 9: Lab 4 Discussion
+Week
+10
+11/5
+Tues
+NO CLASS - Democracy Day
+11/7
+Thur
+Lecture 19: Experimental Characterization of LLM Workloads [PV]
+11/8
+Fri
+Recitation 10: NVIDIA CUDA: GPU & GPGPU [AD]
+Week
+11
+11/12 Tues
+Lecture 20: Heterogeneous CPU-GPU Memory Coherence [AE]
+[Avinash Eega - NVIDIA] CMU alum
+11/14
+Thur
+Lecture 21: NVIDIA Grace-Blackwell CPU-GPU Architecture [AE]
+[Avinash Eega - NVIDIA] CMU alum
+11/15
+Fri
+Recitation 11: Lab 5 Preview
+Lab 5: Heterogeneous Cores: with NPUs (2.5 weeks)
+Lab 5
+Week
+12
+11/19 Tues
+Lecture 22: Special Guest #2 Career Story of a Computer Architect
+[Bob Rychlik - Intel, Qualcomm] CMU alum
+11/21
+Thur
+Lecture 23: Special Guest #3 Career Story of a Computer Architect
+[Quinn Jacobson - Sun, Intel, Nokia,] CMU faculty
+11/22
+Fri
+Recitation 12: Lab 5 Discussion
+Week
+13
+11/26 Tues
+NO CLASS
+11/28
+Thur
+NO CLASS - Thanksgiving Holiday
+11/29
+Fri
+NO CLASS - Thanksgiving Holiday
+Week
+14
+12/3
+Tues
+Lecture 24: Industry Megatrends and Emerging Innovations [JS]
+12/5
+Thur
+Lecture 25: Introduction to Neuromorphic Processor Design [JS]
+12/6
+Fri
+Recitation 13: Review for Midterm Exam #2
+12/11 Wed
+MIDTERM EXAM #2
+3
+
+Lab Assignments: (Possible minor updates during the course of the semester)
+Lab 0: Orientation (1 week)
+- Learn how to run programs
+- Do some initial analysis of metrics and pipeline stalls
+- Play around with different built-in processor configurations
+- Tools: Gem5, McPAT
+Lab 1: CPU Design: Dynamic Branch Predictors (2 weeks)
+- Implement different branch predictors (global, local, gshare, perceptron, TAGE) in C
+- Study various metrics: performance, energy, area, efficiency
+- Students come up with their own branch prediction algorithm (competition for best performance)
+- Tools: Gem5, McPAT
+Lab 2: CPU Design: Superscalar Out-of-Order Structures (2.5 weeks)
+- Study issue queues, wakeup/select logic, ROB sizing, dependency checking
+- Explore superscalar widths, pipeline stages, RS and ROB implementations
+- SystemVerilog implementation (ROB, IQ, Renaming) with logic synthesis
+- Tools: Gem5, McPAT, Cadence
+Lab 3: Asymmetric Cores: Multicore CPU & Shared Memory System (3 weeks)
+- Study asymmetric CPU cores using real hardware (SOTA Snapdragon HDK) and evaluate perf-power tradeoffs
+- Develop benchmarks to stress test branch predictor, ROB/IQ
+- Experiment with EPI throttling with asymmetric big and little CPU cores
+- Implement cache coherence protocols (MSI, MESI)
+- Develop benchmarks to stress test L1 and L2/L3 shared caches
+- Tools: Qualcomm Snapdragon 8 Gen 2 SoC Hardware Development Kit (HDK), simpleperf, Gem5
+Lab 4: Heterogeneous Cores: with GPUs (2.5 weeks)
+- Explore heterogeneous cores (CPU, GPU) and their tradeoffs
+- Evaluate multiple objectives: performance, power consumption, energy efficiency
+- Develop graphics vertex/fragment shaders in OpenGL and general-purpose compute shaders in Vulkan
+- Explore performance bottlenecks of graphics workloads (divergence, data movement) and ways to alleviate them
+- Tools: Qualcomm Snapdragon 8 Gen 2 SoC HDK, Android Studio, Snapdragon Profiler
+Lab 5: Heterogeneous Cores: with NPUs (2.5 weeks)
+- Explore heterogeneous cores (CPU, GPU, NPU) and their tradeoffs
+- Evaluate multiple objectives: performance, power consumption, energy efficiency
+- Run SOTA AI benchmarks on Snapdragon SoC and analyze their performance-power tradeoffs
+- Optimize neural networks for Snapdragon SoC (quantization, mapping) and run on CPU, GPU, NPU
+- Explore performance bottlenecks of AI workloads and ways to alleviate them (Hexagon code optimization)
+- Tools: Qualcomm Snapdragon 8 Gen 2 HDK, Android Studio, Snapdragon Neural Processing Engine (SNPE)
+4
+
+18-740 COURSE GRADING POLICY
+Lab Assignments
+You will work on Labs 1-5 in small teams of 2 students each. All lab assignments are due at 11:59pm ET on the
+specified due date (lab deliverables usually on a Monday).
+The penalty for late assignments is 10% per day. Each student will receive a total budget of five grace days for the
+entire course. Each grace day can be used to cover one day late without incurring the 10% penalty.
+•
+Grace days are applied automatically until you run out. But, no more than two grace days can be used on any one lab
+assignment. Once you have spent all of your grace days, then you will receive a penalty of 10% for each subsequent
+late day.
+•
+Late assignments will only be accepted up to two days after the specified due date, or the termination date, i.e.,
+all late submissions must be submitted by the termination date and can only be late by at most two days.
+Grading Algorithm:
+60%
+Lab Assignments (5)
+20%
+Midterm Exam #1
+20%
+Midterm Exam #2
++10%
+Weekly MCQ Quizzes (bonus)
+110%
+TOTAL
+Final Grade Assignment
+Each student will receive a numeric score for the course, based on a weighted sum of the following:
+•
+Lab Assignments (60%): There are a total of five lab assignments, which will count a combined total of 60% of your
+course score. Assignments may have different weightings, based on the relative effort required.
+•
+Exams (40%): There will be two exams (each preceded by a review session) counting 20% each.
+•
+Weekly MCQ Quizzes (+10% bonus): Short weekly quizzes (~3 multiple-choice questions) due on Friday before
+recitation, that cover the corresponding two lectures from that week, accounting to a total of extra 10%.
+Final Letter Grades for the course will be determined by the total of lab assignments and exams with appropriate
+weightings. A class curve will be set based on the distribution of the total scores (including MCQ quizzes). Historically,
+the class average of the total scores has been around 75%-85% with a B+ curve for the entire class, i.e. the average of
+letter grades for the entire class will be in the 3.3-3.5 range. Individual cases, especially those near the cutoff points, may
+be adjusted based on factors such as class attendance, class participation (including contributions during lectures and
+recitations, and on Piazza), improvement throughout the course, and special circumstances.
+Important Links:
+●Canvas: https://canvas.cmu.edu/courses/42037
+●Piazza: https://canvas.cmu.edu/courses/42037/external_tools/11046
+●Panopto Recordings: https://canvas.cmu.edu/courses/42037/external_tools/467
+5
+
+Education Objectives (Relationship of Course to Program Outcomes):
+The ECE department is accredited by ABET to ensure the quality of your education. ABET defines 7 Educational
+Objectives that are fulfilled by the sum total of all the courses you take. The following list describes which objectives
+are fulfilled by 18-740 and in what manner they are fulfilled.
+(1) An ability to identify, formulate, and solve complex engineering problems by applying principles of
+engineering, science, and mathematics: The course poses many problems; in labs, during exams, and for in-class
+exercises; for the student to formulate and solve using good engineering practice. The student will use mathematical and
+engineering concepts to model and design hardware and to solve complex problems in the processor design and computer
+architecture domain.
+(2) An ability to apply engineering design to produce solutions that meet specified needs with consideration of
+public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors: The
+course is on processor design and computer architecture, so the student will start to gain insight into the process of
+designing components and then designing systems using those components. Some economic and manufacturability
+constraints will be discussed. At all appropriate points, safety will be emphasized.
+(3) An ability to communicate effectively with a range of audiences: Students practice their communication skills
+during laboratory exercises as well as the basic written communication of problem solutions on homework and exams. In
+all such cases, the audience is small.
+(4) An ability to recognize ethical and professional responsibilities in engineering situations for the greater good of
+humanity: make informed judgments, which must consider the impact of engineering solutions in global, economic,
+environmental, and societal contexts.
+(5) An ability to function effectively on a team whose members together provide leadership, create a collaborative
+and inclusive environment, establish goals, plan tasks, and meet objectives: Students will operate in 2-person teams
+for the laboratory exercises. These are not multi-disciplinary teams, but the student will start to learn teamwork and team
+management skills, particularly conflict resolution.
+(6) An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use
+engineering judgment to draw conclusions: Laboratory exercises provide for the opportunity to conduct experiments.
+The student will design experiments and analyze data throughout the debugging process in order to generate a
+functioning design and evaluation process to assess the design’s performance, power, and die area.
+(7) An ability to acquire and apply new knowledge as needed, using appropriate learning strategies: During
+informal “skull sessions” students will have the opportunity to interact with the instructor and engage in insightful
+discussions on current and emerging industry trends, competitive dynamics, and successful career strategies.
+ECE

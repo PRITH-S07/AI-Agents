@@ -1,0 +1,441 @@
+18-742 Home
+Syllabus
+Summaries
+Project
+Announcements
+1/9: Announcements will
+be via Piazza
+18-742 Piazza
+18-742 Computer Architecture and Systems,
+Spring 2025
+Overview
+18-742 is a PhD course in computer architecture and
+systems. The learning objectives are:
+To understand the state of the art in computer
+architecture, and how and why we got there.
+To understand how to engage in computer
+architecture and systems research.
+To investigate novel ideas in computer architecture and systems through a semester-
+long research project.
+Please note: This course is open to ECE and SCS Ph.D. students. Other students may be
+admitted by the permission of the instructor; please attend the first few sessions to see if
+you're interested. There will be a hard limit for the total number of students to ensure good
+in-class discussion and sufficient "face-time" for project meetings.
+This course assumes a basic familiarity with computer architecture concepts. The course
+will consist of a reading/lecture/discussion component and a project component. The class
+will cover approximately 50 research papers (25 are required reading). Some of these
+papers will introduce students to the basic principles on which modern computer
+architecture and systems are based. Others will cover more recent work to explore the
+state of the art and observe the evolution of computer architecture over time.
+Students are expected to read papers before the class and participate in the discussion
+during the class.
+Lecture time: MWF 11:00 - 12:20
+Note: Class will meet on average two times per week. See the syllabus for the
+exact schedule.
+Units: 12
+Location: POS 146
+We will be using Piazza for class announcements and out-of-class questions. Rather than
+emailing questions to Phil or Mitchell, please post your questions on Piazza at 18-742
+Piazza.
+
+Although most of the course information is on these web pages, the course is also on
+Canvas. In particular, assignments will be turned in using Canvas.
+Course Staff
+Instructor
+Name
+Email
+Office
+Office Hours
+Phil
+Gibbons
+gibbons AT cs DOT cmu DOT
+edu
+GHC
+7221
+Fri 1-2
+pm
+Teaching Assistant
+Name
+Email
+Office
+Office Hours
+Mitchell
+Fream
+mfream AT andrew DOT
+cmu DOT edu
+Hamershlag
+A208
+Wed 3-4
+pm
+Course Admin
+Name
+Email
+Office
+Michael Stanley
+mstanle2 AT andrew DOT cmu DOT edu
+GHC 7117
+Course Policies
+Collaboration
+Students are encouraged to talk to each other, to the course staff, or to anyone else about
+any of the assignments, but must write up their own solutions. For group projects, students
+can collaborate within the group fully and work together to write all project reports.
+Generative AI Course Policy
+It is NOT permitted to use Generative AI systems such as ChatGPT to help write
+paper summaries and project reports.
+It is NOT permitted to use Generative AI systems to generate research ideas or
+solutions for your course projects.
+
+You are welcome to use Generative AI systems (e.g., CoPilot) for assistance in
+writing code for your course project. It does not need to be explicitly cited or
+mentioned when submitting your code. However, for all code you submit and
+experimental findings you report, please make a good faith effort to double-check the
+correctness of both the code and the findings that result from the code.
+Late Policy
+The deadline for any assignment can be extended with a 10% penalty per day.
+No deadline can be extended by more than two days. Assignments will NOT be
+accepted 48 hours after the due date.
+The project presentations must be given on the day they are scheduled.
+If you are ill: Contact the instructor and get a medical note.
+Last updated: 2025-01-15 22:08:39 -0500 [validate xhtml]
+
+18-742 Home
+Syllabus
+Summaries
+Project
+18-742 Syllabus
+Textbooks
+There are no official texts for the course. If
+you're not familiar with the background
+material,
+you may wish to look at:
+Computer Systems: A Programmer's
+Perspective, by Randal Bryant and David
+O'Hallaron.
+Computer Architecture: Quantitative
+Approach, by John Hennessy and David
+Patterson.
+Computer Organization and Design:
+RISC-V Edition, by David Patterson and
+John Hennessy.
+Remzi Arpaci-Dusseau's OS lecture notes
+are a great, free, online resource for
+background undergrad operating systems
+concepts.
+You might take a peek at the following CMU undergrad systems courses for background
+information on computer systems (15-213/18-213), computer architecture (18-447), and
+parallel computer architecture (15-418).
+There are also other PhD-level computer architecture courses, such as 18-740 and 15-740.
+Schedule
+Also available as an ical file that you can subscribe to.
+Note: Class will meet on average two times per week, but we will frontload the lectures at
+the begining of the semester. This schedule is subject to change, so please hold all three
+Grading
+Your final grade for the course will be
+based on the following weights:
+40% Project
+20% Midterm Exam #1
+20% Midterm Exam #2
+20% Summaries, Class
+presentation, Class participation
+Bonus 1% Completion of FCE
+The project in 18-742 is an open-ended
+research project, done in groups of three
+(or two, with permission of the
+instructor). The project requires a
+proposal, a project status report, and a
+final report (both written and presented).
+
+days (Mon, Wed, Fri) open each week.
+Date
+Topic
+Notes and Further Reading
+Required Reading
+Part 1: Performance Scalability & Projection
+Mon
+01/13
+Introduction
+[pdf]
+A few classics. Amdahl1967
+(Amdahls law), Hill2008
+(Amdahls law in multicore
+era), Hamming1986 (how to be
+a great researcher)
+Moore1965
+Wed
+01/15
+Dark Silicon and the End
+of Multicore Scaling
+[pdf]
+Rogers2009 (CMP scaling),
+Ferdman2012 (scale-out
+workloads),
+Esmaeilzadeh2011-
+retrospective (2023)
+Esmaeilzadeh2011
+Part 2: Parallel Architectures & Memory Coherence and Consistency
+Fri
+01/17
+The Case for a Single-Chip
+Multiprocessor
+[pdf]
+Tullsen1995 (simultaneous
+multithreading), Chung2010
+(single-chip hetero computing)
+Olukotun1996
+Mon
+01/20
+No CMU classes - MLK Jr
+Day
+Wed
+01/22
+Why On-chip Cache
+Coherence is Here To Stay Boroumand2019 (CoNDA)
+Martin2012
+Fri
+01/24
+Cohmeleon: Learning-
+Based Orchestration of
+Accelerator Coherence in
+Heterogeneous SoCs
+Student presentations.
+Ferdman2011 (cuckoo
+directory coherence)
+Zuckerman2021
+Part 3: Prefetching
+Mon
+01/27
+Bingo Spatial Data
+Prefetcher
+Godala2024 (PDIP instruction
+prefetcher)
+Bakhshalipour2019
+Wed
+01/29
+Runahead Execution: An
+Alternative to Very Large
+Instruction Windows for
+Out-of-Order Processors
+Mutlu2003
+Fri
+01/31
+Decoupled Vector
+Runahead
+Student presentations.
+Hashemi2016 (enhanced
+memory controller)
+Naithani2023
+Part 4: Near-Data Computing
+
+Mon
+02/03
+RowClone: Fast and
+Energy-Efficient in-
+DRAM Bulk Data Copy
+and Initialization
+Seshadri2017 (in-DRAM
+and/or/not)
+Seshadri2013
+Wed
+02/05
+Livia: Data-Centric
+Computing Throughout the
+Memory Hierarchy
+Schwedock2024 (Leviathan)
+Lockerman2020
+Fri
+02/07
+DIMM-Link: Enabling
+Efficient Inter-DIMM
+Communication for Near-
+Memory Processing
+Student presentations. Ahn2015
+(Tesseract). Deadline to form
+project groups
+Zhou2023
+Part 5: Dataflow Architectures
+Mon
+02/10 WaveScalar
+Papadopoulos1990 (Monsoon),
+Gebhart2009 (TRIPS)
+Swanson2003
+Wed
+02/12
+Pipestitch: An Energy-
+minimal Dataflow
+Architecture with
+Lightweight Threads
+Agarwal2024 (TYR dataflow)
+Serafin2023
+Fri
+02/14
+Day of meetings to discuss
+Project Proposal ideas
+Mon
+02/17 Midterm #1
+In-class paper exam
+Wed
+02/19 Project: Proposal
+Proposal Report due by 11:59
+pm
+Part 6: 3D Integration
+Fri
+02/21
+3D-Stacked Memory
+Architectures for Multi-
+core Processors
+Qureshi2012 (Alloy)
+Loh2008
+Mon
+02/24
+Designing Vertical
+Processors in Monolithic
+3D
+Student presentations.
+Kim2023 (NOMAD DRAM
+cache)
+Gopireddy2019
+Part 7: Approximate Computing
+Wed
+02/26
+Neural Acceleration for
+General Purpose
+Approximate Programs
+Esmaeilzadeh2012
+Fri
+02/28 Load Value Approximation
+Student presentations.
+Shahroodi2023 (non-ideal
+memory)
+Miguel2014
+
+Mon
+03/03
+No CMU classes - Spring
+break
+Wed
+03/05
+No CMU classes - Spring
+break
+Fri
+03/07
+No CMU classes - Spring
+break
+Part 8: Architecture Security
+Mon
+03/10
+Spectre and Meltdown
+(Guest Lecture by John
+Pape, Apple)
+Meltdown
+Spectre
+Wed
+03/12
+Flipping Bits in Memory
+Without Accessing Them:
+An Experimental Study of
+DRAM Disturbance Errors
+Woo2023 (row hammer
+mitigation)
+Kim2014
+Fri
+03/14
+Day of meetings to discuss
+Projects
+Mon
+03/17
+Speculative Taint Tracking
+(STT): A Comprehensive
+Protection for
+Speculatively Accessed
+Data
+Student presentations.
+Choudhary2021 (speculative
+privacy tracking)
+Yu2019
+Wed
+03/19 Project: Interim Report
+Interim Project Report due by
+11:59 pm
+Part 9: GPUs & Domain-specific Accelerators
+Fri
+03/21
+NVIDIA Tesla: A Unified
+Graphics and Computing
+Architecture
+Park2024 (GPU address
+translation)
+Lindholm2008
+Mon
+03/24
+Tartan: Micorarchitecting a
+Robotic Processor
+Bakhshalipour2023 (RoWild
+robotics benchmark),
+Neuman2023 (RoboShape)
+Bakhshalipour2024
+Wed
+03/26
+In-datacenter Performance
+Analysis of a Tensor
+Processing Unit
+Student presentations.
+Gong2022 (Graphite)
+Jouppi2017
+Fri
+03/28
+Day of meetings to discuss
+Projects
+Part 10: Cache Replacement & Branch Prediction
+
+Mon
+03/31
+Back to the Future:
+Leveraging Beladys
+Algorithm for Improved
+Cache Replacement
+Balaji2021 (P-OPT
+replacement)
+Jain2016
+Wed
+04/02
+Branch Prediction (Guest
+lecture by Mo Al-Ottom,
+Apple)
+Zangeneh2020 (BranchNet
+predictor)
+Seznec2011
+Fri
+04/04
+No CMU classes - Spring
+Carnival
+Mon
+04/07 Midterm #2
+In-class paper exam
+Wed
+04/09 No class
+Fri
+04/11 No class
+Mon
+04/14 No class
+Wed
+04/16 No class
+Fri
+04/18
+Day of meetings to discuss
+Projects
+Mon
+04/21 No class
+Wed
+04/23 No class
+Fri
+04/25 No class
+Thu
+05/01
+Project: Presentations
+(tentative date)
+Fri
+05/02
+Project: Final Report
+(tentative date)
+Final Report due by 11:59 pm
+Last updated: 2025-01-15 22:06:34 -0500 [validate xhtml]

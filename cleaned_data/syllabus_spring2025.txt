@@ -1,0 +1,111 @@
+Carnegie Mellon University Course Syllabus 
+ 
+18-698 / 42-632: Neural Signal Processing 
+Spring 2025
+ 
+Course Personnel: 
+Instructor: 
+Byron Yu 
+Office: B204 Hamerschlag Hall 
+Email: byronyu@cmu.edu 
+ 
+Teaching Assistants: 
+ 
+Sunreeta Bhattacharya 
+ 
+Email: sunreetb@andrew.cmu.edu 
+ 
+ 
+Julia Ostrowski 
+ 
+Email: jostrows@andrew.cmu.edu 
+ 
+Hiroo Miyata 
+ 
+Email: hmiyata@andrew.cmu.edu 
+ 
+ 
+Qingtang Zeng 
+ 
+Email: qingtanz@andrew.cmu.edu 
+ 
+________________________________________________________________________ 
+ 
+Course Description:  
+The brain is among the most complex systems ever studied. Underlying the brain's ability 
+to process sensory information and drive motor actions is a network of roughly 10^11 
+neurons, each making 10^3 connections with other neurons. Modern statistical and 
+machine learning tools are needed to interpret the plethora of neural data being collected, 
+both for (1) furthering our understanding of how the brain works, and (2) designing 
+biomedical devices that interface with the brain. This course will cover a range of 
+statistical methods and their application to neural data analysis. The statistical topics 
+include latent variable models, dynamical systems, point processes, dimensionality 
+reduction, Bayesian inference, and spectral analysis. The neuroscience applications 
+include neural decoding, firing rate estimation, neural system characterization, 
+sensorimotor control, spike sorting, and field potential analysis. 
+ 
+Course goals: 
+There are two primary goals for the course: (1) to introduce the statistical tools used to 
+study large-scale neural activity, and (2) to bring out the real-world challenges of 
+working with experimental data. By the end of the course, students should be able to ask 
+research-level questions in neural signal processing, as well as develop new statistical 
+tools for problems in their own research. In short, this course serves as a stepping stone to 
+research in neural signal processing. 
+
+ 
+Number of Units:  
+12 
+ 
+Pre-requisites: 
+This course is ideally suited for students with a solid background in basic probability and 
+linear algebra. Prior knowledge of neuroscience is welcome, but not required. Students 
+with experience in neuroscience should be aware that the first 2 weeks will cover basic 
+neuroscience. 
+ 
+Students should already be familiar with concepts such as: 
+ 
+Probability -- independence, conditional probability, Bayes rule, multivariate Gaussian 
+distribution, Poisson distribution 
+ 
+Linear algebra -- basic matrix operations (sums and products), matrix inversion, 
+eigenvectors and eigenvalues, singular value decomposition 
+ 
+If you are unsure whether this class is for you, please talk with me. 
+ 
+Graduate Course Area: Signal Processing and Communications 
+ 
+Class Schedule: 
+Lecture: 
+Tuesdays & Thursdays, 2:00 – 3:20pm  
+Posner A35 
+ 
+Required Textbook: 
+Pattern Recognition and Machine Learning 
+Christopher Bishop. Springer, 2007 
+ 
+Optional textbooks: 
+Principles of Neural Science 
+Eric Kandel, James Schwartz, Thomas Jessell. McGraw-Hill Medical, 2000. 
+ 
+Theoretical Neuroscience 
+Peter Dayan and L.F. Abbott. MIT Press, 2001. 
+ 
+Information Theory, Inference, and Learning Algorithms 
+David J.C. MacKay. Cambridge University Press, 2003. 
+ 
+Matlab for Neuroscientists 
+Pascal Wallisch, Michael Lusignan, Marc Benayoun, Tanya I. Baker, Adam S. Dickey, 
+and Nicholas G. Hatsopoulos. Academic Press, 2009. 
+ 
+Assignments and exams: 
+There will be approximately 8 problem sets during the semester and regular reading 
+assignments. There will be a midterm exam in class and a final exam during the week 
+April 28 – May 5, dates TBD. 
+
+ 
+Most problem sets will have a Matlab component, in which students will implement 
+various algorithms and apply them to neural data. This link has information about how to 
+obtain Matlab software: https://guides.library.cmu.edu/matlab. 
+ 
+Students may discuss problem sets, but each student must turn in his/her own work. You 
+may not simply copy another student's work. All students are bound by the CMU

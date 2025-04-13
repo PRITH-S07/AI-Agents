@@ -1,0 +1,196 @@
+1 
+ 
+ 
+ 
+ 
+18-631 
+Introduction to Information Security 
+Course Syllabus 
+ 
+Fall 2024 
+MW 10:00-11:50 
+ 
+Instructor 
+ 
+Jema David Ndibwile 
+jeman@cmu.edu   
+Office Hours:   12:30–17:30 CAT Monday & Wednesday (By appointment only) – D102 
+ 
+Teaching Assistants: 
+ 
+Martha Kachweka -mkachwek@andrew.cmu.edu 
+Hussein Murashi - hmurashi@andrew.cmu.edu 
+Roland Dunee - rdunee@andrew.cmu.edu 
+Fidele Rurangwa - frurangw@andrew.cmu.edu 
+ 
+Course Web Page 
+ 
+Canvas: Introduction to Information Security (cmu.edu) 
+(check on a regular basis) 
+ 
+The class web page is hosted on the Canvas course system. Homework is assigned and 
+turned in via Canvas. Students are responsible for information conveyed to the class via 
+Canvas announcements. 
+ 
+Optional Textbooks: 
+ 
+This course does not have a required textbook. The material is conveyed through articles and 
+papers assigned for each lecture. The following books are useful references. The first book can 
+be borrowed short term from Farida Ndangiza. The other two are freely available online. 
+ 
+1. Cryptography and Network Security: Principles and Practice, 5th edition, by William 
+Stallings. Publisher: Prentice Hall (2010), New Jersey, ISBN: 0136097049 
+2. Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd 
+edition, by Ross Anderson. Publisher: John Wiley and sons (2008), New York, ISBN: 0-
+470- 06852-3. 
+Also available for free online: https://www.cl.cam.ac.uk/~rja14/book.html 
+3. The Handbook of Applied Cryptography, by Alfred J. Menezes, Paul C. van Oorschot 
+and Scott A. Vanstone, Publisher: CRC Press (2001), ISBN: 0-8493-8523-7. 
+Also available for free online: https://cacr.uwaterloo.ca/hac/ 
+
+2 
+ 
+Course Description: 
+ 
+Our growing reliance on information systems for daily activities, ranging from 
+communications to financial exchanges, has made information security a central issue for us 
+as individuals and for our society’s critical infrastructure. The course introduces the technical 
+and policy foundations of information security. The main objective of the course is to enable 
+students to reason about information systems from a security engineering perspective, 
+taking into account technical, economic, and policy factors. The course is fast paced and 
+covers a broad set of topics including elementary cryptography; access control; common 
+software vulnerabilities; common network vulnerabilities; policy and export control laws; 
+privacy; management and assurance; economics of security; and special topics in information 
+security. 
+ 
+ 
+Prerequisites: 
+ 
+The course assumes a basic working knowledge of computers, networks, basic programming 
+as well as an elementary mathematics background. It does not assume prior exposure to 
+topics in computer or communications security. Students lacking a technical background (e.g., 
+students without any prior exposure to programming) are expected to catch up through self-
+study. 
+ 
+ 
+Course Objectives: 
+ 
+The goal of this course is to provide a broad understanding of information security concepts 
+as a basis for developing security processes in an organization. This includes understanding 
+security as a process as well as security implications for software engineering, networking, 
+privacy, and policy. 
+ 
+A secondary objective is to provide a working knowledge of topics such as cryptography, 
+privacy, network security, and infrastructure management, so that students can acquire the 
+necessary background for more advanced security courses. 
+ 
+By the end of this course, students will be able to reason about systems from the perspective 
+of a security engineer. That is, they should be able to define the system to protect, determine 
+the security properties that are desired for this system, identify the possible threats to these 
+security properties and their likelihood of occurrence, and consider possible mitigations 
+against these threats. 
+ 
+Course Themes 
+ 
+Four major themes, grouped in five scheduling units: 
+ 
+Foundations & cryptography (Units 1 and 2) 
+The theme starts by laying down the fundamentals of cybersecurity, encompassing 
+network security, risk management, and security policies. This foundation provides 
+insights into safeguarding digital assets from evolving threats. 
+It then shifts focus to cryptography, exploring encryption algorithms, 
+authentication methods, and digital signatures. This cryptographic knowledge 
+ensures secure communication and data protection. By mastering both 
+cybersecurity fundamentals and cryptography, students are equipped to develop 
+robust security strategies and effectively address intricate challenges in the realm 
+of information technology and cybersecurity. 
+
+3 
+ 
+ 
+Endpoint security (Unit 3) 
+This theme covers strategies and technologies for safeguarding individual devices, like 
+computers and other associated systems, from cybersecurity threats. This module 
+teaches students about antivirus tools, firewalls, intrusion detection, access control, 
+buffer overflows and more. It emphasizes the importance of securing endpoints as 
+potential entry points for cyberattacks and provides insights into protecting data and 
+networks effectively. 
+ 
+Network security (Unit 4) 
+This network security course module addresses DDoS attacks, TCP/IP vulnerabilities, 
+anonymity through Tor networks, session hijacking, and web security. It covers 
+strategies for detecting and mitigating DDoS attacks, explores weaknesses in the 
+TCP/IP protocol suite, discusses the use of Tor networks for online anonymity, delves 
+into session hijacking prevention, and introduces web security measures including 
+defense against common vulnerabilities like SQL injection and cross-site scripting. 
+ 
+Human and socio-economic factors (Unit 5) 
+This cybersecurity course module offers a succinct analysis of the crucial roles that 
+socioeconomic factors and human behaviors play in cybersecurity. Students learn how 
+to develop effective defenses by evaluating user interactions, decision-making, and 
+security awareness. The course material also explores the drivers of cyberattacks, 
+financial incentives, and regulatory impacts, promoting a thorough comprehension of 
+the changing cybersecurity landscape and approaches to overcoming its difficulties. 
+ 
+Grading Scale: 
+Homework: 
+60% 
+Midterm exam: 
+10% 
+Final project: 
+30% 
+A+ 
+100% 
+B+ 
+87.00-89.99% 
+     C+ 
+75.00-79.99% 
+A 
+95.00-99.99% 
+B 
+83.00-86.99% 
+     C 
+70.00-74.99% 
+A- 
+90.00-94.99% 
+B- 
+80.00-82.99% 
+     C- 
+69.99% and below 
+ 
+A+ cannot be achieved through any bonus points or 
+curving C- is considered a failing grade at the CMU 
+graduate level There is NO rounding up so make every 
+point count! 
+ 
+Class Policies: 
+ 
+You are expected to attend every class. While in class laptops should be closed unless we 
+are working specifically on an in-class computer assignment. Mobile phones should be 
+silenced. No calls or messages should be taken or sent while in class. All communication in 
+the class, with the instructor, when working in groups, or with TAs must be in English. 
+ 
+Homework assignments must be submitted via Canvas in PDF or TXT format. The timestamp 
+given by Canvas will be the determining factor if the assignment is late or not. Any 
+assignment turned in late will only be eligible for 50% of the original points for the first 24 
+hours after the due date. After 24 hours the assignment will NOT be eligible for a grade. The 
+lowest homework grade will be dropped. 
+ 
+Students are encouraged to talk to each other, to the TAs, to the instructor, or to anyone else 
+
+4 
+ 
+about any of the homework assignments. Any assistance, though, must be limited to discussion 
+of the problem and sketching general approaches to a solution. Each student must write out 
+his or her own homework solutions. Consulting another student’s solution is prohibited, and 
+submitted solutions may not be copied from any source. Copying from someone else’s 
+homework (present or past year’s solutions), lab write-up, or exam or allowing another student 
+to copy his/her work, will be considered as cheating. Any form of collaboration is strictly 
+prohibited on the exams and is considered cheating. If you have any question about whether 
+some activity would constitute cheating, please feel free to ask the instructor. If you 
+collaborate with any other person on your homework assignment, list their name(s) at the top 
+of the first page of your assignment. 
+ 
+If you have special circumstances approved by the Disabled Student Services office, it is up to 
+you to make arrangements with the instructor ahead of time so that we can accommodate you 
+appropriately.

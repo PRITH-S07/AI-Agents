@@ -1,0 +1,423 @@
+1 
+ 
+ 
+ 
+ 
+Course Syllabus 
+18-665/465: Advanced 
+Probability & Statistics for 
+Engineers 
+Spring 2025 
+ 
+Instructor: 
+Osman Yagan 
+Office Location: 
+HH A302 
+Email Address: 
+oyagan@andrew.cmu.edu 
+Office Hour: 
+Fridays 1pm-1:45pm at HH A302 or Zoom 
+ 
+Teaching Assistants:  Ishank Juneja (ijuneja@andrew.cmu.edu) 
+  
+ 
+           Baihong Yuan (baihongy@andrew.cmu.edu) 
+Office Hour:  
+ Fridays 4pm-5pm at HH A313 or Zoom 
+ 
+Course Management Assistant: Academic Services Center   
+Website: https://www.ece.cmu.edu/academics/academic-services-center.html 
+Office Location: HH 1113 
+ 
+ 
+Course Description: This course will help masters and undergraduate students to obtain the 
+background necessary for excelling in courses and careers in machine learning, artificial 
+intelligence, and related fields. We will cover basic concepts of probability prerequisite to 
+understanding the material typically taught in a ML course. We will also cover slightly more 
+advanced topics including Markov Chains, hypothesis testing, and maximum-likelihood 
+estimation. The remaining part of the semester will be devoted to introducing machine learning 
+concepts such as supervised/unsupervised learning, model identification, clustering, expectation 
+maximization, etc. Students should be familiar with basic calculus, linear algebra. 
+ 
+Although students in 18465 will share lectures with students in 18665, students in 18465 may 
+receive distinct homework assignments and exams from the ones given to students in 18665. 
+Specifically, the homework assignments and exams that are given to the 18665 students will be 
+more challenging than those given to the 18465 students. 
+ 
+Number of Units: 
+12 
+Pre-requisites: Basic Calculus 
+Course Area: Artificial Intelligence, Robotics and Control 
+ 
+ 
+         Lectures:   
+Pittsburgh:     Mon, Wed, Fri   
+GHC 4307; 2:00 pm-3:50 pm (US Eastern)            
+SV:  
+           Mon, Wed, Fri              B23 211; 11:00 am-12:50 pm (Pacific Time)      
+ 
+Lecture Notes and Recordings: Course notes will be uploaded regularly on 
+Canvas which will be the main source material. Lectures will also be recorded, and 
+links will be made available. 
+
+ 
+2 
+ 
+ 
+Recommended Textbooks: 
+• 
+Papoulis and S. U. Pillai, Probability, Random Variables, and Stochastic 
+Processes, 4th Ed. 
+• 
+B. Hajek, Random Processes for Engineers, Cambridge university press, 2015 
+• 
+Louis L Scharf, Statistical Signal Processing, Detection, Estimation, and Time 
+Series Analysis. 1991, 1st Ed. 
+• 
+Vincent Poor, An Introduction to Signal Detection and Estimation, Springer, 2nd 
+Ed. 
+• 
+Larry Wasserman, All of statistics: a concise course in statistical inference, 
+Springer. 
+ 
+Course Canvas: Canvas login page: https://cmu.instructure.com/. You should check the 
+course Canvas daily for announcements and HWs.  
+ 
+Piazza: Students are encouraged to ask as many questions as they have using Piazza. 
+The instructor and TAs will actively monitor Piazza and respond in a timely manner. 
+Link for signing up to Piazza: https://piazza.com/cmu/spring2025/1846518665/home  
+  
+Grading Algorithm: 
+Homeworks (Best 7 out of 8 sets) 
+50% 
+Tests (best of Test 1&2: 25%; Test 3: 25%) 
+50% 
+ 
+Late HW Policy: Please note that your best 7 HWs out 8 will be counted in your final 
+grade, meaning that you can skip one HW if you want. Aside from this: 
+Late homework submissions will NOT be accepted or graded
+Tentative Course Calendar:  
+Date 
+Day 
+Class Activity 
+Assignment 
+Due Date 
+January 
+13 
+Mon. 
+Lecture 1: Review of course content. Definitions of 
+probability experiments, sample space, event space and 
+prob. measure, conditional probability. 
+ 
+ 
+15 
+Wed 
+ Lecture 2: Law of total probability, Bayes’ Theorem, 
+independence of events. (HW1 out) 
+ 
+ 
+17 
+Fri 
+ Lecture 3: Definition of a random variable (discrete 
+and continuous), distribution of a   random variable (cdf 
+and pdf), commonly used random variables 
+ 
+ 
+20 
+Mon. 
+MLK Jr. Day – No Classes 
+ 
+ 
+22 
+Wed 
+Lecture 4: Joint density of two or more random 
+variables and their properties, random vectors, 
+Conditional distribution/density, Bayes’rule for pdfs, 
+chain rule for densities. (HW2 out) 
+ 
+ 
+24 
+Fri 
+ Recitation 1 (HW 1 due) 
+ 
+ 
+
+ 
+3 
+ 
+27 
+Mon 
+Lecture 5: Independence of random variables, Functions 
+of random variables. Two functions of two random 
+variables (and deriving their joint density).  
+ 
+ 
+29 
+Wed 
+  Lecture 6: Order statistics, Mean, variance and other 
+moments. Conditional Mean. Covariance, correlation 
+coefficient  (HW 3 out) 
+ 
+ 
+31 
+Fri 
+  Recitation 2 (HW 2 due) 
+ 
+ 
+February 
+3 
+Mon. 
+Lecture 7: Markov inequality, Chebyshev inequality, 
+Jensen’s inequality and Chernoff bound; Joint moments, 
+covariance matrices.  
+ 
+ 
+5 
+Wed 
+ Lecture 8: MMSE Estimation: definition and 
+estimation by a constant; unconstrained estimation. 
+ 
+ 
+7 
+Fri 
+No Class (HW 3 due) (HW 4 out) 
+ 
+ 
+10 
+Mon. 
+Lecture 9: Linear MMSE; Orthogonality Principle   
+ 
+ 
+12 
+Wed 
+Lecture 10: Linear Regression and Least Squares 
+ 
+ 
+14 
+Fri 
+Recitation 3 
+ 
+ 
+17 
+Mon. 
+Lecture 11: Modes of convergence for random 
+variables. (HW 4 due) 
+ 
+ 
+19 
+Wed 
+Lecture 12:  Law of large numbers (Weak and Strong) 
+and Central Limit Theorem 
+ 
+ 
+21 
+Fri 
+Test 1 (based on Lectures 1-10) (HW 5 out) 
+ 
+ 
+24 
+Mon. 
+ Lecture 13:  Bivariate Normal random variables, PDF, 
+Covariance Matrix.  
+ 
+ 
+26 
+Wed 
+Lecture 14: Multi-variate Gaussian ct’d: Characteristic 
+Function, and properties; Discrete-Time Markov 
+Chains: Definitions, Time-homogeneity 
+ 
+ 
+28 
+Fri 
+No Class 
+ 
+ 
+March 
+3-7 
+Mon-
+Fri 
+Spring Break – No Classes 
+ 
+ 
+10 
+Mon. 
+Lecture 15: Markov Chains ct.’d: n-step transition prob. 
+matrix; limiting distribution.  
+ 
+ 
+12 
+Wed 
+Lecture 16: Markov Chains ct.’d: stationary 
+distribution; ergodicity  (HW 6 out) 
+ 
+ 
+14 
+Fri 
+Recitation 4 (HW 5 due) 
+ 
+ 
+17 
+Mon. 
+Lecture 17: Markov Chains: Ergodicity ct’d: class of 
+states, irreducibility, period of states  
+ 
+ 
+19 
+Wed 
+Lecture 18: Markov Chains: Ergodicity Ct’d: positive 
+recurrence, time-averages (HW 7 out) 
+ 
+ 
+21 
+Fri 
+ Lecture 19: Markov Chains: Absorbing States, 
+examples (HW 6 due) 
+ 
+ 
+24 
+Mon. 
+Recitation 5 
+ 
+ 
+26 
+Wed 
+No Class (HW 7 due) 
+ 
+ 
+28 
+Fri 
+Test 2 (based on Lectures 11-19) 
+ 
+ 
+31 
+Mon 
+Lecture 20: Hypothesis Testing, Maximum Likelihood 
+Test, Maximum Aposteriori (MAP) Testing 
+ 
+ 
+April 
+1 
+Wed 
+Lecture 21: MAP testing ct’d. Bayesian Hypothesis 
+Testing;  (HW 8 out) 
+ 
+ 
+3-5 
+Thurs
+-Sat 
+Spring Carnival – No Classes 
+ 
+ 
+7 
+Mon. 
+Lecture 22: Neyman-Pearson Hypothesis Testing; p-
+values 
+ 
+ 
+
+ 
+4 
+ 
+9 
+Wed 
+Lecture 23: p-values ct’d.  Parametric/Point Estimation; 
+Maximum Likelihood Estimation (MLE); Maximum 
+Aposteriori Estimation 
+ 
+ 
+11 
+Fri 
+Recitation 6  
+ 
+ 
+14 
+Mon. 
+Lecture 24: TBD 
+ 
+ 
+16 
+Wed 
+Lecture 25: TBD 
+ 
+ 
+ 
+18 
+Fri 
+ No Class 
+ 
+ 
+21 
+Mon. 
+ Recitation 7 
+ 
+ 
+23 
+Wed 
+ Test 3 (i.e., final exam, based on the entire semester) 
+ 
+ 
+25 
+Fri 
+ (Last Day of Classes) No Class 
+ 
+ 
+May 
+Apr. 
+28-
+May 6 
+Mon-
+Mon 
+Final Exams Week (not relevant for us) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Education 
+Objectives 
+(Relationship 
+of 
+Course 
+to 
+Program 
+Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your 
+education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of all 
+the courses you take.  The following list describes which objectives are fulfilled by 18-
+665/465 and in what manner they are fulfilled. The objectives are numbered from “1” 
+through “7” in the standard ABET parlance. Those objectives not fulfilled by 18-665/465 
+have been omitted from the following list: 
+1. an ability to identify, formulate, and solve complex engineering problems 
+by applying principles of engineering, science, and mathematics: 
+The course involves many problems on homework assignments, in 
+recitations, and during exams for the student to formulate and solve 
+using good engineering practice. The student will use mathematical 
+concepts for analysis, performance modeling and design of complex 
+engineering systems in the domains of machine learning, hypothesis 
+testing, and Markov Chains.    
+6. an ability to develop and conduct appropriate experimentation, analyze 
+and interpret data, and use engineering judgment to draw conclusions 
+The course involves many problems on homework assignments that will 
+require the student to run computer experiments, several of which 
+involve data acquisition and processing, to test hypotheses and gain 
+hands-on experience with the implications of theoretical results. 
+7. an ability to acquire and apply new knowledge as needed, using 
+appropriate learning strategies. 
+
+ 
+5 
+ 
+Several homework problems will require the student think outside of 
+lecture material and find different approaches through their own 
+research. 
+ 
+ECE

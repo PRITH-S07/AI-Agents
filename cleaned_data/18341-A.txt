@@ -1,0 +1,225 @@
+18-341: Logic Design and Verification 
+Spring Semester 2025 
+Course Personnel: 
+Instructor: 
+Bill Nace 
+A206 Hamerschlag Hall 
+wnace@cmu.edu 
+Office Hours: Wednesdays 1-3pm 
+Or make an appointment here: 
+calendly.com/billnace/office-visit 
+Teaching Assistants: 
+Mingkai Chen
+Feya Epel
+YJ Eum 
+Nicole Feng
+Rashi Kejriwal
+Perrin Tong 
+Yu-Ching Wu
+Victor Zayakov 
+Academic Services: 
+ECE Course Hub 
+1112 Hamerschlag Hall 
+The ECE Hub is open Monday-Friday, 9am-5pm 
+Class Schedule: 
+Lecture: 	
+Tuesdays and Thursdays, 3:30 pm – 4:50 pm, POS 153 
+Recitation:	 Fridays, 1:00 pm - 1:50 pm, POS 151 
+Course Description: 
+This course is a second level logic design course, studying the techniques of 
+designing at the register-transfer and logic levels of complex digital systems using 
+modern modeling, simulation, synthesis, and verification tools.  Topics include 
+register-transfer level systems (i.e., finite state machines and data paths), bus and 
+communication system interfacing (such as a simplified USB interface), discrete-event 
+simulation, testbench organization, assertion-based verification and functional 
+coverage.  Design examples will be drawn from bus and communication interfaces, 
+and computation systems, emphasizing how these systems are designed and how 
+such functionality can be verified.  A modern hardware description language, such as 
+SystemVerilog, will serve as the basis for uniting these topics.  Homework and design 
+projects will serve to exercise these topics. 
+
+Informal Course Description: 
+There are several threads to the course.  Taken together, these threads will give you a 
+deep insight into modern design methodologies for the design of the logical hardware 
+of digital integrated circuits, and interfaces between digital systems, including 
+complex systems of multiple processors. 
+• Register-transfer level design. The design of FSMs/Datapaths and communication 
+interfaces in complex digital systems (e.g., a simplified USB) will be emphasized. 
+These systems are highly concurrent requiring clock and/or handshake 
+synchronization among cooperating finite state machines.  
+• Modeling systems for synthesis. Widely used synthesis tools and advanced 
+language semantics available in SystemVerilog will be used to illustrate these. 
+• Testbench writing, assertion based verification, and functional coverage. We will 
+introduce model checking techniques that allow assertions about a design to be 
+specified and checked during simulation, and functional coverage techniques 
+enabling you to measure how much of the design you have checked.  
+• Modeling using SystemVerilog. No apologies: you will become a SystemVerilog 
+guru. You’ll be able to wrap your hands around your laptop and correct Verilog will 
+spew forth. You’ll be a wonderful 18-240 TA candidate, being able to just look at 
+someone else’s code and immediately see the problem.  
+Pre-requisite: 18-240 
+Textbook: 
+Required - Logic Design and Verification Using SystemVerilog by Don Thomas.  ISBN 
+9781523364022.  Available from Amazon  This is the revised version. 
+Course Canvas: 
+We will use Canvas to communicate with you (copies of handouts, grades, etc).  
+Access is through: www.cmu.edu/canvas. 
+Piazza Question Website: 
+The 18-341 staff is committed to answering any questions you may have in order to 
+help clarify concepts and concerns.  We use the Piazza website as our primary 
+mechanism to help with such questions.  Students are encouraged to answer, 
+discuss, or comment on any question posted on Piazza.  Our course page is found at 
+https://piazza.com/cmu/spring2025/18341/home. 
+
+Mailing list: 
+Any email sent to ece341-staff@lists.andrew.cmu.edu will be delivered to all TAs and 
+the Professors.  We encourage you to use Piazza for questions, but will answer 
+anything sent to this email list as well.  Please use this email address rather than 
+sending email directly to a particular TA or Professor. 
+Grading Algorithm: 
+Your grade in 18-341 will be calculated based on your performance on a number of 
+events.  A weighted average will be computed using the following weights: 
+Both midterm and final grades will be assigned based on the following grading 
+contract.  The instructors reserve the right to assign higher grades than guaranteed by 
+the contract.  Such a modification will apply equally to all students in the course. 
+Extra Credit: Only graded events offered to all students in the course will be 
+considered for the final grade.  No individual will be offered “extra-credit” or a “make-
+up project” to improve their grade, as that would not be fair to other students.  If you 
+Weight
+Event
+30%
+8 Homework exercises.  Homework will be due at the beginning of class 
+on the due date.  No grade will be given for late homework.  No 
+homework exercises will be dropped.
+65%
+5 Projects.  All projects must be attempted in order to pass the course.  
+One project will be done in teams of two, all others are individual effort.  
+You will have a single grace day for projects.
+5%
+End-of-course Activity.  Students who have not used their grace day nor 
+had an academic integrity violation will automatically get full credit for this 
+activity.  Such students may still do the activity to qualify for up to 2% 
+extra credit.
+Weighted Average
+Letter Grade
+>= 90%
+A
+>= 80%
+B
+>= 70%
+C
+>= 60%
+D
+< 60%
+R
+
+wish to have a better grade, don’t wait until after the final to ask -- the only way to get 
+a better grade is to do better work (and thus learn more) throughout the semester. 
+Grading Appeals:  If you believe there has been a mistake in the grading of any 
+assignment (Homework or Project), then please bring it to our notice so we might 
+correct it.  Grade appeals must be submitted in writing within 1 week to the ECE Hub. 
+Incomplete:  A grade of Incomplete will not be given, except for in extraordinary 
+circumstances.  The course is over on the last day of class. 
+  
+Your Health and Well-being 
+Things at CMU can get stressful at times. Please remember to take good care of 
+yourself! Now more than ever, with the additional sources of stress this semester, it is 
+important for you to stay healthy, and to reach out to your support network and to 
+other resources that can help you when things start feeling difficult. 
+Know that you are not alone - all of us can feel overwhelmed at times (especially at a 
+time like this), and all of us benefit from help and support during those times. Even 
+though many of you are away from campus, there are still several resources that we 
+encourage you to make use of if you are going through any sort of struggle. 
+Sometimes, even if you don't think that you need it, or that it's not serious enough to 
+warrant reaching out, you may be surprised at how friends, family, course staff, and 
+professionals can help you - consider reaching out to any of them you trust for help, 
+or to get connected to resources that can provide the help you could use. 
+An excellent resource at CMU is Counseling and Psychological Services (CaPS) - they 
+are excellent listeners, and can help you through a wide variety of situations (including 
+ones that many of you may not consider when you hear the terms counseling and 
+psychology).  CaPS is available for students on and off campus, and can help you 
+with situations such as academic stress, difficult life events, or feelings such as 
+anxiety or depression. 
+Counseling and Psychological Services (CaPS) 
+https://www.cmu.edu/counseling/ 
+(412) 268-2922 
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone 
+immediately, day or night: 
+CaPS: (412) 268-2922 
+Re:solve Crisis Network: (888) 796-8226 
+If the situation is life threatening, call the police 
+On campus: CMU Police: (412) 268-2323 
+Off campus: 911 
+Finally, if you have any questions about this, or would like to talk, please do not 
+hesitate to reach out to one of us. 
+
+Accommodations for Students with Disabilities: 
+If you have a disability and are registered with the Office of Disability Resources, 
+please come and talk to me to discuss your needs.  You wil also need to use their 
+online system to formally notify me of your accommodations. I will work with you to 
+ensure that accommodations are provided as appropriate.   
+If you suspect that you may have a disability and would benefit from accommodations 
+but are not yet registered with the Office of Disability Resources, I encourage you to 
+contact them at access@andrew.cmu.edu. 
+Policies Related to Diversity and Inclusion 
+We believe that every human being is special and precious and deserving of respect.  
+Unfortunately, many have been treated in non-respectful ways, often horrifyingly so, 
+based on their gender, race, age, sexuality, disabilities, or other status.  We will do 
+everything possible to ensure that all students are treated with the respect they 
+deserve while participating in this course.  Such respect requires that every student's 
+diverse learning needs are addressed and that all student's diverse perspectives are 
+treated as a source of strength and a benefit for all in the course. 
+If you feel you have been treated otherwise by the professor, course staff or other 
+students, you are encouraged to discuss the situation with me.  I will take the situation 
+seriously, provide you with anonymity, and act on the information. 
+You should also know that there are university-level resources as well: 
+• Campus Climate and Bias Reporting Protocol: cmu.ethicspoint.com. More 
+information is available at the CCBRP website: cmu.edu/title-ix/how-to-report-+-
+options-for-resolution/ccbrp/index.html 
+Further, your suggestions on how we can do a better job in these areas is encouraged 
+and appreciated.  Please let us know of any areas of improvement. 
+Education Objectives (Relationship of Course to Program Outcomes) 
+The ECE department is accredited by ABET to ensure the quality of your education.  
+ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the 
+courses you take.  The following list describes which objectives are fulfilled by 18-341 
+and in what manner they are fulfilled.  The objectives are numbered from “1” through 
+“7” in the standard ABET parlance.  Those objectives not fulfilled by 18-341 have 
+been omitted from the following list. 
+(1) an ability to identify, formulate, and solve complex engineering 
+problems by applying principles of engineering, science, and 
+mathematics.  The course poses many problems for the student to formulate 
+and solve using good engineering practice.  The student will use mathematical 
+and engineering concepts to model and design digital circuits and to solve 
+complex problems in the digital design and computer architecture domain. 
+
+(2) an ability to apply engineering design to produce solutions that meet 
+specified needs with consideration of public health, safety, and welfare, 
+as well as global, cultural, social, environmental, and economic factors: 
+The course is an advanced course on the design of digital systems, so the 
+student will gain added insight into the process of designing components and 
+then designing systems using those components.  Some economic and 
+manufacturability constraints will be discussed.  
+(3) an ability to communicate effectively with a range of audiences: 
+Students practice their communication skills during project exercises, demos, 
+and write-ups, as well as the basic written communication of problem 
+solutions on homeworks.  
+(5) an ability to function effectively on a team whose members together 
+provide leadership, create a collaborative and inclusive environment, 
+establish goals, plan tasks, and meet objectives:  Students will operate in 2 
+person teams for one project.  These are not multi-disciplinary teams, but the 
+student will practice teamwork and team management skills. 
+(6) an ability to develop and conduct appropriate experimentation, analyze 
+and interpret data, and use engineering judgment to draw conclusions:  
+Project exercises provide for the opportunity to conduct experiments. The 
+student will design experiments (test vectors from testbenches) and analyze 
+data throughout the debugging process in order to generate a functioning 
+project. 
+(7) an ability to acquire and apply new knowledge as needed, using 
+appropriate learning strategies:  The course will illustrate how design 
+languages continue to evolve to support the changing needs of designers; 
+these changing needs come from the changes in the underlying technologies. 
+Some of the language features presented were standardized within the past 
+couple years — these are not their older sibling’s design languages.  
+Further, the End-of-Semester project will allow the student to investigate a 
+concept and explore on their own to learn and communicate about new 
+knowledge.
